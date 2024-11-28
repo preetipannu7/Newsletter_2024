@@ -141,7 +141,7 @@ Team Members:
 - **Chahat Jain** was Reviewer of Journal of Experimental and theoretical artificial intelligence.
 
 
-## Publications  
+## Publications  (Journals)
 
 -  Harleen Kaur, **𝐍𝐚𝐫𝐰𝐚𝐧𝐭 𝐒.𝐆𝐫𝐞𝐰𝐚𝐥**, "Performance enhancement of visible light communication (VLC) system incorporating WMZCC‐OCDMA codes and PDM‐QPSK‐DSP data encoding." International Journal of Communication Systems 36.1 (2023): e5355.
 
@@ -167,6 +167,39 @@ Team Members:
 
 - Jaspreet Kaur, **Narwant Singh Grewal, Navneet Kaur**, "A Symmetrical 32× 1 and 16× 1 Elements Antenna Array Failure Correction with Nulls Using Brain Storm Optimization." Wireless Personal Communications 136.4 (2024): 2405-2418.
 
+- - **Shivmanmeet Singh**, "Intelligent Development in Healthcare With the Internet (chapter)", Computational Intelligence and Blockchain in Biomedical and Health Informatics (Springer 2024).
+
+
+## Publications  (Conferences)
+
+- Mansi, **Munish Rattan, Gurjot Kaur Walia**, "Performance Analysis Of GAAFET Device Using HfO2 and SiO2", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
+  
+- **Shivmanmeet Singh, Narwant Singh Grewal and Baljeet Kaur**, "Performance Evaluation of Inter-satellite Optical Wireless System (IsOWC) on nongeostaionary orbit using PDM- 256 QAM with DSP", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
+
+- **Harminder Kaur, Baljeet Kaur**, Manjeet Singh Bhamrah, "Opical Muli-carrier Generation Using Cascaded Three Stage Modulators", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
+
+- **Harminder Kaur, Baljeet Kaur**, Manjeet Singh Bhamrah, "100 GHz Radio Signal Over 160 Gbps-160 km ROF link Using Polarization Division Multiplexing based 256-QAM and Matched Filter", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
+
+- **Navneet Kaur, Gurpurneet Kaur**, Pooja Sharma, "Performance Assessment of III-V Heterojunction FinFETs at 14nm Gate Length", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
+
+- **Narwant Singh Grewal, Preeti Pannu, Gurpurneet Kaur**, "A Linear 16x1 and 42x1 elements antenna array failure correction using brain storm optimization algorithm", 11th International Conference on Advancement in Engineering and Technology(ICAET 2023).
+
+- **Preeti Pannu**, "Breakthrough trends of Nanotechnology in the Biomedical Industry", National Conference on Intelligent Electronic Systems and Applications (NCIESA-2024).
+
+- **Harleen Kaur**, "Parameter Estimation in Design of 5.2GHz Rectangular U Slot Microstrip Patch Antenna with ANFIS", 5th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2024).
+
+- Harleen Kaur, **Shivmanmeet Singh, Preeti Pannu**, "Unleashing the power of data in data science", 6th International Conference on Recent Innovations in Science & Technology(RIST 2024).
+
+- **Gurjot Kaur Walia, Navneet Kaur, Chahat Jain**, "Image Demosaicing using Naïve Bayes Classifier for Improved Image Metrics", 6th International Conference on Recent Innovations in Science and Technology(RIST-2024).
+
+- Ramneet Kaur Sahota, **Preeti Pannu, Gurjot Kaur Walia**, "Performance Analysis of Radio Over FSO for Advanced Modulation Formats", 6th International Conference on Recent Innovations in Science and Technology(RIST-2024).
+
+
+## Publications  (Books)
+
+- **Shivmanmeet Singh**, "Quantum Hits: Hardware, Information, Technology & Simulation", Amazon kindle (Aug 2023).
+
+- **Shivmanmeet Singh, Preeti Pannu**, "Information Management and Data Analytics", Amazon kindle (Oct 2023).
 
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
