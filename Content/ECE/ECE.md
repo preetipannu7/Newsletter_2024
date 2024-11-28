@@ -29,9 +29,9 @@ Dr. Narwant Singh Grewal
 
 ### E-Vision 2023 organized by IETE Student Forum on 06, Oct 2023
 
-![Students](Images/nk.jpg)
+![Students](Images/1.jfif)
 
-![Students](Images/gjk.jpg)
+![Students](Images/2.jfif)
 
 -----------------------------------------
 
