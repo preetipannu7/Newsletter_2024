@@ -143,53 +143,30 @@ Team Members:
 
 ## Publications  
 
-- 𝐉𝐚𝐬𝐩𝐫𝐞𝐞𝐭 𝐊𝐚𝐮𝐫, **𝐍𝐚𝐫𝐰𝐚𝐧𝐭 𝐒.𝐆𝐫𝐞𝐰𝐚𝐥, 𝐍𝐚𝐯𝐧𝐞𝐞𝐭 𝐊𝐚𝐮r**, "A Review On Antenna Array Failure Correction Using Optimization Techniques" Journal of Emerging Technologies and Innovative Research (JETIR)(UGC approved: 63975).
+-  Harleen Kaur, **𝐍𝐚𝐫𝐰𝐚𝐧𝐭 𝐒.𝐆𝐫𝐞𝐰𝐚𝐥**, "Performance enhancement of visible light communication (VLC) system incorporating WMZCC‐OCDMA codes and PDM‐QPSK‐DSP data encoding." International Journal of Communication Systems 36.1 (2023): e5355.
 
-- **Narwant Singh Grewal, Gurpurneet Kaur**, "Impact Of Work Function And Temperature Variation On Schottky-Barrier Hetero-Dielectric Gate All Around Nanowire Field Effect Transistor"" Journal of Emerging Technologies and Innovative Research (JETIR)(UGC approved: 63975)".
+- **Shivmanmeet Singh, Narwant Singh Grewal, Baljeet Kaur**, "Performance investigation and development of 112 gbit/s dual polarization 16 QAM transmission system using differential encoding." Optical and Quantum Electronics 55.1 (2023): 70.
 
-- **Navneet Kaur, Munish Rattan, Gurpurneet Kaur, Gurjot Kaur Walia**, "Marine Predators Algorithm for Performance Optimization of Nanoscale FinFET", Materials Today Proceedings. DOI: https://doi.org/10.1016/j.matpr.2022.06.404".
+- **Chahat Jain**, Balwinder S. dhaliwal, Rupinder Singh, Suman Pattnaik, "On Comparison of 3D-Printed ABS and PVDF-Based Sensors for Body-Centric Utility." Arabian Journal for Science and Engineering 48.9 (2023): 12645-12655.
 
-- **Gurjot Kaur Walia**, "Estimation of optimized window size for hybridized kNN-Random Forest algorithm based Image Demosaicing", Materials Today Proceedings. DOI:https://doi.org/10.1016/j.matpr.2022.07.017".
+- **Harminder Kaur, Baljeet Kaur**, Ridheyjot Kaur, "A Review on OTDM Transmission." Int. J. Eng. Res. Technol 12 (2023).
 
-- **Gurjot Kaur Walia**, "Hybridised KNN-Random Forest Algorithm: Image Demosaicing with Reduced Artifacts", National Academy Science Letters, DOI: https://doi.org/10.1007/s40009-022-01165-z".
+- **Chahat Jain**, Balwinder S. dhaliwal, Rupinder Singh, Suman Pattnaik, "On 3D Printed Flexible and Wearable Sensors from Primary Recycled PVDF." National Academy Science Letters 47.2 (2024): 157-160.
 
-- **Baljeet Kaur, Gurjot Kaur Walia**, "Performance Evaluation of PDM-256_QAM Inter-satellite Optical Wireless System(IsOWC) using DSP and Different Wavelength Windows"", journal of optical Communication, DOI:https://doi.org/10.1515/joc-2022-0119.
+- Harleen Kaur, **Narwant Singh Grewal**, "Security enhancement of an integrated mode division multiplexed VLC system using two-dimensional WMZCC codes." Journal of Optics 53.1 (2024): 622-634.
 
-- **Navneet Kaur**, "Performance Evaluation of Junctionless FinFET using Spacer Engineering at 15 nm Gate Length, Silicon, March 2022, Volume 14, 10989–11000 https://doi.org/10.1007/s12633-022-01820-6".
+- **Shivmanmeet Singh, Narwant Singh Grewal, Baljeet Kaur**, "Analysis of hybrid PDM-4QAM-OFDM for inter-satellite/mechatronic telecommunication using FSO system." Opto-Electronics Review 31.3 (2023).
 
-- **Navneet Kaur**, "Comparison of Electrical Characteristics of Si Homojunction and SiGe Heterojunction 14 nm SOI FinFET, Journal of The Institution of Engineers (India): Series B, August 2022, Volume 103, Issue 4, p.1061-1067".
+- Tarandeep Singh, Aseem Verma, **Navneet Kaur**, Manjeet Singh, "Enhancing conservation seeding techniques: a vibration analysis of spatially modified no-till drill in combine harvested rice fields." Proceedings of the Indian National Science Academy 89.4 (2023): 914-923.
 
-- **Shivmanmeet Singh, Dr. Narwant Singh Grewal and Dr. Baljeet Kaur**, "DEVELOPMENT AND ANALYSIS OF HIGH-SPEED SINGLE-CHANNEL ISOWC TRANSMISSION LINK USING A SPECTRALLY EFFICIENT HIGHER-ORDER MODULATION FORMAT (ISSN: 2229-6948(ONLINE) ICTACT JOURNAL ON COMMUNICATION TECHNOLOGY, DECEMBER 2022, VOLUME: 13, ISSUE: 04).
+- Pooja Sharma, **Navneet Kaur**, Gurpurneet Kaur, "Performance Assessment of III-V Heterojunction FinFETs at 14nm Gate Length." Journal Punjab Academy of Sciences 23 (2023): 296-301.
 
-- **Shivmanmeet Singh, Dr. Narwant Singh Grewal and Dr. Baljeet Kaur**, "Performance investigation and development of 112 gbit/s dual polarization 16 QAM transmission system using differential encoding (Optical and Quantum Electronics (2023) 55:70 https://doi.org/10.1007/s11082-022-04287-2)".
+- **Harminder Kaur, Baljeet Kaur**, Manjit Singh Bhamrah, "Flat top optical multicarrier generation for ultra dense asymmetrical radio over fiber system." Optoelectronics and Advanced Materials-Rapid Communications 18.May-June 2024 (2024): 263-274.
 
-- Rajiv Khanna, **Dr. Narwant Singh Grewal, Harminder Kaur**, A Tree Seed Tuned Partial Transmit Sequence Approach For Improving Peak To Average Power Ratio In Universal Filter Multi Carrier For 5G Communication Journal of Emerging Technologies and Innovative Research (JETIR)(UGC approved: 63975).
+- **Preeti Pannu**, "Highly compact UWB-MIMO antenna with sharp multi-stop band characteristics." EURASIP Journal on Wireless Communications and Networking 2024.1 (2024): 48.
 
-- Neha  Sharma, **Baljeet  Kaur, and Narwant Singh Grewal**, "Performance enhancement of 8 channel SCM–WDM based RoF link using different type of transmission fibers along with different type of channel spacing" Journal of Optical Communications, (De Gruyter), ISSN 2191-6322".
+- Jaspreet Kaur, **Narwant Singh Grewal, Navneet Kaur**, "A Symmetrical 32× 1 and 16× 1 Elements Antenna Array Failure Correction with Nulls Using Brain Storm Optimization." Wireless Personal Communications 136.4 (2024): 2405-2418.
 
-- Harleen Kaur, **Narwant Singh Grewal**, " Ultra high-speed VLC system using polarization division multiplexed QPSK, DSP, and matched filters. " Optical and Quantum Electronics (Springer)  SCIE  ISSN 1572-817X.
-
-- **Gurjot Kaur Walia, Harminder Kaur**,"A multichannel Hermite Gaussian (HG) intensity profiles based inter-satellite optical wireless communication(IsOWC) using transmitter diversity",Optical and Quantum Electronics. DOI:10.1007/s11082-022-04383-3.
-
-- **Gurjot Kaur Walia**, "Adaptive Image Demosaicing Algorithm Based on K-Nearest Neighbor for Improved Visual Quality"", Samriddhi, DOI: https://doi.org/10.18090/samriddhi.v14i02.17".
-
-- **Harminder Kaur, Gurjot Kaur Walia**,"Impact of various multiplexing, modulation and coding techniques on ISOWC system: A Review",International conference on Tech trends in science and engineering (ICTTSE 2022), Suryodaya College of Engineering and Technology, Nagpur, 25-26 Feb,2022.
-
-- **Baljeet Kaur, Gurjot Kaur Walia**, "Performance and Distance Enhancement of 160GBps ISOWC System using Polarization Division Multiplexed 256-QAM", in 4th International Conference on Recent Innovations in Science and Technology(RIST 2022).
-
-- **Gurjot Kaur Walia, Chahat Jain, Navneet Kaur**, "Pseudo User Interference for Security Enhancement in Co-existing asynchronous GPON/XG-PON System", in International Conference on Role of Artificial Intelligence and Sustainable Engineering in Driving Smart Cities.
-
-- **Simranjit Kaur, Balwinder Singh Dhaliwal** and Sachin Maitthani,"A Compact Flexible Crown Rectangular Fractal Antenna on Low-Cost PET Substrate", in  2022 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON),  IEEE explore , doi: 10.1109/MAPCON56011.2022.10047139".
-
-- Neeraj Kumar, **Ameeta Seehra and Simranjit Kaur**, "Multiple carrier optical frequencycomb generation based on cascading of three different types of modulator in an optical network " in ICRTEM 2022, 2nd international conference on research trends in engineering and management, Aug 2022, ISBN: 978-93-92105-01-2".
-
-- **Chahat Jain, Balwinder S. Dhaliwal** and Rupinder Singh, "On 3D-Printed Acrylonitrile Butadiene Styrene-Based Sensors: Rheological, Mechanical, Morphological, Radio Frequency, and 4D Capabilities" in Journal of Materials Engineering and Performance,2022,https://doi.org/10.1007/s11665-022-06884-4".
-
-- **Chahat Jain,Balwinder S. Dhaliwal**, Rupinder Singh and Vinay Kumar, "Investigations on 3D printed primary recycled ABS for one-way programming"in Advances in Materials and Processing Technologies,2022, https://doi.org/10.1080/2374068X.2022.2109641".
-
-- **Chahat Jain,Balwinder S. Dhaliwal** and Rupinder Singh, "Flexible and Wearable Patch Antennas Using Additive Manufacturing: A Framework" in Encyclopaedia of materials : plastics & polymers,2022,https://doi.org/10.1016/B978-0-12-820352-1.00093-6.
-
-- **Chahat Jain,Balwinder S. Dhaliwal** and Rupinder Singh, "Development of Rectangular Patch Antenna on Primary Recycled ABS Substrate Using Additive Manufacturing for Wireless Communication Applications" in Encyclopaedia of materials : plastics & polymers,2022. https://doi.org/10.1016/B978-0-12-820352-1.00229-7.
 
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
