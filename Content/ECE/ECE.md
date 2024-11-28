@@ -143,7 +143,7 @@ Team Members:
 
 ## Publications  (Journals)
 
--  Harleen Kaur, **𝐍𝐚𝐫𝐰𝐚𝐧𝐭 𝐒.𝐆𝐫𝐞𝐰𝐚𝐥**, "Performance enhancement of visible light communication (VLC) system incorporating WMZCC‐OCDMA codes and PDM‐QPSK‐DSP data encoding." International Journal of Communication Systems 36.1 (2023): e5355.
+-  Harleen Kaur, **Narwant Singh Grewal**, "Performance enhancement of visible light communication (VLC) system incorporating WMZCC‐OCDMA codes and PDM‐QPSK‐DSP data encoding." International Journal of Communication Systems 36.1 (2023): e5355.
 
 - **Shivmanmeet Singh, Narwant Singh Grewal, Baljeet Kaur**, "Performance investigation and development of 112 gbit/s dual polarization 16 QAM transmission system using differential encoding." Optical and Quantum Electronics 55.1 (2023): 70.
 
