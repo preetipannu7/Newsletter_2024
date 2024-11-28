@@ -206,22 +206,40 @@ Team Members:
 
 | Sr. No. | Name of Event                                                  | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
 |:--------|:---------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
-| 1       |  National Science Day | Simranjit Kaur| One day | 28-02-2023 | FMCRS, GNDEC, Ludhiana |
-| 2       |  TechWar | Simranjit Kaur| One day | 16-03-2023 | FMCRS, GNDEC, Ludhiana |
-| 3       | Gusto Knack-Tech Fest | Shivmanmeet Singh | One Day | 16-03-2023 | GNDEC, Ludhiana |
-| 4       | General Body Meeting | Shivmanmeet Singh | One Day | 05-04-2023 | GNDEC, Ludhiana |
-| 5       | Introduction to Arduino and Hands-on Soldering | Shivmanmeet Singh |One Day| 13-04-2023 |GNDEC, Ludhiana |
-| 6       | Two days workshop on 3D Printing: A future generation Technology | Preeti Pannu, Chahat Jain | Two Days |02-05-2023 to 03-05-2023 | GNDEC, Ludhiana |
-| 7      | One day event Tag-a-Thon| Simranjit Kaur  | One Day | 20-08-2023 | GNDEC, Ludhiana |
-| 8      | A Seminar on Dr. B.R. Ambedkar: An Architect of Modern India| Shivmanmeet Singh | One Day |22-04-2022 | IETE |
-| 9    | STC on Video Making Competition | Shivmanmeet Singh | Three Days |17-05-2022 to 20-05-2022 | IETE |
-| 10       | "Pedal For Sidhu Moosewla" Event | Shivmanmeet Singh | One Day |03-06-2022 | IETE |
-| 11       | Seminar on Mission CAT (Punjab 100) | Shivmanmeet Singh | One day | 24-07-2022 | GNDEC Ludhiana |
-| 12       | Seminar on Introductory session on Internships & Scholarships| Shivmanmeet Singh | One day | 05-08-2022 | GNDEC Ludhiana |
-| 13     | 5 days workshop on Hands on training: Decision making skills and research writing skills | Shivmanmeet Singh | One week | 08-08-2022 to 12-08-2022 | GNDEC Ludhiana |
-| 14       | Webinar on entrepreneurship  - A guide to Success | Shivmanmeet Singh | One day | 07-09-2022 | GNDEC Ludhiana |
-| 15       | SDP on Series on time management | Shivmanmeet Singh | Two Days | 10-10-2022 to 12-10-2022 | GNDEC Ludhiana |
-| 16     | Seminar on Role of Health and Happiness in life | Shivmanmeet Singh | One Day | 01-12-2022 | GNDEC Ludhiana |
+| 1       | Peer Learning(Acceleration zone 3.o) | Shivmanmeet Singh | One Day | 23-02-2023 | GNDEC, Ludhiana |
+| 2       |  National Science Day | Simranjit Kaur| One day | 28-02-2023 | FMCRS, GNDEC, Ludhiana |
+| 3       | Talk to alumnus on benefits of NBA accreditation in Foreign Universities | Shivmanmeet Singh | One Day | 01-03-2023 | GNDEC, Ludhiana |
+| 4       | Khabar Da Safar| Shivmanmeet Singh | One Day | 14-03-2023 | GNDEC, Ludhiana |
+| 5       | Shark Chef | Shivmanmeet Singh | One Day | 15-03-2023 | GNDEC, Ludhiana |
+| 6       | Tag it | Shivmanmeet Singh | One Day | 16-03-2023 | GNDEC, Ludhiana |
+| 7       |  TechWar | Simranjit Kaur| One day | 16-03-2023 | FMCRS, GNDEC, Ludhiana |
+| 8       | Gusto Knack-Tech Fest | Shivmanmeet Singh | One Day | 16-03-2023 | GNDEC, Ludhiana |
+| 9       | Alumnus talk on how to crack microsoft | Shivmanmeet Singh | One Day | 22-03-2023 | GNDEC, Ludhiana |
+| 10      | Introduction to Arduino and Hands-on Soldering | Shivmanmeet Singh |One Day| 13-04-2023 |GNDEC, Ludhiana |
+| 11      | Khabar Da Safar | Shivmanmeet Singh | One Day | 18-04-2023 | GNDEC, Ludhiana |
+| 12      | Two days workshop on 3D Printing: A future generation Technology | Preeti Pannu, Chahat Jain | Two Days |02-05-2023 to 03-05-2023 | GNDEC, Ludhiana |
+| 13      | Reels for Labour day | Shivmanmeet Singh | One Day | 01-05-2023 | GNDEC, Ludhiana |
+| 14      | Gaana Gapshup | Shivmanmeet Singh | One Day | 02-05-2023 | GNDEC, Ludhiana |
+| 15      | One day event Tag-a-Thon| Simranjit Kaur  | One Day | 20-08-2023 | FMCRS, GNDEC, Ludhiana |
+| 16      | National Eye Donation Fortnight | Simranjit Kaur  | Two Weeks |25-08-2023 to 28-09-2023 | FMCRS, GNDEC, Ludhiana |
+| 17      | Talent Hunt | Shivmanmeet Singh | One Day | 12-08-2023 | GNDEC, Ludhiana |
+| 18      | Peer to Peer Learning Acceleration zone 4.0 | Shivmanmeet Singh | One Day | 31-08-2023 | GNDEC, Ludhiana |
+| 19      | Workshop on MYTACS GLOBALLINK scholarship | Shivmanmeet Singh | One Day | 13-09-2023 | GNDEC, Ludhiana |
+| 20      | Workshop on Photography and Sound Engineering | Shivmanmeet Singh | One Day | 19-09-2023 | GNDEC, Ludhiana |
+| 21      | Ragamala- A Garland of Architecture and Music | Shivmanmeet Singh | One Day | 19-09-2023 | GNDEC, Ludhiana |
+| 22      | Gracious giver Apex 2023 | Shivmanmeet Singh | One Day | 20-10-2023 | GNDEC, Ludhiana |
+| 23      | Photography Workshop | Shivmanmeet Singh | One Day | 24-01-2024 | GNDEC, Ludhiana |
+| 24      | Gaana Gupshup | Shivmanmeet Singh | One Day | 07-02-2024 | GNDEC, Ludhiana |
+| 25      | Code Debugging | Shivmanmeet Singh | One Day | 02-02-2024 | GNDEC, Ludhiana |
+| 26      | Flash Fiesta- Photography Workshop | Shivmanmeet Singh | One Day | 09-02-2024 | GNDEC, Ludhiana |
+| 27      | One day event - Voice of 90.8 | Simranjit Kaur | One day |28-02-2024 | FMCRS, GNDEC, Ludhiana |
+| 28      | Problem Poster Debate Techfest| Shivmanmeet Singh | One Day | 06-03-2024 | GNDEC, Ludhiana |
+| 29      | Tech Extempore | Shivmanmeet Singh | One Day | 06-03-2024 | GNDEC, Ludhiana |
+| 30      | Mind Traps | Shivmanmeet Singh | One Day | 14-03-2024 | GNDEC, Ludhiana |
+| 31      | Rahul's Fitness Fiesta | Shivmanmeet Singh | One Day | 21-03-2024 | GNDEC, Ludhiana |
+| 32      | Workshop on start up building | Shivmanmeet Singh | One Day | 01-04-2024 | GNDEC, Ludhiana |
+| 33      | Financial Freedom | Shivmanmeet Singh | One Day | 16-04-2024 | GNDEC, Ludhiana |
+| 34      | "Four week training on Project design using microcontrollers consultancy" | Gurpurneet Kaur, Shivmanmeet Singh, Harminder Kaur, Preeti Pannu | Four weeks | 05-06-2024 to 05-07-2024 | TCC, GNDEC |
 
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
