@@ -5,7 +5,7 @@
 ###### |🕒 Published on June 6,2023
 
 
-![HSR](Images/IMG12024.jpg)
+![HSR](Images/img12024.jpg)
 
 <p align=justify>
 UGC confers academy autonomy to GNDEC for ten years.
@@ -19,7 +19,7 @@ Guru Nanak Dev Engineering College (GNDEC) has been conferred academic autonomy 
 ###### |🕒 Published on JUNE 26,2023
 
 
-![HSR](Images/IMG22024.jpg)
+![HSR](Images/img22024.jpg)
 
 <p align=justify>
 GNDEC Students Excel in Campus Placements, Bagging Top Roles in Leading Core Companies 
@@ -39,7 +39,7 @@ Prof. G.S. Sodhi, Training and Placement officer shared about one promising tren
 
 ###### |🕒 Published on May 28,2023
 
-![HSR](Images/IMG32024.jpg)
+![HSR](Images/img32024.jpg)
 
 <p align=justify>
 Sustainability Hub Launched at GNDEC During Sensitization Workshop on Climate-Smart Habitats
@@ -57,7 +57,7 @@ Dr. Jagbir, Professor and Head of the Department of Civil Engineering, outlined 
 
 ###### |🕒 Published on April 9,2023
 
-![HSR](Images/IMG42024.jpg)
+![HSR](Images/img42024.jpg)
 
 <p align=justify>
 Press Note:
@@ -82,7 +82,8 @@ S. Gurcharan Singh Grewal, Member of SGPC and Trustee, along with S. Inderpal Si
 
 ###### |🕒 Published on March 8,2023
 
-![HSR](Images/IMG52024.jpg)
+![HSR](Images/img52024.jpg)
+
 <p align=justify>
  ਦਿਨ ਪਹਿਲਾ
 
@@ -109,7 +110,7 @@ S. Gurcharan Singh Grewal, Member of SGPC and Trustee, along with S. Inderpal Si
 ###### |🕒 Published on November 20,2023
 <
 
-![HSR](Images/IMG52024.jpg)
+![HSR](Images/img62024.jpg)
 
 <p align=justify>
 GNDEC much awaited Convocation held for 2022, 2023 passout batch
@@ -130,7 +131,7 @@ Principal, Dr.Sehijpal Singh, presented the annual report on both days and share
 
 ###### |🕒 Published on November 18,2023
 
-![HSR](Images/IMG62024.jpg)
+![HSR](Images/img72024.jpg)
 
 <p align=justify>
 GNDEC's Annual Alumni Meet-2023 concluded  leaving behind memorable moments
@@ -149,52 +150,175 @@ The alumni of various batches promised to provide full support in guiding the st
 ###### |🕒 Published on October 21,2023
 
 
-![HSR](Images/IMG72024.jpg)
+![HSR](Images/img82024.jpg)
 
 <p align=justify>
-As a part of annual practice, November 11 and 13, 2022 marked the Golden Jubilee Alumni Celebrations of 1971 and 1972 batches respectively of Guru Nanak Dev Engineering College, in the college premises. More than 500 alumni participated in the events.
+Guru Nanak Dev Engineering College, Ludhiana, organized a thrilling and much-anticipated multischool competition GNE'S APEX 23 which is presented by coasmic club trust under the auspices of the Department of Applied Science on 20th Oct 2023. The event was dedicated to the founders of Nankana Sahib Education Trust.
+An enthusiastic participation from approximately 21 schools were noticed.
 
-Mr. Gurbir Sandhu, gave a presidential address on the behalf of GENCO Alumni Association. Principal Dr. Sehijpal Singh welcomed the gencconians and shared various developments made in the college during previous years. K.D Chaudhri, Ex Chairman, PSPCL and H.S Brar, Ex Chairman, Punjab Electricity Board grace the occasions with their presence.
-The fond nostalgic memories were shared and a few reflected on stage as well. The alumni also provided financial assistance to the college for various development activities. Director, NSET, Inderpal Singh applauded the efforts of alumni for growth of institution. 
-The alumni shared their work experience and wisdom related to job and carrier opportunities which can be availed by students of GNDEC.
+The gala event commenced with an expert talk by our Shiksha Ratan, Dr Jaswinder Singh, President IAPT RC-2. He practically demonstrated the concepts of physics. The students from different schools took part in a variety of activities including Fork dancing, Rangoli Marvels, Clay convas, Pencil shaders, Sudoku mind quest, Digital identity, Reel artistry, Articulate expressions, Graffiti odyssey, Culinary innovators and web wizards etc. The winners of these competitions were rewarded with cash prizes.
+
+Dr Harpreet Kaur, HOD, of Applied Science, said this event will promote each student’s holistic development in both academic and non-academic spheres. She also appreciated the sincere efforts being put in by GNDEC GENCONIANS. The Chief Guest of the day, Dr. Harish Anand, AVP Economic Policy and Stretegic Planning, Vardhman Group, Ludhiana and the Guest of honours, Mr. Sanjay Verma, Project Manager- Punjab, Prabal TMT Saria 550 SD, Mr. Harpreet Singh Chadha, General Manager- Punjab, Prabal TMT Saria 550 SD, Mr. Gurvinder Singh Bajwa, General Manager, Salsan Steels Pvt. Ltd. graced the occasion with their presence. Dr Anand said it is an incredible platform for students to glimpse the diverse array of opportunities. 
+
+Dr Sehijpal Singh, Principal, GNDEC said it is an opportunity for participants to make new friends, connect with like-minded individuals, and discover their hidden talents. He lauded the efforts of Dr Randhir Singh (Coordinator, causmic club) and Dr Rajvir Kaur (Co-coordinator, causmic club) for the smooth conduct of the event. 
+
+PRABAL TMT REBARS 550, SATH JIVAN BHAR KA was the title sponsor of the event. The event was copowered by TATA TISCON 550 SD, GNDEC ALUMNI 1995 Batch, TESTING AND CONSULTANCY CELL GNDEC LDH, SAFE ENGINEERING, HAPPY FORGINGS LTD., IDP and Other sponsors were Ronica India, VERKA, COCA COLA, Powertek Electricals, DOMINOS, HPS EYE HOSPITAL, NOVELTY AIR CONDITIONERS.
+
 </p>
 
 # **GNDEC in News**
 
-## ਸਾਹਿਬਜ਼ਾਦਿਆਂ ਦੀ ਸ਼ਹੀਦੀ ਨੂੰ ਸਮਰਪਿਤ ਚੇਤਨਾ ਮਾਰਚ
+## Tricity Genconians meet
 
-###### |🕒 Published on December 25, 2022
+###### |🕒 Published on March 22, 2023
 
-
-
-![HSR](Images/IMG8.jpg)
+![HSR](Images/img102024)
 
 <p align=justify>
-ਨਨਕਾਣਾ ਸਾਹਿਬ ਐਜੂਕੇਸ਼ਨ ਟਰਸੱਟ ਦੀਆਂ ਸੰਸਥਾਵਾਂ ਨੇ ਸਰਬੰਸ-ਦਾਨੀ ਸਾਹਿਬ ਸ੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਦੇ ਸਾਹਿਬਜ਼ਾਦਿਆਂ, ਮਾਤਾ ਗੁਜ਼ਰੀ ਜੀ ਅਤੇ ਸ਼ਹੀਦ ਸਿੰਘਾ ਦੀ ਅਦੁੱਤੀ ਸ਼ਹਾਦਤ ਨੂੰ ਸਮਰਪਿਤ ਵਿਦਿਆਰਥੀ ਚੇਤਨਾ ਮਾਰਚ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਇੰਜੀਨੀਅਰਿੰਗ ਕਾਲਜ ਦੇ ਗੁਰਦੁਆਰਾ ਸਾਹਿਬ ਤੋਂ ਗਿੱਲ ਪਿੰਡ ਦੇ ਗੁਰਦੁਆਰਾ ਸਾਹਿਬਾਨ ਤੱਕ ਆਯੋਜਿਤ ਕੀਤਾ ਗਿਆ। ਇਸ ਵਿੱਚ ਨਨਕਾਣਾ ਸਾਹਿਬ  ਐਜੂਕੇਸ਼ਨ ਟਰਸੱਟ ਦੀਆਂ ਸੰਸਥਾਵਾਂ, ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਇੰਜੀਨੀਅਰਿੰਗ ਕਾਲਜ, ਪੋਲੀਟੈਕਨਿਕ, ਆਈ. ਟੀ. ਆਈ, ਸਟੈਪ ਅਤੇ ਨਨਕਾਣਾ ਸਾਹਿਬ ਪਬਲਿਕ ਸਕੂਲ ਗਿੱਲ ਦੇ ਵਿਦਿਆਰਥੀਆਂ, ਸਟਾਫ਼ ਤੇ ਇਲਾਕੇ ਦੀਆਂ ਸੰਗਤਾਂ ਨੇ ਸਾਹਿਬਜ਼ਾਦਿਆਂ ਅਤੇ ਮਾਤਾ ਗੁਜਰੀ ਜੀ ਦੇ ਕੌਮ ਲਈ ਦਿਤੇ ਬਲੀਦਾਨ ਨੂੰ ਸਮਰਪਿਤ ਵਿਦਿਆਰਥੀ ਚੇਤਨਾ ਮਾਰਚ ਵਿੱਚ ਬਹੁਤ ਹੀ ਸ਼ਰਧਾ ਤੇ ਉਤਸ਼ਾਹ ਨਾਲ ਹਿੱਸਾ ਲਿਆ। ਇਹ ਚੇਤਨਾ ਮਾਰਚ, ਸ਼੍ਰੋਮਣੀ ਗੁਰਦੁਆਰਾ ਪ੍ਰਬੰਧਕ ਕਮੇਟੀ ਵਲੋਂ ਮਨਾਏ ਜਾ ਰਹੇ ਸ਼ਹੀਦੀ ਪੰਦਰਵਾੜੇ ਦਾ ਹਿੱਸਾ ਸੀ। ਇਸ ਧਾਰਮਿਕ ਸਮਾਗਮ ਦੀ ਸ਼ੁਰੂਆਤ ਕਾਲਜ ਦੇ ਗੁਰਦੁਆਰਾ ਸਾਹਿਬ ਵਿਖੇ ਜਪੁਜੀ ਸਾਹਿਬ ਤੇ ਚੌਪਈ ਸਾਹਿਬ, ਦੇ ਪਵਿੱਤਰ ਪਾਠ ਦੇ ਉਚਾਰਣ ਨਾਲ ਹੋਈ। ਇਸ ਮੌਕੇ ਨਨਕਾਣਾ ਸਾਹਿਬ ਪਬਲਿਕ ਸਕੂਲ ਗਿੱਲ ਦੇ ਵਿਦਿਆਰਥੀਆਂ ਵੱਲੋਂ ਸ਼ਬਦ ਕੀਰਤਨ ਵੀ ਕੀਤਾ ਗਿਆ। ਡਾਇਰੈਕਟਰ ਟਰਸੱਟ ਸ.ਇੰਦਰਪਾਲ ਸਿੰਘ, ਪ੍ਰਿੰ. ਡਾ ਸਹਿਜਪਾਲ ਸਿੰਘ, ਪ੍ਰਿੰ ਹਰਮੀਤ ਕੌਰ ਨੇ ਸੰਗਤ ਨੂੰ ਇਸ ਅਦੁਤੀ ਕੁਰਬਾਨੀ ਦੇ ਇਤਿਹਾਸ ਬਾਰੇ ਜਾਣੂ ਕਰਵਾਇਆ।
-ਇਸ ਉਪਰੰਤ ਵਿਦਿਆਰਥੀਆਂ ਵੱਲੋਂ ਕਾਲਜ ਦੇ ਨੇੜਲੇ ਇਲਾਕਿਆਂ ਵਿਚੋਂ ਹੁੰਦੇ ਹੋਏ ਗਿੱਲ ਪਿੰਡ ਦੇ  ਗੁਰੁਦਆਰਾ ਸਾਹਿਬ ਵਿਖੇ ਅਰਦਾਸ ਕੀਤੀ। ਦਸਵੇਂ ਗੁਰੂ ਸਾਹਿਬ ਦੇ ਪਰਿਵਾਰ ਦੀ ਸ਼ਹਾਦਤ ਸਬੰਧੀ ਮਾਟੋ, ਪੋਸਟਰ ਤੇ ਇਬਾਰਤਾਂ ਲਿਖ ਕੇ ਵਿਦਿਆਰਥੀਆਂ ਨੇ ਇਸ ਮਹਾਨ ਕੁਰਬਾਨੀ ਨੂੰ ਦਰਸਾਉਣ ਦਾ ਯਤਨ ਕੀਤਾ।  
-ਸ. ਇੰਦਰਪਾਲ ਸਿੰਘ, ਡਾਇਰੈਕਟਰ, ਨਨਕਾਣਾ ਸਾਹਿਬ ਐਜੂਕੇਸ਼ਨ ਟਰੱਸਟ, ਡਾ. ਸਹਿਜਪਾਲ ਸਿੰਘ ਪ੍ਰਿੰਸੀਪਲ ਜੀ. ਐੱਨ. ਡੀ. ਈ. ਸੀ, ਹਰਮੀਤ ਕੌਰ ਵੜੈਚ ਪ੍ਰਿੰਸੀਪਲ ਨਨਕਾਣਾ ਸਾਹਿਬ ਪਬਲਿਕ ਸਕੂਲ,ਗਿੱਲ, ਡਾ.ਸਰਬਜੀਤ ਕੌਰ,ਪ੍ਰਿੰਸੀਪਲ ਪੋਲੀਟੈਕਨਿਕ ਕਾਲਜ ਅਤੇ ਸਮੂਹ ਸਟਾਫ ਨੇ ਚੇਤਨਾ ਮਾਰਚ ਦੀ ਅਗਵਾਈ ਕੀਤੀ।
-ਇਸ ਮੌਕੇ ਗਿੱਲ ਪਿੰਡ ਟਰੱਸਟੀ ਸਾਹਿਬਾਨ ਸ.ਬਲਜੀਤ ਸਿੰਘ, ਸ.ਹਰਭਜਨ ਸਿੰਘ, ਸ.ਅਵਤਾਰ ਸਿੰਘ, ਸ.ਧਰਮਪਾਲ ਸਿੰਘ, ਸ.ਸਚਦੇਵ ਸਿੰਘ, ਸ.ਕਮਿਕਰ ਸਿੰਘ ਅਤੇ ਪੰਚਾਇਤ ਮੈਂਬਰਾਂ  ਨੇ ਚੇਤਨਾ ਮਾਰਗ ਦਾ ਤਹਿ ਦਿਲੋਂ ਸਵਾਗਤ ਕੀਤਾ ਅਤੇ ਇਸ ਉਪਰਾਲੇ ਦੀ ਸ਼ਾਲਾਂਘਾ ਕੀਤੀ।
+TRICITY GENCONIANS MEET
+
+A one of it's kind get-together named Tricity Genconians Meet was organised for Tricity based Alumni of Guru Nanak Dev Engineering College Ludhiana. An impressive gathering of more than 100 Alumni who attended with families had a spectrum of renowned Engineers who served in high positions globally and nationally including defence, merchant navy, entrepreneurs, working abroad and in government top positions. In the special Interactive Session, all participants discussed ways and means to help their Alma mater in various projects of research & development, establishing an up to mark data center and assisting students in placements. Eminent speakers were Prof (Wg Pradeep Prabhakar, Mr SMS Sandhu former Chairman of Punjab Infotech Corporation, Olympian & Arjuna Awardee Gurbir Sandhu President of Genco Alumni Association, PSPCL Chairman S. Baldev Singh Sran and Dr Sehijpal Singh Principal of Guru Nanak Engg College Ludhiana. Alumni who attended the event were also from very old batches of the college with 1957-61 being the oldest among the those present on the occasion. Panchkula Mayor Sh. Kulbhushan Goel who is an Alumni of GNDEC also attended the function. A Phone Directory dedicated to it's longest served Principal Tara Singh was also released carrying the names, batch, branch and contact numbers of all the 266 Alumni who are members of the Tricity Genconians group. Brass name plates and "I am Genconian" stickers were also given to all participants. 
+A specially dedicated punjabi song "Assin GNE College de Munde" produced by 1981 Genconian Jasbir Singh Daawar was released on this occasion, which made everyone to come on the floor and dance to the thrilling beats of this song.
+Everyone enjoyed with lavish lunch. The event was organised by Chief Engineer Manjit Randhawa, an Executive Member of the Genco Alumni Association. A special group photograph and various entertainment activities marked the occasion.
 </p>
 
 # **GNDEC in News**
 
-## ਸ਼੍ਰੋਮਣੀ ਗੁਰੂਦੁਆਰਾ ਪ੍ਰਬੰਧਕ ਕਮੇਟੀ ਵੱਲੋਂ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਇੰਜ. ਕਾਲਜ ਵਿਖੇ ' ਗੁਰੂ ਕਾ ਬਾਗ ' ਅਤੇ ਸ਼ਹੀਦੀ ਸਾਕਾ ਸ੍ਰੀ ਪੰਜਾ ਸਾਹਿਬ ਨੂੰ ਸਮਰਪਿਤ ਸੈਮੀਨਾਰ ਕਰਵਾਇਆ ਗਿਆ
+## GNDEC organises workshopon AI and Punjabi Language
 
-###### |🕒 Published on September 29, 2022
+###### |🕒 Published on June 25, 2024
 
-
-
-![HSR](Images/IMG9.jpg)
+![HSR](Images/img112024.jpg)
 
 <p align=justify>
-100 ਸਾਲ ਪਹਿਲਾਂ ਸੰਨ 1922 ਵਿੱਚ ਗੁਰੂਦੁਆਰਾ ਸੁਧਾਰ ਲਹਿਰ ਤਹਿਤ ਲਗਾਏ ਗਏ ਮੋਰਚੇ ਗੁਰੂ ਕਾ ਬਾਗ ਅਤੇ ਸ਼ਹੀਦੀ ਸਾਕਾ ਸ੍ਰੀ ਪੰਜਾ ਸਾਹਿਬ ਦੀ ਪਹਿਲੀ ਸ਼ਤਾਬਦੀ ਨੂੰ ਸਮਰਪਿਤ ਸ਼੍ਰੋਮਣੀ ਗੁਰੂਦੁਆਰਾ ਪ੍ਰਬੰਧਕ ਕਮੇਟੀ ਵੱਲੋਂ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਇੰਜ. ਕਾਲਜ ਵਿਖੇ ਸੈਮੀਨਾਰ ਕਰਵਾਇਆ ਗਿਆ। ਇਹ ਸਮਾਗਮ ਧਰਮ ਪ੍ਰਚਾਰ ਕਮੇਟੀ ਵੱਲੋਂ ਕਰਵਾਏ ਜਾ ਰਹੇ ਸੈਮੀਨਾਰਾਂ ਦੀ ਲੜੀ ਦਾ ਪੰਜਵਾਂ ਸੈਮੀਨਾਰ ਸੀ। ਇਸ ਧਾਰਮਿਕ ਸਮਾਗਮ ਵਿੱਚ ਨਨਕਾਣਾ ਸਾਹਿਬ ਐਜੂਕੇਸ਼ਨ ਟਰੱਸਟ ਦੀਆਂ ਅਲੱਗ-ਅਲੱਗ ਵਿਦਿਅਕ ਸੰਸਥਾਵਾਂ ਤੋਂ ਆਏ 650 ਦੇ ਕਰੀਬ ਵਿਦਿਆਰਥੀਆਂ ਅਤੇ ਅਧਿਆਪਕ ਸਾਹਿਬਾਨ ਨੇ ਸ਼ਮੂਲੀਅਤ ਕੀਤੀ। ਸਮਾਗਮ ਦੀ ਸ਼ੁਰੂਆਤ ਨਨਕਾਣਾ ਸਾਹਿਬ ਸਕੂਲ ਦੇ ਵਿਦਿਆਰਥੀਆਂ ਵੱਲੋਂ ਸ਼ਬਦ ਗਾਇਨ ਨਾਲ ਕੀਤੀ ਗਈ।
-ਪ੍ਰੋਗਰਾਮ ਦੌਰਾਨ ਅਲੱਗ-ਅਲੱਗ ਸਪੀਕਰਾਂ ਵੱਲੋਂ ' ਮੋਰਚਾ ਗੁਰੂ ਕਾ ਬਾਗ ਅਤੇ ਸ਼ਹੀਦੀ ਸਾਕਾ ਪੰਜਾ ਸਾਹਿਬ ' ਦੇ ਇਤਿਹਾਸ ਸਬੰਧਿਤ ਸੰਗਤਾਂ ਨੂੰ ਜਾਣੂ ਕਰਵਾਇਆ ਗਿਆ । ਸ. ਇੰਦਰਪਾਲ ਸਿੰਘ ਜੀ, ਡਾਇਰੈਕਟਰ ਨਨਕਾਣਾ ਸਾਹਿਬ ਐਜੂਕੇਸ਼ਨ ਟਰੱਸਟ, ਨੇ ਮਹਿਮਾਨਾਂ ਤੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਜੀ ਆਇਆਂ ਆਖਦਿਆਂ, ਖਾਲਸਾ ਰਾਜ ਦੇ ਸੁਨਹਿਰੀ ਯੁਗ ਨੂੰ ਚੇਤੇ ਕਰਦਿਆਂ, ਸਿੰਘ ਸਭਾ ਲਹਿਰ ਤੇ ਗੁਰਦੁਆਰਾ ਸੁਧਾਰ ਲਹਿਰ ਦੀ ਭੂਮਿਕਾ ਦਾ ਜਿਕਰ ਕੀਤਾ ਗਿਆ। ਸੈਮੀਨਾਰ ਵਿੱਚ ਵਿਦਵਾਨ ਸਜਣ ਡਾ.ਸੇਵਕ ਸਿੰਘ, ਸਿੱਖ ਚਿੰਤਕ, ਦੱਖਣ ਏਸ਼ੀਆਈ ਭਾਸ਼ਾ ਅਤੇ ਸਭਿਆਚਾਰਕ ਕੇਂਦਰ, ਪ੍ਰੋ.ਪਰਮਜੀਤ ਕੌਰ, ਕੁਰੂਕਸ਼ੇਤਰ ਯੂਨੀਵਰਸਿਟੀ, ਪੱਤਰਕਾਰ ਸ. ਗੁਰਪ੍ਰਤਾਪ ਸਿੰਘ, ਸ਼੍ਰੋਮਣੀ ਗੁਰਦੁਆਰਾ ਪ੍ਰਬੰਧਕ ਕਮੇਟੀ, ਸ.ਹਰਸਿਮਰਤ ਸਿੰਘ, ਵਿਦਿਆਰਥੀ, ਜੀ.ਐੱਨ.ਡੀ.ਈ. ਕਾਲਜ ਸ਼ਾਮਿਲ ਸਨ। ਸੈਮੀਨਾਰ ਦੀ ਪ੍ਰਧਾਨਗੀ ਪ੍ਰੋ. ਕਿਰਪਾਲ ਸਿੰਘ ਬਡੂੰਗਰ ਸਾਬਕਾ ਪ੍ਰਧਾਨ ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਵੱਲੋਂ ਕੀਤੀ ਗਈ। ਸਟੇਜ ਸੰਚਾਲਨ ਦੀ ਭੂਮਿਕਾ ਸ. ਗੁਰਚਰਨ ਸਿੰਘ ਜੀ ਗਰੇਵਾਲ ਮੈਂਬਰ ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਵੱਲੋਂ ਨਿਭਾਈ ਗਈ।
-ਵਿਸ਼ਾਲ ਸੰਗਤੀ ਇਕੱਠ ਨੂੰ ਸੰਬੋਧਨ ਕਰਦਿਆਂ ਪ੍ਰੋ. ਕਿਰਪਾਲ ਸਿੰਘ ਬਡੂੰਗਰ ਨੇ ਕਿਹਾ ਕਿ ਪੰਥ ਨੇ ਹਮੇਸ਼ਾਂ ਹੱਕ ਸੱਚ  ਲਈ ਲੜਾਈ ਲੜੀ ਤੇ ਗੁਰਦੁਆਰਾ ਗੁਰੂ ਕਾ ਬਾਗ ਦਾ ਮੋਰਚਾ ਵੀ ਇਸੇ ਪ੍ਰਸੰਗ ਵਿੱਚ ਹੀ ਫਤਹਿ ਕੀਤਾ ਗਿਆ।  ਸ. ਗੁਰਚਰਨ ਸਿੰਘ ਗਰੇਵਾਲ, ਟਰੱਸਟੀ, ਨਨਕਾਣਾ ਸਾਹਿਬ ਐਜੂਕੇਸ਼ਨ ਟਰੱਸਟ, ਨੇ ਇਸ ਮੌਕੇ ਆਪਣੇ ਵਿਚਾਰ ਸਾਂਝੇ ਕਰਦਿਆਂ ਕਿਹਾ ਕੇ ਸਾਨੂੰ ਸਭ ਨੂੰ ਸਿੱਖ ਇਤਿਹਾਸ ਦੇ ਪੰਨਿਆਂ ਤੋਂ ਸੇਧ ਲੈ ਕੇ ਇੱਕਜੁਟਤਾ ਨਾਲ ਪੰਥ ਦੀ ਚੜ੍ਹਦੀ ਕਲਾ ਲਈ ਕਾਰਜ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਸ. ਇੰਦਰਪਾਲ ਸਿੰਘ, ਡਾਇਰੈਕਟਰ, ਨਨਕਾਣਾ ਸਾਹਿਬ ਐਜੂਕੇਸ਼ਨ ਟਰੱਸਟ ਅਤੇ ਡਾ. ਸਹਿਜਪਾਲ ਸਿੰਘ, ਪ੍ਰਿੰਸੀਪਲ, ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਇੰਜੀਨੀਅਰਿੰਗ ਕਾਲਜ, ਅਤੇ ਸਮੂਹ ਮੈਂਬਰ ਨਨਕਾਣਾ ਸਾਹਿਬ ਐਜੂਕੇਸ਼ਨ ਟਰੱਸਟ ਨੇ ਪ੍ਰੋਗਰਾਮ ਵਿਚ ਉਚੇਚੇ ਤੌਰ ਤੇ ਸ਼ਿਰਕਤ ਕੀਤੀ ਤੇ ਸਭ ਨੇ ਮੋਰਚੇ ਦੌਰਾਨ ਸਿੱਖਾਂ ਦੀ ਅੰਗਰੇਜ਼ ਸਰਕਾਰ ਦੇ ਜ਼ੁਲਮ ਅੱਗੇ ਦ੍ਰਿੜਤਾ ਅਤੇ ਬਿਨਾ ਡੋਲੇ ਜਿੱਤ ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੇ ਸੰਘਰਸ਼ ਨੂੰ ਯਾਦ ਕੀਤਾ।
-ਡਾ. ਸੇਵਕ ਸਿੰਘ ਨੇ  ਵਿਰਾਸਤ ਦੀ ਮਹੱਤਤਾ ਨੂੰ ਦਸਦਿਆਂ ਸ਼ਬਦਾਂ ਨੂੰ ਵਿਸ਼ੇਸ਼ ਅਹਿਮੀਅਤ ਦੇਣ ਦੀ ਗੱਲ ਕਰਦਿਆਂ ਕਿਹਾ ਕਿ ਇਨ੍ਹਾਂ ਸ਼ਬਦਾਂ ਜ਼ਰੀਏ ਹੀ ਕੌਮ ਦੇ ਆਜ਼ਾਦ ਅਤੇ ਗੁਲਾਮ ਹੋਣ ਦਾ ਪਤਾ ਲੱਗਦਾ  ਹੈ। ਡਾ. ਪਰਮਜੀਤ ਕੌਰ ਨੇ ਸਿੱਖ ਸ਼ਹਾਦਤ ਦੀ ਪਰੰਪਰਾ ਨਾਲ ਸਾਂਝ ਪਾਉਂਦਿਆਂ ਮੋਰਚਾ ਗੁਰੂ ਕਾ ਬਾਗ ਅਤੇ ਸਾਕਾ ਪੰਜਾ ਸਾਹਿਬ ਨੂੰ ਉਸੇ ਕੜੀ ਦਾ ਹਿੱਸਾ ਦਸਿਆ। ਸ. ਗੁਰਪ੍ਰਤਾਪ ਸਿੰਘ ਨੇ ਸਿੱਖਾਂ ਨੂੰ ਗੁਰੂ ਪਰੰਪਰਾ ਅਤੇ ਸਿੱਖ ਇਤਿਹਾਸ ਮੁਤਾਬਕ ਅਭਿਆਸ ਕਰਨ ਦੀ ਗੱਲ ਆਖੀ ਤਾਂ ਜੋ ਗੁਰੂ ਸਾਹਿਬ ਵਲੋਂ ਬਖਸ਼ੀ ਰਵਾਇਤ ਨੂੰ ਮੁੜ ਸੁਰਜੀਤ ਕੀਤਾ ਜਾ ਸਕੇ। ਪ੍ਰਧਾਨਗੀ ਭਾਸ਼ਣ ਵਿਚ ਪ੍ਰੋ. ਕਿਰਪਾਲ ਸਿੰਘ ਬਡੂੰਗਰ ਨੇ ਪੜ੍ਹੇ ਪਰਚਿਆਂ ਦੀ ਪ੍ਰੋੜਤਾ ਕਰਦਿਆਂ ਸਿੱਖ ਪੰਥ ਨੂੰ ਇਕੱਤਰ ਹੋਣ ਅਤੇ ਵਿਰੋਧੀ ਤਾਕਤਾਂ ਵਲੋਂ ਸੁਚੇਤ ਹੋਣ ਦੀ ਗੱਲ ਕੀਤੀ।
-ਇਸ ਮੌਕੇ ਜਿੱਥੇ ਵਿਦਵਾਨ ਸੱਜਣਾ ਨੂੰ ਸਨਮਾਨਿਤ ਕੀਤਾ ਗਿਆ ਉਥੇ ਪਹੁੰਚੇ ਹੋਏ ਪ੍ਰਿੰਸੀਪਲ ਸਾਹਿਬਾਨ ਅਤੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਵੀ ਸਨਮਾਨਿਤ ਕੀਤਾ ਗਿਆ। ਨਨਕਾਣਾ ਸਾਹਿਬ ਪਬਲਿਕ ਸਕੂਲ ਦੇ ਵਿਦਿਆਰਥੀਆਂ ਵੱਲੋਂ ਵਾਰਾਂ ਤੇ ਕਵੀਸ਼ਰੀ ਦੀ ਸ਼ਾਨਦਾਰ ਪੇਸ਼ਕਾਰੀ ਕੀਤੀ ਗਈ। ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਵਲੋਂ ਕਰਵਾਏ ਜਾ ਰਹੇ ਇਨ੍ਹਾਂ ਸੈਮੀਨਾਰਾਂ ਦੇ ਕੋਆਰਡੀਨੇਟਰ ਸ. ਭਗਵੰਤ ਸਿੰਘ ਜੀ ਧੰਗੇੜਾ ਅਤੇ ਸਕੱਤਰ ਸ. ਸਿਮਰਜੀਤ ਸਿੰਘ ਨੇ ਇਸ ਸਾਰੇ ਪ੍ਰੋਗਰਾਮ ਦੀ ਦੇਖ ਰੇਖ ਕੀਤੀ। ਇਸ ਮੌਕੇ ਟਰੱਸਟੀ ਸ. ਹਰਭਜਨ ਸਿੰਘ ਗਿੱਲ, ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਸਟੱਡੀ ਸਟਕਲ ਤੋਂ ਸ. ਜਸਪਾਲ ਸਿੰਘ ਜਨਰਲ ਸਕੱਤਰ ਗੁਰੂ ਰਾਮਦਾਸ ਆਰਥਿਕ ਵਿਕਾਸ ਕੇਂਦਰ, ਅਮਰਜੀਤ ਸਿੰਘ ਟੈਕਸਲਾ,ਸ. ਜਸਪਾਲ ਸਿੰਘ ਜੋਨਲ ਪ੍ਰਧਾਨ, ਪੰਜਾਬੀ ਭਾਸ਼ਾ ਪ੍ਰਸਾਰ ਭਾਈਚਾਰਾ ਵੱਲੋਂ  ਸ. ਮਹਿੰਦਰ ਸਿੰਘ ਸੇਖੋਂ ਨੇ ਵਿਸ਼ੇਸ਼ ਤੌਰ 'ਤੇ ਹਾਜਰੀ ਭਰੀ। ਆਏ ਵਿਦਵਾਨਾਂ ਅਤੇ ਸਰੋਤਿਆਂ ਦਾ ਧੰਨਵਾਦ ਪ੍ਰਿੰਸੀਪਲ ਡਾ. ਸਹਿਜਪਾਲ ਸਿੰਘ ਜੀ ਨੇ ਕੀਤਾ।
+GNDEC conducts Workshop on AI and Punjabi Language 
+
+Guru Nanak Dev Engineering College, Gill Park Ludhiana, recently hosted a three-day workshop titled “Artificial Intelligence and Punjabi Language: Recent Trends and Challenges,” sponsored by the All India Council for Technical Education (AICTE) under the VAANI scheme. The workshop aimed to equip participants with a thorough understanding of AI and its applications in the Punjabi language.
+
+Dr. Parminder Singh and Mr. Lakhbir Singh coordinators  highlighted the workshop's goal of making AI accessible to a broader audience. The event featured a mix of lectures and interactive sessions covering AI history, machine learning, natural language processing, computer vision, ethical considerations, and the challenges of AI in Punjabi.
+
+Prominent experts, including Dr. Gurpreet Singh Lehal, Dr. Munish Jindal, Dr. Gurpreet Singh Josan, Dr. Neeraj Julka, Dr. Munish Kumar, and Dr. C.P. Kamboj conducted various the sessions. Around 50 participants from various institutions attended this workshop.
+
+Principal Dr. Sehijpal Singh while appreciating this new initiatives of coordinators, said that such programs play significant role promoting modern technologies.  The event concluded with the presence of S.Inderpal Singh, director ,NSET,Dr. Amarjit Singh Grewal, Er. Jaswant Zafar, Dr. Jasmaninder Singh Grewal, and Dr. Kiran Joyti. Principal Sehijpal Singh said "This initiative represents a significant step in promoting AI literacy and preparing individuals for transformative technology"
 </p>
 
-**PRO: Prof. Satjot Singh Dhillon**
+# **GNDEC in News**
+
+## Aspirants in beeline for admissions in engineering at GNDEC
+
+###### |🕒 Published on May 22, 2024
+
+![HSR](Images/img122024.jpg)
+
+<p align=justify>
+ Aspirants make beeline for Engineering Admission at GNDEC
+
+Guru Nanak Dev Engineering College (GNDEC) has witnessed an overwhelming response from admission seekers for sikh
+Minority and Rural quota counselling in various engineering programs. Nearly 700 students, predominantly from rural areas and the Sikh minority community, have applied for the available seats across various engineering streams, including Civil Engineering, Computer Science Engineering, Electronics and Communication Engineering, Mechanical Engineering, Logistics & Supply Chain Mangaemnt and Information Technology.
+
+The college has reserved 70% of its seats for students from rural areas, reflecting its commitment to providing quality education to underprivileged  section of society. Additionally, seats for Sikh minority students are allocated through the SRE (Sikh Religious Examination) exam, ensuring opportunities for students within this demographic to pursue their engineering ambitions.
+
+Dr. Sehijpal Singh, Principal of GNDEC, expressed his delight at the high number of applications, stating, "We are thrilled to see such a positive response from students across the state. This demonstrates the trust and reputation GNDEC has built over the years." He also announced that after this round of admissions, the remaining seats will be filled through a online counsiling of IKG Punjab Techncial University followed by a third round of open counseling to be conducted by GNDEC. These measures are designed to ensure a fair and equitable admission process for all candidates.
+
+Dean Academics, Akshay Girdhar, commented on the application process, "We have seen a diverse range of applicants, from the entire state. Our robust admission process ensures that we attract and select the best talent."
+</p>
+
+# **GNDEC in News**
+
+## GNDEC launches website for Sikh Religion Examination
+
+###### |🕒 Published on February 7, 2024
+
+![HSR](Images/img132024.jpg)
+
+<p align=justify>
+ GNDEC launches Website for Sikh Religion  Examination - 2024
+
+Guru Nanak Dev Engineering College, Gill Park, Ludhiana, has launched a website for the Sikh Religion Examination (SRE-2024). This exam, conducted by the Shiromani Gurdwara Parbandhak Committee (SGPC), is a mandatory test for admission under sikh minority quota at GNDEC, Baba Banda Singh Bahadur Engg. College, Fatehgarh Sahib and SGPC related Polytechnic Colleges in the field of engineering.
+
+While presiding over the website launch program, S. Maheshinder Singh Grewal, former minister, Punjab, and Senior Trustee, Nankana Sahib Education Trust, expressed his happiness and termed it as a golden opportunity for students associated with Sikh religion to take admission in top-ranked institutions. The website was designed by GNDEC team under the guidance of Dr Akshay Girdhar, Dean Academics. S. Shahbaz Singh, Secretary, and S. Inderpal Singh, Director, NSET appreciated the college team.
+
+Dr. Sehijpal Singh, Principal, GNDEC, informed that students can take this computer-based test on any day in the college campus. He added that the test will include multiple-choice questions based on Sikh religion and students can avail two chances to pass this test. The coordinators of SRE- 2024, Prof. Sukhjeet Singh and Prof. Jasvir Singh, NSS Incharge expressed gratitude for everyone's participation in the website launch program.
+    </p>
+
+ # **GNDEC in News**
+
+## GNDEC launches admission portal & Help disk for 2024
+
+###### |🕒 Published on February 1, 2024
+
+![HSR](Images/img142024.jpg)
+
+<p align=justify>
+ GNDEC Launches admission portal and  Help Desk for 2024
+
+In a significant move towards enhancing the admissions process, Guru Nanak Dev Engineering College (GNDEC) Gill park,Ludhiana ,has inaugurated its Modern Help Desk and online portal for the 2024 admissions. Dr. Vikas Chawla, Dean Academics at IK Gujral Punjab Technical University, graced the inauguration ceremony, marking the commencement of this advanced facility.
+
+Prospective students are encouraged to explore the user-friendly help desk, easily accessible through the college website. This platform facilitates pre-admission registrations for a diverse range of courses including B.Tech, M.Tech, MBA, BCA, BBA, MCA, Architecture, and Interior Design. Moreover, the help desk offers personalized assistance to students navigating the admission process. Dean Academic Dr Akshay Girdhar while explaining about the portal told that special mentors will  be allocated to admission aspirants as a single point of contact. This will support the aspirants in big way.
+
+Highlighting the esteemed history of GNDEC, Dr. Chawla underscored the institution's noteworthy contributions across various fields since its establishment in 1956. He emphasized GNDEC's standing as a prestigious educational hub.
+
+Dr. Sehijpal Singh, the college principal, expressed gratitude towards the admission team for the development of this high-tech help desk. He urged aspiring students to consider GNDEC as the launchpad for a promising and successful career.
+
+Adding to the announcement, Dr. K.S. Mann and Dr. Amanpreet Kaur Sodhi, Admission Coordinators, revealed essential information during the event. Notably, GNDEC is offering 50% Sikh quota and 70% rural quota seats, opening doors for students from rural areas to be part of this esteemed institution.
+
+The launch of the Modern Help Desk signifies GNDEC's commitment to provide a seamless and accessible admissions experience, fostering educational opportunities for a diverse range of students. Aspiring individuals are encouraged to leverage this resource for a smooth and informed admission journey.
+    </p>
+
+  # **GNDEC in News**
+
+## GNDEC bags overall youthfest trophy
+
+###### |🕒 Published on November 6, 2024
+
+![HSR](Images/img152024.jpg)
+
+<p align=justify>
+ਜੀਐਨਡੀਈਸੀ, ਲੁਧਿਆਣਾ, ਵਿਖੇ ਯੂਥ ਫੈਸਟੀਬਲ ਦੇ ਦੂਜੇ ਦਿਨ ਵੀ ਵਿਦਿਆਰਥੀਆਂ ਨੇ ਮਾਰੀਆਂ ਮੱਲਾਂ
+
+ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਇੰਜਨੀਅਰਿੰਗ ਕਾਲਜ ,ਗਿੱਲ ਪਾਰਕ,ਲੁਧਿਆਣਾ, ਵਿਖੇ ਚੱਲ ਰਹੇ ਆਈਕੇਜੀਪੀਟੀਯੂ ਯੁਵਕ ਮੇਲੇ ਦੇ ਦੂਜੇ ਦਿਨ ਕਵਿਤਾ ਉਚਾਰਨ, ਭਾਸ਼ਣ, ਡਿਬੇਟ, ਪੋਸਟਰ ਮੇਕਿੰਗ, ਆਨ ਸਪਾਟ ਪੇਂਟਿੰਗ, ਮਹਿੰਦੀ, ਕੋਲਾਜ ਮੇਕਿੰਗ, ਸਕਿੱਟ,ਮਾਈਮ, ਕਲਾਸੀਕਲ ਵੋਕਲ ਸੋਲੋ, ਕਲਾਸੀਕਲ ਇੰਸਟਰੂਮੈਂਟਲ ਸੋਲੋ ਅਤੇ ਵਾਰ ਗਾਇਨ ਦੇ ਮੁਕਾਬਲੇ ਕਰਵਾਏ ਗਏ। ਇਹਨਾ ਤੋਂ ਅਲਾਵਾ ਆਪਣੀ ਰਚਨਾਤਮਿਕਤਾ ਅਤੇ ਨਵੀਨਤਾ ਵਰਗੇ ਗੁਣਾ ਨੂੰ ਸਭ ਦੇ ਅੱਗੇ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਦੇ ਹੋਏ ਵਿਦਿਆਰਥੀਆਂ ਨੇ ਡਿਬੇਟ, ਇਲੋਕਿਊਸ਼ਨ, ਸਟੋਰੀ, ਕਵਿਤਾ ਅਤੇ ਲੇਖ ਲਿਖਣ ਵਰਗੇ ਮੁਕਾਬਲਿਆਂ ਵਿੱਚ ਭਾਗ ਲਿਆ।
+
+ਸ਼੍ਰੀ.ਸਮੀਰ ਸ਼ਰਮਾ, ਅਸਿਸਟੈਂਟ ਡਾਇਰੈਕਟਰ, ਯੂਥ ਅਫੇਅਰਜ਼,ਆਈਕੇਜੀਪੀਟੀਯੂ,ਨੇ ਵੀ ਉਚੇਚੇ ਤੌਰ ਉੱਤੇ ਪ੍ਰੋਗਰਾਮ ਵਿੱਚ ਸ਼ਿਰਕਤ ਕੀਤੀ।ਉਨ੍ਹਾਂ ਨੇ ਰਾਸ਼ਟਰ ਨਿਰਮਾਣ ਵਿੱਚ ਨੌਜਵਾਨਾਂ ਦੀ ਅਹਿਮ ਮਹੱਤਤਾ ਬਾਰੇ ਆਪਣੇ ਵਿਚਾਰ ਸਾਂਝਾ ਕੀਤੇ। ਡਾ.ਐਮ.ਐੱਸ.ਤੂਰ, ਸਾਬਕਾ ਪ੍ਰੋਫੈਸਰ,ਪੀਏਯੂ, ਨੇ ਬਤੌਰ ਆਬਜ਼ਰਵਰ ਆਈਕੇਜੀਪੀਟੀਯੂ ਪ੍ਰੋਗਰਾਮ ਨੂੰ ਸਹੀ ਮਾਪਦੰਡਾਂ ਦੇ ਜ਼ਰੀਏ ਕਰਵਾਉਣ ਵਿਚ ਅਹਿਮ ਭੂਮਿਕਾ ਨਿਭਾਈ।ਦੂਸਰੇ ਦਿਨ ਦੇ ਅੰਤ ਵਿਚ ਕੋਕ ਸਟੂਡੀਓ ਵੱਲੋਂ ਦਿੱਤੀ ਗਈ ਲਾਈਵ ਪਰਫਾਰਮੈਂਸ ਨੇ ਸਭ ਦਾ ਮਨ ਮੋਹ ਲਿਆ।
+
+ਡਾ.ਸਹਿਜਪਾਲ ਸਿੰਘ, ਪ੍ਰਿੰਸੀਪਲ , ਜੀਐਨਡੀਈਸੀ, ਡਾ.ਕੇ.ਐੱਸ.ਮਾਨ, ਡਾ. ਪਰਮਪਾਲ ਸਿੰਘ, ਪ੍ਰੋ.ਜਸਵੰਤ ਸਿੰਘ ਟੌਰ, ਨੇ ਪ੍ਰੋਗਰਾਮ ਦੇ ਦੂਜੇ ਦਿਨ ਪਹੁੰਚੇ ਮੁੱਖ ਮਹਿਮਾਨਾਂ ਅਤੇ ਬਤੌਰ ਭਾਗੀਦਾਰ ਬਣ ਪਹੁੰਚੇ ਕਾਲਜਾਂ ਦਾ ਧੰਨਵਾਦ ਕੀਤਾ।
+ </p>
+
+ 
+ # **GNDEC in News**
+
+## GNDEC organises hackathon 2023
+
+###### |🕒 Published on October 28, 2023
+
+![HSR](Images/img172024.jpg)
+<p align=justify>
+GNDEC organised hackathon 2023 
+
+Hackathon-2023 organised under the aegis of the technical activity committee of Guru Nanak Dev Engineering College, Ludhiana. Hundreds of students (31 teams) participated and put their creative and programming  skills to find solutions of various problems. The teams were free to pick upto onsite/offsite two mentors.
+
+10 problem statements divided in three different groups were given and teams were free to work on any one problem. The solution for the problem statement needs to be implemented on the college server. 
+
+The various clubs involved in this technical event were computonics club, ITIan club,  CSI, data science club, ISTE and SCIE.  The judgement was done by three teams comprising of three judges each. The judges selected 11 teams after rigorous evaluation.The evaluation was based on criteria’s like application in the real life situation, creativity, innovativeness , coding applicability.Participants showed their solutions through presentations. 
+
+The coordinators of the event were Dr. Arvind Dhingra, Prof.Jasbir Singh Saini and  Er. Satinderpal Singh. Dr. Sehijpal Singh, Principal, GNDEC motivated the students to win the National level " Smart India Hackathon 23".
+            </p>
+
+ # **GNDEC in News**
+
+## ISRO scientists interact with GNDEC
+
+###### |🕒 Published on October 13, 2023
+
+![HSR](Images/img162024.jpg)
+<p align=justify>
+  ISRO scientist interacts with GNDEC students 
+
+Guru Nanak Dev Engineering College (GNDEC) organized a captivating Expert Talk on the Indian Space Research Organisation (ISRO) and the highly-anticipated CHANDRAYAAN-3 mission. The event featured Dr Mahinderpal Singh, the esteemed Head of Mechanical Integration and Testing at ISRO. This enlightening session was graced by the presence of Mr. S. Inderpal Singh, Director of Nankana Sahib Education Trust, and Dr.Sehijpal Singh, Principal of GNDEC Ludhiana. 
+
+The talk was regarding India's space endeavours and the upcoming CHANDRAYAAN-3 mission. Dr Mahinderpal Singh delved into the intricacies of ISRO's groundbreaking work, focusing on the mechanical integration and testing aspects of satellite missions. His talk shed light on the innovative engineering techniques, challenges faced, and the tremendous dedication of the ISRO team that has propelled India's space program to great heights.
+
+The Expert Talk left the audience not only informed but also inspired to explore and contribute to India's space endeavours. Principal, GNDEC congratulated the CML team for such an awesome event. At the end of the event, Prof.Lakhveer Singh Khana proposed a vote of thanks to experts and participants.
+</p>
 
 **APRO: Dr. Preeti Pannu**
 
