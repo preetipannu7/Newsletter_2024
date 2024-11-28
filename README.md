@@ -1,4 +1,4 @@
-# GNDEC Times 2023 (Vol. 11)
+# GNDEC Times 2024 (Vol. 12)
 
 | [Home](README.md) | [Contents](Content/CoverPage/Contents.md) | [Editorial Board](Content/EditorialBoard/EditorialBoard.md) | [GNDEC Home](https://gndec.ac.in/) | [Contact Us](Content/CoverPage/Contact.md) |  
 
