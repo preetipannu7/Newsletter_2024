@@ -246,38 +246,20 @@ Team Members:
 
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:--------|:----------------|:--------------|:---------|:--------|:---------------------|
-|   1   |	Preeti Pannu	|  One week faculty development programme on “Recent Trends in Robotics” |	2 weeks |	04-07-2022 to 15-07-2022  |	Electronics and ICT Academics at IIT Roorkee, MNIT Jaipur, NIT Patna and PDPM IITDM Jabalpur  |
-|   2   | 	Preeti Pannu   |	  One week Faculty development programme on “Cyber Threats and Security Measures”   | 1 week   |	25-07-2022 to 29-07-2022  |	NITTTR, Chandigarh |
-|   3   |	Preeti Pannu  |	Four week FDP on NPTEL course “Stress Management” |	4 weeks |	22-08-2022 to 21-09-2022  |	IIT Kharagpur |
-|   4   | Harsimranjit Singh Gill |	Electric Vehicle Technology |	1 week  |	14-02-2022 to 18-02-2022 | NITTTR, Chandigarh  |
-|   5   | Harsimranjit Singh Gill |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|  6    | Harsimranjit Singh Gill |	National Level Workshop on Curriculum Framework 2022 for Universities, Engineering Colleges and Degree Colleges	|2 days|	21-03-2-22 to 22-03-2022|	Institute for Academic Excellence, Hyderabad|
-	|7| Harminder Kaur D/o S. Avtar Singh|	One week faculty development programme on “Recent Trends in Robotics”|	2 weeks| 04-07-2022 to 15-07-2022|	Electronics and ICT Academics at IIT Roorkee, MNIT Jaipur, NIT Patna and PDPM IITDM Jabalpur|
-	|8|Harminder Kaur D/o S. Avtar Singh|	One week faculty development programme on “Cyber Threats and Security Measures”	|1 week|	25-07-2022 to 29-07-2022|	NITTTR, Chandigarh|
-	|9|Harminder Kaur D/o S. Avtar Singh|	Four week FDP on NPTEL course “Stress Management”|	4 weeks|	22-08-2022 to 21-09-2022|	IIT Kharagpur|
-	|10|Harminder Kaur D/o S. Avtar Singh|	IP awareness/ Training program|	2 hour|	15-03-2022|	Intellectual Property Office, India|
-	|11|Gurjot Kaur Walia	|Research Methodology using Cross Sectional, Time Series and Panel Data	|Two Week + 6days|	20-12-2021 to 07-01-2022	|NITTTR, Chandigarh|
-	|12|Gurjot Kaur Walia|	Recent Developments in IoT|	One Week|	17-01-2022 to 21-01-2022|	Institute of Engineering & Management, Kolkata|
-	|13|Gurjot Kaur Walia|	MATLAB and LabVIEW Programming for Engineering Applications|	Two Week|	24-01-2022 to 04-02-2022|	NITTTR, Chennai|
-	|14|Gurjot Kaur Walia|Igniting the Imagination Power|	One day|	03-03-2022|Guru Nanak Dev Engineering College, Ludhiana|
-	|15|Gurjot Kaur Walia|	IP Awareness|	One day	|15-03-2022|	Guru Nanak Dev Engineering College, Ludhiana|
-	|16|Gurjot Kaur Walia	|Confidential Computing: Intel's Approach and Solutions through Technology Offerings|	One Day|	23-11-2022|	Intel, India|
-	|17|Gurjot Kaur Walia	|IoT and its Applications	|One Week|	05-12-2022 to 09-12-2022	|NITTTR, Chandigarh|
-	|18| Navneet Kaur|	DST-STUTI Hands on Training Program on Semiconductor Device Fabrication and Characterization" to be held at PEC Chandigarh |	One Week|	21-11-2022 to 27-11-2022|	PEC, Chandigarh|
-	|19|Navneet Kaur|	lecture on Igniting the Imagination Power organized by IEEE students chapter GNDEC and Electrical Engineering Students Society|One day|	03-03-2022| GNDEC,Ludhiana|
-	|20| Navneet Kaur, Gurpurneet Kaur|	Research Methodology using Cross Sectional, Time Series and Panel Data	|Two Week + 6days|	20-12-2021 to 07-01-2022	| NITTTR, Chandigarh|
-	|21|Navneet Kaur|	MATLAB and LabVIEW Programming for Engineering Applications|	Two Week|	24-0-2022 to 04-02-2022|	NITTTR, Chennai|
-	|22|Gurpurneet Kaur	|DST-STUTI Hands on Training Program on Semiconductor Device Fabrication and Characterization" |	One Week|	21-11-2022 to 27-11-2022|	PEC, Chandigarh|
-	|23|Gurpurneet Kaur	|One week Faculty Development Programme on Nanotechnology for electronic and photonic devices |	One Week|	06-06-2022 to 10-06-2022|	NITTTR, Chandigarh|
-	|24|Gurpurneet Kaur|	One week Faculty Development Programme on Refresher Course in Nanoscience and Nanotechnology|	Two Week|	13-06-2022 to 24-06-2022|	NITTTR, Chandigarh|
-	|25|Gurpurneet Kaur	|One week Faculty Development Programme onTransformation of Technical Education in Digital Mode |One Week|	01-08-2022 to 05-08-2022|	NITTTR, Chandigarh|
-	|26|Gurpurneet Kaur|	One week Faculty Development Programme on VLSI Devices and Circuits for AI Applications|	One Week|	19-09-2022 to 23-09-2022|	NITTTR, Chandigarh|
-	|27|Gurpurneet Kaur	|One week Faculty Development Programme on  Free Simulators for ECE Lab Practices (Module-1) |	One Week|	22-08-2022 to 26-08-2022|	NITTTR, Chandigarh|
-	|28|Shivmanmeet Singh|	5 Days National Conference on Creating Future Path of Scientific Development in 75th Year of Independence|	One Week|	18-04-2022 to 22-04-2022|	NITTTR, Chandigarh|
-	|29|Simranjit kaur|	One week Faculty Development Programme on Antenna Design using Soft Computing Algorithms organized|	One Week|	25-07-2022 to 29-07-2022|	NITTTR, Chandigarh|
-	|30|Simranjit kaur| international conference MAPCON 2022, organised by IEEE MTT/AP society, Bangalore|	3 days|	13-12-2022 to 15-12-2022	|Bangalore, India|
-	|31|Simranjit kaur| IP awareness program organised by NIPAM, Govt. of India|	1 day	|15-03-2022|	GNDEC, Ludhiana|
-  |32|	Simranjit kaur|	IEEE lecture series on Igniting the Imagination Power|	One day	|03-03-2022|	Guru Nanak Dev Engineering College, Ludhiana|
+|   1   |	Shivmanmeet Singh	|  One week faculty development programme on “Recent Trends in Robotics” |	2 weeks |	04-07-2022 to 15-07-2022  |	Electronics and ICT Academics at IIT Roorkee, MNIT Jaipur, NIT Patna and PDPM IITDM Jabalpur  |
+|   2   | 	Simranjit Kaur, Dr. Navneet Kaur, Dr. Gurjot Kaur Walia  |	  One week Faculty development programme on “Cyber Threats and Security Measures”   | 1 week   |	25-07-2022 to 29-07-2022  |	NITTTR, Chandigarh |
+|   3   |	Simranjit Kaur |	Four week FDP on NPTEL course “Stress Management” |	4 weeks |	22-08-2022 to 21-09-2022  |	IIT Kharagpur |
+|   4   | Simranjit Kaur |	Electric Vehicle Technology |	1 week  |	14-02-2022 to 18-02-2022 | NITTTR, Chandigarh  |
+|   5   | Navneet Kaur |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   6   | Preeti Pannu, Chahat Jain |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   7   | Simranjit Kaur, Dr. Gurjot Kaur Walia |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   8   | Navneet Kaur |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   9   | Preeti Pannu |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   10  | Preeti Pannu, Dr. Gurjot Kaur Walia |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   11  | Preeti Pannu |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   12  | Simranjit Kaur, Dr. Gurjot Kaur Walia |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   13  | Navneet Kaur |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   14  | Preeti Pannu |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
 
 
 ## Expert Lecture delivered
