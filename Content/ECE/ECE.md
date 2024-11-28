@@ -246,20 +246,20 @@ Team Members:
 
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:--------|:----------------|:--------------|:---------|:--------|:---------------------|
-|   1   |	Shivmanmeet Singh	|  One week faculty development programme on “Recent Trends in Robotics” |	2 weeks |	04-07-2022 to 15-07-2022  |	Electronics and ICT Academics at IIT Roorkee, MNIT Jaipur, NIT Patna and PDPM IITDM Jabalpur  |
-|   2   | 	Simranjit Kaur, Dr. Navneet Kaur, Dr. Gurjot Kaur Walia  |	  One week Faculty development programme on “Cyber Threats and Security Measures”   | 1 week   |	25-07-2022 to 29-07-2022  |	NITTTR, Chandigarh |
-|   3   |	Simranjit Kaur |	Four week FDP on NPTEL course “Stress Management” |	4 weeks |	22-08-2022 to 21-09-2022  |	IIT Kharagpur |
-|   4   | Simranjit Kaur |	Electric Vehicle Technology |	1 week  |	14-02-2022 to 18-02-2022 | NITTTR, Chandigarh  |
-|   5   | Navneet Kaur |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|   6   | Preeti Pannu, Chahat Jain |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|   7   | Simranjit Kaur, Dr. Gurjot Kaur Walia |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|   8   | Navneet Kaur |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|   9   | Preeti Pannu |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|   10  | Preeti Pannu, Dr. Gurjot Kaur Walia |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|   11  | Preeti Pannu |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|   12  | Simranjit Kaur, Dr. Gurjot Kaur Walia |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|   13  | Navneet Kaur |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
-|   14  | Preeti Pannu |	Cryptography for Information Security	| 1 week  | 09-05-2022 to 13-05-2022 | NITTTR, Chandigarh |
+|   1   |	Shivmanmeet Singh	|  Performance Evaluation of Inter-satellite Optical Wireless System |	1 Day |	27-04-2023  |	Punjabi University Patiala  |
+|   2   | 	Simranjit Kaur, Dr. Navneet Kaur, Dr. Gurjot Kaur Walia  |	  FDP on Technology Enabled Teaching-Learning  | 1 week   |	28-04-2023 |	NITTTR, Chandigarh |
+|   3   |	Simranjit Kaur |	Workshop on "Antenna fabrication using 3D printing |	1 Day | 29-04-2023	  |	NITTTR, Chandigarh |
+|   4   | Simranjit Kaur |	Workshop on "Translating academics research into industry applications" |	1 Day  |	30-04-2023 | Start up farms, IT park, sec-13, Chandigarh  |
+|   5   | Navneet Kaur |	Webinar on Connecting Curriculum to Careers: Mastering for Credit Online Learning | 1 Day | 03-05-2023 | India Didactics Association and Coursera |
+|   6   | Preeti Pannu, Chahat Jain |	Two days workshop on 3D Printing: A future generation Technology	| 2 Days  | 02-05-2023 to 03-05-2023 | GNDEC, Ludhiana |
+|   7   | Simranjit Kaur, Dr. Gurjot Kaur Walia |	Workshop on "Artificial intelligence and punjabi language: Recent trends and challenges"	| 3 Days  | 06-06-2024 to 08-06-2024 | AICTE-VAANI , GNDEC, Ludhiana |
+|   8   | Navneet Kaur |	Foundations: Data, Data, Everywhere	| 4 weeks  | 06-2023 | Coursera |
+|   9   | Preeti Pannu |	One week short term course on blended learning and flipped classroom	| 1 week  | 16-10-2023 to 20-10-2023 | NITTTR, Chandigarh |
+|   10  | Preeti Pannu, Dr. Gurjot Kaur Walia |	Workshop on OBE under IQAC	| 1 Day  | 16-11-2023 | GNDEC, Ludhiana|
+|   11  | Preeti Pannu |	Workshop on Translating academics research into industry applications	| 1 Day  | 13-12-2023 | IT park, sector 13, Chandigarh|
+|   12  | Simranjit Kaur, Dr. Gurjot Kaur Walia |	STP on "branding of HEIs for Institutional Excellence"	| 1 week  | 11-12-2023 to 15-12-2023 | NITTTR, Chandigarh |
+|   13  | Navneet Kaur |	Building Advanced Data Analytics Applications with Cloud | 5 Days | 08-01-2024 to 12-01-2024 | AICTE and Edunet Foundation |
+|   14  | Preeti Pannu |	Attended knimbus offline training by kansihka Jindal Knimbus india	| 1 Day  | 21-03-2024 | ME Seminar hall, GNDEC, Ludhiana|
 
 
 ## Expert Lecture delivered
