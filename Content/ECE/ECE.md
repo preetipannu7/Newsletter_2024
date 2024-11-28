@@ -167,7 +167,7 @@ Team Members:
 
 - Jaspreet Kaur, **Narwant Singh Grewal, Navneet Kaur**, "A Symmetrical 32× 1 and 16× 1 Elements Antenna Array Failure Correction with Nulls Using Brain Storm Optimization." Wireless Personal Communications 136.4 (2024): 2405-2418.
 
-- - **Shivmanmeet Singh**, "Intelligent Development in Healthcare With the Internet (chapter)", Computational Intelligence and Blockchain in Biomedical and Health Informatics (Springer 2024).
+- **Shivmanmeet Singh**, "Intelligent Development in Healthcare With the Internet (chapter)", Computational Intelligence and Blockchain in Biomedical and Health Informatics (Springer 2024).
 
 
 ## Publications  (Conferences)
@@ -206,13 +206,13 @@ Team Members:
 
 | Sr. No. | Name of Event                                                  | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
 |:--------|:---------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
-| 1       |  Two days workshop on “Recent trends and career opportunities in VLSI design” | Dr. Narwant Singh Grewal, Prof. Gurjot Kaur, Dr. Navneet Kaur| Two days | 22-09-2022 to 23-09-2022 | GNDEC, Ludhiana |
-| 2       | Expert talk on Recent Advancements in Optical communication |Gurjot Kaur Walia, Navneet Kaur | One Day | 12-08-2022| GNDEC, Ludhiana |
-| 3       | Expert talk on Research Opportunities in Optical Field |Gurjot Kaur Walia, Navneet Kaur | One Day | 12-08-2022| GNDEC, Ludhiana |
-| 4       |Workshop on Life Skill Fundamentals | Shivmanmeet Singh | one week |24-01-2022 to 28-01-2022 | GNDEC, Ludhiana |
-| 5       | SDP on Women's Day: Poster Competition| Shivmanmeet Singh |One Day| 07-03-2022 |GNDEC, Ludhiana |
-| 6       |Hand on session on Split Ink (Apex)| Shivmanmeet Singh  | One Day |08-04-2022 | GNDEC, Ludhiana |
-| 7      | Photography Workshop (Apex )| Shivmanmeet Singh  | One Day |08-04-2022 | GNDEC, Ludhiana |
+| 1       |  National Science Day | Simranjit Kaur| One day | 28-02-2023 | FMCRS, GNDEC, Ludhiana |
+| 2       |  TechWar | Simranjit Kaur| One day | 16-03-2023 | FMCRS, GNDEC, Ludhiana |
+| 3       | Gusto Knack-Tech Fest | Shivmanmeet Singh | One Day | 16-03-2023 | GNDEC, Ludhiana |
+| 4       | General Body Meeting | Shivmanmeet Singh | One Day | 05-04-2023 | GNDEC, Ludhiana |
+| 5       | Introduction to Arduino and Hands-on Soldering | Shivmanmeet Singh |One Day| 13-04-2023 |GNDEC, Ludhiana |
+| 6       | Two days workshop on 3D Printing: A future generation Technology | Preeti Pannu, Chahat Jain | Two Days |02-05-2023 to 03-05-2023 | GNDEC, Ludhiana |
+| 7      | One day event Tag-a-Thon| Simranjit Kaur  | One Day | 20-08-2023 | GNDEC, Ludhiana |
 | 8      | A Seminar on Dr. B.R. Ambedkar: An Architect of Modern India| Shivmanmeet Singh | One Day |22-04-2022 | IETE |
 | 9    | STC on Video Making Competition | Shivmanmeet Singh | Three Days |17-05-2022 to 20-05-2022 | IETE |
 | 10       | "Pedal For Sidhu Moosewla" Event | Shivmanmeet Singh | One Day |03-06-2022 | IETE |
