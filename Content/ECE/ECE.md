@@ -27,7 +27,7 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### Two days workshop on “Recent trends and career opportunities in VLSI design on 22-23, Sept 2022
+### E-Vision 2023 organized by IETE Student Forum on 06, Oct 2023
 
 ![Students](Images/nk.jpg)
 
