@@ -35,8 +35,9 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### Expert talk on Recent Advancements in Optical communication on 12, Aug 2022
+### Two weeks value added workshop on "Hands-on Training Program on Development in Communication Engineering and Electronics" under IETE Student Forum from 19, Feb 2024 to 1, Mar 2024
 
+![Students](Images/g1.jpg)
 ![Students](Images/g1.jpg)
 
 ------------------------------------------
