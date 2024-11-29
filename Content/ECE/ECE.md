@@ -223,7 +223,7 @@ Team Members:
 
 ## Expert Lecture delivered
 
-![Students](Images/pic.jpg)
+![Students](Images/pp.jpg)
 ![Students](Images/smm.jpeg)
 ![Students](Images/g2.jpeg)
 
