@@ -204,20 +204,21 @@ Team Members:
 
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:--------|:----------------|:--------------|:---------|:--------|:---------------------|
-|   1   |	Shivmanmeet Singh	|  Performance Evaluation of Inter-satellite Optical Wireless System |	1 Day |	27-04-2023  |	Punjabi University Patiala  |
-|   2   | 	Simranjit Kaur, Dr. Navneet Kaur, Dr. Gurjot Kaur Walia  |	  FDP on Technology Enabled Teaching-Learning  | 1 week   |	28-04-2023 |	NITTTR, Chandigarh |
-|   3   |	Simranjit Kaur |	Workshop on "Antenna fabrication using 3D printing |	1 Day | 29-04-2023	  |	NITTTR, Chandigarh |
-|   4   | Simranjit Kaur |	Workshop on "Translating academics research into industry applications" |	1 Day  |	30-04-2023 | Start up farms, IT park, sec-13, Chandigarh  |
-|   5   | Navneet Kaur |	Webinar on Connecting Curriculum to Careers: Mastering for Credit Online Learning | 1 Day | 03-05-2023 | India Didactics Association and Coursera |
-|   6   | Preeti Pannu, Chahat Jain |	Two days workshop on 3D Printing: A future generation Technology	| 2 Days  | 02-05-2023 to 03-05-2023 | GNDEC, Ludhiana |
-|   7   | Simranjit Kaur, Dr. Gurjot Kaur Walia |	Workshop on "Artificial intelligence and punjabi language: Recent trends and challenges"	| 3 Days  | 06-06-2024 to 08-06-2024 | AICTE-VAANI , GNDEC, Ludhiana |
-|   8   | Navneet Kaur |	Foundations: Data, Data, Everywhere	| 4 weeks  | 06-2023 | Coursera |
-|   9   | Preeti Pannu |	One week short term course on blended learning and flipped classroom	| 1 week  | 16-10-2023 to 20-10-2023 | NITTTR, Chandigarh |
-|   10  | Preeti Pannu, Dr. Gurjot Kaur Walia |	Workshop on OBE under IQAC	| 1 Day  | 16-11-2023 | GNDEC, Ludhiana|
-|   11  | Preeti Pannu |	Workshop on Translating academics research into industry applications	| 1 Day  | 13-12-2023 | IT park, sector 13, Chandigarh|
-|   12  | Simranjit Kaur, Dr. Gurjot Kaur Walia |	STP on "branding of HEIs for Institutional Excellence"	| 1 week  | 11-12-2023 to 15-12-2023 | NITTTR, Chandigarh |
-|   13  | Navneet Kaur |	Building Advanced Data Analytics Applications with Cloud | 5 Days | 08-01-2024 to 12-01-2024 | AICTE and Edunet Foundation |
-|   14  | Preeti Pannu |	Attended knimbus offline training by kansihka Jindal Knimbus india	| 1 Day  | 21-03-2024 | ME Seminar hall, GNDEC, Ludhiana|
+|   1   |	Baljeet Kaur	|  Big Data and Analytics |	1 Week |	03-04-2023 to 07-04-2023  |	Dr B R Ambedkar National Institute of Technology Jalandhar |
+|   2   |	Shivmanmeet Singh	|  Performance Evaluation of Inter-satellite Optical Wireless System |	1 Day |	27-04-2023  |	Punjabi University Patiala  |
+|   3   | 	Simranjit Kaur, Dr. Navneet Kaur, Dr. Gurjot Kaur Walia  |	  FDP on Technology Enabled Teaching-Learning  | 1 week   |	28-04-2023 |	NITTTR, Chandigarh |
+|   4   |	Simranjit Kaur |	Workshop on "Antenna fabrication using 3D printing |	1 Day | 29-04-2023	  |	NITTTR, Chandigarh |
+|   5   | Simranjit Kaur |	Workshop on "Translating academics research into industry applications" |	1 Day  |	30-04-2023 | Start up farms, IT park, sec-13, Chandigarh  |
+|   6   | Navneet Kaur |	Webinar on Connecting Curriculum to Careers: Mastering for Credit Online Learning | 1 Day | 03-05-2023 | India Didactics Association and Coursera |
+|   7   | Preeti Pannu, Chahat Jain |	Two days workshop on 3D Printing: A future generation Technology	| 2 Days  | 02-05-2023 to 03-05-2023 | GNDEC, Ludhiana |
+|   8   | Simranjit Kaur, Dr. Gurjot Kaur Walia |	Workshop on "Artificial intelligence and punjabi language: Recent trends and challenges"	| 3 Days  | 06-06-2024 to 08-06-2024 | AICTE-VAANI , GNDEC, Ludhiana |
+|   9   | Navneet Kaur |	Foundations: Data, Data, Everywhere	| 4 weeks  | 06-2023 | Coursera |
+|   10   | Preeti Pannu |	One week short term course on blended learning and flipped classroom	| 1 week  | 16-10-2023 to 20-10-2023 | NITTTR, Chandigarh |
+|   11  | Preeti Pannu, Dr. Gurjot Kaur Walia |	Workshop on OBE under IQAC	| 1 Day  | 16-11-2023 | GNDEC, Ludhiana|
+|   12  | Preeti Pannu |	Workshop on Translating academics research into industry applications	| 1 Day  | 13-12-2023 | IT park, sector 13, Chandigarh|
+|   13  | Simranjit Kaur, Dr. Gurjot Kaur Walia |	STP on "branding of HEIs for Institutional Excellence"	| 1 week  | 11-12-2023 to 15-12-2023 | NITTTR, Chandigarh |
+|   14  | Navneet Kaur |	Building Advanced Data Analytics Applications with Cloud | 5 Days | 08-01-2024 to 12-01-2024 | AICTE and Edunet Foundation |
+|   15  | Preeti Pannu |	Attended knimbus offline training by kansihka Jindal Knimbus india	| 1 Day  | 21-03-2024 | ME Seminar hall, GNDEC, Ludhiana|
 
 
 ## Expert Lecture delivered
@@ -227,17 +228,11 @@ Team Members:
 ![Students](Images/g2.jpeg)
 ![Students](Images/n2.jpg)
 
-- **Harsimranjit Singh Gill**,	delivered expert lecture on Information Security, Organized by ECE Dept., GNDP, Ludhiana, 05-01-2022.
+- **Preeti Pannu**,	delivered expert lecture on Parametric study of antenna development in Two days workshop on 3D Printing: A future generation Technology, at GNDEC, Ludhiana, 03-05-2023 and "Expert talk on study and hands on training on antenna design using IE3D in Workshop on “Hands on training program on developments in communication engineering and electronics”, at GNDEC, Ludhiana, 26-02-2024.
 
-- **Harsimranjit Singh Gill**,	delivered expert lecture on Digital Security, Organized by IEEE GBPIET, Pauri, Uttarakhand, 25-05-2022.
+- **Gurjot Kaur Walia**,	delivered expert lecture on 8051-Microcontroller Organized by GNDEC, Ludhiana, 18-10-2023 and Expert talk on Digital Circuit Design using Vivado and Zedboard, Expert Talk on Study and Hands-on training on Raspberry Pi at GNDEC Ludhiana, 21-02-2024.
 
-- **Shivmanmeet Singh**,	delivered expert lecture on Adobe Photoshop: A tool for professional digital art, especially in raster graphics editing, organzied by CML on 08-02-2022.
-
-- **Gurjot Kaur Walia**, delivered expert lecture on VLSI Technology, organized by ECE Dept., GNDP, Ludhiana, 02-03-2022.
-
--  **Gurjot Kaur Walia**, delivered expert lecture on Image Processing and its Apllications in Agriculture, Organized by PAU, Ludhiana, 25-03-2022.
-
--  **Navneet Kaur**, delivered expert lecture on MATLAB: A Tool for Data Analysis, Graphics & Optimization, organized by PAU Ludhiana  on 28-03-2022.
+- **Shivmanmeet Singh**,	delivered expert lecture on Emerging Technologies at GNDEC, Ludhiana, 05-05-2023 and expert lecture on Communication System at GSSS Sidhwan Kalan, 11-11-2023, at GSSS Bilaspur, 18-11-2023 and at GSSS ukhlir, 25-11-2023.
 
 
 ## Student's Corner  
