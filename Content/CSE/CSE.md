@@ -122,15 +122,51 @@ Decentralized Link Failure Prevention Routing (DLFPR) Algorithm for Efficient In
 
 | Sr. No. | Name of Event                                                                                                                 | Faculty Coordinator                                           | Duration | Date(s)                | Organizer(s)                                 |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|:-----------------------------------------------|
-| 1       | FDP on Innovative Techniques for organic farming through ICT  | Dr. Daljeet Singh | Five Day | 28th March, 2022 - 1st April, 2022  | GNDEC Ludhiana |
-| 2       | Training Course on Web/App Development| Er. Goldendeep Kaur | Five Day | 28th March, 2022 - 1st April, 2022   | GNDEC Ludhiana |
-| 3       | National Level Workshop on Curriculum Framework 2022 for Universities, Engineering Colleges & Degree Colleges | Dr. Amandeep Kaur Sohal | Two Day | 21st - 22nd   March, 2022   | Institute for Academic Excellence, Hyderabad |
-| 4       | FDP on Free Software and Resources for Technical Education through ICT | Dr. Daljeet Singh | Five Day |  21st March, 2022 - 25th March, 2022  | GNDEC Ludhiana |
-| 5       | FDP on Free Software and Resources for Technical Education through ICT | Er. Priyanka Arora | Five Day |  21st March, 2022 - 25th March, 2022  | GNDEC Ludhiana |
-| 6       | FDP on Free Software and Resources for Technical Education through ICT | Er. Jaswant Singh | Five Day |  21st March, 2022 - 25th March, 2022  | GNDEC Ludhiana |
-| 7       | FDP on Free Software and Resources for Technical Education through ICT | Er. Kamaldeep Kaur | Five Day |  21st March, 2022 - 25th March, 2022  | GNDEC Ludhiana |
-| 8       | FDP on Introduction to Research  | Er. Jasdeep Kaur | Eight Week | 1st February, 2022 - 1st April, 2022   | NPTEL-AICTE |
-| 9      | Research Essentials| Dr. Kiran Jyoti | One Week | 31st January, 2022 - 5th February, 2022     | Dept. of Computer Science, Chandigarh University, Mohali |
+| 1       | STC on Continuous Integration and Delivery  | Dr. Daljeet Singh | Seven Days | 17th July, 2024 - 23rd July, 2024  | Infosys Springboard |
+| 2       | FDP on Hands - on with GitHub and Docker on Linux| Amanpreet Singh Brar | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 3       | FDP on Hands - on with GitHub and Docker on Linux| Dr. Amit Jain  | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 4       | FDP on Hands - on with GitHub and Docker on Linux| Diana Nagpal | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 5       | FDP on Hands - on with GitHub and Docker on Linux| Dr. Vivek Thapar | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 6       | FDP on Hands - on with GitHub and Docker on Linux| Dr. Manpreet Kaur Mand | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 7       | FDP on Hands - on with GitHub and Docker on Linux| Dr. Parminder Singh | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 8       | FDP on Hands - on with GitHub and Docker on Linux| Goldendeep Kaur| Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 9       | FDP on Hands - on with GitHub and Docker on Linux| Dr. Hardeep Singh Kang | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 10       | FDP on Hands - on with GitHub and Docker on Linux| Jasdeep Kaur | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 11       | FDP on Hands - on with GitHub and Docker on Linux| Jaswant Singh Taur | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 12       | FDP on Hands - on with GitHub and Docker on Linux| Dr. Kamaldeep Kaur | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 13       | FDP on Hands - on with GitHub and Docker on Linux| Kapil Sharma | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 14       | FDP on Hands - on with GitHub and Docker on Linux| Dr. Kiran Jyoti | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 15       | FDP on Hands - on with GitHub and Docker on Linux| Kuljit Kaur | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 16       | FDP on Hands - on with GitHub and Docker on Linux| Lakhvir Kaur Grewal | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 17       | FDP on Hands - on with GitHub and Docker on Linux| Maninder Kaur | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 18       | FDP on Hands - on with GitHub and Docker on Linux| Meetali | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 19       | FDP on Hands - on with GitHub and Docker on Linux| Priti Aggarwal | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 20       | FDP on Hands - on with GitHub and Docker on Linux| Harminder Kaur | Three Days | 15th July, 2024 - 17th July, 2024   | GNDEC Ludhiana |
+| 21       | STTP on Agile and DevOps| Dr. Inderjit Singh | Five Days | 15th July, 2024 - 19th July, 2024   | Infosys Campus Connect-Infosys Spring Board |
+| 22       | STTP on Continuous Integration and Delivery - DevOps | Dr. Priyanka Arora | Nine Days | 15th July, 2024 - 23rd July, 2024   | Infosys Springboard |
+| 23       | STTP on Software Engineering and Agile software development | Dr. Priyanka Arora | Three Days | 15th July, 2024 - 17th July, 2024   | Infosys Springboard |
+| 24       | STTP on Agile Scrum in Practice | Dr. Priyanka Arora | Three Days | 15th July, 2024 - 17th July, 2024   | Infosys Springboard |
+| 25       | STTP on Introduction to Agile Methodology | Dr. Priyanka Arora | Five Days | 15th July, 2024 - 19th July, 2024   | Infosys Springboard |
+| 26       | STC on Introduction to Agile Methodology | Daljeet Singh | Eight Days | 12th July, 2024 - 19th July, 2024   | Infosys Springboard |
+| 27       | STC on Software Engineering and Agile software development| Daljeet Singh | Seven Days | 11th July, 2024 - 17th July, 2024   | Infosys Springboard |
+| 28       | STC on Agile Scrum in Practice| Daljeet Singh | Seven Days | 11th July, 2024 - 17th July, 2024   | Infosys Springboard |
+| 29       | STC on Explore Machine Learning using Python| Jaswant Singh Taur | One Day | 26th June, 2024 - 26th June, 2024   | Infosys Springboard |
+| 30       | FDP on Inculcating Universal Human Values in Technical Education| Kuljit Kaur | Five Days | 24th June, 2024 - 28th June, 2024   | AICTE |
+| 31       | FDP on Inculcating Universal Human Values in Technical Education| Goldendeep Kaur | Five Days | 17th June, 2024 - 21th June, 2024   | AICTE |
+| 32       | FDP on Inculcating Universal Human Values in Technical Education| Jasdeep Kaur | Eight Days | 17th June, 2024 - 24th June, 2024   | AICTE |
+| 33       | FDP on Inculcating Universal Human Values in Technical Education| Diana Nagpal | Five Days | 17th June, 2024 - 21th June, 2024   | AICTE |
+| 34       | FDP on R- Programming on Budding Data Analytics| Kiran Jyoti | Ten Days | 9th June, 2024 - 18th June, 2024   | Research foundation of India and RFI-CARE |
+| 35       | FDP on AI and Punjabi language | Daljeet Singh | Three Days | 6th June, 2024 - 8th June, 2024   | GNDEC, Ludhiana |
+| 36       | Workshop on Artificial Intelligence and Punjabi Language: Recent Trends and Challenges Emerging Field: Advanced Computing | Kuljit Kaur | Three Days | 6th June, 2024 - 8th June, 2024   | GNDEC, Ludhiana |
+| 37       | Workshop on Artificial Intelligence and Punjabi Language: Recent Trends and Challenges Emerging Field: Advanced Computing | Maninder Kaur | Three Days | 6th June, 2024 - 8th June, 2024   | GNDEC, Ludhiana |
+| 38       | Workshop on Artificial Intelligence and Punjabi Language: Recent Trends and Challenges Emerging Field: Advanced Computing | Lakhvir Kaur Grewal | Three Days | 6th June, 2024 - 8th June, 2024   | GNDEC, Ludhiana |
+| 39       | Workshop on Artificial Intelligence and Punjabi Language: Recent Trends and Challenges Emerging Field: Advanced Computing | Dr. Vivek Thapar | Three Days | 6th June, 2024 - 8th June, 2024   | GNDEC, Ludhiana |
+| 40       | FDP on Confluence of Deep Learning, Generative AI and Deep Learning | Dr. Vivek Thapar | Five Days | 6th May, 2024 - 10th May, 2024   | GL Bajaj Institute of Technology and Management Uttar Pradesh |
+| 41       | FDP on Effect of Generative AI in modern Research & Industry | Dr Sita Saini | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
+| 42       | FDP on Effect of Generative AI in modern Research & Industry | Lakhvir Kaur Grewal | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
+| 43       | FDP on Effect of Generative AI in modern Research & Industry | Maninder Kaur | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
+| 44       | FDP on Effect of Generative AI in modern Research & Industry | Maninder Kaur | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
+| 45       | FDP on Effect of Generative AI in modern Research & Industry | Maninder Kaur | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
 
 ## Main recruiters for CSE Students  
 
