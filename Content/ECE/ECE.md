@@ -223,10 +223,9 @@ Team Members:
 
 ## Expert Lecture delivered
 
-![Students](Images/hsg.jpeg)
+![Students](Images/pic.jpg)
 ![Students](Images/smm.jpeg)
 ![Students](Images/g2.jpeg)
-![Students](Images/n2.jpg)
 
 - **Preeti Pannu**,	delivered expert lecture on Parametric study of antenna development in Two days workshop on 3D Printing: A future generation Technology, at GNDEC, Ludhiana, 03-05-2023 and "Expert talk on study and hands on training on antenna design using IE3D in Workshop on “Hands on training program on developments in communication engineering and electronics”, at GNDEC, Ludhiana, 26-02-2024.
 
