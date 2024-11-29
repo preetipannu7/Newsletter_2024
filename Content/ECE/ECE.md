@@ -36,8 +36,8 @@ Dr. Narwant Singh Grewal
 
 ### Industrial Visit to BSNL Ludhiana in relation with Four week Training course on Digital Designing and Secured Wireless Communication from 10, July 2023 to 4, Aug 2023
 
-![Students](Images/n1.jpg)
-![Students](Images/n1.jpg)
+![Students](Images/GCNT.jpg)
+![Students](Images/GCN.jpg)
 
 ------------------------------------------
 
