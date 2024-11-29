@@ -43,8 +43,8 @@ Dr. Narwant Singh Grewal
 
 ### Four week Training course on Project Design using Microcontroller Consultancy from 10, July 2023 to 4, Aug 2023
 
-![Students](Images/n1.jpg)
-![Students](Images/n1.jpg)
+![Students](Images/SMMT.jpg)
+![Students](Images/SMM.jpg)
 
 ------------------------------------------
 
