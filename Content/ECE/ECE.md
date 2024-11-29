@@ -75,19 +75,16 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024
+### Four Week Training on Robotics with ML from 11, June 2024 to 11, July 2024
 
-![Students](Images/SPGH.jpg)
+![Students](Images/PS.jpg)
+![Students](Images/PS1.jpg)
 
 -----------------------------------------
 
-**Mohammad Yasir(URN:2104400)** worked on paid project that is development of college’s official website(dynamic) and Alumni portal of SSGMCE, Shegaon, Buldhana District, Maharashtra.
+### Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024
 
-College Website link: https://ssgmce.ac.in/
-
-Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
-
-![Students](Images/y.jpeg)
+![Students](Images/SPGH.jpg)
 
 -----------------------------------------
 
