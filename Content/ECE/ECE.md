@@ -229,9 +229,9 @@ Team Members:
 
 - **Preeti Pannu**,	delivered expert lecture on Parametric study of antenna development in Two days workshop on 3D Printing: A future generation Technology, at GNDEC, Ludhiana, 03-05-2023 and "Expert talk on study and hands on training on antenna design using IE3D in Workshop on “Hands on training program on developments in communication engineering and electronics”, at GNDEC, Ludhiana, 26-02-2024.
 
-- **Gurjot Kaur Walia**,	delivered expert lecture on 8051-Microcontroller Organized by GNDEC, Ludhiana, 18-10-2023 and Expert talk on Digital Circuit Design using Vivado and Zedboard, Expert Talk on Study and Hands-on training on Raspberry Pi at GNDEC Ludhiana, 21-02-2024.
-
 - **Shivmanmeet Singh**,	delivered expert lecture on Emerging Technologies at GNDEC, Ludhiana, 05-05-2023 and expert lecture on Communication System at GSSS Sidhwan Kalan, 11-11-2023, at GSSS Bilaspur, 18-11-2023 and at GSSS ukhlir, 25-11-2023.
+
+- **Gurjot Kaur Walia**,	delivered expert lecture on 8051-Microcontroller Organized by GNDEC, Ludhiana, 18-10-2023 and Expert talk on Digital Circuit Design using Vivado and Zedboard, Expert Talk on Study and Hands-on training on Raspberry Pi at GNDEC Ludhiana, 21-02-2024.
 
 
 ## Student's Corner  
