@@ -27,10 +27,36 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
+### Two Days workshop on 3D Printing (The Future Generation Technology) from 2, May 2023 to 3, May 2023
+
+![Students](Images/n1.jpg)
+![Students](Images/n1.jpg)
+
+------------------------------------------
+
+### Industrial Visit to BSNL Ludhiana in relation with Four week Training course on Digital Designing and Secured Wireless Communication from 10, July 2023 to 4, Aug 2023
+
+![Students](Images/n1.jpg)
+![Students](Images/n1.jpg)
+
+------------------------------------------
+
+### Four week Training course on Project Design using Microcontroller Consultancy from 10, July 2023 to 4, Aug 2023
+
+![Students](Images/n1.jpg)
+![Students](Images/n1.jpg)
+
+------------------------------------------
+
+### Teachers Day Celebration at ECE Department on 5, Sept 2023
+
+![Students](Images/t.jpg)
+
+-----------------------------------------
+
 ### E-Vision 2023 organized by IETE Student Forum on 06, Oct 2023
 
 ![Students](Images/1.jfif)
-
 ![Students](Images/2.jfif)
 
 -----------------------------------------
@@ -40,21 +66,21 @@ Dr. Narwant Singh Grewal
 ![Students](Images/g1.jpg)
 ![Students](Images/g1.jpg)
 
-------------------------------------------
+-----------------------------------------
 
-### Expert talk on Recent Advancements in Optical Field on 12, Aug 2022
+### Four Week Training on Project Design using Microcontroller Consultancy from 5, June 2024 to 5, July 2024
 
-![Students](Images/n1.jpg)
+![Students](Images/g1.jpg)
+![Students](Images/g1.jpg)
 
 -----------------------------------------
 
-### Teachers Day Celebration at ECE Department on 5, Sept 2022
+### Four Week Training on Project Design using Microcontroller Consultancy from 5, June 2024 to 5, July 2024
 
-![Students](Images/t.jpg)
+![Students](Images/g1.jpg)
+![Students](Images/g1.jpg)
 
 -----------------------------------------
-
-### ECE Student developed website for esteemed Engineering Institute in Maharashtra
 
 **Mohammad Yasir(URN:2104400)** worked on paid project that is development of college’s official website(dynamic) and Alumni portal of SSGMCE, Shegaon, Buldhana District, Maharashtra.
 
