@@ -50,7 +50,7 @@ Dr. Narwant Singh Grewal
 
 ### Teachers Day Celebration at ECE Department on 5, Sept 2023
 
-![Students](Images/t.jpg)
+![Students](Images/TD.jpg)
 
 -----------------------------------------
 
@@ -75,7 +75,7 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### Four Week Training on Project Design using Microcontroller Consultancy from 5, June 2024 to 5, July 2024
+### Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024
 
 ![Students](Images/g1.jpg)
 ![Students](Images/g1.jpg)
