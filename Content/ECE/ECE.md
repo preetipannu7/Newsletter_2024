@@ -70,15 +70,13 @@ Dr. Narwant Singh Grewal
 
 ### Four Week Training on Project Design using Microcontroller Consultancy from 5, June 2024 to 5, July 2024
 
-![Students](Images/g1.jpg)
-![Students](Images/g1.jpg)
+![Students](Images/SPGH.jpg)
 
 -----------------------------------------
 
 ### Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024
 
-![Students](Images/g1.jpg)
-![Students](Images/g1.jpg)
+![Students](Images/SPGH.jpg)
 
 -----------------------------------------
 
