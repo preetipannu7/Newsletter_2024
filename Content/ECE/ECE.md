@@ -63,8 +63,8 @@ Dr. Narwant Singh Grewal
 
 ### Two weeks value added workshop on "Hands-on Training Program on Development in Communication Engineering and Electronics" under IETE Student Forum from 19, Feb 2024 to 1, Mar 2024
 
-![Students](Images/g1.jpg)
-![Students](Images/g1.jpg)
+![Students](Images/VAT.jpg)
+![Students](Images/VA.jpg)
 
 -----------------------------------------
 
