@@ -29,7 +29,7 @@ Dr. Narwant Singh Grewal
 
 ### Two Days workshop on 3D Printing (The Future Generation Technology) from 2, May 2023 to 3, May 2023
 
-![Students](Images/A.png)
+![Students](Images/CP.png)
 
 
 ------------------------------------------
