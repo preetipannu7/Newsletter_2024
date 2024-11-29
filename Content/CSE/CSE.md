@@ -165,8 +165,27 @@ Decentralized Link Failure Prevention Routing (DLFPR) Algorithm for Efficient In
 | 41       | FDP on Effect of Generative AI in modern Research & Industry | Dr Sita Saini | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
 | 42       | FDP on Effect of Generative AI in modern Research & Industry | Lakhvir Kaur Grewal | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
 | 43       | FDP on Effect of Generative AI in modern Research & Industry | Maninder Kaur | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
-| 44       | FDP on Effect of Generative AI in modern Research & Industry | Maninder Kaur | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
-| 45       | FDP on Effect of Generative AI in modern Research & Industry | Maninder Kaur | Five Days | 29th April, 2024 - 3rd May, 2024   | Sister Nivedita University, Calcutta |
+| 44       | FDP on Effective Research Paper Writing Strategies and High Impact Journal Publication Techniques | Dr. Inderjit Singh | Five Days | 22nd April, 2024 - 26th April, 2024   | DCA,Kongu Engineering College (Autonomous) NAAC A++ Grade |
+| 45       | FDP on Curriculum Development Processes |  Dr. Inderjit Singh | Five Days | 18th March, 2024 - 22nd March, 2024   | NITTTR Chd and GNDEC,Ldh |
+| 46       | FDP on Curriculum Development Processes |  Dr. Vivek Thapar | Five Days | 18th March, 2024 - 22nd March, 2024   | AICTE sponsored NITTTR Chandigarh |
+| 47       | FDP on Introduction to Soft Computing |  Dr. Inderjit Singh |    | 1st January, 2024 - 31st March, 2024   | NPTEL-AICTE IIT Madras(Govt of India) |
+| 48       | FDP on NBA Accreditation and Teaching Learning in Engineering |   Dr. Vivek Thapar | Six Days | 1st January, 2024 - 6th January, 2024   | ATAL sponsored at GNDEC Ludhiana |
+| 49       | FDP on Quantum Computing |   Dr. Amandeep Kaur Sohal | Six Days | 18th December, 2023 - 23rd December, 2023   | AICTE and ATAL Academy and GNDEC, Ludhiana |
+| 50       | FDP on Quantum Computing |   Dr. Vivek Thapar | Six Days | 18th December, 2023 - 23rd December, 2023   | AICTE and ATAL Academy and GNDEC, Ludhiana |
+| 51       | FDP on Quantum Computing |   Dr. Kamaldeep Kaur | Six Days | 18th December, 2023 - 23rd December, 2023   | AICTE and ATAL Academy and GNDEC, Ludhiana |
+| 52       | FDP on Quantum Computing |   Kiran Jyoti | Six Days | 18th December, 2023 - 23rd December, 2023   | AICTE and ATAL Academy and GNDEC, Ludhiana |
+| 53       | FDP on Quantum Computing |   Dr. Sita Rani  | Six Days | 18th December, 2023 - 23rd December, 2023   | AICTE and ATAL Academy and GNDEC, Ludhiana |
+| 54       | Workshop on NIRF India Ranking 2024 |   Dr. Sita Rani  | Two Days | 13th December, 2023 - 14th December, 2023   | Institute of Academic Excellence, Hyderabad |
+| 55       | FDP on NSQF Aligned Curriculum Design and Implementation |   Dr. Amandeep Kaur Sohal  | Five Days | 18th September, 2023 - 22nd September, 2023   | Curriculum Development Centre Department|
+| 56       | STC on Artifical Intelligence for Next Generation IoT Networks |   Dr. Amandeep Kaur Sohal  | Five Days | 11th September, 2023 - 15th September, 2023   | NIT Jalandhar|
+| 57       | Workshop on Communication Skills |   Dr. Manpreet Kaur Mand   | One Day | 7th August, 2023 - 7th August, 2023   | GNDEC, Ludhiana|
+| 58       | Workshop on Communication Skills |  Harkomalpreet Kaur   | One Day | 7th August, 2023 - 7th August, 2023   | GNDEC, Ludhiana|
+| 59       | FDP on Python for Data Science |  Kuljit Kaur   | One Month | 1st July, 2023 - 1st August, 2023   | NPTEL- AICTE|
+| 60       | STTP on An interactive dialogue on governance leadership & management |  Dr. Kiran Jyoti   | Three days | 27th April, 2023 - 29th April, 2023   | Department, Govt. of Telangana and Jawaharlal Nehru Technological University (JNTUH), Hyderabad.|
+| 61       | STTP on Capacity development program for college principals |  Dr. Kiran Jyoti   | Three days | 27th April, 2023 - 29th April, 2023   | Institute for Academic Excellence (IAE), Hyderabad in collaboration with Collegiate Education & Technical Education|
+| 62       | FDP on Role of Technical Institutions in Rural Infrastructure Development |  Jasdeep Kaur   | Five days | 24th April, 2023 - 28th April, 2023   | NITTTR, Chandigarh|
+| 63       | FDP on Cyber Security |  Dr. Sita Rani   | Five days | 20th February, 2023 - 24th February, 2023   | IIT Kanpur|
+| 64       | FDP on Technology Enabled Teaching Learning |  Dr.Inderjit Singh   | Five days | 16th January, 2023 - 20th January, 2023   | NITTTR, Chandigarh AICTE and GNDEC, Ludhiana|
 
 ## Main recruiters for CSE Students  
 
