@@ -86,59 +86,17 @@ Team Members:
 
 ## Faculty Achievements  
 
-- **Preeti Pannu** earned Elite and Topper certificate for NPTEL 4 week Course on Stress Management from July-Dec, 2022.
+- **Shivmanmeet Singh** validating the lectures of SWAYAM course Chemical Reaction Engineering-I in Punjabi language in July-Dec 2023.
 
-- **Preeti Pannu** recognised as mentor for the NPTEL online certification course "Stress Management"(July 2022- Dec 2022).
+- **Shivmanmeet Singh** reviewed Paper entitled "The landscape of photoaging: From bench to bedside in a bibliometric analysis" of Frontiers in PublicHealth journal which falls under SCIE journal with impact factor "5.2" in July-Dec 2023.
+ 
+- **Shivmanmeet Singh** Selected as organizing committee international member titled “4th international conference on advanced optics & photonics research in engineering” in China, Wuhan in Jan-June 24.
 
-- **Harminder Kaur D/o S. Avtar Singh** recognised as mentor for the NPTEL online certification course(July 2022- Dec 2022).
+- **Shivmanmeet Singh** Reviewed paper entitled "Adaptation of the ant colony algorithm to avoid congestion in wireless mesh networks" in International Journal of Electrical and Computer Engineering Systems under ESCIE journal with impact factor "0.8" in Jan-June 2024.
 
-- **Gurjot Kaur Walia** was Program Committee Member and Reviewer of International Joint Conference on Advances in Computational Intelligence(IJCACI 2022) organised by SCRIL, South Asian University, New Delhi, India and Jahangir nagar University, Bangladesh on 15-16 October, 2022.
+- **Shivmanmeet Singh** Reviewed paper entitled "Performance Optimization of Universal Filtered Multicarrier Technique for Next Generation Communication Systems" in International Journal of Electrical and Computer Engineering Systems under ESCIE journal with impact factir "0.8" in Jan-June 2024.
 
-- **Gurjot Kaur Walia** was Reviewer of International Conference on Innovations in Communication Computing and Sciences(ICCS 2022) organised by CEC, Landran on 15-16 September, 2022.
-
-- **Gurjot Kaur Walia** was Program Committee Member and Reviewer of International Conference on Computational Intelligence(ICCI 2022) organised by Indian Institute of Information Technology, Pune on 29-30 December, 2022.
-
-- **Gurjot Kaur Walia** was Program Committee Member and Reviewer in IEEE World Conference on Applied Intelligence and Computing(AIC 2022) held from 17-19, June 2022.
-
-- **Gurjot Kaur Walia, Chahat Jain, Navneet Kaur** won the Best Oral Presentation Award in AICTE Sponsored International Conference on Role of Artificial Intelligence and Sustainable Engineering in Driving Smart Cities, organised by Shri Vishnu Engineering College for Women, Bhimavaram, Andhra Pradesh from 29-31 March, 2022.
-
-- **Gurjot Kaur Walia** earned Elite and Topper certificate for NPTEL 4 week Course on Leadership from Jan-May, 2022.
-
-- **Gurjot Kaur Walia** earned Elite and Topper certificate for NPTEL 4 week Course on Effective Writing from Jan-May, 2022.
-
-- **Navneet Kaur** was Reviewer of 3rd International Conference on Computing, Analytics and Networks (ICAN2022) organised by Chitkara University with technical sponsorship from IEEE during 18-19, November 2022.
-
-- **Navneet Kaur** was Reviewer of International Conference on Innovations in Communication Computing and Sciences(ICCS 2022) organised by CEC, Landran on 15-16 September, 2022.
-
-- **Navneet Kaur** was Reviewer of Journal of Optical Communications.
-
--**Navneet Kaur** earned Elite and Topper certificate for NPTEL 4 week Course on Effective Writing from Jan-May, 2022.
-
-- **Navneet Kaur** was presented with Top Performing Mentor certificate for NPTEL 4 week Course on Effective Writing from Jan-May, 2022.
-
-- **Navneet Kaur** earned Elite and Topper certificate for NPTEL 4 week Course on Leadership from Jan-May, 2022.
-
-- **Gurpurneet Kaur** earned Elite certificate for NPTEL 4 week Course on Effective Writing from Jan-Feb, 2022.
-
-- **Gurpurneet Kaur** earned Elite and silver certificate for NPTEL 8 week Course on Introduction to Soft Computing from Jan-March, 2022.
-
-- **Gurpurneet Kaur** earned Elite certificate for NPTEL 12 week Course on Digital Circuits from July-October, 2022.
-
-- **Gurpurneet Kaur** earned Elite certificate for NPTEL 8 week Course on System Design Through VERILOG from July-September, 2022.
-
-- **Shivmanmeet Singh** was reviewer of SCIE journal named “frontiers in public health” for paper entitled "The landscape of Photoaging”.
-
-- **Shivmanmeet Singh** received a certificate of appreciation from AICTE for validating the lectures of following SWAYAM course chemical Reaction Engineering-I in the Punjabi language.
-
-- **Shivmanmeet Singh** was reviewer of Scopous (Elsevier) journal named “International Journal of Electrical and Computer Engineering Systems” for paper entitled "Performance Optimization of Universal Filtered Multicarrier Technique for Next Generation Communication Systems”.
-
-- **Simranjit Kaur** organised a one day IP awareness program in collaboration with NIPAM, Govt. of India in GNDEC Ludhiana on 15, March 2022.
-
-- **Simranjit Kaur** presented a research paper in the IEEE international conference, MAPCON 2022 (IEEE-MTT/AP) held in Bangalore, India from 13-15, Dec 2022.
-
-- **Chahat Jain** earned Elite certificate for NPTEL 4 week Course on Leadership from Jan-May, 2022.
-
-- **Chahat Jain** was Reviewer of Journal of Experimental and theoretical artificial intelligence.
+- **Baljeet Kaur** successfully guided two students in completing their Ph.D research in July-Dec 2023.
 
 
 ## Publications  (Journals)
