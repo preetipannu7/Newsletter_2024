@@ -172,7 +172,7 @@ PRABAL TMT REBARS 550, SATH JIVAN BHAR KA was the title sponsor of the event. Th
 
 ###### |🕒 Published on March 22, 2023
 
-![HSR](Images/image102024)
+![HSR](Images/img1024.jpg)
 
 <p align=justify>
 TRICITY GENCONIANS MEET
@@ -320,6 +320,7 @@ The talk was regarding India's space endeavours and the upcoming CHANDRAYAAN-3 m
 The Expert Talk left the audience not only informed but also inspired to explore and contribute to India's space endeavours. Principal, GNDEC congratulated the CML team for such an awesome event. At the end of the event, Prof.Lakhveer Singh Khana proposed a vote of thanks to experts and participants.
 </p>
 
+**PRO: Er. Satjot Singh Dhillon**
 **APRO: Dr. Preeti Pannu**
 
 **Student's Executive Members: Harmanpreet Kaur(URN:2104509, IT Branch), Chahat Jarewal(URN:2104487, IT Branch)**
