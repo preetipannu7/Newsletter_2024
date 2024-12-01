@@ -35,7 +35,7 @@ Prof. G.S. Sodhi, Training and Placement officer shared about one promising tren
 
 # **GNDEC in News**
 
-## sustainability hub launched at GNDEC
+## Sustainability hub launched at GNDEC
 
 ###### |🕒 Published on May 28,2023
 
@@ -67,7 +67,7 @@ Guru Nanak Dev Engineering College, situated in Gill Park, Ludhiana, joyfully co
 
 S. Maheshindar Singh Grewal, former Punjab Minister and Trustee of Nankana Sahib Education Trust presided over the function. He lauded the college's track record of producing accomplished graduates excelling in diverse domains across the globe. S. Baldev Singh Sran, Chairman of PSPCL, graced the occasion as the chief guest, urging rural students to seek admission to this esteemed institution through the Rural Quota. Special Guest Shri Amit Sareen, Additional Deputy Commissioner Ludhiana, also lent his presence to the celebration.
 
-Dr. Sehijpal Singh, Principal of the college, enlightened the audience about its achievements and applauded the relentless efforts of student societies. The unveiling of the college magazine marked a significant moment during the ceremony. Meritorious students were felicitated for their academic and technical prowess, with deserving candidates receiving scholarships. The Alumni Association honored Professor Harvinder Singh of the Civil Engineering department as the Best Teacher, and _____ as the Best Student.
+Dr. Sehijpal Singh, Principal of the college, enlightened the audience about its achievements and applauded the relentless efforts of student societies. The unveiling of the college magazine marked a significant moment during the ceremony. Meritorious students were felicitated for their academic and technical prowess, with deserving candidates receiving scholarships. The Alumni Association honored Professor Harvinder Singh of the Civil Engineering department as the Best Teacher.
 
 The spirit of generosity permeated the event as former students from the 1973 batch donated a modern software lab to the college. Contributions from the 1971 alumni batch further bolstered research and development initiatives in the Mechanical and Civil Engineering departments.
 
@@ -108,7 +108,7 @@ S. Gurcharan Singh Grewal, Member of SGPC and Trustee, along with S. Inderpal Si
 ## GNDEC much awaited 2022,2023 batch convocationn held
 
 ###### |🕒 Published on November 20,2023
-<
+
 
 ![HSR](Images/img62024.jpg)
 
