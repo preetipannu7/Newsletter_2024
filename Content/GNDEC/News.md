@@ -320,7 +320,8 @@ The talk was regarding India's space endeavours and the upcoming CHANDRAYAAN-3 m
 The Expert Talk left the audience not only informed but also inspired to explore and contribute to India's space endeavours. Principal, GNDEC congratulated the CML team for such an awesome event. At the end of the event, Prof.Lakhveer Singh Khana proposed a vote of thanks to experts and participants.
 </p>
 
-**PRO: Er. Satjot Singh Dhillon**
+**PRO: Er. Satjot Singh Dhillon**   <br>
+
 **APRO: Dr. Preeti Pannu**
 
 **Student's Executive Members: Harmanpreet Kaur(URN:2104509, IT Branch), Chahat Jarewal(URN:2104487, IT Branch)**
