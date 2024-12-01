@@ -172,7 +172,7 @@ PRABAL TMT REBARS 550, SATH JIVAN BHAR KA was the title sponsor of the event. Th
 
 ###### |🕒 Published on March 22, 2023
 
-![HSR](Images/img102024)
+![HSR](Images/image102024)
 
 <p align=justify>
 TRICITY GENCONIANS MEET
