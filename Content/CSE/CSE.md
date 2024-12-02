@@ -75,7 +75,12 @@ We are also actively involved in research and development activities. Our facult
 | 12    | Naval            | 2104226 | Quiz  (1st Position), IKG Punjab Technical University Zonal Youth Festival                    | Zonal      |
 | 13    | Vivek Thakur     | 2004687 | On The Spot Painting  (1st Position), IKG Punjab Technical University Zonal Youth Festival       | Zonal|
 
+## Faculty Achievements  
 
+![DPS](Images/DPS.jpg) 
+Dr. Parminder Singh, Professor(CSE), awarded as an **"Eminent Engineering Personality"** by Institution of Engineers (India).
+
+  
 ## Faculty Research Publications  
 - [**Goldendeep Kaur, Kiran Jyoti**, Samer Shorman, Anas Ratib Alsoud, Rohit Salgotra (2024, July). An Efficient Approach for Localizing Sensor Nodes in 2D Wireless Sensor Networks Using Whale Optimization-Based Naked Mole Rat Algorithm. MDPI Mathematics.]
 - [Sujay N. Hedge, D.B. Srinivas, M.A. Rajan, **Sita Rani**, Aman Kataria, Hong Min (2024, March). Multi-objective and multi constrained task scheduling framework for computational grids.  Scientific Reports.]
