@@ -77,8 +77,8 @@ We are also actively involved in research and development activities. Our facult
 
 ## Faculty Achievements  
 
-![DPS](Images/DPS.jpg) 
-Dr. Parminder Singh, Professor(CSE), awarded as an **"Eminent Engineering Personality"** by Institution of Engineers (India).
+![DPS](Images/p1.png) 
+- Dr. Parminder Singh, Professor(CSE), awarded as an **"Eminent Engineering Personality"** by Institution of Engineers (India).
 
   
 ## Faculty Research Publications  
