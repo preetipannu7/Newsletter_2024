@@ -1,4 +1,4 @@
-# Department of Computer Science and Engineering  
+![image](https://github.com/user-attachments/assets/7c525d4e-0e85-4cb2-8971-8711bf5267fa)# Department of Computer Science and Engineering  
 
 ![DPS](Images/DPS.jpg)
 
@@ -77,46 +77,47 @@ We are also actively involved in research and development activities. Our facult
 
 
 ## Faculty Research Publications  
-- [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya (2022).
-Performance analysis of various denoising filters on Intravascular Ultrasound (IVUS) coronary artery images. International Journal of Imaging Systems and Technology.]
-- [Navdeep Kaur, **Parminder Singh** (2022).
-Modeling of Speech Parameters of Punjabi by PreTrained Deep Neural Network using Stacked Denoising Autoencoders.  ACM Transactions on Asian and LowResource Language Information Processing .]
-- [**Amandeep Kaur Sohal** (2022, November).
-An Improved Weight-based Coverage Enhancing Protocol (WCEP) for Application Specific Wireless Sensor Networks.  Ad Hoc & Sensor Wireless Networks .]
-- [Navdeep Kaur, **Parminder Singh** (2022, November). Conventional and contemporary approaches used in text to speech synthesis: a review. Artificial Intelligence Review.]
-- [Hayfa Y. Abuaddous, **Goldendeep Kaur, Kiran Jyoti**, Nitin Mittal, Shubham Mahajan, Amit Kant Pandit, Anas Ratib Alsoud, Laith Abualigah (2022, November). Repulsion-based grey wolf optimizer withimproved exploration and exploitation capabilities to localize sensor nodes in 3D wireless sensor network. Soft Computing.]
-- [Pradeep Kumar, Kakoli Banerjee, Niraj Singhal, Ajay Kumar, **Sita Rani**, Raman Kumar, Cioca Adriana Lavinia (2022, November). Verifiable, Secure Mobile Agent Migration in Healthcare Systems Using a Polynomial-Based Threshold Secret Sharing Schem. MDPI-Sensors.]
-- [**Manpreet Kaur**, Shikha Gupta, Deepak Kumar, Chaman Verma, Bogdan-Constantin Neagu, Maria Simona Raboaca (2022, July). Delegated Proof of Accessibility (DPoAC): A Novel Consensus Protocol for Blockchain Systems. MDPI Mathematics.]
-- [Swapandeep Kaur, Raman Kumar, Rupinder Kaur, Sukhpal Singh, **Sita Rani**, Arshdeep Kaur  (2022, July). Piezoelectric materials in sensors: Bibliometric and visualization analysis. Materials Today: Proceedings.]
--[**Kapil Sharma**, Satish Saini, **Shailja, Hardeep Singh Kang**, Mohamed Bouye, Daniel Krah   (2022, June). Big Data Analytics Model For Distributed Document Using Hybrid Optimization With Kmeans Clustering. Wireless Communications and Mobile Computing.]
-- [Raman Kumar, **Sita Rani** , and Mohammed Al Awadh  (2022, June). Exploring the Application Sphere of the Internet of Things in Industry 4.0: A Review, Bibliometric and Content Analysis. MPDI-Sensors.]
-- [**Kamaldep Kaur and Parminder Singh** (2022, April). Impact of Feature Extraction and Feature Selection Algorithms on Punjabi Speech Emotion Recognition Using Convolutional Neural Network. ACM Transactions on Asian and Low Resource Language Information Processing ]
-- [D. Kothandaraman, M. Manickam, A. Balasundaram, D. Pradeep, A. Arulmurugan, Arun Kumar Sivaraman, **Sita Rani**, Barnali Dey and R. Balakrishna** (2022,April).
-Decentralized Link Failure Prevention Routing (DLFPR) Algorithm for Efficient Internet of Things.  Intelligent Automation & Soft Computing ]
-- [**Sita Rani**, Aman Kataria, **Meetali Chauhan**, Punam Rattan, Raman Kumar and Arun Kumar Sivaraman (2022, March).  Security and Privacy Challenges in the Deployment of Cyber-Physical Systems in Smart City Applications: State-of-Art Work.  Materials Today-Proceedings.]
-- [**Navdeep Kaur, Parminder Singh** (2022, March). Speech waveform reconstruction from speech parameters for an effective text to speech synthesis system using minimum phase harmonic sinusoidal model for Punjabi.  Multimedia Tools and Applications.]
-- [Kakoli Banerjee, Vikram Bali, Nishad Nawaz, Shivani Bali, Sonali Mathur, Ram Kishn Mishra, **Sita Rani** (2022, February). A Machine-Learning Approach for Prediction of Water Contamination Using Latitude, Longitude, and Elevation. MDPI-Water.]
-- [**Sita Rani**, Raman Kumar (2022, January). Bibliometric review of actuators: Key automation technology in a smart city framework. Materials Today: Proceedings]
-- [K. Murali Krishna, **Amit Jain, Hardeep Singh Kang**, Mithra Venkatesan, Anurag Shrivastava and Sitesh Kumar Singhr (2022, January). Development of the Broadband  Absorption Materials with Genetic Algorithm up to 8 GHz Frequency. Security and Communication Networks]
-- [**Sita Rani**, Aman Kataria, **Meetali Chauhan**, Punam Rattan, Raman Kumar, Arun Kumar Sivaramane (2022, January). Security and Privacy Challenges in the Deployment of Cyber-Physical Systems in Smart City Applications: State-of-Art Work. International Conference on Innovative Technology for Sustainable Development (ICTAI-2021). VIT, Chennai.]
-- [**Manpreet Kaur** and Shikha Gupta (2022, January). Blockchain Consensus Protocols: Stateof-the-art and Future Directions. IEEE International Conference on Technological Advancements and Innovations (ICTAI-2021). Tashkent, Uzbekistan.]
-- [Rashi Tanwar, Yogesh Chabbra, Punam Rattan and **Sita Rani** (2022, February). Blockchain in IoT networks for precision agriculture. International Conference on Innovative Computing and Communication (ICICC2022). New Delhi, India.]
-- [**Diana Nagpal**, Rajiv Kumar (2022, May). Performance Analysis of Hybrid Deep Learning Approach for Human Actions Recognition. International Conference on Inventive Communication and Computational Technologies. Namakkal, India.]
-- [**Manpreet Kaur**, Shikha Gupta, Deepak Kumar, Maria Simona Raboaca, S.B. Goyal, Chaman Verma (2022, November). IPFS:An Off-Chain Storage Solution for Blockchain. International Conference on Data Science and Computational Intelligence . Chandigarh University.]
-- [Priyanka Jhamb, Vrishti Gupta, Amanjot Singh, **Manpreet Kaur** (2022, November). Blockchain-enabled Transcript System Integrated with IPFS. International Conference on Data Science and Computational Intelligence . Chandigarh University.]
-- [Harmehak Singh Khangura, Khushanpreet Singh, Harpreet Singh, **Daljeet Singh** (2022, November). Aristocratic Trends of Cyber Attacks: Visualizing Ukraine Defended Surface as a case study. International Conference on Data Science and Computational Intelligence . Chandigarh University.]
-- [**Supreet Kaur** and Dharamveer Sharma (2022, November). Comparative study of Face Detection using Cascaded Haar. International Conference on Data Science and Computational Intelligence . Chandigarh University.]
-- [**Sita Rani**, Pankaj Bhambri, Jaskiran Kaur , Yashwant Singh Sangwan (2022, November). Exploring the Application Domains of ML-Based Facial Emotion Recognition Systems: Framework, Techniques and Challenges. International Conference on Computing and Communication Networks. Manchester Metropolitan University, Manchester, UK]
-- [Blossom, Jasmine Kaur Gill, Sehajpreet Kaur, **Gurjit Kaur** (2022, November). Face Sketch Constructor and Identity Attestation. International Conference on Advancements in Engineering & Technology. Bhai Gurdas Institute of Engg. and Tech., Sangrur]
-- [Jashandeep Kaur, Deepika Sharma, **Sita Rani**  (2022, May). Cancer : A Threat to Health and Economy. National Conference on Atamnirbhar Bharat: Building a Self-Reliant India( Prospects and Challenges Ahead) Dr. B.R. Ambedkar NIT, Jalandhar , India.]
+- [**Goldendeep Kaur, Kiran Jyoti**, Samer Shorman, Anas Ratib Alsoud, Rohit Salgotra (2024, July). An Efficient Approach for Localizing Sensor Nodes in 2D Wireless Sensor Networks Using Whale Optimization-Based Naked Mole Rat Algorithm. MDPI Mathematics.]
+- [Sujay N. Hedge, D.B. Srinivas, M.A. Rajan, **Sita Rani**, Aman Kataria, Hong Min (2024, March). Multi-objective and multi constrained task scheduling framework for computational grids.  Scientific Reports.]
+- [Harmeet Singh, **Sita Rani** (2024, January). Flex Sensor Integrated Smart Strap to Verify Correct Wearing of the Face Mask.  IEEE Sensors.]
+- [**Diana Nagpal**, Shikha Gupta (2023, December). A Novel Transfer Learning based Multi-Feature Fusion Framework for Elderly Activity Recognition. International Journal of Intelligent Systems and Applications in Engineering.]
+- [**Sita Rani** , Sachin Kumar, Aman Kataria, Hong Min (2023, October). SmartHealth: An Intelligent Framework to Secure IoMT Service Applications Using Machine Learning. ICT Express.]
+- [**Sita Rani**, Amit Kumar Mishra, Aman Kataria, Saurav Malik, Hong Quin (2023, September). Machine learning -based optimal crop selection system in smart agriculture. Scientific Reports.]
+- [**Sita Rani**, Aman Kataria, Sachin Kumar, Prayag Tiwari (2023, August). Federated learning for secure IoMT-applications in smart healthcare systems: A comprehensive review. Knowledge Based Systems.]
+- [Ubeeka Jain, **Parminder Singh** (2023, August). Impact of Feature Selection for Emotion Detection from Annotated Punjabi Text. International Journal of Intelligent Systems and Applications in Engineering (IJISAE).]
+- [**Kamaldeep Kaur, Parminder Singh** (2023, August). Comparison of Various Feature Selection Algorithms in Speech Emotion Recognition. AIUB Journal of Science and Engineering (AJSE).]
+- [**Diana Nagpal**, Shikha Gupta, Deepak Kumar, Zoltan Illes, Chaman Verma, Barnali Dey (2023,June). GoldenAGER: A Personalized Feature Fusion Activity Recognition Model for Elderly. IEEE Access.]
+- [Harmehak Singh Khangura, Jasleen Kaur, Gurleen Kaur, **Parminder Singh** (2023, May). Human Computer Interaction: Technologies and Challenges. Journal of Emerging Technologies and Innovative Research (JETIR).]
+- [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya (2023,April).  A State-Of-The-Art Review on Coronary Artery Border Segmentation Algorithms for Intravascular Ultrasound (IVUS) Images. Cardiovascular Engineering and Technology.]
+- [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya (2023,April). Calcification Detection in Intravascular Ultrasound (IVUS) Images Using Transfer Learning Based MultiSVM model. Ultrasonic Imaging.]
+- [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya, Prince Chaudhary (2023,April). CADNet: an advanced architecture for automatic detection of coronary artery calcification and shadow border in intravascular ultrasound (IVUS) images. Physical and Engineering Sciences in Medicine.]
+- [Prince Verma, **Kiran Jyoti**, Varsha Sahni, S.Jafar Ali Ibrahim, N.S. Kalyan Chakravarthy (2023,April). Synthesized feature learning model on news aggregator for chatbot. Soft Computing.]
+- [Navdeep Kaur, **Parminder Singh** (2023,March). Modeling of Speech Parameters of Punjabi by Pre-Trained Deep Neural Network using Stacked Denoising Autoencoders. ACM Transactions on Asian and Low-Resource Language Information Processing.]
+- [**Kamaldeep Kaur, Parminder Singh** (2023,Feburary). Trends in speech emotion recognition: a comprehensive survey. Multimedia Tools and Applications.]
+- [Vikram Bali, Shivani Bali, Dev Gaur, **Sita Rani**, Raman Kumar (2023,Feburary). Commercial-Off-The Shelf Vendor Selection: A Multi-Criteria Decision-Making Approach Using Intuitionistic Fuzzy Sets and Topsis.  Journal Of Operational Research in Engineering Science:Theory and Applications .]
 
 
 ### Student-Faculty Conference Publications
 
 | Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |
 |---------|--------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|----------------|------|
-| 1       | Face Sketch constructor and Identity Attestation                                           | 1. Jasmine Kaur Gill (1905008)  2.Sehajpreet Kaur(1905222)  3.Blossom     (1904894) 4.Prof. Gurjit Kaur | 10th International Conference on Advancements in Engineering and Technology (ICAET-2022)  | International  | 2022 |
-| 2       | Aristocratic Trends of Cyber Attacks: Visualizing Ukraine Defended Surface as a Case Study    | 1. Harmehak Singh Khangura (1905103) 2.Khushanpreet Singh (1905012)     3.Harpreet Singh (2004694)                   4. Dr. Daljit Singh  | International Conference on Data Science and Computational Intelligence (ICDSCI-2022)| International  | 2022 |
+| 1       | An MI-based Hybrid Model for Iiot Attack Classification in Industry 4.0 Ecosystem                                           | Bharatdeep Singh, Divneet Kaur, Sita Rani  | Sixth International Conference on Computational Intelligence in Communications and Business Analytics (CICBA-2024)  | International  | 2024 |
+| 2       | From Haze And Smoke To Clarity: An Integration of Deep Learning And Atmospheric Model                                           | Tashneet Kaur, Dhruv Kumar, Sita Rani, Kiran Jyoti  | Sixth International Conference on Computational Intelligence in Communications and Business Analytics (CICBA-2024)  | International  | 2024 |
+| 3       | Classification of Fine-Grained Emotions  | Ubeeka Jain, Parminder Singh | Springer International Conference on Multi-Strategy Learning Environment (ICMSLE-2024)  | International  | 2024 |
+| 4       | Text Mining for Fine-grained Emotion Detection    | Ubeeka Jain, Parminder Singh | Springer International Conference on information systems and management science (ISMS-2023)  | International  | 2023 |
+| 5       | Blockchain-enabled Transcript System integrated with IPFS    | Priyanka Jhamb, Amanjot Singh, Vrishti Gupta, Manpreet Kaur Mand | International Conference on Recent Trends in Advance Computing (ICRTAC)  | International  | 2023 |
+| 6       | Calcified Tissue Detection using Deep Learning Models in Intravascular Ultrasound images    | Priyanka Arora, Parminder Singh and Akshay Girdhar | IEEE International Conference on Advances in Electrical, Electronics and Computational Intelligence (ICAEECI-2023)  | International  | 2023 |
+| 7       | Performance Comparison of Conventional and Deep Learning Classifiers for Punjabi Dialect Identification                                           | Manjot Kaur Gill, Simpel Rani and Parminder Singh  | IEEE International Conference on Self Sustainable Artificial Intelligence Systems)  | International  | 2023 |
+| 8       | DLT Based Smart Medical Ecosystem | Vikram Puri, Aman Kataria, Sita Rani, Piyush Kumar Pareek | IEEE International Conference on Network, Multimedia and Information Technology (NMITCON)  | International  | 2023 |
+| 9       | Human Activity Classification using G-XGB | Aman Kataria, Vikram Puri, Piyush Kumar Pareek, Sita Rani  | IEEE International Conference on Data Science and Network Security (ICDSNS)  | International  | 2023 |
+| 10       | Virtual Channel Attack by Hardware Trojan in NoC-based TCMP and its Impact Analysis | Abhishek Rana, Amandeep Kaur Sohal  | 2023 Third International Conference on Secure Cyber Computing and Communication (ICSCCC) IEEE  | International  | 2023 |
+| 11       | Study on deep learning model-based CHATBOTs| Prince Verma , Kiran Jyoti , Muhammed Junaid  | 7th International Joint Conference on Computing Sciences (ICCS-2023) | International  | 2023 |
+| 12       | Human Activity Recognition and Prediction: Overview and Research Gaps| Diana Nagpal, Shikha Gupta  | 8th International Conference for Convergence in Technology IEEE | International  | 2023 |
+| 13       | Evolution from Handcrafted to Learned Representation Methods for Vision-based Activity Recognition| Diana Nagpal, Shikha Gupta  | 3rd International Conference on Soft Computing for Security Applications ICSCS 2023 (Springer) | International  | 2023 |
+| 14       | Optimization of a Consensus Protocol in Blockchain-IoT Convergence| Manpreet Kaur, Shikha Gupta  | International Conference on Emerging Smart Computing and Informatics (ESCI) | International  | 2023 |
+| 15       | Blockchain technology: An overview with notable features and challenges| Manpreet Kaur, Shikha Gupta  | International Conference on Artificial Intelligence, Blockchain, Computing and Security (ICABCS-2023) | International  | 2023 |
+| 16       | Quantum Machine Learning in Healthcare: Developments and Challenges| Sita Rani, Piyush Kumar Pareek, Jaskiran Kaur, Meetali Chauhan, Pankaj Bhambri  | IEEE International Conference on Integrated Circuits and Communication Systems | International  | 2023 |
+
 
 ## Events Attended (FDPs/ Conferences / STCs /SDTs / Workshops / Webinars / Seminars /Training Program etc.)  
 
