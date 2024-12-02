@@ -326,19 +326,24 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 - The events were organized under the guidance of:</div>
 
-Dr. Munish Rattan (Coordinator, ISF)
+Dr. Munish Rattan (ISF Coordinator)
+Prof. Shivmanmeet Singh (ISF Secretary)
 
-Prof. Shivmanmeet Singh (Faculty Incharge, ISF)
+Savnoor Channi (Student Convenor)
+DhairyaSobti (Student Co-Convenor)
+Anmol Kumar Srivastav (Student Co-Convenor)
+
 
 -----------------------------------------
-### Web development workshop
+### Gusto Knack
 
 ![Web development workshop](Images/b.jpg)
 
-- <div align="jutify"> IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session on 5, Feb, 2022 to give students detailed information about electronics circuits in a more practical way. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by speaker Gursidak Singh.</div>
+- <div align="jutify"> This event was organized in the Anand Utsav’s Techn-o-Mela on the 16th March 2023. In this event; a team of two or three members were made. There were questions which had to be answered as a team in the first round. Furthermore; the qualifying teams had to split up and the members individually had to play another round of quiz and ones answering the fastest were awarded first, second and third positions respectively.
+.</div>
 
 -----------------------------------------
-### Tricky Circuits
+### Workshop on Arduino and Soldering
 
 ![Tricky Circuits](Images/c.jpg)
 
@@ -346,26 +351,25 @@ Prof. Shivmanmeet Singh (Faculty Incharge, ISF)
 
 ![Tricky Circuits](Images/e.jpg)
 
-IETE Students Forum (ISF) , Guru Nanak Dev Engineering College , Ludhiana , organized acompetition based event ‘Tricky Circuits’ on 13-05-2022 at 11:30pm onwards. The main motive of this event was to aware the students regarding the technical circuits and build the confidence in solving numericals. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver information on the technical circuits and questions.
+This event was organized in April 2023; Every Thursday for 3 weeks starting 13th April 2023.This was a workshop organized to make the students familiar with topics like Arduino and Soldering. This was a peer-to-peer event and our kind seniors Puran Singh and Satnam Singh were the tutors for the event. This was a practical learning workshop where students practiced everything themselves simultaneously.
 
 -----------------------------------------
-### One Day Workshop on Database automation
+### Expert Talk on Emerging Technologies by Prof. P. Prabhakar(Immediate Past President of IETE Student’s Forum)
 
 ![Database automation Workshop](Images/tt.jpeg)
 
 ![Database automation Workshop](Images/a.jpg)
 
-- IETE Students’Forum(ISF),Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session to give students detailed information about database automation in a more practical way on 12, Oct, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), GuruNanak Dev Engineering College is thriven to deliver useful detailed information on various on going automation projects.
-
+- This event was organized on 22nd September 2023.The expert lecture was given by Dr. MehtabSingh(Top 1% Researcher in Optical Communication). Sir educated about his detailed knowledge in the topic. He was very cooperative and answered many questions of the listeners. His detailed knowledge in the given topic was extremely helpful to the listeners event was organized on 17th May 2023.The expert lecture was given by IETE Student’s Forum Immediate Past President Prof. P. Prabhakar. Sir educated us about his detailed knowledge about the Emerging Technologies. The listeners also asked any questions they had and discussed about the new possibilities in the technology area.
 -----------------------------------------
-### Advisor Session (Team building and Motivation)
+### Expert Talk on Wireless Communication
+
 
 ![Advisor Session (Team building and Motivation)](Images/gg.jpeg)
 
 ![Advisor Session (Team building and Motivation)](Images/f.jpg)
 
-- IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a session to give students detailed information about team building and motivation towards joining IETE on 10, Nov, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by team of our ISF society.
-
+- IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a session to give students detailed information about team building and motivation towards joining IETE on 10, Nov, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed 
 
 
 **Editor: Dr. Preeti Pannu**
