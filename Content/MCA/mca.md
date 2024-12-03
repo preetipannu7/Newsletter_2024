@@ -63,6 +63,7 @@ Faculty and students attending the Seminar
 | 1       | Prof. Dinesh Anand |Free Software and Resources for Technical Education through ICT      | 1 week | 21-25 March,2022   | NITTTR, Chandigarh |
 |2|Prof. Jasbir Singh Saini|Virtual Labs| 3 days| 1-3 December, 2021| GNDEC & IIT ROORKEE|
 |3| Dr.Manreet Sohal|Building Advanced Data Analytics Applications With Cloud|5 Days|16/10/2023 to 20/10/2023|	Edunet Foundation and AICTE|
+|9|Prof.Preeti Aggarwal|Machine Learning & NLP using Python|5 Days|24th June, 2024 to 28th June, 2024|Infosys Springboard|
 |4|Dr.Manreet Sohal|Designing Course Outcomes and Outcomes-focused Questions|1 Day|09/08/2023|	InPods Ed-tech|
 |5|Dr.Manreet Sohal|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
 |6|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
