@@ -27,6 +27,14 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
+### Visit to Semicon on 27 Feb, 2023
+
+![Students](Images/w.jpg)
+
+![Students](Images/x.JPG)
+
+-----------------------------------------
+
 ### Two Days workshop on 3D Printing (The Future Generation Technology) from 2, May 2023 to 3, May 2023
 
 ![Students](Images/CP.png)
@@ -88,21 +96,11 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### ECE Students during GNEAPEX on 8, Apr, 2022
+### Online Talk with IIT Madras on Optical Communication, 2024
 
-Project: Designed a working model of a hydraulic Excavator which works on the principle of of Pascal’s Law
+![Students](Images/z.jpg)
 
-Team Members:
-- Ali Ahmad Ansari
-- Adarsh Mishra
-- Anant Vijay
-- Rahul Kumar
-- Gurnoor Singh
-- Guransh Singh
-
-![Students](Images/ABC.jpg)
-
-![Students](Images/123.jpg)
+![Students](Images/y.jpg)
 
 -----------------------------------------
 
