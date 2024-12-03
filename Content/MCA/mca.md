@@ -35,8 +35,10 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 
 ## Publications
 
-- [ **Sohal, M.**, Bharany, S., Sharma, S., Maashi, M. S., & Aljebreen, M. (2022). A Hybrid Multi-Cloud Framework Using the IBBE Key Management System for Securing Data Storage. Sustainability, 14(20), 13561.](https://www.mdpi.com/2071-1050/14/20/13561)
-- **Saini, S.S. et al**, "Prediction of Smart Building and Smart City Resources using AI-techniques." Sustainability,2023 2nd International Conference for Innovation,Bengaluru,India,2023.  
+- Anand, D., kaur, A. & Singh, M. (2024),” Research on Internet of Medical Things: Systematic Review, Research Trends and Challenges”, Recent Advances in Computer Science and Communications (RACSC) Volume 17, Issue 6, 2024
+	DOI: 10.2174/0126662558248187231124052846 (Scopus)
+
+- Anand, D., kaur, A. & Singh, P. (2024),” Enhancing Healthcare Monitoring with efficient Computation Offloading in Fog Computing”,  International Journal of Computer Networks and Applications (IJCNA), Volume 11, Issue 4, July – August (2024)  PP: 506-518 DOI: 10.22247/ijcna/2024/32 (Scopus) 
 
 
 
@@ -60,14 +62,14 @@ Faculty and students attending the Seminar
 
 | Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                        |
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
-| 1       | Prof. Dinesh Anand |Free Software and Resources for Technical Education through ICT      | 1 week | 21-25 March,2022   | NITTTR, Chandigarh |
+| 1       | Prof. Dinesh Anand |NSQF Aligned Curriculum Design and Implementation   | 1 week | 18/9/2023 to 22/9/2023 | NITTTR, Chandigarh |
 |2|Prof. Jasbir Singh Saini|Virtual Labs| 3 days| 1-3 December, 2021| GNDEC & IIT ROORKEE|
 |3| Dr.Manreet Sohal|Building Advanced Data Analytics Applications With Cloud|5 Days|16/10/2023 to 20/10/2023|	Edunet Foundation and AICTE|
 |9|Prof.Preeti Aggarwal|Machine Learning & NLP using Python|5 Days|24th June, 2024 to 28th June, 2024|Infosys Springboard|
 |4|Dr.Manreet Sohal|Designing Course Outcomes and Outcomes-focused Questions|1 Day|09/08/2023|	InPods Ed-tech|
 |5|Dr.Manreet Sohal|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
 |6|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
-|7|Prof.Amanpreet kaur|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
+|7|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
 
 ### Rangoli Competition
 
