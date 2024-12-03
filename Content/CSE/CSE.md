@@ -79,6 +79,9 @@ We are also actively involved in research and development activities. Our facult
 
 ![DPS](Images/p1.png) 
 - Dr. Parminder Singh, Professor(CSE), awarded as an **"Eminent Engineering Personality"** by Institution of Engineers (India).
+![DPS](Images/p1.png) 
+- Dr. Sita Rani, has been recognized in **"WORLD RANKING OF TOP 2% SCIENTISTS-2024"** jointly published by Stanford University and Elsevier, in the area of “Artificial Intelligence & Image Processing".
+- Dr. Sita Rani has joined the editorial board of the journal “Engineering Applications of Artificial Intelligence” (Published by ELSEVIER – Impact Factor: 7.5) as an **Associate Editor**. 
 
   
 ## Faculty Research Publications  
