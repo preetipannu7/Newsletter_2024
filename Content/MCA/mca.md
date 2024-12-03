@@ -62,8 +62,9 @@ Faculty and students attending the Seminar
 
 | Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                        |
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
-| 1       | Prof. Dinesh Anand |NSQF Aligned Curriculum Design and Implementation   | 1 week | 18/9/2023 to 22/9/2023 | NITTTR, Chandigarh |
+|1| Prof. Dinesh Anand |NSQF Aligned Curriculum Design and Implementation   | 1 week | 18/9/2023 to 22/9/2023 | NITTTR, Chandigarh |
 |2|Prof. Jasbir Singh Saini|Virtual Labs| 3 days| 1-3 December, 2021| GNDEC & IIT ROORKEE|
+|2|Prof.Harmandeep Kaur|Role of Techical Institutions in Rural Infrastructure Development| 1 Week|24-04-2023 to 28-04-2023| Rural Development Department NITTTR, Chandigarh|
 |3| Dr.Manreet Sohal|Building Advanced Data Analytics Applications With Cloud|5 Days|16/10/2023 to 20/10/2023|	Edunet Foundation and AICTE|
 |9|Prof.Preeti Aggarwal|Machine Learning & NLP using Python|5 Days|24th June, 2024 to 28th June, 2024|Infosys Springboard|
 |4|Dr.Manreet Sohal|Designing Course Outcomes and Outcomes-focused Questions|1 Day|09/08/2023|	InPods Ed-tech|
@@ -95,30 +96,6 @@ Following are the Winners of the Competition:
 
 
 ### Students' achievements
-
-
-#### **Sports Day 2022- Held on 8-9 March,2022**
-
-***List of winners:***
-
-| Sr. No. | Name      | Roll No.   | Class | Event    | Prize    |
-|:--------|:----------|:-----------|:------|:---------|:---------|
-| 1       | Satleen Singh  | 2191050 |BCA 1st  | Discuss throw  | 1st  |
-|2        | Satleen Singh |2191050|BCA 1st| Shot put throw| 2nd|
-|3|Arbaaz Khan|2004371|BCA 2nd|10 km race|2nd |
-|4|Ashutosh|2004374|BCA 2nd |Discuss throw|3rd |
-|5|Devinder Kumar|2191001|	BCA 1st	|1500 m race|	3rd| 
-|6|Girls	|	|	BCA & MCA |Tug of war	|1st|
-
-
-![HSR](Images/sports11.jpg) 
-![HSR](Images/sports12.jpg)
-![HSR](Images/sports15.jpg)
-![HSR](Images/sports14.jpg)
-![HSR](Images/sports16.jpg)
-![HSR](Images/Sports13.jpg)
-
- Winners from Sports meet 2022 
 
 
 #### **Sports Day 2023- Held on 2-3 March,2023**
@@ -170,13 +147,27 @@ Following are the Winners of the Competition:
 |---|----|---|-----|------|---|--|
 |1.|Surya Dev & Vishal|MCA 1st|Java Maestros(Coding using JAVA)|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
 |2.|Simranjeet Kaur & Rajan|MCA 1st|Photography|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
-|3.|Chetan Kashyap|BCA 1st| Bug Bounty Hunter| Iitian Club, GNDEC Ludhiana| 9-11-22|2nd|
+
+Computonics Club
+**|S.No.|Name of event|Event type |Date|**
+|1.| Recruitments| Interview| 31-01-2024|
+|2.| Linkedin Link Up| Technical|22-01-2024|
+|3.| LINUX UNLEASHED|Technical |05-02-2024|
+|4.| APPLICATION OASIS|Technical |13-02-2024|
+|5.| RECAPITULATE|Technical|27-02-2024|
+|6.| CYBER SECURITY|Technical|15-03-2024|
+|7.| Fresher’s Day Celebration|Cultural |02-09-2023|
+|8.| Recruitment|Interview |15-09-2023|
+|9.| Programming Contest| Technical|18-09-2023|
+|10.| Mock Interview|Interview |21-09-2023|
+|11.| Quiz|Technical |06-10-2023|
+|12.| Group Discussion|Technical |16-10-2023|
 
 
 ### Placements  
 
--	Khushi Singla student of MCA placed in Cognizant and TCS. (2022)
--	Prabhjot Kaur and Nidhi Jha students of MCA placed in Seasia Infotech. (2022)
+	
+
 -	Himanshi Rani student of MCA placed in Cognizant. (2023)
 -	Aprajita Kumari student of MCA placed in Education Pvt Ltd. (2023) 
 
