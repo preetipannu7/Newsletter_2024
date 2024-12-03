@@ -475,7 +475,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 
 ![Advisor Session (Machine)](Images/2DW2.jpeg)
 
-- <div align="jutify"> This event was organized on 28th and 29th October 2024. The Workshop Coordinator was Er. KuldeepakSingh . The expert talk was given by Dr. Gurjot Kaur Walia and Er. Kunwar Partap Singh. The topics that were covered were: Combinational Circuit Design and its real life applications, Signal Conversions : Analog and Digital Signals and Programming and Design using VHDL.</div>
+- <div align="jutify">This event was organized on 28th and 29th October 2024. The Workshop Coordinator was Er. KuldeepakSingh . The expert talk was given by Dr. Gurjot Kaur Walia and Er. Kunwar Partap Singh. The topics that were covered were: Combinational Circuit Design and its real life applications, Signal Conversions : Analog and Digital Signals and Programming and Design using VHDL.</div>
 
 ---------------------------------------------
 ### Poster Designing Competition in collab with Central Library
@@ -497,7 +497,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 
 ![Advisor Session (Machine)](Images/3DP2.jpeg)
 
-- <div align="jutify"> This event was held on 11th and 13th November 2024. This workshop was coordinated by Dr. Gurpurneet Kaur and co-coordinated by Prof. Shivmanmeet Singh and the student demonstrator was Anmol Kumar Srivastav(Co-Convenor ISF).The event on day 1 was familiarizing the participants with the topic and day 2 highlighted actually printing in the 3D printing.</div>
+- <div align="jutify">This event was held on 11th and 13th November 2024. This workshop was coordinated by Dr. Gurpurneet Kaur and co-coordinated by Prof. Shivmanmeet Singh and the student demonstrator was Anmol Kumar Srivastav(Co-Convenor ISF).The event on day 1 was familiarizing the participants with the topic and day 2 highlighted actually printing in the 3D printing.</div>
 
 ---------------------------------------------
 ### TechNova- Project Exhibition
