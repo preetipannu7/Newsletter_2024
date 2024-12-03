@@ -27,7 +27,7 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### Visit to Semicon on 27 Feb, 2023
+### Semicon Roadshow on 27 Feb, 2023
 
 ![Students](Images/w.JPG)
 
