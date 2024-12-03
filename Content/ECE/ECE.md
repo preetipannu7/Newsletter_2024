@@ -337,10 +337,11 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 -----------------------------------------
 ### Gusto Knack
 
-![Web development workshop](Images/b.jpg)
+![Gusto Knack](Images/GK poster.jpg)
+![Gusto Knack](Images/GK 1.jpg)
+![Gusto Knack](Images/GK 2.jpg)
 
-- <div align="jutify"> This event was organized in the Anand Utsav’s Techn-o-Mela on the 16th March 2023. In this event; a team of two or three members were made. There were questions which had to be answered as a team in the first round. Furthermore; the qualifying teams had to split up and the members individually had to play another round of quiz and ones answering the fastest were awarded first, second and third positions respectively.
-.</div>
+- <div align="jutify"> This event was organized in the Anand Utsav’s Techn-o-Mela on the 16th March 2023. In this event; a team of two or three members were made. There were questions which had to be answered as a team in the first round. Furthermore; the qualifying teams had to split up and the members individually had to play another round of quiz and ones answering the fastest were awarded first, second and third positions respectively.</div>
 
 -----------------------------------------
 ### Workshop on Arduino and Soldering
