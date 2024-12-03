@@ -354,40 +354,61 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 
 ![Arduino and Soldering](Images/AS2.jpg)
 
-This event was organized in April 2023; Every Thursday for 3 weeks starting 13th April 2023.This was a workshop organized to make the students familiar with topics like Arduino and Soldering. This was a peer-to-peer event and our kind seniors Puran Singh and Satnam Singh were the tutors for the event. This was a practical learning workshop where students practiced everything themselves simultaneously.
+- <div align="jutify"> This event was organized in April 2023; Every Thursday for 3 weeks starting 13th April 2023.This was a workshop organized to make the students familiar with topics like Arduino and Soldering. This was a peer-to-peer event and our kind seniors Puran Singh and Satnam Singh were the tutors for the event. This was a practical learning workshop where students practiced everything themselves simultaneously.</div>
 
 -----------------------------------------
 ### Expert Talk on Emerging Technologies by Prof. P. Prabhakar(Immediate Past President of IETE Student’s Forum)
 
-![Database automation Workshop](Images/tt.jpeg)
+![Emerging Technologies](Images/ET poster.png)
 
-![Database automation Workshop](Images/a.jpg)
+![Emerging Technologies](Images/ET1.jpg)
 
-- This event was organized on 17th May 2023.The expert lecture was given by IETE Student’s Forum Immediate Past President Prof. P. Prabhakar. Sir educated us about his detailed knowledge about the Emerging Technologies. The listeners also asked any questions they had and discussed about the new possibilities in the technology area..
+- <div align="jutify">This event was organized on 17th May 2023.The expert lecture was given by IETE Student’s Forum Immediate Past President Prof. P. Prabhakar. Sir educated us about his detailed knowledge about the Emerging Technologies. The listeners also asked any questions they had and discussed about the new possibilities in the technology area.</div>
+
 -----------------------------------------
 ### Expert Talk on Wireless Communication
 
+![Advisor Session (Wireless Communication)](Images/WC poster.jpeg)
 
-![Advisor Session (Team building and Motivation)](Images/gg.jpeg)
+![Advisor Session (Wireless Communication)](Images/WC1.jpg)
 
-![Advisor Session (Team building and Motivation)](Images/f.jpg)
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
 
-- This event was organized on 22nd September 2023.The expert lecture was given by Dr. MehtabSingh(Top 1% Researcher in Optical Communication). Sir educated about his detailed knowledge in the topic. He was very cooperative and answered many questions of the listeners. His detailed knowledge in the given topic was extremely helpful to the listeners.
+- <div align="jutify">This event was organized on 22nd September 2023.The expert lecture was given by Dr. MehtabSingh(Top 1% Researcher in Optical Communication). Sir educated about his detailed knowledge in the topic. He was very cooperative and answered many questions of the listeners. His detailed knowledge in the given topic was extremely helpful to the listeners.</div>
 
 -------------‐---------------------------
 ### Code Debugging
 
--This event was conducted on 02nd February 2024.In this event; in the first round the participants were provided with codes in basic programming languages with errors in them and the participants had to find out the errors in those codes. This round was comparatively kept a little easy than the second round. The selected participants from the first round were forwarded to second round. With  higher difficulty, the errors had to be found in the given codes. Three winners were selected on the basis of the higher score. 
+![Advisor Session (code)](Images/CD poster.jpg)
+
+![Advisor Session (code)](Images/CD1.jpg)
+
+![Advisor Session (code)](Images/CD2.jpg)
+
+- <div align="jutify">This event was conducted on 02nd February 2024.In this event; in the first round the participants were provided with codes in basic programming languages with errors in them and the participants had to find out the errors in those codes. This round was comparatively kept a little easy than the second round. The selected participants from the first round were forwarded to second round. With  higher difficulty, the errors had to be found in the given codes. Three winners were selected on the basis of the higher score.</div> 
 
 ----------------------------------------
 ### Flash Fiesta- A peer to peer learning on Photography
 
-- This event was organized on 09th February 2024. This event  was led by our Co-Convenor DhairyaSobti. He shared his immense knowledge in Photography. He shared with us great knowledge about lens , about different camera settings and a lot more. Following which; we followed up a photography competition to test the knowledge taken in. The three winners were selected accordingly.
+![Advisor Session (Flash)](Images/FF poster.jpg)
+
+![Advisor Session (Flash)](Images/FF1.jpg)
+
+![Advisor Session (Flash)](Images/FF2.jpg)
+
+- <div align="jutify">This event was organized on 09th February 2024. This event  was led by our Co-Convenor DhairyaSobti. He shared his immense knowledge in Photography. He shared with us great knowledge about lens , about different camera settings and a lot more. Following which; we followed up a photography competition to test the knowledge taken in. The three winners were selected accordingly.</div> 
 
 ------------------------------------------
 ### Problem Poster Debate 
 
--This event was organized in Anand Utsav’s Technomelaon  6th March 2024.A team of three members was made. This was a three round event. In the first round , a problem related to technology or society was provided to the team and they had to find a solution to the given problem in the specified time period. In the second round; a poster representing the problem’s solution had to be made. In the third round; The teams engaged in a debate where they defend their proposed solutions. The teams that stood out in the three rounds were awarded 1st, 2nd and 3rd position accordingly.
+![Advisor Session (Problem)](Images/PPD poster.jpg)
+
+![Advisor Session (Problem)](Images/PPD1.jpg)
+
+![Advisor Session (Problem)](Images/PPD2.jpg)
+
+
+- <div align="jutify">This event was organized in Anand Utsav’s Technomelaon  6th March 2024.A team of three members was made. This was a three round event. In the first round , a problem related to technology or society was provided to the team and they had to find a solution to the given problem in the specified time period. In the second round; a poster representing the problem’s solution had to be made. In the third round; The teams engaged in a debate where they defend their proposed solutions. The teams that stood out in the three rounds were awarded 1st, 2nd and 3rd position accordingly.</div> 
 
 ------------------------------------------
 ### Expert Talk on Machine Learning and its application using python 
