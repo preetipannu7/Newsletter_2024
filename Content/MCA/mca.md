@@ -72,27 +72,6 @@ Faculty and students attending the Seminar
 |6|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
 |7|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
 
-### Rangoli Competition
-
-<p align=justify>
-A rangoli competition in lieu of Diwali celebration was organized by the department of Computer Applications on 21/10/2022 for the students of BCA and MCA. Prof. Birpal Kaur and Prof. Amanpreet Kaur were the coordinator faculty for the event.
-</p>
-
-<p align=justify>
-Following are the Winners of the Competition:
-</p>
-
-- 1st  Prize- Ritu and Pooja Rani (BCA 2nd year)
-- 2nd Prize- Jai Kaundal (BCA 3rd  year) and Mittali makkar(BCA 1st year)
-- 3rd Prize- Sukhpreet Kaur and Arshpreet Singh (MCA 1st year)
-
-
-![HSR](Images/Rangoli1.jpg) 
-![HSR](Images/Rangoli2.jpg)
-![HSR](Images/Rangoli3.jpg) 
-![HSR](Images/Rangoli4.jpg)
-
-**Dr. Parminder Singh (Head, CSE) along with the faculty of Computer Applications giving away the prizes to the winners**
 
 
 ### Students' achievements
@@ -132,7 +111,7 @@ Following are the Winners of the Competition:
 |S.No.|	Name                      |Class	|Event 	|Prize|
 |:--------|:----------      |:-----------|:------|:---------|
 |1| Amritpreet Kaur	      |MCA 2nd	|Punjabi Folk Dance Giddha (Inter Zonal)|	1st|
-|2.|Gurbhej Singh|	MCA 1st	|Punjabi Folk Dance Bhangra (Inter Zonal)|	1st|
+|2.|Inderjeet singh|	BCA 3rd	|Punjabi Folk Dance Bhangra (Inter Zonal)|	1st|
 |3.|Jagjot Singh	|BCA 2nd	|Indian Group Song (Inter Zonal)|	2nd|
 |4.|Jagjot Singh|BCA 2nd|Non Percussion Solo (Inter Zonal)|	3rd|
 |5.|Minaz|	BCA 1st|	One Act Play (Inter Zonal)|	1st|
