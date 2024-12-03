@@ -62,24 +62,7 @@ Faculty and students attending the Seminar
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
 | 1       | Prof. Dinesh Anand |Free Software and Resources for Technical Education through ICT      | 1 week | 21-25 March,2022   | NITTTR, Chandigarh |
 |2|Prof. Jasbir Singh Saini|Virtual Labs| 3 days| 1-3 December, 2021| GNDEC & IIT ROORKEE|
-
-
-## Students' Corner
-
-### Industrial Trip
-<p align=justify>
-Department of Computer Applications, GNDEC Ludhiana had organized an Industrial visit on 21 April,2022 to Nebero systems private limited located in Mohali, SAS nagar, Chandigarh. The visit was organized by HOD of Computer Applications, Prof. Jasbir Singh Saini and Programme coordinator Prof. Dinesh Anand.
-</p>
-
-<p align=justify>
-Prof. Kamalpreet Kaur and Prof. Gurjiwan Singh were the coordinator faculty of Industrial visit. Students of BCA 1st year, 2nd year and MCA 1st year along with two coordinators faculty were in the Journey.
-</p>
-
-
-
-![HSR](Images/industrialtrip.jpeg)
-
-Industrial Trip to Nebero Systems
+|3| Dr.Manreet Sohal|Building Advanced Data Analytics Applications With Cloud|5 Days|16/10/2023 to 20/10/2023|	Edunet Foundation and AICTE|
 
 
 
