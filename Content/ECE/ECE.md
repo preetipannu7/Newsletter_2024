@@ -413,18 +413,38 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 ------------------------------------------
 ### Expert Talk on Machine Learning and its application using python 
 
-- This event was organized on 20th March 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one.
+![Advisor Session (Machine)](Images/ML poster.jpg)
+
+![Advisor Session (Machine)](Images/ML1.jpg)
+
+![Advisor Session (Machine)](Images/ML2.jpg)
+
+
+- <div align="jutify">This event was organized on 20th March 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one.</div>
 
 -------------------------------------------
 ### Project Exhibition
 ## Expert Lecture on PLC for Industrial Applications
 
--This event was organized on 14th August 2024.The event was graced by tutors Satnam Singh and Rajjot Singh. The speakers were well versed with the topic and their great knowledge was so helpful to us in getting detailed knowledge of the topic. The different experiments and projects were helpful in better understanding. We even saw hardware parts of the plc used in industrial applications.
+![Advisor Session (Machine)](Images/PLC poster.jpg)
+
+![Advisor Session (Machine)](Images/PLC1.jpg)
+
+![Advisor Session (Machine)](Images/PLC2.jpg)
+
+- <div align="jutify">This event was organized on 14th August 2024.The event was graced by tutors Satnam Singh and Rajjot Singh. The speakers were well versed with the topic and their great knowledge was so helpful to us in getting detailed knowledge of the topic. The different experiments and projects were helpful in better understanding. We even saw hardware parts of the plc used in industrial applications.</div>
 
 -------------------------------------------
 ### Workshop on Cyber Security with Shell Scripting Automation 
 
--This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.
+![Advisor Session (Machine)](Images/CS poster.jpg)
+
+![Advisor Session (Machine)](Images/CS1.jpg)
+
+![Advisor Session (Machine)](Images/CS2.jpg)
+
+
+- <div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
 
 --------------------------------------------
 ### Hands on Experience on Soldering and Desoldering
