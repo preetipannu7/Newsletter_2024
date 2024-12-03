@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/7c525d4e-0e85-4cb2-8971-8711bf5267fa)# Department of Computer Science and Engineering  
 
-![DPS](Images/j1.jpg)
+![DPS](Images/j2.jpg)
 
 ## Message from HOD
 <div align = "justify"> I congratulate all involved for publication of newsletter. It is a matter of great pleasure and I would like to share few of my thoughts as the Head of Department of Computer Science and Engineering, which was established in 1994. Since then the department is flourishing and achieving new heights. We are offering undergraduate program – B.Tech. in Computer Science and Engineering, and post-graduate program – M.Tech. in Computer Science and Engineering. Department also have Ph.D. program running under autonomous status.<br>
@@ -217,20 +217,19 @@ We are also actively involved in research and development activities. Our facult
 
 | Sr. No. | Name of Event| Event Type| Date|
 |---------|----------------|--------|-------|
-| 1  |Code Kaze           |   Technical Coding Event        |   06-02-2022  |
-| 2  |Configure to aspire     | Seminar       |   13-02-2022  |
-| 3  |Development vs CP: Which to focus on/IT       |   Seminar     |   15-02-2022  |
-| 4  |Techno Charades           |   Technical        |   12-10-2022  |
-| 5  |Quantum Computing (Session 1)   |   Workshop      |   04-11-2022  |
-| 6  |Quantum Computing (Session 2)   |   Workshop      |   11-11-2022  |
+| 1  |Workshop on Cyber Security           |   Workshop        |   27-Feb-24  |
+| 2  |Workshop on Data Science     | Workshop       |   06-Feb-24 |
+| 3  |Blockchain and Web3 Technologies       |   Expert Talk     |   18-Sep-23  |
 
 
 ### Data Science Club  
 
 | Sr. No. | Name of Event| Event Type| Date|
 |---------|----------------|--------|-------|
-| 1  |Workshop on Advanced Web Technologies     |   Workshop   |   10-11-2022  |
-| 2  |Seminar on Data Analytics and Information Security     | Seminar       |   03-11-2022  |
-| 3  |Fun O'Holics (Data Science) |   Technical Event     |   04-05-2022  |
-| 4  |Seminar Session on Build Swiggy Like ChatBot     |   Seminar        |   23 to 25 February, 2022  |
-| 5  |Unlock the #Code2Future with Scholarship Test   |   Technical Coding Event      |   04-01-2022  |
+| 1  |Tech News Presentation(Anand Utsav 2024)     |   Technical Event   |   06/03/2024  |
+| 2  |International Webinar on “An Introduction to Internet of Things (IoT) Technology and its Relevance to Engineering”     | Webinar       |   02/03/2024  |
+| 3  |CO-DEsigners |   Technical Event     |   02/02/2024  |
+| 4  |PUZZEL PARCEL GNE’S APEX 2023     |  Activity        |   20/10/2023  |
+| 5  |BRAINIAC BATTLE GNE’S APEX 2023   |   Activity      |   20/10/2023  |
+| 6  |Smart Prompts  |   Activity      |   21/09/2023  |
+| 7  |International Webinar on “Artificial Intelligence with Business Analytics”    |  Webinar      |   14/04/2023  |
