@@ -17,7 +17,7 @@ The Department of Information Technology (DIT) imposes impact on both the urban 
 
   ![HSR](Images/NBA.jpg)
 
-
+## Academic Excellence
 ## Faculty Achievements  
 
 - ![HSR](Images/pankaj.jpeg) Dr. Pankaj Bhambri, Assistant Professor(IT), got Indian Society for Technical Education(ISTE) Best Teacher award.
