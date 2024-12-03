@@ -348,11 +348,11 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 -----------------------------------------
 ### Workshop on Arduino and Soldering
 
-![Tricky Circuits](Images/c.jpg)
+![Arduino and Soldering](Images/AS poster.jpg)
 
-![Tricky Circuits](Images/d.jpg)
+![Arduino and Soldering](Images/AS1.jpg)
 
-![Tricky Circuits](Images/e.jpg)
+![Arduino and Soldering](Images/AS2.jpg)
 
 This event was organized in April 2023; Every Thursday for 3 weeks starting 13th April 2023.This was a workshop organized to make the students familiar with topics like Arduino and Soldering. This was a peer-to-peer event and our kind seniors Puran Singh and Satnam Singh were the tutors for the event. This was a practical learning workshop where students practiced everything themselves simultaneously.
 
