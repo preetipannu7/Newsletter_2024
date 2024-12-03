@@ -29,9 +29,9 @@ Dr. Narwant Singh Grewal
 
 ### Visit to Semicon on 27 Feb, 2023
 
-![Students](Images/w.jpg)
+![Students](Images/w.JPG)
 
-![Students](Images/x.JPG)
+![Students](Images/x.jpg)
 
 -----------------------------------------
 
