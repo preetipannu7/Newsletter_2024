@@ -368,7 +368,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 -----------------------------------------
 ### Expert Talk on Wireless Communication
 
-![Advisor Session (Wireless Communication)](Images/WCposter.jpeg)
+![Advisor Session (Wireless Communication)](Images/WCposter.jpg)
 
 ![Advisor Session (Wireless Communication)](Images/WC1.jpg)
 
@@ -425,11 +425,11 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 ### Project Exhibition
 ## Expert Lecture on PLC for Industrial Applications
 
-![Advisor Session (Machine)](Images/PLCposter.jpg)
+![Advisor Session (Machine)](Images/PLCposter.png)
 
-![Advisor Session (Machine)](Images/PLC1.jpg)
+![Advisor Session (Machine)](Images/PLC1.png)
 
-![Advisor Session (Machine)](Images/PLC2.jpg)
+![Advisor Session (Machine)](Images/PLC2.png)
 
 - <div align="jutify">This event was organized on 14th August 2024.The event was graced by tutors Satnam Singh and Rajjot Singh. The speakers were well versed with the topic and their great knowledge was so helpful to us in getting detailed knowledge of the topic. The different experiments and projects were helpful in better understanding. We even saw hardware parts of the plc used in industrial applications.</div>
 
@@ -438,16 +438,16 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 
 ![Advisor Session (Machine)](Images/CSposter.jpg)
 
-![Advisor Session (Machine)](Images/CS1.jpg)
+![Advisor Session (Machine)](Images/CS1.jpeg)
 
-![Advisor Session (Machine)](Images/CS2.jpg)
+![Advisor Session (Machine)](Images/CS2.jpeg)
 
 - <div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
 
 --------------------------------------------
 ### Hands on Experience on Soldering and Desoldering
 
-![Advisor Session (Machine)](Images/SDposter.jpg)
+![Advisor Session (Machine)](Images/SDposter.png)
 
 ![Advisor Session (Machine)](Images/SD1.jpg)
 
@@ -501,7 +501,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 ---------------------------------------------
 ### TechNova- Project Exhibition
 
-![Advisor Session (Machine)](Images/TNposter.jpg)
+![Advisor Session (Machine)](Images/TNposter.jpeg)
 
 ![Advisor Session (Machine)](Images/TN1.jpg)
 
