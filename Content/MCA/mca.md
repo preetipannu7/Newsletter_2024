@@ -149,7 +149,7 @@ Following are the Winners of the Competition:
 |2.|Simranjeet Kaur & Rajan|MCA 1st|Photography|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
 
 ### Computonics Club
-**|S.No.|Name of event|Event type |Date|**
+|S.No.|Name of event|Event type |Date|
 |---|----|---|-----|
 |1.| Recruitments| Interview| 31-01-2024|
 |2.| Linkedin Link Up| Technical|22-01-2024|
