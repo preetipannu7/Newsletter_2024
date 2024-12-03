@@ -360,7 +360,7 @@ This event was organized in April 2023; Every Thursday for 3 weeks starting 13th
 
 ![Database automation Workshop](Images/a.jpg)
 
-- This event was organized on 22nd September 2023.The expert lecture was given by Dr. MehtabSingh(Top 1% Researcher in Optical Communication). Sir educated about his detailed knowledge in the topic. He was very cooperative and answered many questions of the listeners. His detailed knowledge in the given topic was extremely helpful to the listeners event was organized on 17th May 2023.The expert lecture was given by IETE Student’s Forum Immediate Past President Prof. P. Prabhakar. Sir educated us about his detailed knowledge about the Emerging Technologies. The listeners also asked any questions they had and discussed about the new possibilities in the technology area.
+- This event was organized on 17th May 2023.The expert lecture was given by IETE Student’s Forum Immediate Past President Prof. P. Prabhakar. Sir educated us about his detailed knowledge about the Emerging Technologies. The listeners also asked any questions they had and discussed about the new possibilities in the technology area..
 -----------------------------------------
 ### Expert Talk on Wireless Communication
 
@@ -369,7 +369,67 @@ This event was organized in April 2023; Every Thursday for 3 weeks starting 13th
 
 ![Advisor Session (Team building and Motivation)](Images/f.jpg)
 
-- IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a session to give students detailed information about team building and motivation towards joining IETE on 10, Nov, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed 
+- This event was organized on 22nd September 2023.The expert lecture was given by Dr. MehtabSingh(Top 1% Researcher in Optical Communication). Sir educated about his detailed knowledge in the topic. He was very cooperative and answered many questions of the listeners. His detailed knowledge in the given topic was extremely helpful to the listeners.
+
+-------------‐---------------------------
+### Code Debugging
+
+-This event was conducted on 02nd February 2024.In this event; in the first round the participants were provided with codes in basic programming languages with errors in them and the participants had to find out the errors in those codes. This round was comparatively kept a little easy than the second round. The selected participants from the first round were forwarded to second round. With  higher difficulty, the errors had to be found in the given codes. Three winners were selected on the basis of the higher score. 
+
+----------------------------------------
+### Flash Fiesta- A peer to peer learning on Photography
+
+- This event was organized on 09th February 2024. This event  was led by our Co-Convenor DhairyaSobti. He shared his immense knowledge in Photography. He shared with us great knowledge about lens , about different camera settings and a lot more. Following which; we followed up a photography competition to test the knowledge taken in. The three winners were selected accordingly.
+
+------------------------------------------
+### Problem Poster Debate 
+
+-This event was organized in Anand Utsav’s Technomelaon  6th March 2024.A team of three members was made. This was a three round event. In the first round , a problem related to technology or society was provided to the team and they had to find a solution to the given problem in the specified time period. In the second round; a poster representing the problem’s solution had to be made. In the third round; The teams engaged in a debate where they defend their proposed solutions. The teams that stood out in the three rounds were awarded 1st, 2nd and 3rd position accordingly.
+
+------------------------------------------
+### Expert Talk on Machine Learning and its application using python 
+
+- This event was organized on 20th March 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one.
+
+-------------------------------------------
+### Project Exhibition
+## Expert Lecture on PLC for Industrial Applications
+
+-This event was organized on 14th August 2024.The event was graced by tutors Satnam Singh and Rajjot Singh. The speakers were well versed with the topic and their great knowledge was so helpful to us in getting detailed knowledge of the topic. The different experiments and projects were helpful in better understanding. We even saw hardware parts of the plc used in industrial applications.
+
+-------------------------------------------
+### Workshop on Cyber Security with Shell Scripting Automation 
+
+-This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.
+
+--------------------------------------------
+### Hands on Experience on Soldering and Desoldering
+
+-This event was organized on 11th October 2024.This event was led and supervised by Prof. Shivmanmeet Singh. The event was coordinated by Savnoor Channi(Convenor ISF) and Dhairya Sobti(Co-Convenor ISF).Sir first talked about Soldering and Desoldering. Then a hands on training was done and all the participants did also practice soldering and desoldering.
+
+----------------------------------------------
+### Digital Artistry
+
+-This event was organized on 14th October 2024.In this event, team was created of two members each. Further; they were provided with a slogan. They had to present the slogan in the form of a poster. Also; they also had to present their poster and explain it and the presentation should be very appropriate to the slogan.
+
+----------------------------------------------
+### Two Day Workshop : Digital Electronics and VHDL: From theory to Practice
+
+- This event was organized on 28th and 29th October 2024. The Workshop Coordinator was Er. KuldeepakSingh . The expert talk was given by Dr. Gurjot Kaur Walia and Er. Kunwar Partap Singh. The topics that were covered were: Combinational Circuit Design and its real life applications, Signal Conversions : Analog and Digital Signals and Programming and Design using VHDL.
+
+---------------------------------------------
+### Poster Designing Competition in collab with Central Library
+
+-This event was held on 29th October 2024.This competition was held for students to make them familiar with the topics like How to access McGraw Hill ebooks, How to use DELNET, How to access EBSCO Journals, How to access IEEE Journals, How to search a book in WebOpac ; making the students familiar with the library resources. The students were awarded with three positions according to their posters.
+
+---------------------------------------------
+### 2 Day’s Workshop on 3D Printing : Peer to Peer Learning 
+
+-This event was held on 11th and 13th November 2024. This workshop was coordinated by Dr. Gurpurneet Kaur and co-coordinated by Prof. Shivmanmeet Singh and the student demonstrator was Anmol Kumar Srivastav(Co-Convenor ISF).The event on day 1 was familiarizing the participants with the topic and day 2 highlighted actually printing in the 3D printing.
+
+---------------------------------------------
+### TechNova- Project Exhibition
+
 
 
 **Editor: Dr. Preeti Pannu**
