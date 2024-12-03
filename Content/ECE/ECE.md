@@ -348,7 +348,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 -----------------------------------------
 ### Workshop on Arduino and Soldering
 
-![Arduino and Soldering](Images/AS poster.jpg)
+![Arduino and Soldering](Images/ASposter.jpg)
 
 ![Arduino and Soldering](Images/AS1.jpg)
 
@@ -359,7 +359,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 -----------------------------------------
 ### Expert Talk on Emerging Technologies by Prof. P. Prabhakar(Immediate Past President of IETE Student’s Forum)
 
-![Emerging Technologies](Images/ET poster.png)
+![Emerging Technologies](Images/ETposter.png)
 
 ![Emerging Technologies](Images/ET1.jpg)
 
@@ -368,7 +368,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 -----------------------------------------
 ### Expert Talk on Wireless Communication
 
-![Advisor Session (Wireless Communication)](Images/WC poster.jpeg)
+![Advisor Session (Wireless Communication)](Images/WCposter.jpeg)
 
 ![Advisor Session (Wireless Communication)](Images/WC1.jpg)
 
@@ -379,7 +379,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 -------------‐---------------------------
 ### Code Debugging
 
-![Advisor Session (code)](Images/CD poster.jpg)
+![Advisor Session (code)](Images/CDposter.jpg)
 
 ![Advisor Session (code)](Images/CD1.jpg)
 
@@ -390,7 +390,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 ----------------------------------------
 ### Flash Fiesta- A peer to peer learning on Photography
 
-![Advisor Session (Flash)](Images/FF poster.jpg)
+![Advisor Session (Flash)](Images/FFposter.jpg)
 
 ![Advisor Session (Flash)](Images/FF1.jpg)
 
@@ -401,19 +401,18 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 ------------------------------------------
 ### Problem Poster Debate 
 
-![Advisor Session (Problem)](Images/PPD poster.jpg)
+![Advisor Session (Problem)](Images/PPDposter.jpg)
 
 ![Advisor Session (Problem)](Images/PPD1.jpg)
 
 ![Advisor Session (Problem)](Images/PPD2.jpg)
-
 
 - <div align="jutify">This event was organized in Anand Utsav’s Technomelaon  6th March 2024.A team of three members was made. This was a three round event. In the first round , a problem related to technology or society was provided to the team and they had to find a solution to the given problem in the specified time period. In the second round; a poster representing the problem’s solution had to be made. In the third round; The teams engaged in a debate where they defend their proposed solutions. The teams that stood out in the three rounds were awarded 1st, 2nd and 3rd position accordingly.</div> 
 
 ------------------------------------------
 ### Expert Talk on Machine Learning and its application using python 
 
-![Advisor Session (Machine)](Images/ML poster.jpg)
+![Advisor Session (Machine)](Images/MLposter.jpg)
 
 ![Advisor Session (Machine)](Images/ML1.jpg)
 
@@ -426,7 +425,7 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 ### Project Exhibition
 ## Expert Lecture on PLC for Industrial Applications
 
-![Advisor Session (Machine)](Images/PLC poster.jpg)
+![Advisor Session (Machine)](Images/PLCposter.jpg)
 
 ![Advisor Session (Machine)](Images/PLC1.jpg)
 
@@ -437,43 +436,76 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 -------------------------------------------
 ### Workshop on Cyber Security with Shell Scripting Automation 
 
-![Advisor Session (Machine)](Images/CS poster.jpg)
+![Advisor Session (Machine)](Images/CSposter.jpg)
 
 ![Advisor Session (Machine)](Images/CS1.jpg)
 
 ![Advisor Session (Machine)](Images/CS2.jpg)
-
 
 - <div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
 
 --------------------------------------------
 ### Hands on Experience on Soldering and Desoldering
 
+![Advisor Session (Machine)](Images/SDposter.jpg)
+
+![Advisor Session (Machine)](Images/SD1.jpg)
+
+![Advisor Session (Machine)](Images/SD2.jpg)
+
 -This event was organized on 11th October 2024.This event was led and supervised by Prof. Shivmanmeet Singh. The event was coordinated by Savnoor Channi(Convenor ISF) and Dhairya Sobti(Co-Convenor ISF).Sir first talked about Soldering and Desoldering. Then a hands on training was done and all the participants did also practice soldering and desoldering.
 
 ----------------------------------------------
 ### Digital Artistry
+
+![Advisor Session (Machine)](Images/DAposter.jpg)
+
+![Advisor Session (Machine)](Images/DA1.jpg)
+
+![Advisor Session (Machine)](Images/DA2.jpg)
 
 -This event was organized on 14th October 2024.In this event, team was created of two members each. Further; they were provided with a slogan. They had to present the slogan in the form of a poster. Also; they also had to present their poster and explain it and the presentation should be very appropriate to the slogan.
 
 ----------------------------------------------
 ### Two Day Workshop : Digital Electronics and VHDL: From theory to Practice
 
+![Advisor Session (Machine)](Images/2DWposter.jpg)
+
+![Advisor Session (Machine)](Images/2DW1.jpg)
+
+![Advisor Session (Machine)](Images/2DW2.jpg)
+
 - This event was organized on 28th and 29th October 2024. The Workshop Coordinator was Er. KuldeepakSingh . The expert talk was given by Dr. Gurjot Kaur Walia and Er. Kunwar Partap Singh. The topics that were covered were: Combinational Circuit Design and its real life applications, Signal Conversions : Analog and Digital Signals and Programming and Design using VHDL.
 
 ---------------------------------------------
 ### Poster Designing Competition in collab with Central Library
 
+![Advisor Session (Machine)](Images/PDposter.jpg)
+
+![Advisor Session (Machine)](Images/PD1.jpg)
+
+![Advisor Session (Machine)](Images/PD2.jpg)
 -This event was held on 29th October 2024.This competition was held for students to make them familiar with the topics like How to access McGraw Hill ebooks, How to use DELNET, How to access EBSCO Journals, How to access IEEE Journals, How to search a book in WebOpac ; making the students familiar with the library resources. The students were awarded with three positions according to their posters.
 
 ---------------------------------------------
 ### 2 Day’s Workshop on 3D Printing : Peer to Peer Learning 
+
+![Advisor Session (Machine)](Images/3DPposter.jpg)
+
+![Advisor Session (Machine)](Images/3DP1.jpg)
+
+![Advisor Session (Machine)](Images/3DP2.jpg)
 
 -This event was held on 11th and 13th November 2024. This workshop was coordinated by Dr. Gurpurneet Kaur and co-coordinated by Prof. Shivmanmeet Singh and the student demonstrator was Anmol Kumar Srivastav(Co-Convenor ISF).The event on day 1 was familiarizing the participants with the topic and day 2 highlighted actually printing in the 3D printing.
 
 ---------------------------------------------
 ### TechNova- Project Exhibition
 
+![Advisor Session (Machine)](Images/TNposter.jpg)
+
+![Advisor Session (Machine)](Images/TN1.jpg)
+
+![Advisor Session (Machine)](Images/TN2.jpg)
 
 
 **Editor: Dr. Preeti Pannu**
