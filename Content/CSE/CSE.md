@@ -15,8 +15,9 @@ We are also actively involved in research and development activities. Our facult
 - Dupesh Malhan (2004562)
 
 ## Student Achievements
-- Harveer Singh URN: 1805183, Student of 2018-2022 Batch got placed at a highest package of 51 Lakh per Annum in Microsoft.
-- Two students of CSE Department (2017-2021 Batch) URN 1706410, Ayushi Sharma and URN 1706461 Kunika Malhotra got placed at a highest package of 18.17 Lakh per Annum in Walmart Global Technology Services India in 2021.
+- Ajit Kumar  URN: 2004884, student of 2020-2024 Batch got placed at a highest package of 9 Lakh per Annum in TCS PRIME.
+- Shivay Bhandari  URN: 1905398, student of 2019-2023 Batch got placed at a highest package of 20 Lakh per Annum in Zomato.
+- Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed at a highest package of 19.5 Lakh per Annum in Phone Pe.
 - Nitin Goyal, Anshik Thakur, Bhavneet, Ashwin, Aaina and Harshil, Participated in Grand Finale, Smart India Hackathon, 2022, Organized at KL university, Vijaywada, Andhra Pradesh.   
 - Punar Partap Singh Sidhu URN: 1905032 has been selected in Junior National Shooting Squad.
 
@@ -24,38 +25,20 @@ We are also actively involved in research and development activities. Our facult
 
 | Sr.No. | Name                    | U.R. No. | Course Name                                   | Year |
 |:--------|:-------------------------|:----------|:-----------------------------------------------|:------|
-| 1      | Anmol Mittal            | 2004540  | Ethical Hacking                               | 2022 |
-| 2      | Devanshi Singh          | 2004558  | Ethical Hacking                               | 2022 |
-| 3      | Harsh Verma             | 2004586  | Online Privacy                                | 2022 |
-| 4      | Harsh Verma             | 2004586  | Ethical Hacking                               | 2022 |
-| 5      | Nishant Khanna          | 2115093  | The Joy of Computing using Python             | 2022 |
-| 6      | Prabhdeep Kaur          | 2004640  | Ethical Hacking                               | 2022 |
-| 7      | Rohit                   | 2004653  | Ethical Hacking                               | 2022 |
-| 8      | Rohit                   | 2004653  | Introduction to Industry 4.0 and IIOT         | 2022 |
-| 9      | Rohit                   | 2004653  | Statistical Learning for Reliability Analysis | 2022 |
-| 10     | Saurav Sharma           | 2004662  | Ethical Hacking                               | 2022 |
-| 11     | Saurav Sharma           | 2004662  | Online Privacy                                | 2022 |
-| 12     | Yakshi Puri             | 2004688  | Ethical Hacking                               | 2022 |
-| 13     | Yakshi Puri             | 2004688  | Social Networks                               | 2022 |
-| 14     | Harmehak Singh Khangura | 1905103  | Introduction to Industry 4.0 and IIOT         | 2022 |
-| 15     | Harmehak Singh Khangura | 1905103  | Online Privacy                                | 2022 |
-| 16     | Harmehak Singh Khangura | 1905103  | Social Network Analysis                       | 2022 |
-| 17     | Harmehak Singh Khangura | 1905103  | Solar Energy Engineering and Technology       | 2022 |
-| 18     | Gurleen Kaur            | 1904995  | Ethical Hacking                               | 2022 |
-| 19     | Gurleen Kaur            | 1904995  | Online Privacy                                | 2022 |
-| 20     | Nitin Goyal             | 1905026  | Deep Learning                                 | 2022 |
-| 21     | Jaskamal Singh          | 1905006  | Online Privacy                                | 2022 |
-| 22     | Kanav Dua               | 1905011  | Ethical Hacking                               | 2022 |
-| 23     | Kanav Dua               | 1905011  | Introduction to Industry 4.0 and IOT          | 2022 |
-| 24     | Kanav Dua               | 1905011  | Conservation Geography                        | 2022 |
-| 25     | Blossom                 | 1904984  | Online Privacy                                | 2022 |
-| 26     | Gurleen Kaur            | 1904994  | Online Privacy                                | 2022 |
-| 27     | Gurleen Kaur            | 1904994  | Ethical Hacking                               | 2022 |
-| 28     | Jasmine Kaur Gill       | 1905008  | Online Privacy                                | 2022 |
-| 29     | Jasleen Kaur            | 1905007  | Online Privacy                                | 2022 |
-| 30     | Shantanu Kumar          | 1905049  | Ethical Hacking                               | 2022 |
-| 31     | Vishal Dutta            | 1905062  | Ethical Hacking                               | 2022 |
-| 32     | Prabhjot Singh          | 1905029  | Ethical Hacking                               | 2022 |
+| 1      | Prabhdeep Kaur          | 2004640  | Affective Computing                           | 2024 |
+| 2      | Muskandeep Kaur         | 2004628  | Affective Computing                            | 2024 |
+| 3      | Rohit              | 2004653  | Basics of Computational Complexity                        | 2024 |
+| 4      | Sukhpreet Kaur         | 2004675  | Software Testing (IIITB)                            | 2023 |
+| 5      | Harsh Verma         | 2004586  | Data Analytics with Python                           | 2023 |
+| 6      | Saurav Sharma         | 2004662  | Data Analytics with Python                           | 2023 |
+| 7      | Vivek Thakur         | 2004687| Data Analytics with Python                           | 2023 |
+| 8      | Yakshi Puri         | 2004688| Cloud Computing                            | 2023 |
+| 9      | Naman Marria         | 1905807| Model Checking                            | 2023 |
+| 10     | Naman Marria         | 1905807| Privacy and Security in Online Social Media                            | 2023 |
+| 11      | Jaskamal Singh         | 1905006| Rural Water Resources Management                            | 2023 |
+| 12      | Jaskamal Singh         | 1905006| Introduction to Embedded System Design                            | 2023 |
+
+
 
 ## Students of CSE participated and bagged various positions in IKGPTU Zonal Youth Festival  
 
@@ -81,7 +64,10 @@ We are also actively involved in research and development activities. Our facult
 - Dr. Parminder Singh, Professor(CSE), awarded as an **"Eminent Engineering Personality"** by Institution of Engineers (India).
 ![DPS](Images/s1.png) 
 - Dr. Sita Rani, Assistant Professor(CSE) has been recognized in **"WORLD RANKING OF TOP 2% SCIENTISTS-2024"** jointly published by Stanford University and Elsevier, in the area of “Artificial Intelligence & Image Processing".
-- Dr. Sita Rani, has joined the editorial board of the journal “Engineering Applications of Artificial Intelligence” (Published by ELSEVIER – Impact Factor: 7.5) as an **Associate Editor**. 
+- Dr. Sita Rani, has joined the editorial board of the journal “Engineering Applications of Artificial Intelligence” (Published by ELSEVIER – Impact Factor: 7.5) as an **Associate Editor**.
+![DPS](Images/s1.png) 
+- Dr. Amit Jain, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award** by Indian Society of Technical Education. 
+- Dr. Amit Jain has awarded with two Design patents with a total of five patents. 
 
   
 ## Faculty Research Publications  
@@ -208,11 +194,19 @@ We are also actively involved in research and development activities. Our facult
 | 6       | Infosys Limited                           |
 | 7       | TCS                                       |
 | 8       | WIPRO Limited  Om Careers                 |
-| 9       | TATRAS Data Services Pvt. Ltd.            |
-| 10      | Nagaro                                    |
-| 11      | ASG Technologies Pvt. Ltd.                |
-| 12      | Yatra Online Freight Services Pvt. Ltd.   |
-| 13      | Om Careers                                |
+| 9       | Amazon                |
+| 10       | PhonePe                |
+| 11      | Samsung                |
+| 12       | Zomato                |
+| 13       | TATRAS Data Services Pvt. Ltd.            |
+| 14      | Nagaro                                    |
+| 15      | ASG Technologies Pvt. Ltd.                |
+| 16      | Yatra Online Freight Services Pvt. Ltd.   |
+| 17      | Om Careers                                |
+| 18      | Argusoft                                |
+| 19      | ZS                               |
+| 20      | Josh Technology Group                                 |
+
 
 ## Activities/Events conducted by Department of Computer Science and Engineering under various Societies/Clubs
 
