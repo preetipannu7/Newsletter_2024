@@ -62,12 +62,14 @@ We are also actively involved in research and development activities. Our facult
 
 ![DPS](Images/p1.png) 
 - Dr. Parminder Singh, Professor(CSE), awarded as an **"Eminent Engineering Personality"** by Institution of Engineers (India).
+
 ![DPS](Images/s1.png) 
 - Dr. Sita Rani, Assistant Professor(CSE) has been recognized in **"WORLD RANKING OF TOP 2% SCIENTISTS-2024"** jointly published by Stanford University and Elsevier, in the area of “Artificial Intelligence & Image Processing".
 - Dr. Sita Rani, has joined the editorial board of the journal “Engineering Applications of Artificial Intelligence” (Published by ELSEVIER – Impact Factor: 7.5) as an **Associate Editor**.
-![DPS](Images/s1.png) 
-- Dr. Amit Jain, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award** by Indian Society of Technical Education. 
-- Dr. Amit Jain has awarded with two Design patents with a total of five patents. 
+  
+![DPS](Images/aj1.png) 
+- Dr. Amit Jain, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award** by Indian Society of Technical Education.
+- Dr. Amit Jain has awarded with two design patents with a total of five patents. 
 
   
 ## Faculty Research Publications  
