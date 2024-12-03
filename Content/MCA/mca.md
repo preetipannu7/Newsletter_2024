@@ -148,8 +148,9 @@ Following are the Winners of the Competition:
 |1.|Surya Dev & Vishal|MCA 1st|Java Maestros(Coding using JAVA)|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
 |2.|Simranjeet Kaur & Rajan|MCA 1st|Photography|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
 
-Computonics Club
+### Computonics Club
 **|S.No.|Name of event|Event type |Date|**
+|---|----|---|-----|
 |1.| Recruitments| Interview| 31-01-2024|
 |2.| Linkedin Link Up| Technical|22-01-2024|
 |3.| LINUX UNLEASHED|Technical |05-02-2024|
