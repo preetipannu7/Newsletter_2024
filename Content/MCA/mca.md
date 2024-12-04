@@ -47,14 +47,14 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 
 | Sr. No. | Name of Event                                                                                                                 | Faculty Coordinator                                           | Duration | Date(s)                | Sponsor(s)                                     |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|:-----------------------------------------------|
-| 1       |  A One-day seminar on Drug De-addiction            | Prof. Jasbir Singh Saini and Prof. Dinesh Anand | 1 day | 09 December, 2022   | GNDEC |
+| 1       |  A One-day seminar on Drug De-addiction  and Stress Management          | Prof. Jasbir Singh Saini and Prof. Dinesh Anand | 1 day | 23 November, 2023   | GNDEC |
 
 
 ![HSR](Images/seminar1.jpg)	 
 
 ![HSR](Images/Seminar2.jpg)  
 
-Faculty and students attending the Seminar 
+ 
 
 
 
@@ -69,14 +69,29 @@ Faculty and students attending the Seminar
 |9|Prof.Preeti Aggarwal|Machine Learning & NLP using Python|5 Days|24th June, 2024 to 28th June, 2024|Infosys Springboard|
 |4|Dr.Manreet Sohal|Designing Course Outcomes and Outcomes-focused Questions|1 Day|09/08/2023|	InPods Ed-tech|
 |5|Dr.Manreet Sohal|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
-|6|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
-|7|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
+|6|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|Dept. Of Applied Sciences& IQAC, GNDEC|
+|7|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|Dept. Of Applied Sciences& IQAC, GNDEC|
 
 
 
 ### Students' achievements
+#### **Sports Day 2024- Held on 22-23 Feb,2024**
+
+***List of winners:***
 
 
+
+|S.No.|	Name                      |	Roll No.	|Class	|Event 	|Prize|
+|:--------|:----------|:-----------|:------|:---------|:---------|
+|1.	|Satleen Singh|	2191050	|BCA 3rd|	Shot put Throw | 1st|
+|2.	|Satleen Singh|	2191050|	BCA 3rd |	Discuss Throw|	1st|
+|3.	|Devinder Kumar|	2191001|	BCA 3rd|	10 km Race	|3rd|
+|4.	|Devinder Kumar|	2191001 |	BCA 3rd	|1500 m Race|	2nd|
+|5.	|Devinder Kumar|	2191001 |	BCA 3rd	|High Jump|	2nd|
+|6.	|Devinder Kumar|	2191001 |	BCA 3rd	|High Jump|	2nd|
+
+ Winners from Sports meet 2024
+ 
 #### **Sports Day 2023- Held on 2-3 March,2023**
 
 ***List of winners:***
@@ -100,6 +115,20 @@ Faculty and students attending the Seminar
 ![HSR](Images/sports25.jpg)
  
  Winners from Sports meet 2023 
+
+ ### **Students of CA participated and bagged various positions in IKGPTU Inter College Tournament**
+
+***Positions held by students:***
+
+
+
+|S.No.|	Name                      |Class	|Event 	|Prize|
+|:--------|:----------      |:-----------|:------|:---------|
+|1| Nishant Kumar     |BCA 2nd	|Cricket|Winner|
+|2.|Sourav Kumar|	BCA 2nd	|Cricket|Winner|
+|3.|Minaz	|BCA 3rd	|Basketball|Winner|
+
+
  
 
 ### **Youth Festival**
@@ -110,7 +139,7 @@ Faculty and students attending the Seminar
 
 |S.No.|	Name                      |Class	|Event 	|Prize|
 |:--------|:----------      |:-----------|:------|:---------|
-|1| Amritpreet Kaur	      |MCA 2nd	|Punjabi Folk Dance Giddha (Inter Zonal)|	1st|
+|1| Manjit Kaur	      |BCA 3rd	|Punjabi Folk Dance Giddha (Inter Zonal)|	1st|
 |2.|Inderjeet singh|	BCA 3rd	|Punjabi Folk Dance Bhangra (Inter Zonal)|	1st|
 |3.|Jagjot Singh	|BCA 2nd	|Indian Group Song (Inter Zonal)|	2nd|
 |4.|Jagjot Singh|BCA 2nd|Non Percussion Solo (Inter Zonal)|	3rd|
@@ -127,7 +156,7 @@ Faculty and students attending the Seminar
 |1.|Surya Dev & Vishal|MCA 1st|Java Maestros(Coding using JAVA)|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
 |2.|Simranjeet Kaur & Rajan|MCA 1st|Photography|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
 
-### Computonics Club
+### Events conducted by Department of Computer Applications under Computonics Club
 |S.No.|Name of event|Event type |Date|
 |---|----|---|-----|
 |1.| Recruitments| Interview| 31-01-2024|
