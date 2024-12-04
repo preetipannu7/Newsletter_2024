@@ -106,7 +106,7 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |5.	|Devinder Kumar|	2191001 |	BCA 3rd	|High Jump|	2nd|
 
 
-![HSR](Images/sports111.jpg)
+![HSR](Images/sports111.JPG)
 
  Winners from Sports meet 2024
  
