@@ -107,6 +107,8 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 
 ![HSR](Images/Sports113.JPG)
+![HSR](Images/Sports112.JPG)
+![HSR](Images/Sports111.JPG)
 
  Winners from Sports meet 2024
  
