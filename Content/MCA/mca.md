@@ -105,6 +105,9 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |4.	|Devinder Kumar|	2191001 |	BCA 3rd	|1500 m Race|	2nd|
 |5.	|Devinder Kumar|	2191001 |	BCA 3rd	|High Jump|	2nd|
 
+
+![HSR](IMG-2436.JPG)
+
  Winners from Sports meet 2024
  
 #### **Sports Day 2023- Held on 2-3 March,2023**
