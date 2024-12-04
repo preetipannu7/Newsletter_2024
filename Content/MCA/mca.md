@@ -50,13 +50,13 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 | 1       |  A One-day seminar on Drug De-addiction  and Stress Management          | Prof. Jasbir Singh Saini and Prof. Dinesh Anand | 1 day | 23 November, 2023   | GNDEC |
 
 
-![HSR](Images/seminar231.jpg)	 
+![HSR](Images/Seminar231.jpg)	 
 
 ![HSR](Images/Seminar232.jpg) 
 
-![HSR](Images/seminar233.jpg)
+![HSR](Images/Seminar233.jpg)
 
-![HSR](Images/seminar234.jpg)
+![HSR](Images/Seminar234.jpg)
 
 Under the guidance of **HoD, Prof. Jasbir Singh Saini, the Department of Computer Applications** organized a seminar on the topic **“Drug De-Addiction” and “Stress Management”** on 23/11/23 as a part of BCA first semester curriculum of HVPE. All the faculty members along with HoD were present in the seminar.
 The guest of honor was **Ms. Shaffy Makkar.** The Program Coordinator **Prof. Dinesh Anand** addressed the students and welcomed the expert. The seminar took place in two sessions. The first session started at 9:30 am in which Ms Shaffy threw light on various aspects of drug abuse and impact of drugs on person’s health as well as on the society.
