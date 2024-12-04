@@ -31,7 +31,7 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 -	Prof. Jasbir Singh Saini is Fellow of Institution of Engineers (I), Kolkata- F-1215525.
 -	Prof. Jasbir Singh Saini is Life Member of Computer Society of India, Navi Mumbai.
 -	Prof. Jasbir Singh Saini is Charted Engineer of Institution of Engineers (I), Kolkata- F-1215525.
--   Prof. Jasbir Singh Saini has served as Member of Organizing Committee in Workshop on 'Virtual Labs' conducted by IIT Roorkee and Organized by GNDEC.
+  
 
 ## Publications
 
@@ -50,9 +50,14 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 | 1       |  A One-day seminar on Drug De-addiction  and Stress Management          | Prof. Jasbir Singh Saini and Prof. Dinesh Anand | 1 day | 23 November, 2023   | GNDEC |
 
 
-![HSR](Images/seminar1.jpg)	 
+![HSR](Images/seminar231.jpg)	 
 
-![HSR](Images/Seminar2.jpg)  
+![HSR](Images/Seminar232.jpg) 
+
+![HSR](Images/seminar233.jpg)
+
+![HSR](Images/seminar234.jpg)
+
 Under the guidance of **HoD, Prof. Jasbir Singh Saini, the Department of Computer Applications** organized a seminar on the topic **“Drug De-Addiction” and “Stress Management”** on 23/11/23 as a part of BCA first semester curriculum of HVPE. All the faculty members along with HoD were present in the seminar.
 The guest of honor was **Ms. Shaffy Makkar.** The Program Coordinator **Prof. Dinesh Anand** addressed the students and welcomed the expert. The seminar took place in two sessions. The first session started at 9:30 am in which Ms Shaffy threw light on various aspects of drug abuse and impact of drugs on person’s health as well as on the society.
 After that, the second session was held from 10:30 am to 11:30 am. In this session, the expert discussed about stress management and how friends and family can support a person suffering from depression. Further, the expert advised the students to spend some time with nature away from the mobile phones.
