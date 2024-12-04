@@ -17,8 +17,7 @@ The Department of Information Technology (DIT) imposes impact on both the urban 
 
   ![HSR](Images/NBA.jpg)
 
-## Academic Excellence
-- Faculty Achievements  
+## Faculty Achievements  
 
 - ![HSR](Images/pankaj.jpeg) Dr. Pankaj Bhambri, Assistant Professor(IT), got Indian Society for Technical Education(ISTE) Best Teacher award.
 
@@ -32,18 +31,13 @@ The Department of Information Technology (DIT) imposes impact on both the urban 
 
 - **S. Jain** and K. Malik,“Bone Age Estimation using Machine Learning Algorithms: A Review and Open Research Challenges,” 9th International Conference on Advance Research and Innovation - 2022, Mar. 2022.
 
-- **S. Jain** and K. Malik, “Pre-Processing Methods of Bone Age Estimation: A Review and Open Research Challenges,” 5th International Conference on Current trends in Engineering Sciences and Management, May 2022. 
+- **R.Kaur, “Exploring the Intricacies of Machine Learning-Based Optimization of Electric Discharge Machining on Squeeze Cast TiB2/AA6061 Composites: Insights from Morphological, and Microstructural aspects in the Surface Structure Analysis of Recast Layer Formation and Worn-Out Analysis”, Journal of Materials Research and Technology, Sept, 2023
 
-- **S. Kumar Singla**, “MDA and MDG Importance Measures of Random Forest for the selection of optimal parameters to predict the crop yield,” International Conference on Advance Trends in Computational Mathematics and Operations Research (ICCMSO-2022), Apr. 2022. 
+- **A. Kamra, “Enhancing diagnosis of breast cancer through mammographic image segmentation using Fuzzy C-Means”, INTERNATIONAL JOURNAL OF SUSTAINABLE Building Technology and Urban Development, December, 2023.
 
-- **R.  Kaur**, R. Kumar, and S. Rani , “Piezoelectric materials in sensors: Bibliometric and visualization analysis,” Internal Conference on Material science and Sustainable Manufacturing Technology, May 2022. 
+- **G.Kaur, “Emergence of Techno-Enterpreneurship during Covid-19”, PIMT Journal of Research, December, 2023.
 
-- **M. Kaur Kang**, “Bibliographic Survey of Wheat Research in India,” 9TH INTERNATIONAL CONFERENCE ON ADVANCE RESEARCH AND INNOVATION, Mar. 2022. 
-
-- **Bhambri, P.**, ritu. (2022). A CAD System for Software Effort Estimation.  2022 2nd International Conference on Technological Advancements in Computational Sciences (ICTACS). 
-
-- **Bhambri, P.**, SINGH, M., SINGH DHANOA, I; KUMAR, M. (2022). Deployment of ROBOT for HVAC Duct and Disaster Management. Oriental Journal of Computer Science and Technology. 
-
+- **Rupinder Kaur, “Exploring the role of computer vision in product design and development: a comprehensive review”, International Journal on Interactive Design and Manufacturing (IJIDeM), February, 2024.
 
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
