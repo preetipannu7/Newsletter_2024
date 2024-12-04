@@ -53,8 +53,8 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 ![HSR](Images/seminar1.jpg)	 
 
 ![HSR](Images/Seminar2.jpg)  
-Under the guidance of HoD, Prof. Jasbir Singh Saini, the Department of Computer Applications organized a seminar on the topic “Drug De-Addiction” and “Stress Management” on 23/11/23 as a part of BCA first semester curriculum of HVPE. All the faculty members along with HoD were present in the seminar.
-The guest of honor was Ms. Shaffy Makkar. The Program Coordinator Prof. Dinesh Anand addressed the students and welcomed the expert. The seminar took place in two sessions. The first session started at 9:30 am in which Ms Shaffy threw light on various aspects of drug abuse and impact of drugs on person’s health as well as on the society.
+Under the guidance of **HoD, Prof. Jasbir Singh Saini, the Department of Computer Applications** organized a seminar on the topic **“Drug De-Addiction” and “Stress Management”** on 23/11/23 as a part of BCA first semester curriculum of HVPE. All the faculty members along with HoD were present in the seminar.
+The guest of honor was **Ms. Shaffy Makkar.** The Program Coordinator **Prof. Dinesh Anand** addressed the students and welcomed the expert. The seminar took place in two sessions. The first session started at 9:30 am in which Ms Shaffy threw light on various aspects of drug abuse and impact of drugs on person’s health as well as on the society.
 After that, the second session was held from 10:30 am to 11:30 am. In this session, the expert discussed about stress management and how friends and family can support a person suffering from depression. Further, the expert advised the students to spend some time with nature away from the mobile phones.
 The expert gave various examples which could guide the students better. Overall, it was a very interactive session where the expert answered students’ questions regarding drug abuse.
 The seminar ended with a vote of thanks to the expert and best wishes to all the students.
