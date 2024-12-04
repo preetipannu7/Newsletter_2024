@@ -11,7 +11,7 @@ The Department of Computer Applications is dedicated for ensuring great careers 
 Sincerely, and with best wishes,
 
 Prof. Jasbir Singh Saini     
-Associate Professor and H.O.D.    
+Associate Professor and HoD    
 (Department of Computer Applications)
 
 ## Department at Glimpse
@@ -110,8 +110,8 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |5.	|Devinder Kumar|	2191001 |	BCA 3rd	|High Jump|	2nd|
 
 
-![HSR](Images/Sports241.JPG)
-![HSR](Images/Sports242.PG)
+![HSR](Images/Sports241.jpg)
+![HSR](Images/Sports242.jpg)
 ![HSR](Images/Sports243.JPG)
 ![HSR](Images/Sports244.JPG)
 
