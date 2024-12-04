@@ -53,6 +53,12 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 ![HSR](Images/seminar1.jpg)	 
 
 ![HSR](Images/Seminar2.jpg)  
+Under the guidance of HoD, Prof. Jasbir Singh Saini, the Department of Computer Applications organized a seminar on the topic “Drug De-Addiction” and “Stress Management” on 23/11/23 as a part of BCA first semester curriculum of HVPE. All the faculty members along with HoD were present in the seminar.
+The guest of honor was Ms. Shaffy Makkar. The Program Coordinator Prof. Dinesh Anand addressed the students and welcomed the expert. The seminar took place in two sessions. The first session started at 9:30 am in which Ms Shaffy threw light on various aspects of drug abuse and impact of drugs on person’s health as well as on the society.
+After that, the second session was held from 10:30 am to 11:30 am. In this session, the expert discussed about stress management and how friends and family can support a person suffering from depression. Further, the expert advised the students to spend some time with nature away from the mobile phones.
+The expert gave various examples which could guide the students better. Overall, it was a very interactive session where the expert answered students’ questions regarding drug abuse.
+The seminar ended with a vote of thanks to the expert and best wishes to all the students.
+
 
  
 
@@ -62,8 +68,9 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 
 | Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                        |
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
+|1| Prof. Jasbir Singh Saini|Quantum Computing| 6 Days | 18-23 December, 2023| GNDEC|
 |1| Prof. Dinesh Anand |NSQF Aligned Curriculum Design and Implementation   | 1 week | 18/9/2023 to 22/9/2023 | NITTTR, Chandigarh |
-|2|Prof. Jasbir Singh Saini|Virtual Labs| 3 days| 1-3 December, 2021| GNDEC & IIT ROORKEE|
+|2|Prof. Jasbir Singh Saini|NBA Accrediation and Teaching-Learning in Engineering| 6 Days| 1-6 January, 2024| GNDEC|
 |2|Prof.Harmandeep Kaur|Role of Techical Institutions in Rural Infrastructure Development| 1 Week|24-04-2023 to 28-04-2023| Rural Development Department NITTTR, Chandigarh|
 |3| Dr.Manreet Sohal|Building Advanced Data Analytics Applications With Cloud|5 Days|16/10/2023 to 20/10/2023|	Edunet Foundation and AICTE|
 |9|Prof.Preeti Aggarwal|Machine Learning & NLP using Python|5 Days|24th June, 2024 to 28th June, 2024|Infosys Springboard|
@@ -71,6 +78,12 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 |5|Dr.Manreet Sohal|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
 |6|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|Dept. Of Applied Sciences& IQAC, GNDEC|
 |7|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|Dept. Of Applied Sciences& IQAC, GNDEC|
+
+### Faculty Conference Publications
+
+| Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |
+|---------|--------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|----------------|------|
+| 1       | Prediction of Smart Building and Smart City Resources using Ai-techniques    | Prof.Jasbir Singh Saini | 2nd International Conference on  Innovation in Technology(INOCON-2023)  | International  | 2023 |
 
 
 
