@@ -114,6 +114,8 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 ![HSR](Images/Sports113.JPG)
 ![HSR](Images/Sports112.JPG)
 ![HSR](Images/Sports114.jpeg)
+![HSR](Images/Sports115.jpg)
+![HSR](Images/Sports116.jpg)
 
  Winners from Sports meet 2024
  
@@ -166,7 +168,7 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |:--------|:----------      |:-----------|:------|:---------|
 |1| Gurbhej Singh      |MCA 2nd	|Punjabi Folk Dance Bhangra (Zonal)|	1st|
 |2| Gurbhej Singh  	      |MCA 2nd|Punjabi Folk Dance Bhangra (Inter-Zonal)|	3rd|
-|3| Gurbhej Singh       |MCA 2nd	|Punjabi Folk Dance Bhangra (State Interversity)|	3rd|
+|3| Gurbhej Singh       |MCA 2nd	|Punjabi Folk Dance Bhangra (Inter-University)|	3rd|
 |4| Gurbhej Singh        |MCA 2nd	|Punjabi Folk Dance Bhangra(North Interversity)|	5th|
 |5| Jaspreet Kaur	      |	MCA 2nd|Group Song (Zonal)|	1st|
 |6| Jaspreet Kaur	      |	MCA 2nd|Group Song(Inter-Zonal)|2nd|
