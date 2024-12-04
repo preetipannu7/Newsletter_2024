@@ -10,17 +10,16 @@ We are also actively involved in research and development activities. Our facult
 <div align = "justify"> Department of Computer Science and Engineering is established in year 1997. Department is offering B.Tech. and M.Tech. programs in Computer Science and Engineering. Laboratories of the department are equipped with state of the art infrastructure to cater course work and research activities. A Good number of books is available in departmental library for prompt access to students and faculty members. Under academic autonomy, study schemes of the offered programs are updated regularly focusing outcome based education, to make students employable as per national and international requirements. Graduates of the department are serving around the globe in eminent companies, academia, as well as in public sector. They are bringing laurel to the department by excelling in fields of their work. Every year a good number of students are clearing different competitive exams</div>
 
 ## Student Coordinator
-- Harmehak Singh Khangura (1905103)
-- Gurleen Kaur (1904995)
-- Dupesh Malhan (2004562)
-
+- Harsimranjeet Singh ()
+- Jaideep Randhava (2203463)
+-  
+- 
 ## Student Achievements
 - Ajit Kumar  URN: 2004884, student of 2020-2024 Batch got placed at a highest package of 9 Lakh per Annum in TCS PRIME.
 - Shivay Bhandari  URN: 1905398, student of 2019-2023 Batch got placed at a highest package of 20 Lakh per Annum in Zomato.
-- Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed at a highest package of 19.5 Lakh per Annum in Phone Pe.
-- Nitin Goyal, Anshik Thakur, Bhavneet, Ashwin, Aaina and Harshil, Participated in Grand Finale, Smart India Hackathon, 2022, Organized at KL university, Vijaywada, Andhra Pradesh.   
-- Punar Partap Singh Sidhu URN: 1905032 has been selected in Junior National Shooting Squad.
-
+- Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed at a highest package of 19.5 Lakh per Annum in PhonePe.
+- Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, AarchieMaggu students of CSE got 2nd prize at National Level Smart Hackathon 2023 organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
+   
 ### Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
 
 | Sr.No. | Name                    | U.R. No. | Course Name                                   | Year |
