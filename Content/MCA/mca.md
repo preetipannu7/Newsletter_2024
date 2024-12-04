@@ -31,6 +31,8 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 -	Prof. Jasbir Singh Saini is Fellow of Institution of Engineers (I), Kolkata- F-1215525.
 -	Prof. Jasbir Singh Saini is Life Member of Computer Society of India, Navi Mumbai.
 -	Prof. Jasbir Singh Saini is Charted Engineer of Institution of Engineers (I), Kolkata- F-1215525.
+-	As Admissions Coordinator, JS Saini demonstrated exceptional performance by successfully achieving 100% enrollment targets for both undergraduate and postgraduate programs 
+within the department.
   
 
 ## Publications
@@ -88,9 +90,9 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 ### Faculty Conference Publications
 
-| Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |
-|---------|--------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|----------------|------|
-| 1       | Prediction of Smart Building and Smart City Resources using Ai-techniques    | Prof.Jasbir Singh Saini | 2nd International Conference on  Innovation in Technology(INOCON-2023)  | International  | 2023 |
+| Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |Organized By|
+|---------|--------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|----------------|------|------|
+| 1       | Prediction of Smart Building and Smart City Resources using AI-techniques    | Prof.Jasbir Singh Saini | 2nd International Conference on  Innovation in Technology(INOCON-2023)  | International  | 2023 |IEEE|
 
 
 
@@ -141,7 +143,7 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
  
  Winners from Sports meet 2023 
 
- ### **Students of CA participated and bagged various positions in IKGPTU Inter College Tournament**
+ ### **Students of CA participated  in IKGPTU Inter College Tournament**
 
 ***Positions held by students:***
 
@@ -167,7 +169,7 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |1| Gurbhej Singh      |MCA 2nd	|Punjabi Folk Dance Bhangra (Zonal)|	1st|
 |2| Gurbhej Singh  	      |MCA 2nd|Punjabi Folk Dance Bhangra (Inter-Zonal)|	3rd|
 |3| Gurbhej Singh       |MCA 2nd	|Punjabi Folk Dance Bhangra (Inter-University)|	3rd|
-|4| Gurbhej Singh        |MCA 2nd	|Punjabi Folk Dance Bhangra(North Interversity)|	5th|
+|4| Gurbhej Singh        |MCA 2nd	|Punjabi Folk Dance Bhangra(North Intervarsity)|	5th|
 |5| Jaspreet Kaur	      |	MCA 2nd|Group Song (Zonal)|	1st|
 |6| Jaspreet Kaur	      |	MCA 2nd|Group Song(Inter-Zonal)|2nd|
 |7| Jaspreet Kaur	      |MCA 2nd	|Shabdh|3rd|
