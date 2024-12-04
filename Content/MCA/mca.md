@@ -104,7 +104,6 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |3.	|Devinder Kumar|	2191001|	BCA 3rd|	10 km Race	|3rd|
 |4.	|Devinder Kumar|	2191001 |	BCA 3rd	|1500 m Race|	2nd|
 |5.	|Devinder Kumar|	2191001 |	BCA 3rd	|High Jump|	2nd|
-|6.	|Devinder Kumar|	2191001 |	BCA 3rd	|High Jump|	2nd|
 
  Winners from Sports meet 2024
  
@@ -155,12 +154,20 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 |S.No.|	Name                      |Class	|Event 	|Prize|
 |:--------|:----------      |:-----------|:------|:---------|
-|1| Manjit Kaur	      |BCA 3rd	|Punjabi Folk Dance Giddha (Zonal)|	1st|
-|2.|Inderjeet singh|	BCA 3rd	|Punjabi Folk Dance Bhangra ( Zonal)|	1st|
-|3.|Jagjot Singh	|BCA 3rd	|Indian Group Song (Inter Zonal)|	1st|
-|4.|Jagjot Singh|BCA 3rd| Classical Percussion  (Inter Zonal)|1st Runner up|
-|5.|Minaz|	BCA 2nd|	One Act Play (Inter Zonal)|	1st|
-|6.|Minaz	|BCA 2nd	|Skit (Zonal) & Mimicry (Zonal)|	2nd|
+|1| Gurbhej Singh      |MCA 2nd	|Punjabi Folk Dance Bhangra (Zonal)|	1st|
+|2| Gurbhej Singh  	      |MCA 2nd|Punjabi Folk Dance Bhangra (Inter-Zonal)|	3rd|
+|3| Gurbhej Singh       |MCA 2nd	|Punjabi Folk Dance Bhangra (State Interversity)|	3rd|
+|4| Gurbhej Singh        |MCA 2nd	|Punjabi Folk Dance Bhangra(North Interversity)|	5th|
+|5| Jaspreet Kaur	      |	MCA 2nd|Group Song (Zonal)|	1st|
+|6| Jaspreet Kaur	      |	MCA 2nd|Group Song(Inter-Zonal)|2nd|
+|7| Jaspreet Kaur	      |MCA 2nd	|Shabdh|3rd|
+|8| Jaspreet Kaur	      |	MCA 2nd|Indian Solo Vocal(Zonal)|	1st|
+|9|  Manjit Kaur	      |BCA 3rd	|Punjabi Folk Dance Giddha (Zonal)|	1st|
+|10.|Inderjeet singh|	BCA 3rd	|Punjabi Folk Dance Bhangra ( Zonal)|	1st|
+|11.|Jagjot Singh	|BCA 3rd	|Indian Group Song (Inter Zonal)|	1st|
+|12.|Jagjot Singh|BCA 3rd| Classical Percussion  (Inter Zonal)|1st Runner up|
+|13.|Minaz|	BCA 2nd|	One Act Play (Inter Zonal)|	1st|
+|14.|Minaz	|BCA 2nd	|Skit (Zonal) & Mimicry (Zonal)|	2nd|
 
 
 
