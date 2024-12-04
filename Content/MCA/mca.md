@@ -68,16 +68,19 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 | Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                        |
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
-|1| Prof. Jasbir Singh Saini|Quantum Computing| 6 Days | 18-23 December, 2023| GNDEC|
-|1| Prof. Dinesh Anand |NSQF Aligned Curriculum Design and Implementation   | 1 week | 18/9/2023 to 22/9/2023 | NITTTR, Chandigarh |
-|2|Prof. Jasbir Singh Saini|NBA Accrediation and Teaching-Learning in Engineering| 6 Days| 1-6 January, 2024| GNDEC|
-|2|Prof.Harmandeep Kaur|Role of Techical Institutions in Rural Infrastructure Development| 1 Week|24-04-2023 to 28-04-2023| Rural Development Department NITTTR, Chandigarh|
-|3| Dr.Manreet Sohal|Building Advanced Data Analytics Applications With Cloud|5 Days|16/10/2023 to 20/10/2023|	Edunet Foundation and AICTE|
-|9|Prof.Preeti Aggarwal|Machine Learning & NLP using Python|5 Days|24th June, 2024 to 28th June, 2024|Infosys Springboard|
-|4|Dr.Manreet Sohal|Designing Course Outcomes and Outcomes-focused Questions|1 Day|09/08/2023|	InPods Ed-tech|
-|5|Dr.Manreet Sohal|Workshop on Communication Skills|1 Day|07/08/2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
-|6|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|Dept. Of Applied Sciences& IQAC, GNDEC|
-|7|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07/08/2023|Dept. Of Applied Sciences& IQAC, GNDEC|
+|1| Prof. Jasbir Singh Saini|Quantum Computing| 6 Days | 18-23 December, 2023| AICTE ATAL Yojna,GNDEC|
+|2| Prof. Jasbir Singh Saini|NBA Accrediation and Teaching-Learning in Engineering| 6 Days| 1-6 January, 2024| AICTE ATAL Yojna,GNDEC|
+|3|Prof. Dinesh Anand |NSQF Aligned Curriculum Design and Implementation   | 1 week | 18-22 September,2023 | NITTTR, Chandigarh |
+|4|Dr.Manreet Sohal|Building Advanced Data Analytics Applications With Cloud|5 Days|16-20 October,2023|	Edunet Foundation and AICTE|
+|5| Dr.Manreet Sohal|Designing Course Outcomes and Outcomes-focused Questions|1 Day|09 August,2023|	InPods Ed-tech|
+|6|Dr.Manreet Sohal|Workshop on Communication Skills|1 Day|07 August,2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
+|7|Prof.Preeti Aggarwal|Machine Learning & NLP using Python|5 Days|24-28 June, 2024|Infosys Springboard|
+|8|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07 August,2023|Dept. Of Applied Sciences& IQAC, GNDEC|
+|9|Prof.Harmandeep Kaur|Role of Techical Institutions in Rural Infrastructure Development| 1 Week|24-28 April,2023| Rural Development Department NITTTR, Chandigarh|
+|10|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07 August,2023|Dept. Of Applied Sciences& IQAC, GNDEC|
+|10|Er.Vandna |Innovative Teaching and Learning Pedagogy|5 Days|27-31 May,2023|Research Founadtion of India|
+|11|Er.Vandna|Artificial Intelligence and Punjabi Language:Recent Trends and Challenges|3 Days|6-8 June,2024|GNDEC|
+
 
 ### Faculty Conference Publications
 
@@ -152,13 +155,13 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 |S.No.|	Name                      |Class	|Event 	|Prize|
 |:--------|:----------      |:-----------|:------|:---------|
-|1| Manjit Kaur	      |BCA 3rd	|Punjabi Folk Dance Giddha (Inter Zonal)|	1st|
-|2.|Inderjeet singh|	BCA 3rd	|Punjabi Folk Dance Bhangra (Inter Zonal)|	1st|
-|3.|Jagjot Singh	|BCA 2nd	|Indian Group Song (Inter Zonal)|	2nd|
-|4.|Jagjot Singh|BCA 2nd|Non Percussion Solo (Inter Zonal)|	3rd|
-|5.|Minaz|	BCA 1st|	One Act Play (Inter Zonal)|	1st|
-|6.|Minaz	|BCA 1st	|Skit (Zonal) & Mimicry (Zonal)|	2nd|
-|7.|Vikas Pal|	BCA 1st|	Mime (Zonal)|	1st|
+|1| Manjit Kaur	      |BCA 3rd	|Punjabi Folk Dance Giddha (Zonal)|	1st|
+|2.|Inderjeet singh|	BCA 3rd	|Punjabi Folk Dance Bhangra ( Zonal)|	1st|
+|3.|Jagjot Singh	|BCA 3rd	|Indian Group Song (Inter Zonal)|	1st|
+|4.|Jagjot Singh|BCA 3rd| Classical Percussion  (Inter Zonal)|1st Runner up|
+|5.|Minaz|	BCA 2nd|	One Act Play (Inter Zonal)|	1st|
+|6.|Minaz	|BCA 2nd	|Skit (Zonal) & Mimicry (Zonal)|	2nd|
+
 
 
 
@@ -174,10 +177,10 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |---|----|---|-----|
 |1.| Recruitments| Interview| 31-01-2024|
 |2.| Linkedin Link Up| Technical|22-01-2024|
-|3.| LINUX UNLEASHED|Technical |05-02-2024|
-|4.| APPLICATION OASIS|Technical |13-02-2024|
-|5.| RECAPITULATE|Technical|27-02-2024|
-|6.| CYBER SECURITY|Technical|15-03-2024|
+|3.| LINUX Unleashed|Technical |05-02-2024|
+|4.| Application Oasis|Technical |13-02-2024|
+|5.| Recapitulate|Technical|27-02-2024|
+|6.| Cyber Security|Technical|15-03-2024|
 |7.| Fresher’s Day Celebration|Cultural |02-09-2023|
 |8.| Recruitment|Interview |15-09-2023|
 |9.| Programming Contest| Technical|18-09-2023|
