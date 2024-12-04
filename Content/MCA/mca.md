@@ -90,7 +90,7 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 ### Faculty Conference Publications
 
-| Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |Organized By|
+| Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |Organized by|
 |---------|--------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|----------------|------|------|
 | 1       | Prediction of Smart Building and Smart City Resources using AI-techniques    | Prof.Jasbir Singh Saini | 2nd International Conference on  Innovation in Technology(INOCON-2023)  | International  | 2023 |IEEE|
 
