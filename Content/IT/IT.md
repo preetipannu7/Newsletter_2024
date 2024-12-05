@@ -38,6 +38,7 @@ The Department of Information Technology (DIT) imposes impact on both the urban 
 - **Rupinder Kaur**, “Exploring the role of computer vision in product design and development: a comprehensive review”, International Journal on Interactive Design and Manufacturing (IJIDeM), February, 2024.
 
 
+
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
