@@ -46,32 +46,33 @@ GNDEC School of Architecture organized an educational visit to Kapurthala where 
 GNDEC School of Architecture, Ludhiana organized a One Day Hands-on Workshop on Concrete in collaboration with Ultratech Cement at their plant in Focal Point, Ludhiana. Students worked on different proportions of materials to prepare various grades of concrete. Concrete tests like slump tests, cone tests, setting time tests, etc were also conducted by the students. Mr. Gurpinderjit Singh-Plant Head,  Er.Charanjit Singh - Punjab Sales Head, Mr.Rajeev Ranjan-Quality charge, and Mr.Anuj Tayagi - Technical Executive at Ultratech Cement Plant enlightened the students with their practical knowledge about concrete and its constituents.  
 </p>   
  
-### Punjab Institute of Medical Sciences (PIMS), Jalandhar case  study by B.ARCH 4rd Year Students.  
+### Seminar on Fundamentals of Refrigeration and Air Conditioning in collaboration with Mechanical engineering Department and supported by ISHRAE.  
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a3f6d1f3-60ee-4960-8ee0-fbffe65b2675)
   
 <p align=justify>  
-Students of B.Architecture 8th semester visited Punjab Institute of Medical Sciences (PIMS), Jalandhar for case study purpose. Prof. Simran Kaur & Prof. Vivek Sehgal accompanied the students for the same. Interaction with Ar.Rahul Ratra ji was organized there. Special thanks to Dr. Rajiv Arora, Director Principal-PIMS for his time and guidance  
+GNDEC School of Architecture in collaboration with Mechanical Engineering Department organized a seminar on ‘Fundamentals of Refrigeration & Air Conditioning’ for the students which was supported by ISHRAE Ludhiana Sub-Chapter. We are grateful to Er Akshay Kumar, Associate Manager – Mitsubishi Electric India Private Limited that he visited GNDEC campus as a resource person. His presentation was not only informative but also very interesting and engaging. Dr Sehijpal Singh, Principal – GNDEC lauded the collaboration between two departments and highlighted the significance of inter-disciplinary approach in Technical Education. 
 </p>   
   
-### One Day Hands-on Workshop conducted for  B.Voc on Timber Doors in collaboration with Kenya Furniture.  
+### Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana.  
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/486b5599-f9f1-4711-9914-edf1f519a30b)
   
 <p align=justify>    
-GNDEC School of Architecture, Ludhiana conducted One Day Hands-on Workshop on Timber Doors in collaboration with Kenya Furniture at their workshop in Samrala Chowk, Ludhiana. We extend heartfelt gratitude to the owners who allowed our I year students in their workshop. Special thanks to Prof.Akanksha Sharma, Head-GNDEC School of Architecture and Dr.Sehijpal Singh, Principal-GNDEC for their support.  
+GNDEC School of Architecture organized a Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana. The main Objective for the case study was to make students understand the important functions like OPD, Emergency, IPD, Diagnostics, ICU/CCU's, OT's, CSSD, etc and their inter-connectivity. We are thankful to Er Charanpreet Singh Ji (Himself GNDEC Alumnus), Bhupinder Ji and complete hospital administration for allowing us to successfully conduct the case study. We congratulate Prof Ravinder Singh & Prof Vivek Sehgal for mentoring the students and creating such excellent opportunities for them to learn.
+  
 </p>   
   
-### Interactive session with Dr SS Bhatti, Founder Teacher and Former Principal - CCA, Chandigarh  
+### 'Hands-on Clay Workshop' organised by GNDEC SoA FOR 1st year Students of B.arch  
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/d837f665-ce02-40c3-802a-2aa30bb1b7e5)  
   
 <p align=justify>      
-GNDEC School of Architecture feel privileged to offer gratitude to the learned scholar of the profession as well as life.Dr SS Bhatti, Founder Teacher and Former Principal - CCA, Chandigarh for his enlightening talk for our students. His words were like pearls of knowledge that we all need to string together and keep life long with us.The other intellectual to whom we are obliged is Dr Sangeeta Bagga, Principal-CCA, Chandigarh who has extended her utmost support to conduct this enlightening session for our students and faculty at CCA campus itself.  
+GNDEC School of Architecture organized 'Hands-on Clay Workshop' for students of B. Arch 1st year. Workshop was a huge success as students thoroughly enjoyed the event, learnt various skills pertaining to clay modelling and crafted various beautiful models. We are thankful to the resource persons Mr. Tanveer, Ms. Manmeet and Ms. Jasmeet (All 3rd Year Students from BCA department, GNDEC) as they spared the time for students of B.Architecture.
 </p>    
   
-### Interactive session onTechniques for better Climate Responsive Designs at ECBC Cell - Punjab  
+###  WORLD ARCHITECTURE WEEK- Students create an Amazing Sitting Space in College Campus 
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/950d4730-0b09-4cb8-8040-8305ba4f3891)
   
 <p align=justify>       
-PEDA Solar Passive Complex in Chandigarh to understand about Solar Passive Techniques for better Climate Responsive Designs. We are really grateful to ECBC Cell - Punjab, Er Abhishek Pratap Singh , Building Cell Coordinator, Building Cell, PEDA, Er Rohit Kumar, Project Engineer, BEE and Er Money Khanna , Project Engineer, BEE for their support.  
+GNDEC School of Architecture is celebrating WORLD ARCHITECTURE WEEK by organizing experiential activities for B.Architecture students.Day 5 (06th October) : Students of all the batches put their hands together and created a marvel sitting space in the college campus with waste material like tyres, empty bottles, sacks etc. and has completed the task within a very low budget.  
 </p>      
   
 ### Educational Tour to Jaipur and Jodhpur  
