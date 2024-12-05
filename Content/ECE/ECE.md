@@ -119,6 +119,8 @@ Dr. Narwant Singh Grewal
 
 - **Baljeet Kaur** successfully guided two students in completing their Ph.D research in July-Dec 2023.
 
+- **Gurpurneet Kaur** received Elite and Silver for NPTEL course Fundamentals of Electronic device fabrication in July 2023.
+
 
 ## Publications  (Journals)
 
@@ -238,8 +240,9 @@ Dr. Narwant Singh Grewal
 |   11  | Preeti Pannu, Dr. Gurjot Kaur Walia |	Workshop on OBE under IQAC	| 1 Day  | 16-11-2023 | GNDEC, Ludhiana|
 |   12  | Preeti Pannu |	Workshop on Translating academics research into industry applications	| 1 Day  | 13-12-2023 | IT park, sector 13, Chandigarh|
 |   13  | Simranjit Kaur, Dr. Gurjot Kaur Walia |	STP on "branding of HEIs for Institutional Excellence"	| 1 week  | 11-12-2023 to 15-12-2023 | NITTTR, Chandigarh |
-|   14  | Navneet Kaur |	Building Advanced Data Analytics Applications with Cloud | 5 Days | 08-01-2024 to 12-01-2024 | AICTE and Edunet Foundation |
-|   15  | Preeti Pannu |	Attended knimbus offline training by kansihka Jindal Knimbus india	| 1 Day  | 21-03-2024 | ME Seminar hall, GNDEC, Ludhiana|
+|   14  | Gurpurneet Kaur |	NPTEL course on Microprocessors and Microcontrollers	| 6 months | Jan - June 2023| NPTEL |
+|   15  | Navneet Kaur |	Building Advanced Data Analytics Applications with Cloud | 5 Days | 08-01-2024 to 12-01-2024 | AICTE and Edunet Foundation |
+|   16  | Preeti Pannu |	Attended knimbus offline training by kansihka Jindal Knimbus india	| 1 Day  | 21-03-2024 | ME Seminar hall, GNDEC, Ludhiana|
 
 
 ## Expert Lecture delivered
