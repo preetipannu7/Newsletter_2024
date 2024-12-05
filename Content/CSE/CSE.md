@@ -42,26 +42,38 @@ We are also actively involved in research and development activities. Our facult
 
 | S.No. | Name             | URN     | Name of Event                                                                           | Level |
 |-------|------------------|---------|-----------------------------------------------------------------------------------------|-------|
-| 1     | Avaluday Singh   | 2004554 | Bhangra  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 2     | Ravneet Singh    | 2004554 | Bhangra  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 3     | Kushali Sharma     |2203487 | Theatre  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 4     | Karthik    |2104134 | Music  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 5     | Ravneet Singh Virk     |2004649  | Music  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 6     | Vansh Khanna    |2004683  | Music  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 7     | Rhythm Kamra    |2203540   | Music    (2nd Position), Central Zonal Youth Festival 2023           | Zonal |
-| 8     | Riya Sharma     |2302652   | Music    (2nd Position), Central Zonal Youth Festival 2023           | Zonal |
-| 9     | Harsimran Singh Jaagi    |2104117  | Literary   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 10     | Ekuspreet Singh    |2104097   | Literary   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 11    | Anhad Kaur     |2302469    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 12    | Gurleen Kaur     |2302527    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 13    | Husanpreet Kaur     |2004588    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 14     | Taranpreet Kaur   |2004678    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 15     | Nidhi     |2004630    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 16     | Muskandeep Kaur     |2303506    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 17     |Simrandeep Kaur     |2302683     | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 18     | Ekuspreet Singh    |2104097   | Literary   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 19     | Avaluday Singh   | 2004554 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023           | Inter-University |
-| 20     | Ravneet Singh   | 2303176 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023    | Inter-University |
+| 1     | Avaluday Singh   | 2004554 | Bhangra  (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 2    | Anhad Kaur     |2302469    | Gidha   (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 3    | Gurleen Kaur     |2302527    | Gidha   (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 4    | Husanpreet Kaur     |2004588    | Gidha   (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 5     | Taranpreet Kaur   |2004678    | Gidha   (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 6     | Nidhi     |2004630    | Gidha   (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 7     | Muskandeep Kaur     |2303506    | Gidha   (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 8     |Simrandeep Kaur     |2302683     | Gidha   (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 9     | Karthik    |2104134 | Music  (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 10     | Ravneet Singh Virk     |2004649  | Music  (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 11    | Vansh Khanna    |2004683  | Music  (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 12    | Kushali Sharma     |2203487 | Theatre  (1st Position), Inter-Zonal Youth Festival 2024           | Inter-Zonal |
+| 13    | Avaluday Singh   | 2004554 | Bhangra  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 14    | Ravneet Singh    | 2004554 | Bhangra  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 15    | Kushali Sharma     |2203487 | Theatre  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 16    | Karthik    |2104134 | Music  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 17    | Ravneet Singh Virk     |2004649  | Music  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 18    | Vansh Khanna    |2004683  | Music  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 19    | Rhythm Kamra    |2203540   | Music    (2nd Position), Central Zonal Youth Festival 2023           | Zonal |
+| 20    | Riya Sharma     |2302652   | Music    (2nd Position), Central Zonal Youth Festival 2023           | Zonal |
+| 21    | Harsimran Singh Jaagi    |2104117  | Literary   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 22     | Ekuspreet Singh    |2104097   | Literary   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 23    | Anhad Kaur     |2302469    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 24    | Gurleen Kaur     |2302527    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 25    | Husanpreet Kaur     |2004588    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 26     | Taranpreet Kaur   |2004678    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 27     | Nidhi     |2004630    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 28     | Muskandeep Kaur     |2303506    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 29     |Simrandeep Kaur     |2302683     | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 30     | Ekuspreet Singh    |2104097   | Literary   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 31     | Avaluday Singh   | 2004554 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023           | Inter-University |
+| 32     | Ravneet Singh   | 2303176 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023    | Inter-University |
 
 ## Faculty Achievements  
 
