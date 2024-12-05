@@ -29,15 +29,13 @@ The Department of Information Technology (DIT) imposes impact on both the urban 
 
 ## Publications  
 
-- **S. Jain** and K. Malik,“Bone Age Estimation using Machine Learning Algorithms: A Review and Open Research Challenges,” 9th International Conference on Advance Research and Innovation - 2022, Mar. 2022.
+-**R.Kaur**, “Exploring the Intricacies of Machine Learning-Based Optimization of Electric Discharge Machining on Squeeze Cast TiB2/AA6061 Composites: Insights from Morphological, and Microstructural aspects in the Surface Structure Analysis of Recast Layer Formation and Worn-Out Analysis”, Journal of Materials Research and Technology, Sept, 2023
 
-- **R.Kaur, “Exploring the Intricacies of Machine Learning-Based Optimization of Electric Discharge Machining on Squeeze Cast TiB2/AA6061 Composites: Insights from Morphological, and Microstructural aspects in the Surface Structure Analysis of Recast Layer Formation and Worn-Out Analysis”, Journal of Materials Research and Technology, Sept, 2023
+- **A. Kamra**, “Enhancing diagnosis of breast cancer through mammographic image segmentation using Fuzzy C-Means”, INTERNATIONAL JOURNAL OF SUSTAINABLE Building Technology and Urban Development, December, 2023.
 
-- **A. Kamra, “Enhancing diagnosis of breast cancer through mammographic image segmentation using Fuzzy C-Means”, INTERNATIONAL JOURNAL OF SUSTAINABLE Building Technology and Urban Development, December, 2023.
+- **G.Kaur**, “Emergence of Techno-Enterpreneurship during Covid-19”, PIMT Journal of Research, December, 2023.
 
-- **G.Kaur, “Emergence of Techno-Enterpreneurship during Covid-19”, PIMT Journal of Research, December, 2023.
-
-- **Rupinder Kaur, “Exploring the role of computer vision in product design and development: a comprehensive review”, International Journal on Interactive Design and Manufacturing (IJIDeM), February, 2024.
+- **Rupinder Kaur**, “Exploring the role of computer vision in product design and development: a comprehensive review”, International Journal on Interactive Design and Manufacturing (IJIDeM), February, 2024.
 
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
