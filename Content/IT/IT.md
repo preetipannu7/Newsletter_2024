@@ -7,8 +7,7 @@
 ![HSR](Images/hod.jpg)
 
 <p align=justify>
-The Department of Information Technology (DIT) imposes impact on both the urban and rural area students. It helps to create groomed, technically competent and skilled students, so that they can compete with the current computing industry. Our department also provides technical solutions for the problems related to the local society. Department provides ample opportunities and tools to the students for grooming them as a productive and participating global citizens. In the end, I can say we incorporate the good communication and technical skills as well as moral and ethical values for the overall development of the individual.
-</p>
+The Information Technology Department is dedicated to empowering students from diverse backgrounds, bridging the gap between urban and rural education through inclusive and innovative learning opportunities. The department’s approach to education extends beyond the classroom. It cultivates a culture of creativity, critical thinking, and problem-solving, encouraging students to think innovatively and independently. The department also emphasizes personal and professional development, offering a plethora of enriching activities such as technical workshops, hackathons, leadership initiatives, and career development programs. Alongside technical proficiency, the faculty prioritizes essential soft skills, teamwork, and ethical principles to nurture socially responsible and well-rounded individuals.The Information Technology Department stands as a beacon of excellence, committed to producing future-ready professionals equipped to meet global challenges, contribute meaningfully to society, and emerge as leaders in the field of technology and beyond.</p>
 
 ## Department at Glimpse
 
@@ -71,7 +70,7 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
  ![HSR](Images/itian.png)
  ![HSR](Images/itian1.png)
- ![HSR](Images/Cyber Security.jpg)
+
 
  **ACM**
 
