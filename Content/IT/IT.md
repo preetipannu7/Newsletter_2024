@@ -73,6 +73,9 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
  ![HSR](Images/itian.png)
  ![HSR](Images/itian1.png)
+ ![HSR](Images/Cyber Security.jpeg)
+ ![Ethical workshop](https://github.com/user-attachments/assets/173d11b2-a140-4e3c-95ad-ef569c191988)
+
 
 
  **ACM**
