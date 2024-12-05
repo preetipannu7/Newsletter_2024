@@ -27,7 +27,7 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### Semicon Roadshow on 27 Feb, 2023
+### ECE faculties at Semicon Roadshow on 27 Feb, 2023
 
 ![Students](Images/w.JPG)
 
