@@ -9,15 +9,15 @@ We are also actively involved in research and development activities. Our facult
 ## Department at Glimpse
 <div align = "justify"> Department of Computer Science and Engineering is established in year 1997. Department is offering B.Tech. and M.Tech. programs in Computer Science and Engineering. Laboratories of the department are equipped with state of the art infrastructure to cater course work and research activities. A Good number of books is available in departmental library for prompt access to students and faculty members. Under academic autonomy, study schemes of the offered programs are updated regularly focusing outcome based education, to make students employable as per national and international requirements. Graduates of the department are serving around the globe in eminent companies, academia, as well as in public sector. They are bringing laurel to the department by excelling in fields of their work. Every year a good number of students are clearing different competitive exams</div>
 
-## Student Coordinator
+## Student Coordinators
+- Kajal Chugh (2303225)
 - Jaideep Randhava (2203463)
-- Kajal Chug
 
 ## Student Achievements
 - Ajit Kumar  URN: 2004884, student of 2020-2024 Batch got placed at a highest package of 9 Lakh per Annum in TCS PRIME.
 - Shivay Bhandari  URN: 1905398, student of 2019-2023 Batch got placed at a highest package of 20 Lakh per Annum in Zomato.
 - Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed at a highest package of 19.5 Lakh per Annum in PhonePe.
-- Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, Aarchie Maggu students of CSE got 2nd prize at National Level Smart Hackathon 2023 organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
+- Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, Aarchie Maggu students of CSE got 2nd prize at National Level Smart Hackathon 2023, organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
    
 ### Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
 
@@ -38,7 +38,7 @@ We are also actively involved in research and development activities. Our facult
 
 
 
-## Students of CSE participated and bagged various positions in Youth Festival  
+## Students of CSE bagged various positions in Youth Festival  
 
 | S.No. | Name             | URN     | Name of Event                                                                           | Level |
 |-------|------------------|---------|-----------------------------------------------------------------------------------------|-------|
@@ -98,7 +98,7 @@ We are also actively involved in research and development activities. Our facult
 | 16       | Quantum Machine Learning in Healthcare: Developments and Challenges| Sita Rani, Piyush Kumar Pareek, Jaskiran Kaur, Meetali Chauhan, Pankaj Bhambri  | IEEE International Conference on Integrated Circuits and Communication Systems | International  | 2023 |
 
 
-## Events Attended (FDPs/ Conferences / STCs /SDTs / Workshops / Webinars / Seminars /Training Program etc.)  
+## Events Attended (FDPs / Conferences / STCs /SDTs / Workshops / Webinars / Seminars / Training Program etc.)  
 
 | Sr. No. | Name of Event                                                                                                                 | Faculty Coordinator                                           | Duration | Date(s)                | Organizer(s)                                 |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|:-----------------------------------------------|
@@ -167,7 +167,7 @@ We are also actively involved in research and development activities. Our facult
 | 63       | FDP on Cyber Security |  Dr. Sita Rani   | Five days | 20th February, 2023 - 24th February, 2023   | IIT Kanpur|
 | 64       | FDP on Technology Enabled Teaching Learning |  Dr.Inderjit Singh   | Five days | 16th January, 2023 - 20th January, 2023   | NITTTR, Chandigarh AICTE and GNDEC, Ludhiana|
 
-## Main recruiters for CSE Students  
+## Main Recruiters for CSE Students  
 
 | Sr. No. | Name of Company                           |
 |---------|-------------------------------------------|
