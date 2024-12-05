@@ -49,7 +49,7 @@ Dr. Narwant Singh Grewal
 
 ------------------------------------------
 
-### Four week Training course on Project Design using Microcontroller Consultancy from 10, July 2023 to 4, Aug 2023
+###  <div align="jutify"> Four week Training course on Project Design using Microcontroller Consultancy from 10, July 2023 to 4, Aug 2023.</div>
 
 ![Students](Images/SMMT.jpg)
 ![Students](Images/SMM.jpg)
@@ -69,7 +69,7 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### Two weeks value added workshop on "Hands-on Training Program on Development in Communication Engineering and Electronics" under IETE Student Forum from 19, Feb 2024 to 1, Mar 2024
+###  <div align="jutify"> Two weeks value added workshop on "Hands-on Training Program on Development in Communication Engineering and Electronics" under IETE Student Forum from 19, Feb 2024 to 1, Mar 2024.</div>
 
 ![Students](Images/VAT.jpg)
 ![Students](Images/VA.jpg)
@@ -90,7 +90,7 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024
+###  <div align="jutify"> Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024 .</div>
 
 ![Students](Images/SPGH.jpg)
 
