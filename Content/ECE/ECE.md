@@ -510,4 +510,4 @@ Anmol Kumar Srivastav (Student Co-Convenor)
 ![Advisor Session (Machine)](Images/TN2.jpg)
 
 
-**Editor: Dr. Preeti Pannu**
+**Editor: Dr. Preeti Pannu(Assistant Professor(ECE Department))**
