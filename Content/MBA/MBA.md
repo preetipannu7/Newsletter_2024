@@ -62,32 +62,33 @@ The students of Department of Business Administration organized the langar in No
 ## Student's Corner  
 
 
+![SDT](Images/InductionPic2023.jpeg)
+**Induction Program organised by Dept. of Business Administration on 11th August, 2023**  
 
 
-**Business Start Up Programme organized by Department of Business Administration, Guru nanak Dev Engineering College, Ludhiana, for MBA students.**
+![SDT](Images/Yogapic2023.jpeg)
+**Yoga Session organised by Dept. of Business Administration on 29th August, 2023**   
 
-![SDT](Images/Avon.jpg)
 
-**Industrial Visit to Avon Cycles , Ludhiana on 27th October,2022 organized by Department of Business Administration for BBA Semester I**
+![SDT](Images/CIIPIC2023.jpeg)
+**Dr. Parampal Singh HOD Department of Business Administration giving a token of gratitude to Mr. Mahesh Munjal in the event of CII Majestic SKILL-WILL-LEAD event on 12th October 2023**  
 
-![SDT](Images/neva.jpg)
 
-**Industrial Visit to Neva Garmnets Ltd. Phagwara Road on November9, 2022organised by Department of Business Administration for MBA Semester I**
+![SDT](Images/VISITTOGURUDWARABERSAHIB.png)
+**A Visit to Sultanpur Lodhi, Gurudwara Ber Sahib by Dept. of BusienssAdminstartion on 16th March, 2024**   
 
-![SDT](Images/CII.jpg)
 
-**Participants of other colleges and students of department of Business Administration MBA Team in CII Majestic Skill-Will-Lead at 2nd Edition at GNDEC, Ludhiana on 10-12 November ,2022**
+![SDT](Images/MehndiCompetition1.jpeg)
 
-![SDT](Images/Deepawali1.jpeg)
+![SDT](Images/Mehndi2.jpeg)
+**Students demonstrating their skills in Mehndi Competition organized by Dept. of Business Administration**    
 
-**Deepawali Diya Competition held in Department of Business Administration on October 20, 2022**
 
-![SDT]( Images/Deepawali2.jpeg)
+![SDT]( Images/ZoologicalPark.jpeg)
+**Students of Dept. of Business Adminstartion posing in front of Mahendra Chaudhary Zoological Park with HOD Dr. Parampal Singh & Dr. Mandeep Kaur Khosa**   
 
 
 ![SDT](Images/Langar.jpeg)
-
-**The students of Department of Business Administration organised the langar on November 7, 2022**
-
+**The students of Department of Business Administration organised the langar on the occassion of Guru Nanak Dev Ji Gurpurab**
 
 
