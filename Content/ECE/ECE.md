@@ -29,9 +29,9 @@ Dr. Narwant Singh Grewal
 
 ### ECE faculties at Semicon Roadshow on 27 Feb, 2023
 
-![Students](Images/w.JPG)
+![Students](Images/w.png)
 
-![Students](Images/x.jpg)
+![Students](Images/x.png)
 
 -----------------------------------------
 
