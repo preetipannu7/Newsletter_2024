@@ -98,9 +98,9 @@ Dr. Narwant Singh Grewal
 
 ### Online Talk with IIT Madras on Optical Communication, 2024
 
-![Students](Images/z.jpg)
+![Students](Images/z.png)
 
-![Students](Images/y.jpg)
+![Students](Images/y.png)
 
 -----------------------------------------
 
