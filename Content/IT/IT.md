@@ -18,7 +18,7 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Faculty Achievements  
 
-- ![HSR](Images/pankaj.jpeg) Dr. Pankaj Bhambri, Assistant Professor(IT), got Indian Society for Technical Education(ISTE) Best Teacher award.
+- ![HSR](Images/pankaj.jpeg) Dr. Pankaj Bhambri, Assistant Professor(IT),received the “ISTE Section Best Teacher Award 2023” in the ISTE Section Faculty Convention hosted by Bhai Gurdas Institute of Engineering and Technology, Sangrur on 23rd November 2023.
 
 - ![HSR](Images/kamra.jpg) Dr. Amit Kamra,Received the certificate of appreciation from AICTE on 17th July 2023 for translating the lectures of SWAYAM course Foundations of Wavelets and Multirate Digital Signal Processing in Punjabi language.
 -  Received the certificate of appreciation from AICTE on 29th November 2023 for validation of lectures of the SWAYAM course Programming in Java in Punjabi language
