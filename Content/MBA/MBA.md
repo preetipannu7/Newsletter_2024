@@ -34,11 +34,11 @@ The Department of Business Administration was established in the year 2007 to im
 
 # Cultural and Sports Activities
 
-| Activities |  Department |  Dates |
+| Activities |  Place |  Dates |
 |:---------| :----------------------------------------------------------------------------------------------------|--------------|                          
 | Mehndi Competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana    | 	1st November, 2023   |
 | Lohri Festival  | Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana     |	12th January, 2024     |
-| Visit To Gurudwara Ber Sahib And Haveli | Sultanpur Lodhi& Jalandhar	| 16th March, 2024       |
+| Visit To Gurudwara Ber Sahib And Haveli | Sultanpur Lodhi & Jalandhar	| 16th March, 2024       |
 
 <P align=justify>
 The students of Department of Business Administration organized the langar in November, 2023 in connection with the worth of Jagat Guru, "Guru Nanak Dev Ji's". The motive was to instill the principles of Vand Shako among the students.
