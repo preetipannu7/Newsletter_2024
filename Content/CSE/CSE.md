@@ -43,7 +43,16 @@ We are also actively involved in research and development activities. Our facult
 
 | S.No. | Name             | URN     | Name of Event                                                                           | Level |
 |-------|------------------|---------|-----------------------------------------------------------------------------------------|-------|
-| 1     | Avaluday Singh   | 2004554 | Bhangra  (1st Position), IKG Punjab Technical University Zonal Youth Festival           | Zonal |
+| 1     | Avaluday Singh   | 2004554 | Bhangra  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 2     | Ravneet Singh    | 2004554 | Bhangra  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 3     | Kushali Sharma     |2203487 | Theatre  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+
+
+
+| 1     | Avaluday Singh   | 2004554 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023           | Inter-University |
+| 1     | Ravneet Singh   | 2303176 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023    | Inter-University |
+
+
 | 2     | Taranpreet Kaur  | 2004678 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
 | 3     | Hushanpreet Kaur | 2004588 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
 | 4     | Nidhi            | 2004630 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
