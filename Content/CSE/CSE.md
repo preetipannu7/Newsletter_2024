@@ -10,15 +10,14 @@ We are also actively involved in research and development activities. Our facult
 <div align = "justify"> Department of Computer Science and Engineering is established in year 1997. Department is offering B.Tech. and M.Tech. programs in Computer Science and Engineering. Laboratories of the department are equipped with state of the art infrastructure to cater course work and research activities. A Good number of books is available in departmental library for prompt access to students and faculty members. Under academic autonomy, study schemes of the offered programs are updated regularly focusing outcome based education, to make students employable as per national and international requirements. Graduates of the department are serving around the globe in eminent companies, academia, as well as in public sector. They are bringing laurel to the department by excelling in fields of their work. Every year a good number of students are clearing different competitive exams</div>
 
 ## Student Coordinator
-- Harsimranjeet Singh ()
 - Jaideep Randhava (2203463)
--  
-- 
+- Kajal Chug
+
 ## Student Achievements
 - Ajit Kumar  URN: 2004884, student of 2020-2024 Batch got placed at a highest package of 9 Lakh per Annum in TCS PRIME.
 - Shivay Bhandari  URN: 1905398, student of 2019-2023 Batch got placed at a highest package of 20 Lakh per Annum in Zomato.
 - Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed at a highest package of 19.5 Lakh per Annum in PhonePe.
-- Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, AarchieMaggu students of CSE got 2nd prize at National Level Smart Hackathon 2023 organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
+- Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, Aarchie Maggu students of CSE got 2nd prize at National Level Smart Hackathon 2023 organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
    
 ### Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
 
@@ -39,47 +38,23 @@ We are also actively involved in research and development activities. Our facult
 
 
 
-## Students of CSE participated and bagged various positions in IKGPTU Zonal Youth Festival  
+## Students of CSE participated and bagged various positions in Youth Festival  
 
 | S.No. | Name             | URN     | Name of Event                                                                           | Level |
 |-------|------------------|---------|-----------------------------------------------------------------------------------------|-------|
 | 1     | Avaluday Singh   | 2004554 | Bhangra  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
 | 2     | Ravneet Singh    | 2004554 | Bhangra  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
 | 3     | Kushali Sharma     |2203487 | Theatre  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-
-
-
-| 1     | Avaluday Singh   | 2004554 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023           | Inter-University |
-| 1     | Ravneet Singh   | 2303176 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023    | Inter-University |
-
-
-| 2     | Taranpreet Kaur  | 2004678 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
-| 3     | Hushanpreet Kaur | 2004588 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
-| 4     | Nidhi            | 2004630 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
-| 5     | Parminder Kaur   | 2004558 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
-| 6     | Ayush Kalia      | 2215003 | Western Group Song (1st Position), IKG Punjab Technical University Zonal Youth Festival | Zonal |
-| 7     | Ashish Baweja    | 2104078 | Group Shabad (1st Position), IKG Punjab Technical University Zonal Youth Festival       | Zonal |
-| 8     | Karthik K.       | 2104134 | Group Shabad (1st position)/Group Song Indian(2nd position), IKG Punjab Technical University Zonal Youth Festival    | Zonal |
-| 9     | Vansh Khanna     | 2004683 | Group Shabad (1st position) /Group Song Indian (2nd position) , IKG Punjab Technical University Zonal Youth Festival  |  Zonal     |
-| 10    | Yogita Sharma    | 1905835 | Light Indian Vocal/Group Song Indian, (2nd Position), IKG Punjab Technical University Zonal Youth Festival  |Zonal     |
-| 11    | Ekuspreet Singh  | 2115043 | Elocution/Essay Writing (2nd Position), IKG Punjab Technical University Zonal Youth Festival                    | Zonal      |
-| 12    | Naval            | 2104226 | Quiz  (1st Position), IKG Punjab Technical University Zonal Youth Festival                    | Zonal      |
-| 13    | Vivek Thakur     | 2004687 | On The Spot Painting  (1st Position), IKG Punjab Technical University Zonal Youth Festival       | Zonal|
+| 4     | Karthik    |2104134 | Music  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 5     | Ravneet Singh Virk     |2004649  | Music  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 6     | Vansh Khanna    |2004683  | Music  (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 7     | Avaluday Singh   | 2004554 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023           | Inter-University |
+| 8     | Ravneet Singh   | 2303176 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023    | Inter-University |
 
 ## Faculty Achievements  
 
-![DPS](Images/p1.png) 
-- Dr. Parminder Singh, Professor(CSE), awarded as an **"Eminent Engineering Personality"** by Institution of Engineers (India).
+- Dr. Amit Jain, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award** by Indian Society of Technical Education and  has awarded with **two design** patents with a total of five patents. 
 
-![DPS](Images/s1.png) 
-- Dr. Sita Rani, Assistant Professor(CSE) has been recognized in **"WORLD RANKING OF TOP 2% SCIENTISTS-2024"** jointly published by Stanford University and Elsevier, in the area of “Artificial Intelligence & Image Processing".
-- Dr. Sita Rani, has joined the editorial board of the journal “Engineering Applications of Artificial Intelligence” (Published by ELSEVIER – Impact Factor: 7.5) as an **Associate Editor**.
-  
-![DPS](Images/aj1.png) 
-- Dr. Amit Jain, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award** by Indian Society of Technical Education.
-- Dr. Amit Jain has awarded with two design patents with a total of five patents. 
-
-  
 ## Faculty Research Publications  
 - [**Goldendeep Kaur, Kiran Jyoti**, Samer Shorman, Anas Ratib Alsoud, Rohit Salgotra (2024, July). An Efficient Approach for Localizing Sensor Nodes in 2D Wireless Sensor Networks Using Whale Optimization-Based Naked Mole Rat Algorithm. MDPI Mathematics.]
 - [Sujay N. Hedge, D.B. Srinivas, M.A. Rajan, **Sita Rani**, Aman Kataria, Hong Min (2024, March). Multi-objective and multi constrained task scheduling framework for computational grids.  Scientific Reports.]
@@ -224,9 +199,10 @@ We are also actively involved in research and development activities. Our facult
 
 | Sr. No. | Name of Event| Event Type| Date|
 |---------|----------------|--------|-------|
-| 1  |Workshop on Cyber Security           |   Workshop        |   27-Feb-24  |
-| 2  |Workshop on Data Science     | Workshop       |   06-Feb-24 |
-| 3  |Blockchain and Web3 Technologies       |   Expert Talk     |   18-Sep-23  |
+| 1  |Interactive Session on Cyber Security -Emphasizing Banking Sector           |  Expert Session        |   27-April-24  |
+| 2  |Workshop on Cyber Security           |   Workshop        |   27-Feb-24  |
+| 3  |Workshop on Data Science     | Workshop       |   06-Feb-24 |
+| 4  |Blockchain and Web3 Technologies       |   Expert Talk     |   18-Sep-23  |
 
 
 ### Data Science Club  
