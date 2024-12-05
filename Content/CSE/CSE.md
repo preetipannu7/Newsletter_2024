@@ -72,8 +72,12 @@ We are also actively involved in research and development activities. Our facult
 | 28     | Muskandeep Kaur     |2303506    | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
 | 29     |Simrandeep Kaur     |2302683     | Gidha   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
 | 30     | Ekuspreet Singh    |2104097   | Literary   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
-| 31     | Avaluday Singh   | 2004554 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023           | Inter-University |
-| 32     | Ravneet Singh   | 2303176 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023    | Inter-University |
+| 31     | Diya Baweja  |2203425   | Collage Making    (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 32     | Ravneet Kaur    |2302916   | Poster Making   (2nd Position), Central Zonal Youth Festival 2023           | Zonal |
+| 33     | Tanveer Singh Reehal    |2104959    | On Spot Painting   (1st Position), Central Zonal Youth Festival 2023           | Zonal |
+| 34     |Manpreet Kaur     |2303020    | Mehndi    (2nd Position), Central Zonal Youth Festival 2023           | Zonal |
+| 35     | Avaluday Singh   | 2004554 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023           | Inter-University |
+| 36     | Ravneet Singh   | 2303176 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023    | Inter-University |
 
 ## Faculty Achievements  
 
