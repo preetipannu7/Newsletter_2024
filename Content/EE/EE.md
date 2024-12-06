@@ -212,26 +212,19 @@ Project filed for Patent in December 2020.
   **Project: Palace Power Saver**
 
 ### Electrical Engineering Staff and Students (E2S2)
- 
+-Organised **General Body Meeting** two hours for EE students and staff by	E2S2	under the guidance of Dr Arvind Dhingra on	2nd November,2023 
 - Organised **IEEE Lecture Series** for Third Year and Final Year Students Coordinated by Dr.Arvind Dhingra and Pf. Arshdeep Kaur.
 - Organised Workshop on **Virtual Reality and artificially intelligence:** perspective for industry 4.0 on 18th December 2022.
 - Organised expert lecture delivered by **Wonder automation training division** on Industrial Drives and its usage on 30th November 2022
 - Organised an expert lecture on **power system deregulation** on 6th September 2022
 - Organised Teacher’s Day celebration on 5th September,2022.
 - Organized Competition **Circuit Designing Using Simulation** on 15th September 2021 where Dr.Arvind Dhingra, Pf.Samreet Kaur and Pf.Arshdeep Kaur were judges in the event.
-
-  
-  - Organised online quiz " **MIND MANTRA** " Coordinated by Dr.Arvind Dhingra, Pf.Gagandeep Kaur Gill and Pf.Amandeep Singh on July 2020.
-
-  - Organised event **Charter’s Day** on 8th of september,2021.
-
+- Organised online quiz " **MIND MANTRA** " Coordinated by Dr.Arvind Dhingra, Pf.Gagandeep Kaur Gill and Pf.Amandeep Singh on July 2020.
+- Organised event **Charter’s Day** on 8th of september,2021.
   ![11](https://user-images.githubusercontent.com/78653670/229409723-e9434021-1967-45f3-86e0-d6aaa4d159f2.jpeg)
-
  **Dr Arvind Dhingra** guided students for their career.
-
-  - Organized Competition **Circuit Designing Using Simulation** on 15th September 2021 where Dr.Arvind Dhingra, Pf.Samreet Kaur and Pf.Arshdeep Kaur were judges in the event.
-
-   ![12](https://user-images.githubusercontent.com/78653670/229409992-710fe9d0-6414-4976-94ab-be8ca5a67c2a.jpeg)
+ - Organized Competition **Circuit Designing Using Simulation** on 15th September 2021 where Dr.Arvind Dhingra, Pf.Samreet Kaur and Pf.Arshdeep Kaur were judges in the event.
+    ![12](https://user-images.githubusercontent.com/78653670/229409992-710fe9d0-6414-4976-94ab-be8ca5a67c2a.jpeg)
 
    ![13](https://user-images.githubusercontent.com/78653670/229410027-c3ebfbb1-2fca-447a-ad11-84b1d5a6fc5e.jpeg)
 
