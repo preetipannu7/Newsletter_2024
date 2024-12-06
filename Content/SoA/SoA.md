@@ -131,9 +131,7 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 - Sehgal Vivek, Putta Vanitha (Propagating Smart from Beautiful.  IJRAR, Published Paper ID-IJRAR1BMP163 
 - Sehgal Vivek, Kaur Harsimran . Urban Heritage Conservation for Sustainable Development: A Case of Kapurthala. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
 - Rehal Prashant, Chani Prabhjot, Sehgal Vivek . Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
-
-### Ar.Simran Kaur    
-- Planning for informal commercial sector in Jalandhar city.International journal for research in engineering application & management (IJREAM). ISSN: 2454-9150    
+    
    
 ### Ar.Gazal Soni    
 - Analysis of Housing Structure and Urban Form of Rajsamand Town, Rajasthan Gazal Soni (ISSN-2349-5162) Volume 5, Issue 12 
@@ -141,9 +139,7 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 - Study and analysis of Physical and Social Infrastructure of Katra Dulo, Amritsar Gazal Soni (E-ISSN 2348-1269, P- ISSN 2349-5138) Volume 5, Issue 4  
 - An Assessment of Road Markings, Signs and Signals around Schools in Amritsar City GazalSoni (ISSN:0971-1260 Vol-22-Issue-34)      
 
-### Ar.Parul Kaur   
-- Theory of Biomimcry in Urbanscape. Journal of Civil Engineering and Environmental Technology (JCEET), Volume 4 Issue 3. 
- 
+
 ## Student Internships amongst India's Top 30 Architectural Consultancy Firms    
 
 | Sr. No. | Student Name                        | Architectural Firm                             |
