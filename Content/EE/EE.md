@@ -15,15 +15,6 @@ Associate Professor and H.O.D.
 
 ## Department at Glimpse
 
-## Book Published  
-
-
-| Sr. No. | Department         | Name of the Book       | 	Name of Author(s) | Publisher     |
-|:--------|:-------------------|:------------------------------|:-----------------|:----------------------|
-| 1|EED|Digital Electronics: A comprehensive guide | Dr. Arvind Dhingra|REST publishers
-
-
-
 **Industrial Visit to NPTI , Nangal** :
 
 An industrial visit to NPTI (National Power Training Institute), Nagal by Electrical Engineering Department was organized for Third year Students. Around 85 students visited the Institute with EED faculty.Er. Saurabh Mahajan, Assistant Director of NPTI gave interactive lecture to students about the emerging technologies in the power plant with a need of Renewable Sources. The students were shown Simulator for the nearby Plant and experienced the practical application of the subjects, they studied in the college.
@@ -38,8 +29,6 @@ A workshop was organised by E2S2 society of Electrical Engineering Department on
 ![VR](https://user-images.githubusercontent.com/78653670/229407165-98626c21-235e-4cb9-bb68-011d5fd2bdd2.jpeg)
 
 **Industrial Visit to SLDC , Patiala**
-
-
 
 ![SLDC](https://user-images.githubusercontent.com/78653670/229407219-224a734b-0628-4d97-8846-b09308ba7f36.jpeg)
  
@@ -58,6 +47,12 @@ A workshop was organised by E2S2 society of Electrical Engineering Department on
 ![PS der](https://user-images.githubusercontent.com/78653670/229408035-77f32fa3-a95c-4af1-be4b-fcd036808e22.jpeg)
 
 
+## Book Published  
+
+
+| Sr. No. | Department         | Name of the Book       | 	Name of Author(s) | Publisher     |
+|:--------|:-------------------|:------------------------------|:-----------------|:----------------------|
+| 1|EED|Digital Electronics: A comprehensive guide | Dr. Arvind Dhingra|REST publishers
 
 ## Faculty Achievements
 			
