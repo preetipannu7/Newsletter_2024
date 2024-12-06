@@ -14,6 +14,14 @@ Associate Professor and H.O.D.
 
 
 ## Department at Glimpse
+## Book Published  
+
+
+| Sr. No. | Department         | Name of the Book       | 	Name of Author(s) | Publisher     |
+|:--------|:-------------------|:------------------------------|:-----------------|:----------------------|
+| 1|EED|Digital Electronics: A comprehensive guide | Dr. Arvind Dhingra|REST publishers
+
+
 
 **Industrial Visit to NPTI , Nangal** :
 
