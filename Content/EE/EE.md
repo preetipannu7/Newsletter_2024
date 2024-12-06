@@ -14,6 +14,7 @@ Associate Professor and H.O.D.
 
 
 ## Department at Glimpse
+
 ## Book Published  
 
 
@@ -59,6 +60,12 @@ A workshop was organised by E2S2 society of Electrical Engineering Department on
 
 
 ## Faculty Achievements
+			
+- **Dr.Arvind Dhingra** won Proud Indian Iconic Teacher & researcher Award, 2023	Ratna Prasad Multidisciplinary Research & Educational Society	Jan 26,2023
+- **Dr.Arvind Dhingra** won International Eminent Scientist Award	International Multidisciplinary Research Foundation.	Oct 5,2023
+- **Dr.Arvind Dhingra** won ISTE Section Best Teacher	ISTE	Nov 8,2023
+- **Dr.Arvind Dhingra** won	Rising Star of India Award	CT University	Dec 2,2023
+- **Dr.Arvind Dhingra** won	Global Iconic Award: Excellence in Academic Leadership	Kathmandu University	Dec 6,2023
 - **Dr. Arvind Dhingra** won Best Faculty Award, IISA, August,2022.
 - **Dr. Arvind Dhingra** won Golden Pinnacle Award, National Sports & Amp; Youth development Council, June,2021.
 - **Dr. Arvind Dhingra** won International Adroit Educator Award,2021 by Green Thinkerz International Adroit Educator Award,2021 by Green Thinkerz
@@ -225,14 +232,14 @@ Project filed for Patent in December 2020.
   
   ![11](https://user-images.githubusercontent.com/78653670/229409723-e9434021-1967-45f3-86e0-d6aaa4d159f2.jpeg)
 
- **Dr Arvind Dhingra** guided students for their career.
+    **Dr Arvind Dhingra** guided students for their career.
  - Organized Competition **Circuit Designing Using Simulation** on 15th September 2021 where Dr.Arvind Dhingra, Pf.Samreet Kaur and Pf.Arshdeep Kaur were judges in the event.
 
- ![12](https://user-images.githubusercontent.com/78653670/229409992-710fe9d0-6414-4976-94ab-be8ca5a67c2a.jpeg)
+  ![12](https://user-images.githubusercontent.com/78653670/229409992-710fe9d0-6414-4976-94ab-be8ca5a67c2a.jpeg)
 
- ![13](https://user-images.githubusercontent.com/78653670/229410027-c3ebfbb1-2fca-447a-ad11-84b1d5a6fc5e.jpeg)
+  ![13](https://user-images.githubusercontent.com/78653670/229410027-c3ebfbb1-2fca-447a-ad11-84b1d5a6fc5e.jpeg)
 
-**Deepak Kumar** of Electrical Engineering Department won First prize 2nd year.
+   **Deepak Kumar** of Electrical Engineering Department won First prize 2nd year.
 
 
 
