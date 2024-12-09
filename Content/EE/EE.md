@@ -76,6 +76,12 @@ A workshop was organised by E2S2 society of Electrical Engineering Department on
 
 
 ## Publications  
+- **Dr Kanwardeep Singh**,Anupam Mittal,"Quantitative impact assessment of transmission congestion and demand side management on electricity producers’ market power" International Journal of Emerging Electric Power Systems,2024.
+- **Dr Kanwardeep Singh**,Raja Gopal Peesapati, Vinod Kumar Yadav and Santosh Ghosh"Optimal Scheduling of BESS for Congestion Management Considering Reliability and OTS",Sustainable Energy, Grids and Networks volume 38,2024.
+- **Dr Kanwardeep Singh**,Bharti Koul and Y.S. Brar "Robust and Comfortable Day-Ahead Demand Side Management of Residential, Industrial and Commercial Consumers for Demand Normalization",International Journal Electric Power Components and Systems volume50(3) page no.101-119,2022.
+- **Dr Kanwardeep Singh**,Bharti Koul and Y.S. Brar,"Improvements in Deviation Settlement Mechanism of Indian Electricity Grid System through Demand Response Management" International Journal of Emerging Electric Power Systems, volume 23(4) page no 605-620,2022.
+![image](https://github.com/user-attachments/assets/c29fa7b5-d263-4cfa-bde8-c2fa2fef666d)
+
 
 - **Dr Kanwardeep Singh**, Anu Singla and Vinod Kumar Yadav, ''Optimization of Distributed Solar Photovoltaic Power Generation in Day-Ahead Electricity Market Incorporating Irradiance Uncertainty'' published in Journal of Modern Power System and Clean Energy (SCIE, Impact factor 3.09, Print/Electronic ISSN:2196- 5625 /2196-5420, 2021)
 - **Dr Kanwardeep Singh** and Anupam Mittal ''Control of Market Power Using Demand Responsiveness in Congested Restructured Power System Networks'' at International Conference on Computing, Networks & Renewable Energy, IKG Punjab Technical University, Kapurthala, August 5-6, 2021.
