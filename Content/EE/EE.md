@@ -136,10 +136,10 @@ of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
 |4|Workshop on Virtual Reality and artificially intelligence: perspective for industry 4.0|Dr. Arvind Dhingra, Pf. Sukhpal and Pf Amrinder Kaur|1 Day|18th December 2022|GNDEC Ludhiana|
 |5| Expert lecture by wonder automation on Industrials Drives and its usage |Dr Arvind Dhingra|1 Day|30th November 2022|GNDEC Ludhiana|
 |6|  Industrial Tour Visit to NPTI Nangal|Dr. Navneet Singh Bhangu|1 Day|26th November, 2022|GNDEC Ludhiana|
-|7|Industrial Tour Visit to NPTI Nangal|Dr. Kanwardeep Singh|1 Day|2nd Dec, 2021|
-|8 | ICT enabled FDP on Energy Conservation and Management (Run-2) | Dr Arvind Dhingra | One Week | 04-08 May, 2020 | TEQIP-III  |
-|9|ICT enabled FDP on Energy Conservation and Management(Run-1)|Dr. Arvind Dhingra |3 Days| April 27- May 1|
-|10|ICT enabled FDP on Energy Conservation and Management(Run-1)|Dr. Arvind Dhingra |3 Days| April 27- May 1|
+|7|Industrial Tour Visit to NPTI Nangal|Dr. Kanwardeep Singh|1 Day|2nd Dec, 2021|GNDEC, LUDHIANA|
+|8 | ICT enabled FDP on Energy Conservation and Management (Run-2) | Dr Arvind Dhingra | One Week | 04-08 May, 2020 | TEQIP-III |GNDEC, LUDHIANA|
+|9|ICT enabled FDP on Energy Conservation and Management(Run-1)|Dr. Arvind Dhingra |3 Days| April 27- May 1|GNDEC, LUDHIANA|
+|10|ICT enabled FDP on Energy Conservation and Management(Run-1)|Dr. Arvind Dhingra |3 Days| April 27- May 1|GNDEC, LUDHIANA|
 
 
 
