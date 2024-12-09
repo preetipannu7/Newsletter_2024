@@ -56,11 +56,11 @@ A workshop was organised by E2S2 society of Electrical Engineering Department on
 
 ## Faculty Achievements
 			
-- **Dr.Arvind Dhingra** won Proud Indian Iconic Teacher & researcher Award, 2023	Ratna Prasad Multidisciplinary Research & Educational Society	Jan 26,2023
-- **Dr.Arvind Dhingra** won International Eminent Scientist Award	International Multidisciplinary Research Foundation.	Oct 5,2023
-- **Dr.Arvind Dhingra** won ISTE Section Best Teacher	ISTE	Nov 8,2023
-- **Dr.Arvind Dhingra** won	Rising Star of India Award	CT University	Dec 2,2023
-- **Dr.Arvind Dhingra** won	Global Iconic Award: Excellence in Academic Leadership	Kathmandu University	Dec 6,2023
+- **Dr.Arvind Dhingra** won Proud Indian Iconic Teacher & researcher Award,Ratna Prasad Multidisciplinary Research & Educational Society, Jan 26,2023
+- **Dr.Arvind Dhingra** won International Eminent Scientist Award,International Multidisciplinary Research Foundation on Oct 5,2023
+- **Dr.Arvind Dhingra** won ISTE Section Best Teacher,ISTE,Nov 8,2023
+- **Dr.Arvind Dhingra** won Rising Star of India Award by CT University	Dec 2,2023
+- **Dr.Arvind Dhingra** won Global Iconic Award: Excellence in Academic Leadership,Kathmandu University,Dec 6,2023
 - **Dr. Arvind Dhingra** won Best Faculty Award, IISA, August,2022.
 - **Dr. Arvind Dhingra** won Golden Pinnacle Award, National Sports & Amp; Youth development Council, June,2021.
 - **Dr. Arvind Dhingra** won International Adroit Educator Award,2021 by Green Thinkerz International Adroit Educator Award,2021 by Green Thinkerz
