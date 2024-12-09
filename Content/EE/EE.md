@@ -56,12 +56,12 @@ A workshop was organised by E2S2 society of Electrical Engineering Department on
 
 ## Faculty Achievements
 			
-- **Dr.Arvind Dhingra** won Proud Indian Iconic Teacher & researcher Award,Ratna Prasad Multidisciplinary Research & Educational Society, Jan 26,2023
-- **Dr.Arvind Dhingra** won International Eminent Scientist Award,International Multidisciplinary Research Foundation on Oct 5,2023
-- **Dr.Arvind Dhingra** won ISTE Section Best Teacher,ISTE,Nov 8,2023
+- **Dr.Arvind Dhingra** won Proud Indian Iconic Teacher & researcher Award by Ratna Prasad Multidisciplinary Research & Educational Society, Jan 26,2023
+- **Dr.Arvind Dhingra** won International Eminent Scientist Award by International Multidisciplinary Research Foundation on Oct 5,2023
+- **Dr.Arvind Dhingra** won ISTE Section Best Teacher by ISTE,Nov 8,2023
 - **Dr.Arvind Dhingra** won Rising Star of India Award by CT University	Dec 2,2023
-- **Dr.Arvind Dhingra** won Global Iconic Award: Excellence in Academic Leadership,Kathmandu University,Dec 6,2023
-- **Dr. Arvind Dhingra** won Best Faculty Award, IISA, August,2022.
+- **Dr.Arvind Dhingra** won Global Iconic Award by Excellence in Academic Leadership,Kathmandu University,Dec 6,2023
+- **Dr. Arvind Dhingra** won Best Faculty Award by IISA, August,2022.
 - **Dr. Arvind Dhingra** won Golden Pinnacle Award, National Sports & Amp; Youth development Council, June,2021.
 - **Dr. Arvind Dhingra** won International Adroit Educator Award,2021 by Green Thinkerz International Adroit Educator Award,2021 by Green Thinkerz
 - **Dr. Arvind Dhingra** won award for mentoring students in Innovative Projects Competition on theme of Energy Conservation and Energy Efficiency organized by   Punjab Energy Development Agency, March,2021. 
@@ -76,17 +76,22 @@ A workshop was organised by E2S2 society of Electrical Engineering Department on
 
 
 ## Publications  
+
 - **Dr Kanwardeep Singh**, Anu Singla and Vinod Kumar Yadav, ''Optimization of Distributed Solar Photovoltaic Power Generation in Day-Ahead Electricity Market Incorporating Irradiance Uncertainty'' published in Journal of Modern Power System and Clean Energy (SCIE, Impact factor 3.09, Print/Electronic ISSN:2196- 5625 /2196-5420, 2021)
 - **Dr Kanwardeep Singh** and Anupam Mittal ''Control of Market Power Using Demand Responsiveness in Congested Restructured Power System Networks'' at International Conference on Computing, Networks & Renewable Energy, IKG Punjab Technical University, Kapurthala, August 5-6, 2021.
 - **Dr Kanwardeep Singh** and Parminder Singh "Electric Load Forecasting Using Bi-LSTM Based Artificial Neural Technique"at International Conference on Computing, Networks & Renewable Energy, IKG Punjab Technical University, Kapurthala, August 5-6, 2021.
 - **Dr Kanwardeep Singh**, Research Paper Titled “Optimizing Distributed Solar Photovoltaic Power Generation in Day- Ahead Electricity Market Incorporating Irradiance Uncertainty" published in Journal of Modern Power
 Systems and Clean Energy (Science Citation Index Expanded, ISSN: 2196-5625/ e-ISSN:2196-5420, impact factor: 3.09, open access), October 21st ,2020
+-**Dhingra Arvind**,Khanna, A., Sharma, R., A., Dhaliwal,"Preventive breakdown and fault detection of machine using industrial IOT in maintenance and automation"Materials Today Proceedings	March,2023 ISSN NO2214-7853
+-**Dhingra Arvind**,Kaur, H., Gupta, S.,"Selection of solar panel using entropy TOPSIS technique"Materials Today Proceedings,March,2023,ISSN NO.2214-7853
+-**Dhingra Arvind**,Singh Beant,Singh Karanbir"Enhancing Reactive Power Compensation in Solar Photovoltaic system with the use of FOPID controlled STATCOM"International Journal of Research Publication and Reviews, Vol4.,issue 8,ISSN NO.2582-7421
+-**Dhingra Arvind**,Dhingra Arvind, Dhingra Ketan,"Energy Conservation for a Sustainable Future"Proceedings of International Multidisciplinary Conference on Current Research Trends,Vol.I 789390,ISSN NO.188789	
 - **Dhingra Arvind** , Kaur Harpreet, Gupta Surbhi "Agricultural waste power generation in Ludhiana district, Punjab, India" in Elsvier Materials Proceedings, 2021
 - **Dhingra Arvind**, A. Khanna, R. Pandey, J. Madan "Numerical Simulation and Optimisation of Wide Bandgap (1.45eV) PbSCQD Solar Cell for 14% Conversion Efficiency" in 48th IEEE Photovoltaic Specialists Conference (PVSC 48), 2021
 - **Dhingra Arvind**, A. Khanna, R. Pandey, J. Madan "Thickness Optimisation and Defect Analysis of Wide Bandgap PbS-CQD Solar Cell by SCAPS-1D Simulations in 48th IEEE Photovoltaic Specialists Conference (PVSC 48), 2021"
 - **Dhingra Arvind**, Singh Parminder, Nijhawan Parag, Model reduction of linear time invariant SISO systems using different optimal techniques, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
 - **Dhingra Arvind**, Nijhawan Parag, Manish Kumar Singla, Meera Sharma, Sensor based optimization of energy in internet of things: A review, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
--	**Dhingra Arvind**, Sidhu Sukhjot, Day ahead forecasting in PSPCL, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
+-**Dhingra Arvind**, Sidhu Sukhjot, Day ahead forecasting in PSPCL, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17-19th,2020
 - **Dhingra Arvind**, Singh Tejinder, Energy conservation for sustainable future, International Conference on Sustainable Developments through Engineering Innovations SDEI’20, Guru Nanak Dev Engineering College, Ludhiana, September 17th-19th,2020.
 - **Navneet Singh Bhangu** "Performance Analysis of s unidentical k-out-of-n System using Reliability Block Diagram and Fault Tree Technique: A Case Study" in Journal of Engineering & Technology Education (2229-631X, UGC) ,2021
 - **Navneet Singh Bhangu**,   Application of Fault Tree Analysis for Evaluating Reliability: A Case Study of Gear Box of Wind Turbine, International Journal of Advanced Science and Technology Volume 29 Issue 3, March 2020, ISSN: 2005-4238 (Print), ISSN: 2207-6360 (Online), Pages: 4486-4492, SCOPUS Indexed Journal.
