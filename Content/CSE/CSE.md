@@ -7,7 +7,7 @@
 We are also actively involved in research and development activities. Our faculty members have published their research work in various reputed journals with good impact factors and carrying out research in diverse fields of Computer Science and Engineering. Students of department are also bringing laurel to the institute by participating in various curricular and extra-curricular activities from time-to-time at national and international levels. Department is supporting students in all domains for their overall personality development and organizing different events through societies and clubs managed by department including Computer Society of India and Data Science Club.</div>Dr. Kiran Jyoti, Head of Department, Computer Science and Engineering
 
 ## Department at Glimpse
-<div align = "justify"> Department of Computer Science and Engineering is established in year 1997. Department is offering B.Tech. and M.Tech. programs in Computer Science and Engineering. Laboratories of the department are equipped with state of the art infrastructure to cater course work and research activities. A Good number of books is available in departmental library for prompt access to students and faculty members. Under academic autonomy, study schemes of the offered programs are updated regularly focusing outcome based education, to make students employable as per national and international requirements. Graduates of the department are serving around the globe in eminent companies, academia, as well as in public sector. They are bringing laurel to the department by excelling in fields of their work. Every year a good number of students are clearing different competitive exams</div>
+<div align = "justify"> Department of Computer Science and Engineering is established in year 1997. Department is offering B.Tech., M.Tech. programs and Ph.D (under Autonomous status) in Computer Science and Engineering. Laboratories of the department are equipped with state of the art infrastructure to cater course work and research activities. A Good number of books is available in departmental library for prompt access to students and faculty members. Under academic autonomy, study schemes of the offered programs are updated regularly focusing outcome based education, to make students employable as per national and international requirements. Graduates of the department are serving around the globe in eminent companies, academia, as well as in public sector. They are bringing laurel to the department by excelling in fields of their work. Every year a good number of students are clearing different competitive exams</div>
 
 ## Student Coordinators
 - Kajal Chugh (2303225)
@@ -81,7 +81,9 @@ We are also actively involved in research and development activities. Our facult
 
 ## Faculty Achievements  
 
+- Dr. Parminder Singh, Professor(CSE), awarded as **ISTE Best Teacher Award** by Indian Society of Technical Education.
 - Dr. Amit Jain, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award** by Indian Society of Technical Education and  has awarded with **two design** patents with a total of five patents. 
+- Er. Satinderpal Singh, Assistant Professor(CSE), awarded as Master Trainer Programmer at HPC (AICTE), CDAC Bangalore.
 
 ## Faculty Research Publications  
 - [**Goldendeep Kaur, Kiran Jyoti**, Samer Shorman, Anas Ratib Alsoud, Rohit Salgotra (2024, July). An Efficient Approach for Localizing Sensor Nodes in 2D Wireless Sensor Networks Using Whale Optimization-Based Naked Mole Rat Algorithm. MDPI Mathematics.]
