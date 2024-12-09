@@ -263,28 +263,15 @@ Dr. Narwant Singh Grewal
 #### - Student's Achievements
 
 ![Students](Images/PP2.jpg)
-![Students](Images/PP1.jpg)
-![Students](Images/0.jpeg)
-![Students](Images/s.jpeg)
-![Students](Images/n.jpeg)
 
-- **Jagjot Singh(URN:2104387)** got 3rd prize in Causmic Club Quiz Event "Fast and Curious" held under Applied Science Department Society on 08-12-2023.
-
--  **Jaspal Singh(URN:2104391)** attended North India Inter-University Cricket Camp from 17-12-2022 to 22-12-2023.
-
--  **Riya Saluja(2104418)** Got silver in inter college handball (sangrur), second in heritage annual function and awarded in theater one act play annual function.
-
-- **Sonu Kumar(URN:2004860)**, selected in Inter-University Kabbadi team by Punjab Technical University on 01-12-2023.
-
-- **Pranav Ranjan(URN:2004841)**, was runner up in Inter-year cricket organized by GNDEC on 05-11-2023.
+- **Jagjot Singh(URN:2104387)** CSAW 2024(BioHack3d)- Third Prize
 
 ----------------------------------------
 ![Students](Images/anm.jpeg)
 
 ![Students](Images/anm1.jpeg)
 
-- **Anmol Kumar Srivastav(URN:2134680)** assigned the event GNE APEX (2023) organized by GNDEC ON 08-04-2023.
-
+- **Anmol Kumar Srivastav(URN:2134680)** represented the drone in IIT Roorkee and Secured 2nd place in RC car race event
 -----------------------------------------
 
 ![Students](Images/w.jpeg)
