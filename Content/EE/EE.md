@@ -100,36 +100,30 @@ A workshop was organised by E2S2 society of Electrical Engineering Department on
 - **Rupinderjit Singh** and Manmohit Sharma Estimation of Power Generation using Bio Mass: A case study of Sirmaur District (H.P.) in Int. Research Jour. Of Modernization in Engineering Technology and Science, 2021
 - **Ravinder Kaur** Binny Sharma "comparative study of multi level inverters based on the outputput total Harmonic distortion" in International Reasereach journal of Engineering Technology, 2021
 - **Baljeet Singh**, **Puneet Chandel** "Power Quality Improvement in Power System using UPFC" in International Journal of all Research education and Scientific methods, 2021.
-
 - **Baljeet Singh**, **Puneet Chandel** "Impact of Upfc on the
 Power Quality in Grid" in International Journal of
 Engineering Applied Sciences and Technology, 2021.
-
 - **Kuldeep Singh**, **Baljeet Singh** "Optimal Placement of phasor measuring unit in power system" in International Journal of Engineering Sciences & Research Technology, 2021
 - **Kuldeep Singh**, **Karanbir Singh** "Optimal Placement on Extra High Voltage Bus System of Northern Eastern Region of Indian Power Grid Using PSAT " in International Journal of Engineering Sciences & Research Technology, 2021
-- **Karanbir Singh**, **Kuldeep Singh** "Home Energy Management
-System using WHALE Optimization Algorithm" in International Conference on Computing, Network & renewable energy
-
+- - **Karanbir Singh**,Singh Beant,Dhingra Arvind "Enhancing Reactive Power Compensation in Solar Photovoltaic system with the use of FOPID controlled STATCOM"International Journal of Research Publication and Reviews, Vol4.,issue 8,ISSN NO.2582-7421
+- **Karanbir Singh**, **Kuldeep Singh** "Home Energy Management System using WHALE Optimization Algorithm" in International Conference on Computing, Network & renewable energy
 - **Karanbir Singh**, **Kuldeep Singh** and **Amandeep Singh Ghatora** ,presented paper titled “Residential Load Profile Optimization using DSM by incorporating models of appliances”, in SDEI international conference September 17th -19th 2020.
-
 - **Karanbir Singh**, presented research paper titled  “Demand Side Management for cost and peak load optimization with load modelling”, in IEMERA in Imperial College, London, U.K from  March 26th-28th 2020.
-
 - **Gagandeep Kaur Gill** and **Rupinderjit Singh** presented paper titled “Bagasse congeneration plant efficiency improvement by using data envelopment analysis models"in SDEI international conference September. 17th -19th 2020.
-
+- **Arshdeep Kaur** and Sanpreet Singh,"Study the impact of different parameters on driving range of electric vehicle using MATLAB simulink"by International	International Journal of Engineering & Management Technology,Volume 02 issue 06,2023	
+- **Arshdeep Kaur** and Swapandeep Kaur,"Piezoelectric materials in sensors: Bibliometric and visualization analysis"by International Conference Materials Today: Proceedings,c.no ICMSSMT/2022.2022.
 - **Arshdeep Kaur** and Dr. Y.S Brar , presented paper titled "Optimization of Power System Using Static Synchronous Compensator to Enhance Voltage Stability" in SDEI international conference September 17th -19th 2020.
-
-- **Swapandeep Kaur** "Selection of industrial arc welding robot with TOPSIS and Entropy MCDM techniques" in Materials Today: Proceedings/ 2214-7853, 2021
-
+- **Swapandeep Kaur** and Arshdeep Kaur ,"Piezoelectric materials in sensors: Bibliometric and visualization analysis"by International Conference Materials Today: Proceedings,c.no ICMSSMT/2022.2022.
+- **Swapandeep Kaur**, "Selection of industrial arc welding robot with TOPSIS and Entropy MCDM techniques" in Materials Today: Proceedings/ 2214-7853, 2021
 - **Swapandeep Kaur** , "Agricultural waste power generation in Ludhiana district, Punjab, India" in  Materials Today: Proceedings, 2021
-
 - **Swapandeep Kaur** "Smart Watches: A Review
 of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
-- **Swapandeep Kaur** "Application of multicriteria decision-making
-
- theory with VIKORWASPAS -Entropy methods: A case study of silent Genset" in  Materials Today: Proceedings, 2021
-
+- **Swapandeep Kaur** "Application of multicriteria decision-making theory with VIKORWASPAS -Entropy methods: A case study of silent Genset" in  Materials Today: Proceedings, 2021
 - **Swapandeep Kaur** "Electric Vehicle Scenario in India: Evolution, Challenges and Opportunities" in  International Journal of Advances in Engineering and Management (IJAEM), 2021
-
+-  **Sanpreet Singh** and Arshdeep Kaur,"Study the impact of different parameters on driving range of electric vehicle using MATLAB simulink"by International	International Journal of Engineering & Management Technology,Volume 02 issue 06,2023
+- **Mandeep Kaur** and Nitin Narang,"Optimal power flow solution using space transformational invasive weed optimization algorithm ",Iranian Journal of Science and Technology, Transactions of Electrical Engineering,volume 47 page no.939-965,ISSN 2023.
+- **Mandeep Kaur** and Nitin Narang,"Non-interactive approach to solve multi-objective optimal power flow problem	Electrical Engineering	103	167-182	2021
+- **Mandeep Kaur** and Nitin Narang," An integrated optimization technique for optimal power flow solution",Soft Computing volume 24,ISSN 10865-10882,2020
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
