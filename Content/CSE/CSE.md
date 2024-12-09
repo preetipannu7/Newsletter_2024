@@ -14,9 +14,10 @@ We are also actively involved in research and development activities. Our facult
 - Jaideep Randhava (2203463)
 
 ## Student Achievements
-- Ajit Kumar  URN: 2004884, student of 2020-2024 Batch got placed at a highest package of 9 Lakh per Annum in TCS PRIME.
+
 - Shivay Bhandari  URN: 1905398, student of 2019-2023 Batch got placed at a highest package of 20 Lakh per Annum in Zomato.
 - Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed at a highest package of 19.5 Lakh per Annum in PhonePe.
+- Ajit Kumar  URN: 2004884, student of 2020-2024 Batch got placed at a highest package of 9 Lakh per Annum in TCS PRIME.
 - Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, Aarchie Maggu students of CSE got 2nd prize at National Level Smart Hackathon 2023, organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
    
 ### Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
@@ -79,12 +80,24 @@ We are also actively involved in research and development activities. Our facult
 | 35     | Avaluday Singh   | 2004554 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023           | Inter-University |
 | 36     | Ravneet Singh   | 2303176 | Bhangra  (3rd Position),  Inter Univeristy Youth Festival 2023    | Inter-University |
 
+## Student Research Publications
+- [**Harmehak Singh Khangura, Jasleen Kaur, Gurleen Kaur**, Parminder Singh (2023, May). Human Computer Interaction: Technologies and Challenges. Journal of Emerging Technologies and Innovative Research (JETIR).]
+  
 ## Faculty Achievements  
 
-- Dr. Parminder Singh, Professor(CSE), awarded as **ISTE Best Teacher Award** by Indian Society of Technical Education.
+- Dr. Parminder Singh, Professor(CSE), appointed as **Member, Board of Studies**, Jagat Guru Nanak Dev Punjab State Open University, Patiala [Jan,2024]
+- Er. Satinderpal Singh, Assistant Professor(CSE), became **Master Trainer** at master trainer program through HPC (AICTE) National Superconducting Mission at CDAC Bangalore [June,2024]
+- Dr. Parminder Singh, Professor(CSE), awarded as **“ISTE Section Best Teacher Award 2023”** at ISTE Section Convention hosted by Bhai Gurdas Institute of Engineering and Technology, Sangrur, Punjab [Nov,2023].
+- Dr. Parminder Singh, Professor(CSE), appointed as **Expert on the Faculty of Computer Sciences** for the term from 11.01.2023 to 10.01.2025 by Punjabi University, Patiala.
+- Dr. Parminder Singh, Professor(CSE),	appointed as **Member, Board of Studies (Computer Sc. & Engg.)**, Shaheed Bhagat Singh State University, Ferozepur [Jan,2022-Jan,2025]
 - Dr. Amit Jain, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award** by Indian Society of Technical Education and  has awarded with **two design** patents with a total of five patents. 
-- Er. Satinderpal Singh, Assistant Professor(CSE), awarded as Master Trainer Programmer at HPC (AICTE), CDAC Bangalore.
 
+## Conference Chaired Sessions
+- Dr. Kiran Jyoti, H.O.D.(CSE), Chaired session in the **7th International Joint Conference on Computing Sciences (ICCS-2023) "KILBY100"**, School of Computer Science and Engineering, Lovely Professional University, Punjab [May, 2023].
+- Dr. Parminder Singh, Professor(CSE), Chaired session during “**International Conference on Network, Intelligence and Computing (ICONIC-2023)**”, School of Computer Application, Lovely Professional University, Punjab [April, 2023].
+
+
+  
 ## Faculty Research Publications  
 - [**Goldendeep Kaur, Kiran Jyoti**, Samer Shorman, Anas Ratib Alsoud, Rohit Salgotra (2024, July). An Efficient Approach for Localizing Sensor Nodes in 2D Wireless Sensor Networks Using Whale Optimization-Based Naked Mole Rat Algorithm. MDPI Mathematics.]
 - [Sujay N. Hedge, D.B. Srinivas, M.A. Rajan, **Sita Rani**, Aman Kataria, Hong Min (2024, March). Multi-objective and multi constrained task scheduling framework for computational grids.  Scientific Reports.]
@@ -97,6 +110,7 @@ We are also actively involved in research and development activities. Our facult
 - [**Kamaldeep Kaur, Parminder Singh** (2023, August). Comparison of Various Feature Selection Algorithms in Speech Emotion Recognition. AIUB Journal of Science and Engineering (AJSE).]
 - [**Diana Nagpal**, Shikha Gupta, Deepak Kumar, Zoltan Illes, Chaman Verma, Barnali Dey (2023,June). GoldenAGER: A Personalized Feature Fusion Activity Recognition Model for Elderly. IEEE Access.]
 - [Harmehak Singh Khangura, Jasleen Kaur, Gurleen Kaur, **Parminder Singh** (2023, May). Human Computer Interaction: Technologies and Challenges. Journal of Emerging Technologies and Innovative Research (JETIR).]
+- [Prince Verma, **Kiran Jyoti**, Nirmaljeet Kaur, Varsha, Shruti (2023, May). Synthesized Deep Learning Model in Chatbot Feature Learning. European Chemical Bulletin.]
 - [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya (2023,April).  A State-Of-The-Art Review on Coronary Artery Border Segmentation Algorithms for Intravascular Ultrasound (IVUS) Images. Cardiovascular Engineering and Technology.]
 - [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya (2023,April). Calcification Detection in Intravascular Ultrasound (IVUS) Images Using Transfer Learning Based MultiSVM model. Ultrasonic Imaging.]
 - [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya, Prince Chaudhary (2023,April). CADNet: an advanced architecture for automatic detection of coronary artery calcification and shadow border in intravascular ultrasound (IVUS) images. Physical and Engineering Sciences in Medicine.]
