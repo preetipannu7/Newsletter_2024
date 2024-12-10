@@ -21,13 +21,16 @@ We are also actively involved in research and development activities. Our facult
 - Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, Aarchie Maggu students of CSE got 2nd prize at National Level Smart Hackathon 2023, organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
 
 ## Gate Cleared Students
-| S.No. | Name of Student            | Reg. No.     | Year |
-|-------|------------------|---------|-------|
-| 1 | MEHAK KALIA             | DA24S18204108     | 2024 |
-| 2 | NAVNIT KUMAR            | DA24S14001549     | 2024 |
-| 3 | ROHIT            | CS24S58204184     | 2024 |
-| 4 | RAGHAV SHARMA           | CS23S18023005     | 2023 |
-|5  | HARDEV           | CS23S18023041     | 2023 |
+
+
+| S.No.                      | Name of Student                      | Reg. No.                                           | Year | 
+|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|
+| 1      | MEHAK KALIA  |DA24S18204108 | 2024  | 
+| 2      | NAVNIT KUMAR    |DA24S14001549  | 2024  | 
+| 3      | ROHIT  |CS24S58204184 | 2024  | 
+| 4      | RAGHAV SHARMA  |CS23S18023005 | 2023  | 
+| 5      | HARDEV  |CS23S18023041 | 2023  | 
+
    
 ### Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
 
@@ -96,11 +99,11 @@ We are also actively involved in research and development activities. Our facult
 
 - **Dr. Parminder Singh**, Professor(CSE), appointed as **Member, Board of Studies**, Jagat Guru Nanak Dev Punjab State Open University, Patiala [Jan,2024]
 - **Er. Satinderpal Singh**, Assistant Professor(CSE), became **Master Trainer** at master trainer program through HPC (AICTE) National Superconducting Mission at CDAC Bangalore [June,2024]
+- **Dr. Amit Jain**, Assistant Professor(CSE), awarded with **two design patents** with a total of five patents [2024].
 - **Dr. Parminder Singh**, Professor(CSE), awarded as **“ISTE Section Best Teacher Award 2023”** at ISTE Section Convention hosted by Bhai Gurdas Institute of Engineering and Technology, Sangrur, Punjab [Nov,2023].
 - **Dr. Amit Jain**, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award 2023** by Indian Society of Technical Education [Nov,2023].
 - **Dr. Parminder Singh**, Professor(CSE), appointed as **Expert on the Faculty of Computer Sciences** for the term from 11.01.2023 to 10.01.2025 by Punjabi University, Patiala.
 - **Dr. Parminder Singh**, Professor(CSE),	appointed as **Member, Board of Studies (Computer Sc. & Engg.)**, Shaheed Bhagat Singh State University, Ferozepur [Jan,2022-Jan,2025]
-- **Dr. Amit Jain**, Assistant Professor(CSE), awarded with **two design patents** with a total of five patents.
 - **Dr. Kamaldeep Kaur, Dr. Priyanka Arora, and Dr. Manpreet Kaur Mand** completed **Ph.D (CSE)** [2023].
 
 ## Conference Chaired Sessions
