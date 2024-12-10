@@ -48,21 +48,15 @@ The Information Technology Department is dedicated to empowering students from d
 
 | Sr. No. | Name of Faculty  | Name of Event          | Duration |Date(s)     | Organizing Institute    |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------|:----------------------------------------------------------------------------------------|
-| 1 | Sandeep Kumar Singla | OBE and NBA Accreditation     | One week   | May 23, 2022 to May 27, 2022 |NITTTR, Chandigarh|
-| 2 | Jagdeep Singh | Cloud, Fog and Edge Computing     | One week   | May 23, 2022 to May 27, 2022 | NITTTR, Chandigarh|
-| 3 | Kamaljit kaur | Free Software and resources for technical education through ICT     | One week   | March 21, 2022 to March 25 , 2022| Guru Nanak Dev Engineering College, Ludhiana|
-| 4 | Sandeep Kumar Singla | Free Software and resources for technical education through ICT     | One week   | March 21, 2022 to March 25 , 2022| Guru Nanak Dev Engineering College, Ludhiana|
-| 5 | Rupinder Kaur | Free Software and resources for technical education through ICT     | One week   | March 21, 2022 to March 25 , 2022| Guru Nanak Dev Engineering College, Ludhiana|
-| 6 | Kulvinder Singh Mann | Free Software and resources for technical education through ICT     | One week   | March 21, 2022 to March 25 , 2022| Guru Nanak Dev Engineering College, Ludhiana|
-| 7 | Sidharath Jain | Free Software and resources for technical education through ICT     | One week   | March 21, 2022 to March 25 , 2022| Guru Nanak Dev Engineering College, Ludhiana|
-| 8 | Sachin Bagga | Free Software and resources for technical education through ICT     | One week   | March 21, 2022 to March 25 , 2022| Guru Nanak Dev Engineering College, Ludhiana|
-| 9 | Pradeep Kumar | Free Software and resources for technical education through ICT     | One week   | March 21, 2022 to March 25 , 2022| Guru Nanak Dev Engineering College, Ludhiana|
-| 10 | Navdeep Kaur | Capacity Building Training        | 1 day   |  Jan 20, 2022 | ITI, Ludhiana |
-| 11 | Manjot Kaur | Capacity Building Training      | 1 day  | Jan 20, 2022 | ITI, Ludhiana |
-| 12 |  Sandeep Kumar Singla | EMERGING TRENDS IN TEACHING & RESEARCH (ETTR)      | One Week  | Feb 7, 2022 to Feb 12, 2022 | PIT, Rajpura|
-| 13 | Dr.Pankaj Bhambri | Free and Open-Source ICT Tools for Effective Teaching-Learning and Research   | One Week  | Jan 3, 2022 to Jan 8, 2022| NITTTR, Chandigarh |
-| 14 |  Sandeep Kumar Singla | MACHINE LEARNING FOR INTERNET OF THINGS   | One Week | Jan 3, 2022 to Jan 8, 2022 | Guru Jambheshwar University Of Science & Technology, Hisar |
-| 15 | Jagdeep Singh  | NPIU Faculty Training for Internet of Things - Specialized Skills Training   | 10 days  |  June 11, 2022 to June 20, 2022  | IIT, Bombay |
+| 1 | Rupinder Kaur| Machine Learning and Its Applications in IoT, Computer Vision and Cloud Computing    | One week   | 10 July to 14 July 2023 |National Institute of Technology, Jamshedpur|
+| 2 | Rupinder Kaur | Blockchain revolutionaizing Artificial Intelliegence     | One week   | 21 August to 25 August 2023|Chandigarh University, SAS Nagar|
+| 3 | Mohanjit Kaur | Blockchain revolutionaizing Artificial Intelliegence     | One week   | 21 August to 25 August 2023|Chandigarh University, SAS Nagar|
+| 4 | Gitanjali | Blockchain revolutionaizing Artificial Intelliegence     | One week   | 21 August to 25 August 2023|Chandigarh University, SAS Nagar|
+| 5 |Harjot Kaur |Outcome based Education    | 3 Days   | 24 August to 26 August 2023|Meerut Institute of Technology, Meerut|
+| 6 | Jaskiran Kaur| Blockchain revolutionaizing Artificial Intelliegence     | One week   | 21 August to 25 August 2023|Chandigarh University, SAS Nagar|
+| 7|Jaskiran Kaur |Outcome based Education    | 3 Days   | 24 August to 26 August 2023|Meerut Institute of Technology, Meerut|
+| 8|Sachin Bagga |Cyber Security & SIEM    | 12 days   | 24 July to 04 August 2023|IBM|
+
 
 
 
