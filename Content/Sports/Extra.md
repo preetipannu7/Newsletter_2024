@@ -2,29 +2,25 @@
 ## PTU Inter-college Tournaments
 
 
-![Winner Cycling Men & Women Team](Images/PTU/1.JPG)  
+![Winner Cycling Men & Women Team](Images/PTU/BasketballBoys1st.JPG)  
 
-![Runner-up hockey Men Team](Images/PTU/2.jpg)
+![Runner-up hockey Men Team](Images/PTU/BasketballGirls1st.JPG)
 
-![Runner-up Football Men  Team](Images/PTU/3.jpeg)
+![Runner-up Football Men  Team](Images/PTU/Chessboys1st.jpeg)
 
-![Runner-up Basketball Men  Team](Images/PTU/4.JPG)
+![Runner-up Basketball Men  Team](Images/PTU/ChessGirls1st.jpeg)
 
-![Runner-up Chess Women  Team](Images/PTU/5.jpeg)
+![Runner-up Chess Women  Team](Images/PTU/CyclingBoy1st.jpg)
 
-![Runner-up Cross-country Men  Team](Images/PTU/6.jpg)
+![Runner-up Cross-country Men  Team](Images/PTU/CyclingGirls1st.jpg)
 
-![Runner-up Handball Men  Team](Images/PTU/7.jpeg)
+![Runner-up Handball Men  Team](Images/PTU/BadmintonBoys2nd.jpeg)
 
-![Runner-up Handball Women  Team](Images/PTU/8.jpeg)
+![Runner-up Handball Women  Team](Images/PTU/CrossCountry2nd.jpeg)
 
-![Runner-up Swimming Men  Team](Images/PTU/9.jpeg)
+![Runner-up Swimming Men  Team](Images/PTU/Hockey2nd.jpeg)
 
-![Runner-up Table tennis Men  Team](Images/PTU/10.jpeg)
-
-![Third Badminton Men  Team](Images/PTU/11.JPG)
-
-![Winner Girls & Third Boys Lawn-tennis Team](Images/PTU/12.JPG)
+![Runner-up Table tennis Men  Team](Images/PTU/TableTennisTeamThird.jpeg)
 
 
 <p align=justify>
