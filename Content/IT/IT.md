@@ -56,6 +56,11 @@ The Information Technology Department is dedicated to empowering students from d
 | 6 | Jaskiran Kaur| Blockchain revolutionaizing Artificial Intelliegence     | One week   | 21 August to 25 August 2023|Chandigarh University, SAS Nagar|
 | 7|Jaskiran Kaur |Outcome based Education    | 3 Days   | 24 August to 26 August 2023|Meerut Institute of Technology, Meerut|
 | 8|Sachin Bagga |Cyber Security & SIEM    | 12 days   | 24 July to 04 August 2023|IBM|
+| 9|Gagneet Kaur |AI Tools and Prompt Engineering   | One week   | 27 November to 02 December 2023|IBM|
+| 10|Gitanjali |Applied Cloud Computing for Full Stack Web Development  | One week   | 04 December to 08 December 2023|TechSaksham|
+| 11|Kamaljit Kaur |Quantum Computing  | One week   | 18 December to 23 December 2023|Guru Nanak Dev Engineering College, Ludhiana|
+| 12|Rupinder Kaur |Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
+| 13|Jaskiran Kaur |Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
 
 
 
