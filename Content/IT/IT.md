@@ -23,11 +23,13 @@ The Information Technology Department is dedicated to empowering students from d
 - ![HSR](Images/kamra.jpg) Dr. Amit Kamra,Received the certificate of appreciation from AICTE on 17th July 2023 for translating the lectures of SWAYAM course Foundations of Wavelets and Multirate Digital Signal Processing in Punjabi language.
 -   Dr. Amit Kamra,Received the certificate of appreciation from AICTE on 29th November 2023 for validation of lectures of the SWAYAM course Programming in Java in Punjabi language
 
+## Expert Talk 
 
-- ![HSR](Images/bagga.jpg) Dr. Sachin Bagga,
-
- 
-  
+ | Sr. No. | Name of Faculty  | Title of the Talk          | Event Name |Date    | Organised by   |
+|:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------|:----------------------------------------------------------------------------------------|
+| 1 | Dr.Sandeep Singla | Moodle Workshop    | Moodle Workshop     | 03January 2024  |GNDEC, Ludhaina| 
+| 2 | Dr.Jagdeep singh | Keynote Session   | Five Days Faculty Development Program on "Recent Advances in Computer Science and Allied Domains"     | 22 September 2023  |Sharda University, Noida| 
+| 1 | Dr.Jagdeep singh |Expert Talk    |ATAL Academy Faculty Development Program    | 21 September 2023  |DAV Public School, Ludhiana| 
 
 ## Publications  
 
@@ -73,7 +75,7 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
  ![HSR](Images/itian.png)
  ![HSR](Images/itian1.png)
-
+ ![HSR](Images/CyberSecurity.jpeg)
 
 
 
