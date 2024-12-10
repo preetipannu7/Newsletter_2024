@@ -61,6 +61,18 @@ The Information Technology Department is dedicated to empowering students from d
 | 11|Kamaljit Kaur |Quantum Computing  | One week   | 18 December to 23 December 2023|Guru Nanak Dev Engineering College, Ludhiana|
 | 12|Rupinder Kaur |Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
 | 13|Jaskiran Kaur |Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
+| 14|Sandeep Kumar Singla|NBA Accreditation and Teaching Learning in Engineering  | One week   | 01 January to 06 January 2024|Guru Nanak Dev Engineering College, Ludhiana|
+| 15|Amit Kamra|NBA Accreditation and Teaching Learning in Engineering  | One week   | 01 January to 06 January 2024|Guru Nanak Dev Engineering College, Ludhiana|
+| 16|Pankaj Bhambri|NBA Accreditation and Teaching Learning in Engineering  | One week   | 01 January to 06 January 2024|Guru Nanak Dev Engineering College, Ludhiana|
+| 17|Gagneet Kaur|Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
+| 18|Gagneet Kaur|Research Papers and Project Writing  | One week   | 01 January to 07 January 2024|CT University, Ludhiana|
+| 19|Ranjodh Kaur|Building Advanced Data Analytics Applications with Cloud  | One week   | 08 January to 12 January 2024|NextGen Employability Program|
+| 20|Himani Sharma|Building Advanced Data Analytics Applications with Cloud  | One week   |08 January to 12 January 2024|NextGen Employability Program|
+| 21|Gitanjali|Recent Trends in Teaching and Learning Pedagogy (Multidisciplinary)  | One week   |  16 January to 20 January 2024|Yashoda Technical Campus, Satara|
+| 22|Jaskiran Kaur|Recent Trends in Teaching and Learning Pedagogy (Multidisciplinary)  | One week   |  16 January to 20 January 2024|Yashoda Technical Campus, Satara|
+| 23|Rupinder Kaur|Recent Trends in Teaching and Learning Pedagogy (Multidisciplinary)  | One week   |  16 January to 20 January 2024|Yashoda Technical Campus, Satara|
+| 24|Sachin Bagga|Micropython Primer | One week   | 22 May to 26 May 2024|NIELIT, Calicut|
+| 25|Himani Sharma|Python for Data Science | One week   |  24 June to 28 June 2024|Infosys Springboard|
 
 
 
