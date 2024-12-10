@@ -2,156 +2,231 @@
 
 ## Message from HoD's Desk
 
-![PSB](Images/JSG.png)  
+![PSB](Images/HS.png)  
 
 <p align=justify>
-It is great that institute is publishing the information regarding the academic and non-academic achievements and activities in the form of Newsletter every year. This yearly Newsletter reflect the significant outcome of the faculty, staff and students. I personally and on the behalf of the department congratulate the Newsletter team for their appreciable efforts in compiling and publishing the important outcomes of the department.
+It is a matter of great pleasure and I would like to share few of my thoughts. The Department is flourishing and achieving new heights by getting two patents granted to the department by Patent Office, Govt. of India.
+Our staff members actively involved in research and development activities. Our faculty members have published their research work in various reputed journals with good impact factors and carrying out research in diverse fields of Mechanical and Production Engineering. Students of department are also bringing laurel to the institute by participating in various curricular and extra-curricular activities from time-to-time at national and international levels. Department is supporting students in all domains for their overall personality development and organizing different events through societies and clubs managed by department.
+
+  I personally and on the behalf of the department congratulate the Newsletter team for their appreciable efforts in compiling and publishing the important outcomes of the Department.
+
 </p>
 
-***Dr. Jasmaninder Singh Grewal***  
+***Dr. Harmeet Singh***  
  *HOD, Mechanical and Production Engineering Department*
 
 ## Department at Glimpse
 
 ## Faculty Achievements  
 
-- **Dr. Harmeet Singh**, Professor Mechanical & Production Engineering Department awarded best teacher award by Indian Society for Technical Education.
-- **Dr. Raman Kumar** awarded World's Top 2% Scientist for 2022 by Stanford University. 
+- **Dr. Harmeet Singh**, Professor Mechanical & Production Engineering Department joined HOD (MPE) with effect from  July, 2023.
+- **Dr. Raman Kumar** awarded World's Top 2% Scientist for 2023 by Stanford University for Second time. 
 
 ## Ph.D. Awarded
-- **Dr. Deepak Dhand** has  completed his Ph.D. in Mechanical Engineering from Punjabi University Patiala
+
+-	**Dr. Prem Singh**  has completed his Ph.D. in Mechanical Engineering from Punjabi University, Patiala
+-	**Dr. Satjot Singh** Dhillon  has completed his Ph.D. in Mechanical Engineering from Punjab Technical University, Jalandhar
+-	**Dr. Gulvir Singh**  has completed his Ph.D. in Mechanical Engineering from SLITE, Langowal 
+-	**Dr. Jatinder Pal**  has completed his Ph.D. in Mechanical Engineering from Thaper University, Patiala
+-	**Dr. Shehbaaz Singh** Brar  has completed his Ph.D. in Mechanical Engineering from Punjab Technical University, Jalandhar  
+
+## Patent Granted
+
+- Patent No.459333 dated: 15th May 2019 awarded on 16th October 2023 “HIGH-TEMPERATURE OXIDATION AND EROSION RESISTANT ALLOY-718/ AL2O3 COMPOSITE COATINGS” Patentee: 1. Dr. Hitesh Vasudev 2. Dr. Lalit Thakur 3. **Dr. Harmeet Singh** 4. Dr. Amit Bansa
+
+  ![PSB](Images/HSP.png)
+  
+-	Patent Number- 537875 Dated 28/04/2021 awarded on 14/05/2024“INTERNAL SWAGING MACHINE” Patentee : 1. **Dr. Gulvir Singh**,  **Dr. Jatinder Kapoor** and **Dr. Sehijpal Singh**
+  
+ ![PSB](Images/GSP.jpg)
 
 ## Publications  
 
-- **Harnam Singh Farwaha**, Dharmpal Deepak and Gurinder Singh Brar (2022) “Investigation of a novel ultrasonically aided electrochemical magnetic abrasive machining process for SS 316L” The International Journal of Advanced Manufacturing Technology,  Vol. 122, pp. 2343–2359. doi.org/10.1007/s00170-022-10045-1
-- Kulwant Singh, Gurbhinder Singh, **Harmeet Singh**, (2022)” The influence of holding time on the characteristics of friction stir welded dissimilar magnesium alloy joints during post welding heat treatment”, Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications, SAGE Publishers, June 2022. //doi.org/10.1177/14644207221106576
-- **Amrinder Singh Pannu**, Jai Inder Preet Singh, Sehijpal Singh and Vikas Dhawan (2022) “Green Composites and their Manufacturing Techniques-A Review” Proceedings of International Conference on Materials for Emerging Technologies (ICMET-21) AIP proceedings (in press).
-- Jai Inder Preet Singh, **Amrinder Singh Pannu, Sehijpal Singh**, Vikas Dhawan, Ashok Kumar Sharma, Avtar Singh and Naresh Kumar (2022) “Characterization of surface treated flax fiber using Fourier Transformation Infrared (FTIR) Analysis” Proceedings of International Conference on Advances in Material Science and Technology (ICAMST-2022) AIP proceedings (in press)
-- **Gulvir Singh** and Pradeep K. Singh (2022) “Effect of process parameters on roll separating force, driving torque and end crop length during grooved hot rolling of SAE 1020 steel” Journal of Manufacturing Processes, Elsevier, SCIE, IF:5.684.
-- **Gulvir Singh** and Pradeep K. Singh (2023) “Effect of process parameters on performance of grooved hot rolling of SAE 4340 steel bars.” Materials and Manufacturing Processes, Taylor & Francis, SCIE, IF: 4
-- **Gulvir Singh** and Pradeep K. Singh (2022) “Modelling and Optimization of Process Parameters during Grooved Hot Rolling of SAE 1020 Steel.” Materials and Manufacturing Processes, Taylor & Francis, SCIE, IF: 4.783
-- **Gulvir Singh** and Pradeep K. Singh (2023) “Effect of process parameters on rolls eparating force, driving torque, and end crop length during grooved hot rolling of SAE 1541 steel.” The International Journal of Advanced Manufacturing Technology, Springer, SCIE, IF: 3.563. 
-- **Gulvir Singh** and Pradeep K. Singh (2023) “Improving the energy efficiency and process scraping roved hot rolling of SAE 52100 steel billets” CIRP Journal of Manufacturing Science and Technology, Elsevier, SCIE, IF: 3.56.
-- **Gulvir Singh** and Pradeep K. Singh (2023) “Modelling and Optimization of Process Parameters during Grooved Hot Rolling of SAE 1541 Steel” Journal of Materials Engineering and Performance, Springer, SCIE, IF: 2.036.
-- Ali Yurdun Orbak, Metin Küçük, Mehmet Akansel, Shubham Sharma, Changhe Li, **Raman Kumar**, Sunpreet Singh, Gianpaolo Di Bona (2023) “Mathematical Model Assisted Six-Sigma Approach for reducing the Logistics Costs of a Pipe Manufacturing Company: A novel experimental approach” Online 26 January 2023 Mathematics 2023, 11(3), 621; https://doi.org/10.3390/math11030621
-- **Raman Kumar**, Pankaj Goel, EdmundasKazimieras Zavadskas, ŽeljkoStević, Vladimir Vujović (2022) “A New Joint Strategy for Multi-Criteria Decision-Making: A Case Study for Prioritizing Solid-State Drive” Online 14 December 2022 17 (6) (2022): International Journal of Computers Communications & Control  https://doi.org/10.15837/ijccc.2022.6.5010
-- Pradeep Kumar, Kakoli Banerjee, Niraj Singhal, Ajay Kumar, Sita Rani, **Raman Kumar** *,Cioca Adriana-Lavinia (2022) “Verifiable, Secure Mobile Agent Migration in Healthcare Systems Using a Polynomial-Based Threshold Secret Sharing Scheme with a Blowfish Algorithm” Online 8 November 2022 Sensors 2022, 22(22), 8620; https://doi.org/10.3390/s22228620
-- Muhammad Umar Farooq. Saqib Anwar, M. Saravana Kumar, Abdullah AlFaify, Muhammad Asad Ali, **Raman Kumar**,Rodolfo Haber (2022) “A Novel Flushing Mechanism to Minimize Roughness and Dimensional Errors during Wire Electric Discharge Machining of Complex Profiles on Inconel 718” Online 20 October 2022, 15(20), 7330; https://doi.org/10.3390/ma15207330
-- Pankaj Goel, Sandhya Mehta, **Raman Kumar**Fernando Castaño (2022) “Investigation of Fused Filament Fabrication-Based Manufacturing of ABS-Al Composite Structures: Prediction by Machine Learning and Optimization” Journal of Materials Engineering and Performance Online 30 September 2022 https://doi.org/10.1007/s11665-022-07431
-- Gurminder Singh, Sunpreet Singh, **Raman Kumar**, Chandra Prakash, Catlin Pruncu, and Sreeram Ramakrishna (2022) “Tissues and Organ Printing: An Evolution of Technology and Materials” Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicinehttps://doi.org/10.1177/09544119221125084
-- **Ramandeep Singh Sidhu, Raman Kumar**, Ranvijay Kumar, Pankaj Goel, Sehijpal Singh, DanilYurievichPimenov, Khaled Giasin, Krzysztof Adamczuk (2022) “Joining of Dissimilar Al and Mg Metal Alloys by Friction Stir Welding” Materials Online 26 August 2022 15(17)/ 2022/ 5901
-- Priya Darshni, Balwinder Singh, Dhaliwal, **Raman Kumar**, Vincent Aizebeoje Balogun, Sunpreet Singh, Cătălin Iulian Pruncu (2022) “Artificial neural network based character recognition using SciLab” Multimedia Tools and Applications/ ISSN: 13807501, 15737721
-- **Raman Kumar**, Harpreet Kaur Channi *(2022) “A PV-Biomass off-grid hybrid renewable energy system (HRES) for rural electrification: Design, optimization and techno-economic-environmental analysis” Journal of Cleaner Production/ 0959-6526
-- **Raman Kumar, Sehijpal Singh**, Vivek Aggarwal, Sunpreet Singh, DanilYurievichPimenov, Khaled Giasin and Krzysztof Nadolny (2022) “Hand and Abrasive Flow Polished Tungsten Carbide Die: Optimization of Surface Roughness, Polishing Time and Comparative Analysis in Wire Drawing” Materials 2022, 15(4), 1287
-- **Raman Kumar**, Sita Rani*, Mohammed Al Awadh (2022) “Exploring the Application Sphere of the Internet of Things in Industry 4.0: A Review, Bibliometric and Content Analysis” Sensors MDPI (Basel, Switzerland/ ISSN 1424-8220 22(11)/4276
-- Kapil K Goyal, Neeraj Sharma, Rahul Dev Gupta, Gurpreet Singh, Deepika Rani, Harish Kumar Banga, **Raman Kumar**, Danil Yu. Pimenov, Khaled Giasin* (2022) “A Soft Computing-based Analysis of Cutting Rate and Recast Layer Thickness for AZ31 Alloy on WEDM using RSM-MOPSO” Materials 2022, 15(2), 635;
-- **Raman Kumar**, Pankaj Goel (2022) “Exploring the Domain of Interpretive Structural Modelling (ISM) for Sustainable Future Panorama: A Bibliometric and Content Analysis” Archives of Computational Methods in Engineering 29, pp 2781–2810
-- Sunpreet Singh, **Raman Kumar**, Ranvijay Kumar, Jasgurpreet Singh Chohan, Nishant Ranjan, Raman Kumar(2022) “Aluminium metal composite primed by FDM assisted investment casting: Hardness, surface, wear and dimensional properties” Proceedings of the Institution of Mechanical Engineers, Part L:Journal of Materials: Design and Applications 236/3/ pp. 674-691
-- **Deepak Dhand**, Parlad Kumar, **Jasmaninder Singh Grewal** (2022) “Wear behaviour and microstructural characteristics of cold sprayed nickel-alumina coatings on boiler steel”Journal of Electrochemical Science and Engineering Vol 12 (5) pp. 841-849
-- **D Dhand, JS Grewal**, P kumar (2022) “Application of high velocity oxy-fuel technique to combat surface degradation in power generation industry – a review”  Journal of Mines, Metals and Fuels 70 (3A), 84-91
-- N Kumar, **JS Grewal**, A Singh, V Mehta (2022) “ A comparative study of alkali treated date palm fiber based brake friction composites and standard Kevlar‐based brake friction composites”  Polymer Composites 43 (1), 239-249
-- S Ali, N Kumar, **JS Grewal**, V Thakur, KW Chau, M Kumar (2022) “Coconut waste fiber used as brake pad reinforcement polymer composite and compared to standard Kevlar based brake pads to produce an asbestos free brake friction material” Polymer Composites 43 (3), 1518-1525
-- N Kumar, **JS Grewal**, N Kumar, S Kumar, S Ali (2022) “A novel Pinus roxburghii natural leaves fiber used as reinforcement polymer composite: As asbestos‐free brake friction material” Polymer Composites 43 (1), 566-573
-- N Kumar, **JS Grewal**, S Kumar, S Ali, N Kumar (2022) “A novel Himachal’s Bagar (Sabai) grass fiber used as a brake friction material in brake polymer composite and compared to standard brake friction material” Polymer Composites 43 (1), 215-224
-- AS Channi, HS Bains, **JS Grewal**, R Kumar, D Buddhi (2022) “Exploring the application sphere of electrical discharge machining in composite materials considering surface features: a content analysis” International Journal on Interactive Design and Manufacturing (IJIDeM), 1-20
-- S Singh, **JS Grewal**, K Rakha (2022) “Erosion wear performance of HVOF and cold spray coatings deposited on T-91 boiler steel” Materials Today: Proceedings 62, 7509-7516
-- B Singh, **JS Grewal**, S Sharma (2022) “Effect of addition of flyash and graphite on the mechanical properties of A6061-T6” Materials Today: Proceedings 50, 2411-2415
-- **K Sahni, JS Grewal** (2022) “ Slurry erosion behaviour of WC-10Co-4Cr coated CF8M turbine steel” Materials Today: Proceedings 56, 2666-2671
-- S Singh, S Singh, **HS Farwaha, JS Grewal**, N Ranjan (2022) “ Investigation and development of aluminium matrix composite reinforced with silicon carbide using process of stir casting” Materials Today: Proceedings
-- AS Channi, HS Bains, **JS Grewal**, VS Chidambranathan, R Kumar (2022) “ Investigation of Tool Wear Rate during EDM for Aluminium Metal Matrix Composite (5-10% TiB2) Prepared by Squeeze Casting: Original scientific paper” Journal of Electrochemical Science and Engineering
-- **D Dhand, JS Grewal**, P Kumar (2022) “Application Of High Velocity Oxy-Fuel Technique To Combat Surface Degradation In Power Generation Industry–A Review” Journal of Mines, Metals and Fuels, 84-91
-- B Singh, **JS Grewal** (2022) “ Study of dry wear behavior of Novel ferrous samples prepared by powder metallurgy method” Surface Topography: Metrology and Properties 10 (2), 025003
-- A Sharma, A Singh, V Chawla, **JS Grewal**, A Bansal (2022) “Microwave processing and characterization of alumina reinforced HA cladding for biomedical applications” Materials Today: Proceedings 57, 650-656
-- J Singh, IPS Ahuja, **H Singh**, A Singh(2022) “Development and Implementation of Autonomous Quality Management System (AQMS) in an Automotive Manufacturing using Quality 4.0 Concept–A Case Study” Computers & Industrial Engineering 168, 108121
-- A Singh, S Samuel, **H Singh**, J Singh, C Prakash, YK Dhabi (2022) “ Whole Body Vibration Exposure among the Tractor Operator during Soil Tillage Operation: An Evaluation using ISO 2631-5 Standard” Shock and Vibration 2022, 1-8
-- A Singh, N Nawayseh, **H Singh**, S Samuel, C Prakash, R Singh, Y Kumar (2022)  “Modelling and optimization of tractor ride conditions under water tanker operation” TheoreTical issues in ergonomics science 23 (4), 453-474
-- R Kapoor, VS Sharma, **H Singh** (2022) “Optimization of machining process parameters of high pressure die casting for improve the quality of manufactured product” Materials Today: Proceedings 57, 793-800
-- A Singh, LP Singh, S Singh, **H Singh** (2022) “Occupational Whole Body Vibration Exposure Among Tractor Drivers During Harrowing” Ergonomics for Improved Productivity: Proceedings of HWWE 2017 Volume 2, 127-135
-- A Singh, S Samuel, YK Dhabi, **H Singh**  (2023) “Whole-body vibration: Characterization of seat-to-head transmissibility for agricultural tractor drivers during loader operation” Smart Agricultural Technology 4, 100164
-- C Prakash, LP Singh, A Singh, **H Singh** (2022) “Whole Body Vibration Exposure Among Tractor Drivers: The Effect of Varying Subject, Speed and Posture Levels” Productivity with Health, Safety, and Environment: Select Proceedings of 
-- R Kapoor, VS Sharma, **H Singh** (2022) “Optimization of parameters to improve the hardness of cold chamber pressure-die casting process” Materials Today: Proceedings 57, 801-805
-- R Kumar, **H Singh**, JS Chohan (2022) “A novel quartile deviation score evaluation (QDSE) method to minimize uncertainty in evaluation of solid waste management” Materials Today: Proceedings 48, 1084-1088
-- RS Chandel, R Kumar, **J Kapoor** (2022) “Sustainability aspects of machining operations: A summary of concepts” Materials Today: Proceedings 50, 716-727
-- R Arora, **J Kapoor** (2022) “Influence of TIG Welding Parameters on the Mechanical Properties of Inconel 600 Alloy” International Journal of Vehicle Structures & Systems 14 (2), 267-272
-- H Singh, V Kumar, **J Kapoor** (2022) “Modelling process parameters and morphology of wear out brass wire surface during WEDM of Nimonic75 alloy” Materials Today: Proceedings 56, 2048-2057
-- V Chodha, R Dubey, **R Kumar, S Singh**, S Kaur (2022) “Selection of industrial arc welding robot with TOPSIS and Entropy MCDM techniques” Materials Today: Proceedings 50, 709-715
-- **AS Sidhu, S Singh, R Kumar**(2022) “ Bibliometric analysis of entropy weights method for multi-objective optimization in machining operations” Materials Today: Proceedings 50, 1248-1255
-- RS Chandel, S Sharma, S Kaur, **S Singh, R Kumar** (2022) “Smart watches: A review of evolution in bio-medical sector” Materials Today: Proceedings 50, 1053-1066
-- G Singh, V Aggarwal, S Singh, B Singh (2022)  “Sustainable machining of Hastelloy C-276 enabling minimum quantity lubrication of environmentally compatible lubricants” Journal of Cleaner Production 373, 133928
-- G Singh, V Aggarwal, **S Singh**, B Singh, S Sharma, J Singh, C Li, RA Ilyas (2022)  “Experimental Investigation and Performance Optimization during Machining of Hastelloy C-276 Using Green Lubricants” Materials 15 (15), 5451
-- G Singh, **S Singh**, V Aggarwal, J Singh, N Grover, AS Gill (2022) “Ecological aspects of cutting fluids applications in small scale industries of Northern India region” Materials Today: Proceedings 48, 1325-1331
-- AS Sidhu, **S Singh**, R Kumar(2022) “Optimization and modelling of active power consumption of ST52. 3 alloy steel during a drilling operation” Materials Today: Proceedings 50, 1999-2006
-- KR Chhetri, **S Singh**, A Dangal, S Sah, S Shrestha, S Maharjan (2022) “Knowledge of radiation protection among dental students in a medical college, Nepal” Journal of Medical Imaging and Radiation Sciences 53 (4), S35-S36
-- P Singh, L Singh, **S Singh** (2022) “A review on magnetically assisted abrasive flow machining and abrasive material type” Proceedings of the Institution of Mechanical Engineers, Part E: Journal of mechanical engineering
-- P Singh, L Singh, **S Singh**(2022)  “A box behnken design approach for parametric optimization in processing of aluminum 6061 tubes” Materials and Manufacturing Processes 37 (10), 1110-1121
-- G Singh, V Aggarwal, **S Singh**, RK Garg, B Singh(2022) “Experimental and Analytical Investigation into Cutting Forces during Turning of EN-31 Steel in Different Machining Conditions” Key Engineering Materials 933, 42-61
-- P Singh, L Singh, **S Singh**(2022) “Mechanism of Material Removal in Magneto Abrasive Flow Machining” Machines, Mechanism and Robotics: Proceedings of iNaCoMM 2019, 225-238
+- Jain, Pragyan, R. S. Rajput, Sunil Kumar, Arti Sharma, Akshay Jain, Bhaskor Jyoti Bora, Prabhakar Sharma, **Raman Kumar** et al. "Recent Advances in Graphene-Enabled Materials for Photovoltaic Applications: A Comprehensive Review." ACS omega 9, no. 11 (2024): 12403-12425. 
+- S Mohanty, JIP Singh, V Dhawan, **S Singh**, A Belaadi “A review on basalt/PLA composite and its chemical and mechanical properties” (2023) AIP Conference Proceedings 2962 (1)
+- Subhrajeet Mohanty; Jai Inder Preet Singh; Vikas Dhawan; **Sehijpal Singh**; Ahmed Belaadi “A review on basalt/PLA composite and its chemical and mechanical properties”   AIP Conf. Proc. 2962, 020016 (2024) https://doi.org/10.1063/5.0192257
+- VA Ajitesh, JI Preet Singh, **S Singh**, V Dhawan, V Sharma “A review on natural fibres: Its applications, chemical and mechanical properties” AIP Conf. Proc. 2962, 020025 (2024) https://doi.org/10.1063/5.0192259
+- Dev, Nikhil, **Raman Kumar**, Rajeev Kumar Saha, Atul Babbar, Vladimir Simic, and Nebojsa Bacanin. "Performance evaluation methodology for gas turbine power plants using graph theory and combinatorics." International Journal of Hydrogen Energy 57 (2024): 1286-1301. 
+- Singh, P.P., Madan, J. & **Singh, H.** “System for product flow configuration selection for reconfigurable manufacturing system”. Int J Adv Manuf Technol (2024). https://doi.org/10.1007/s00170-024-14732-z
+- Karim, Md Rezaul, Shah Md Ashiquzzaman Nipu, Md Sabbir Hossain Shawon, **Raman Kumar**, Sheak Salman, Amit Verma, El-Sayed M. Sherif, Saiful Islam, and Muhammad Imam Ammarullah. "Machinability investigation of natural fibers reinforced polymer matrix composite under drilling: Leveraging machine learning in bioengineering applications." AIP Advances 14, no. 4 (2024). 
+- **Pal, Jatinder**, Dheeraj Gupta, and Tejinder Paul Singh. "Influence of WC-12Co reinforcement on sliding wear performance of stainless steel-based MMC processed in a microwave oven." Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science (2024): 09544062241228389. 
+- **Pal, Jatinder**, Dheeraj Gupta, and Tejinder Paul Singh. "Flexural behavior of SS316-based metal matrix composite prepared through microwave heating." Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science (2024): 09544062241251981. 
+-	Amandeep Singh, Naser Nawayseh, YashKumar Dhabi, Siby Samuel, **Harwinder Singh** “Transforming farming with intelligence: Smart vibration monitoring and alert system” (2024) Journal of Engineering Research Volume 12, Issue 2, June 2024, Pages 190-199
+-	Harikrishna, Katika, Abhijit Bhowmik, M. J. Davidson, **Raman Kumar**, Ali E. Anqi, Ali A. Rajhi, and Sagr Alamri. "Evaluation of constitutive equations for modeling and characterization of microstructure during hot deformation of sintered Al–Zn–Mg alloy." Journal of Materials Research and Technology 28 (2024): 1523-1537. 
+-	Babu, E. R., Nagaraja C. Reddy, Atul Babbar, A. Chandrashekar, **Raman Kumar**, Pardeep Singh Bains, Majed Alsubih et al. "Characteristics of pulsating heat pipe with variation of tube diameter, filling ratio, and SiO2 nanoparticles: Biomedical and engineering implications." Case Studies in Thermal Engineering 55 (2024): 104065. 
+-	Rao, Papabathina Mastan, Sneha Haresh Dhoria, S. Gopal Krishna Patro, Radha Krishna Gopidesi, Meshel Q. Alkahtani, Saiful Islam, Murkonda Vijaya, **Raman Kumar** et al. "Artificial intelligence based modelling and hybrid optimization of linseed oil biodiesel with graphene nanoparticles to stringent biomedical safety and environmental standards." Case Studies in Thermal Engineering 51 (2023): 103554 
+-	**Kumar, Raman**, Shubham Sharma, Ranvijay Kumar, Sanjeev Verma, and Mohammad Rafighi. "Review of lubrication and cooling in computer numerical control (CNC) machine tools: a content and visualization analysis, research hotspots and gaps." Sustainability 15, no. 6 (2023): 4970. 
+-	 Erappa Rajj, Babu, Madeva Nagaral, Sanjay Chintakindi, **Raman Kumar**, Ali E. Anqi, Ali A. Rajhi, Alaauldeen A. Duhduh et al. "Nano-Sized Al2O3–Gr Reinforced Al7075 Hybrid Composite: Impact of Cooling Agents on Mechanical, Wear, and Fracture Behavior." ACS omega 9, no. 16 (2024): 17878-17890. 
+-	Singh, Jagmeet, Inderpreet Singh Ahuja, **Harwinder Singh**, and Amandeep Singh. "Application of quality 4.0 (Q4. 0) and industrial internet of Things (IIoT) in agricultural manufacturing industry." AgriEngineering 5, no. 1 (2023): 537-565. 
+-	Amandeep Singh , Naser Nawayseh, **Harwinder Singh**, YashKumar Dhabi , Siby Samuel “Internet of agriculture: Analyzing and predicting tractor ride comfort through supervised machine learning” (2023) Engineering Applications of Artificial Intelligence Volume 125, October 2023, 106720
+-	A Singh, N Nawayseh, S Samuel, YK Dhabi, **H Singh** “Real time vibration monitoring and analysis of agricultural tractor drivers using an IoT based system” (2023) Journal of Field Robotics 40 (7), 1723-1738
+-	J Singh, IS Ahuja, **H Singh**, A Singh “Application of quality 4.0 (Q4. 0) and industrial internet of Things (IIoT) in agricultural manufacturing industry” (2023) AgriEngineering 5 (1), 537-565
+-	K Singh, G Singh, **H Singh** “The influence of holding time on the characteristics of friction stir welded dissimilar magnesium alloy joints during post welding heat treatment” (2023) Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications Volume 237 (1) 170-182.
+-	Singh, Baljeet, and **Jasmaninder Singh Grewal**. "Wear behavior and surface characterization of grey cast iron GG25 under lubricated sliding conditions." In AIP Conference Proceedings, vol. 2986, no. 1. AIP Publishing, 2024. DOI: 10.1063/5.0195854 
+-	Kiran, M. D., Lokesh Yadhav BR, Atul Babbar, **Raman Kumar**, Sharath Chandra HS, Rashmi P. Shetty, K. B. Sudeepa, Rupinder Kaur, Meshel Q. Alkahtani, and Saiful Islam. "Tribological properties of CNT-filled epoxy-carbon fabric composites: optimization and modelling by machine learning." Journal of Materials Research and Technology 28 (2024): 2582-2601. DOI:10.1016/j.jmrt.2023.12.175 
+-	Saha, Rajeev Kumar, **Raman Kumar**, Nikhil Dev, Rajender Kumar, Raul M. Del Toro, Sofía Haber, and José E. Naranjo. "Structural modeling and analysis of fuel cell: a graph-theoretic approach." PeerJ Computer Science 9 (2023): e1510. DOI: 10.7717/peerj-cs.1510 
+-	**Kumar, Raman**, Rajeev Saha, Vladimir Simic, Nikhil Dev, Rajender Kumar, Harish Kumar Banga, Nebojsa Bacanin, and Sanjeet Singh. "Rooftop solar potential in micro, small, and medium size enterprises: An insight into renewable energy tapping by decision-making approach." Solar Energy 276 (2024): 112692. DOI:10.1016/j.solener.2024.112692 
+-	Jain, Pragyan, R. S. Rajput, Sunil Kumar, Arti Sharma, Akshay Jain, Bhaskor Jyoti Bora, Prabhakar Sharma, **Raman Kumar** et al. "Recent Advances in Graphene-Enabled Materials for Photovoltaic Applications: A Comprehensive Review." ACS omega 9, no. 11 (2024): 12403-12425. DOI: 10.1021/acsomega.3c07994. 
+-	Dev, Nikhil, **Raman Kumar**, Rajeev Kumar Saha, Atul Babbar, Vladimir Simic, and Nebojsa Bacanin. "Performance evaluation methodology for gas turbine power plants using graph theory and combinatorics." International Journal of Hydrogen Energy 57 (2024): 1286-1301. DOI: https://doi.org/10.1016/j.ijhydene.2024.01.064 
+-	Karim, Md Rezaul, Shah Md Ashiquzzaman Nipu, Md Sabbir Hossain Shawon, **Raman Kumar**, Sheak Salman, Amit Verma, El-Sayed M. Sherif, Saiful Islam, and Muhammad Imam Ammarullah. "Machinability investigation of natural fibers reinforced polymer matrix composite under drilling: Leveraging machine learning in bioengineering applications." AIP Advances 14, no. 4 (2024). DOI: https://doi.org/10.1063/5.0200625 
+-	**Pal, Jatinder**, Dheeraj Gupta, and Tejinder Paul Singh. "Influence of WC-12Co reinforcement on sliding wear performance of stainless steel-based MMC processed in a microwave oven." Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science (2024): 09544062241228389. DOI: https://doi.org/10.1177/09544062241228389 
+-	**Pal, Jatinder**, Dheeraj Gupta, and Tejinder Paul Singh. "Flexural behavior of SS316-based metal matrix composite prepared through microwave heating." Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science (2024):09544062241251981.DOI:https://doi.org/10.1177/09544062241251981 
+-	Harikrishna, Katika, Abhijit Bhowmik, M. J. Davidson, **Raman Kumar**, Ali E. Anqi, Ali A. Rajhi, and Sagr Alamri. "Evaluation of constitutive equations for modeling and characterization of microstructure during hot deformation of sintered Al–Zn–Mg alloy." Journal of Materials Research and Technology 28 (2024): 1523-1537. DOI:10.1016/j.jmrt.2023.12.050 
+-	Harikrishna, Katika, Abhijit Bhowmik, M. J. Davidson, **Raman Kumar**, Ali E. Anqi, Ali A. Rajhi, and Sagr Alamri. "Evaluation of constitutive equations for modeling and characterization of microstructure during hot deformation of sintered Al–Zn–Mg alloy." Journal of Materials Research and Technology 28 (2024): 1523-1537. DOI:10.1016/j.jmrt.2023.12.050 
+-	Harikrishna, Katika, Abhijit Bhowmik, M. J. Davidson, **Raman Kumar**, Ali E. Anqi, Ali A. Rajhi, and Sagr Alamri. "Evaluation of constitutive equations for modeling and characterization of microstructure during hot deformation of sintered Al–Zn–Mg alloy." Journal of Materials Research and Technology 28 (2024): 1523-1537. DOI:10.1016/j.jmrt.2023.12.050 
+-	 **Farwaha, Harnam Singh**, **Prem Singh**, Mukesh Kumar, Nishant Ranjan, and Harpreet Kaur. "Enhancing sustainability in manufacturing: A case study on reducing changeover time through single minute exchange of dies and risk analysis." In AIP Conference Proceedings, vol. 3050, no. 1. AIP Publishing, 2024. DOI: https://doi.org/10.1063/5.0193678 
+-	Babu, E. R., Nagaraja C. Reddy, Atul Babbar, A. Chandrashekar, **Raman Kumar**, Pardeep Singh Bains, Majed Alsubih et al. "Characteristics of pulsating heat pipe with variation of tube diameter, filling ratio, and SiO2 nanoparticles: Biomedical and engineering implications." Case Studies in Thermal Engineering 55 (2024): 104065. DOI:10.1016/j.csite.2024.104065 
+-	Rao, Papabathina Mastan, Sneha Haresh Dhoria, S. Gopal Krishna Patro, Radha Krishna Gopidesi, Meshel Q. Alkahtani, Saiful Islam, Murkonda Vijaya, **Raman Kumar** et al. "Artificial intelligence based modelling and hybrid optimization of linseed oil biodiesel with graphene nanoparticles to stringent biomedical safety and environmental standards." Case Studies in Thermal Engineering 51 (2023): 103554. DOI:10.1016/j.csite.2023.103554 
+-	**Sidhu, Ardamanbir Singh**, **Raman Kumar**, **Sehijpal Singh**, and Harpreet Kaur. "Efficiency Enhancement and Energy Optimization in Alloy Steel Drilling: An Experimental and Statistical Analysis." In International Conference on Intelligent Manufacturing and Energy Sustainability, pp. 269-279. Singapore: Springer Nature Singapore, 2023. DOI: https://doi.org/10.1007/978-981-99-6774-2_25 
+-	**Kumar, Raman**, Shubham Sharma, Ranvijay Kumar, Sanjeev Verma, and Mohammad Rafighi. "Review of lubrication and cooling in computer numerical control (CNC) machine tools: a content and visualization analysis, research hotspots and gaps." Sustainability 15, no. 6 (2023): 4970. DOI:https://doi.org/10.3390/su15064970. 
+-	**Dhand, Deepak**, **Jasmaninder Singh Grewal**, and Parlad Kumar. "The microstructural characterization and wear behaviour of HVOF sprayed Nickel-Alumina coatings on boiler grade steel." In AIP Conference Proceedings, vol. 2715, no. 1. AIP Publishing, 2023. DOI:https://doi.org/10.1063/5.0134199 
+-	Erappa Rajj, Babu, Madeva Nagaral, Sanjay Chintakindi, **Raman Kumar**, Ali E. Anqi, Ali A. Rajhi, Alaauldeen A. Duhduh et al. "Nano-Sized Al2O3–Gr Reinforced Al7075 Hybrid Composite: Impact of Cooling Agents on Mechanical, Wear, and Fracture Behavior." ACS omega 9, no. 16 (2024): 17878-17890. DOI:https://doi.org/10.1021/acsomega.3c08822 
+-	Singh, Jagmeet, Inderpreet Singh Ahuja, **Harwinder Singh**, and Amandeep Singh. "Application of quality 4.0 (Q4. 0) and industrial internet of Things (IIoT) in agricultural manufacturing industry." Agri Engineering 5, no. 1 (2023): 537-565. DOI:https://doi.org/10.3390/ agriengineering5010035 
+-	**Singh, Gulvir**, and Pradeep K. Singh. "Effect of process parameters on performance of grooved hot rolling of SAE 4340 steel bars." Materials and Manufacturing Processes 38, no. 2 (2023): 206-219.
+-	**Singh, Gulvir**, and Pradeep K. Singh. "Modelling and optimization of process parameters during grooved hot rolling of SAE 1020 steel." Materials and Manufacturing Processes 38, no. 6 (2023): 701-721.
+-	**Singh, Gulvir**, and Pradeep K. Singh. "Improving the energy efficiency and process scrap in grooved hot rolling of SAE 52100 steel billets." CIRP Journal of Manufacturing Science and Technology 41 (2023): 55-68.
+-	**Singh, Gulvir**, and Pradeep K. Singh. "Effect of process parameters on roll separating force, driving torque, and end crop length during grooved hot rolling of SAE 1541 steel." The International Journal of Advanced Manufacturing Technology 124, no. 7 (2023): 2463-2482.
+-	**Singh, Gulvir**, and Pradeep K. Singh. "Hot profiled rolling of C40 steel: production variable’s effect on rolling performance." Materials and Manufacturing Processes 39, no. 7 (2024): 871-891.
+-	**Singh, Gulvir**, and Pradeep K. Singh. "Modeling and Optimization of Process Parameters during Grooved Hot Rolling of SAE 1541 Steel." Journal of Materials Engineering and Performance 32, no. 22 (2023): 10128-10140.
+-	**Singh, Gulvir**, and Pradeep K. Singh. "Process variable optimization for hot-profiled rolling of SAE 52100 steel." International journal of precision engineering and manufacturing 24, no. 8 (2023): 1425-1433.
+-	**Singh, Gulvir**, and Pradeep K. Singh. "Reduction of energy and fuel consumption in the hot-rolling steel sector." Cleaner Engineering and Technology 17 (2023): 100689.
 
-## Book Chapters
+## Book  Published
+
+| Sr. No. | Authors          |  Book Title      | Year      |  Publisher / ISBN No.    |
+|:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
+|1| **Raman Kumar**, Sita Rani, **Sehijpal Singh** | Machine Learning for Sustainable Manufacturing in Industry 4.0: Concept, Concerns and Applications	|2023| 		CRC Press	9781003453567|
+
+## Book Chapters Published
 
 | Sr. No. | Authors          | Title      | Year      | Title of Book/ Publisher/ Page/ISBN No.    |
 |:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
-|1|Harish Kumar Banga, **Raman Kumar**, Harpreet Kaur Channi, Swapandeep Kaur|Design and Stress Analysis of 3D Printed Prosthetic Finger| Accepted 2022 In press| Innovative Processes and Materials in Additive Manufacturing/ Elsevier |
-|2|**Raman Kumar**Swapandeep Kaur|Biocompatible and bioactive ceramics for biomedical applications: content analysis|2022|Additive Manufacturing of Polymer for Tissue Engineering: Fundamentals, Applications, and Future Scope/ CRC Press, Taylor & Francis Group, USA|
-|3|Abhijeet Singh,  **Sukhinderpal Singh &  Raman Kumar**| Cost-Effective Design of Soft Robotic Prosthetic Arm Based on 3D Printing|2022/Online May 15 2022| pp. 115-127, Additive, Subtractive, and Hybrid Technologies. Mechanical Engineering Series. Springer, Cham. / ISBN: 978-3-030-99569-0 |
-|4|**Raman Kumar, Paramjit Singh Bilga, Sehijpal Singh**|An Investigation of Active Cutting Energy for Rough and Finish Turning of Alloy Steel|2022|Additive and Subtractive Manufacturing Processes: Principles and Applications |
-|5|**Raman Kumar**, Harpreet Kaur|3D Printing Technology: An Overview|2022|"Additive Manufacturing with Medical Applications"/ CRC Press, Taylor & Francis Group, USA ISBN 9781032110776 pp. 31-40 |
+|1|Harpreet Kaur Channi, **Raman Kumar**|Chapter 14 - Digital technologies for fostering sustainability in Industry 4.0| 2024| Digital technologies for fostering sustainability in Industry 4.0." In Evolution and Trends of Sustainable Approaches, pp. 227-251. Elsevier, 2024. https://doi.org/10.1016/B978-0-443-21651-0.00016-4 |
+|2|**Raman Kumar** Harpreet Kaur Channi, Harish Kumar Banga|Data Analytics in Agriculture: Predictive Models and Real-Time Decision-Making|2024|AData Analytics in Agriculture. In Smart Agritech (eds S.K. Srivastava, D. Srivastava, K. Cengiz and P. Gaur).https://doi.org/10.1002/9781394302994.ch7|
+|3|Ramandeep Singh Sidhu &  **Raman Kumar**| Machine learning-enabled powder-spreading process|2024| Additive Manufacturing Materials and Technologies; Machine Learning for Powder-Based Metal Additive Manufacturing,Edited by Gurminder Singh, Farhad Imani, Asim Tewari, Sushil Mishra, Elsevier, 2024, pp. 107-130; ISBN: 978-0-443-22145-3 |
+|4|Harpreet Kaur Channi and **Raman Kumar**|Machine learning for metaladditive manufacturing process optimization |2024|Additive Manufacturing Materials andTechnologies; Machine Learning forPowder-Based MetalAdditive Manufacturing, Edited byGurminder Singh, Farhad Imani, Asim Tewari, Sushil Mishra, Elsevier, 2024, pp. 131-154; ISBN: 978-0-443-22145-3 |
+|5|**Raman Kumar**, Nishant Ranjan, Ramandeep Singh Sidhu, Bhowmik Abhijit, Sushant|Chapter 4 Role of fillers and various sustainable innovations in the use of filler material for the preparation of composites|2024|"Green Composites Manufacturing: A Sustainable Approach, edited by Gurminder Singh, Ravinder Pal Singh, Neeraj Sharma and J. Paulo Davim, Berlin, Boston: De Gruyter, 2024, pp. 79-104. https://doi.org/10.1515/9783111067346-004 |
+|6|Vidyapati Kumar, Ankita Mistri, Atul Babbar, Vikas Dhawan, **Raman Kumar**, Lavish Kumar Singh, Ankit Sharma|Biomimicry-Inspired Design of Sustainable Composite Materials|2024|"Fabrication Techniques and Machining Methods of Advanced Composite Materials " CRC PresseBook ISBN9781003427735 |
+|7|Rupinder Kaur, **Raman Kumar**, Himanshu Aggarwal |Role of Machine Learning in Sustainable Manufacturing Practices: An Outline|2023|"International Conference on Intelligent Manufacturing and Energy Sustainability. Singapore: Springer Nature Singapore, 2023 |
+|8|Harpreet Kaur, **Raman Kumar**, Pulkit Kumar, Swapandeep Kaur, Krishna Kant Dixit, Hemant Sharma |Efficient and Cost-Effective Renewable Energy Integration of Photovoltaic and Hydro in Rural India using HOMER Pro: A Case Study of Chupki, Punjab|2023|In International Conference on Intelligent Manufacturing and Energy Sustainability, pp. 281-291. Singapore: Springer Nature Singapore, 2023. |
+|9|**Ardamanbir Singh Sidhu, Raman Kumar, Sehijpal Singh**, Harpreet Kaur  |Efficiency Enhancement and Energy Optimization in Alloy Steel Drilling: An Experimental and Statistical Analysis|2023|In International Conference on Intelligent Manufacturing and Energy Sustainability, pp. 269-279. Singapore: Springer Nature Singapore, 2023. |
+|10|Swapandeep Kaur, **Raman Kumar**, Kanwardeep Singh  |Smart Grids and Solar Energy: Role of Artificial Intelligence in Grid Management|2023|Futuristic Trends in Renewable & Sustainable Energy, under Volume 3, 2023, IIP Proceedings  |
+|11|Swapandeep Kaur, **Raman Kumar**, Harpreet Kaur Channi, Kanwardeep Singh  | Design and Optimization of Photovoltaic Microgrid Using Homer Pro Software|2023|Optimization in Sustainable Energy: Methods and Applications Under Review  |
+|12| **Raman Kumar**, HRaman Kumar, Ranvijay Kumar, **Jatinder Pal**  | Machine Learning in Post-Processing of Fused Deposition Modelling Parts |2023| "Post processing treatments for fused deposition modelling 3d printed parts - techniques and advancements" (editors: vinayak r. Malik, vivek tiwary & arunkumar p.) That will be published by taylor and francis, CRC press, USA. Accepted in press  |
+|12| **Raman Kumar**, Nishant Ranjan, Ramandeep Singh Sidhu, Abhijit Bhowmik  | Role of Fillers and Various Sustainable Innovations in the Use of Filler Material for the Preparation of Composites |2023| Green Composites Manufacturing: A Sustainable Approach. Published by “De Gruyter”. Accepted in Press |
+|13| Harpreet Kaur Channi, **Raman Kumar**, Ramandeep Singh Sidhu, Rajender Kumar, Sushant	| Machining of Carbon Nanotubes Reinforced Epoxy Composites| 2024	| "Fabrication Techniques and Machining Methods of Advanced Composite Materials " CRC Press 137-162/ eBook SBN9781003427735|
+|14| **Raman Kumar**, Harpreet Kaur Channi, Harish Kumar Banga| 	Data Analytics in Agriculture: Predictive Models and Real-Time Decision Making |	2023 |	Smart Agritech: Potential of Robotics, AI, and Internet of Things (IoT) in Agriculture (SAPRAIA2023) Accepted in Press|
+|15| **Raman Kumar**, Amit Verma |	Machine learning for resource optimization in Industry 4.0 eco-system	| 2023 |	Machine Learning for Sustainable Manufacturing in Industry 4.0: Concept, Concerns and Applications (1st ed.). CRC Press. ttps://doi.org/10.1201/9781003453567| 
+|16| **Raman Kumar**, **Chamkaur Jindal**, Sita Rani, **Sehijpal Singh Khangura**	| Applications of machine learning in smart factory in fourth-generation industrial environment | 	2023 |	Machine Learning for Sustainable Manufacturing in Industry 4.0: Concept, Concerns and Applications (1st ed.). CRC Press. https://doi.org/10.1201/9781003453567 |
+|17| Harpreet Kaur Channi, **Raman Kumar**	| Role of machine learning in Industry 4.0 applications: A review	| 2023 |	Kumar, R., Rani, S., & Singh Khangura, S. (Eds.). (2023). Machine Learning for Sustainable Manufacturing in Industry 4.0: Concept, Concerns and Applications (1st ed.). CRC Press. https://doi.org/10.1201/9781003453567 |
+|18| Abhishek Bhattacharjee, **Raman Kumar** |	Environmental impact of operations and supply chain from Fourth Industrial Revolution and machine learning approaches |	2023|	Kumar, R., Rani, S., & Singh Khangura, S. (Eds.). (2023). Machine Learning for Sustainable Manufacturing in Industry 4.0: Concept, Concerns and Applications (1st ed.). CRC Press. https://doi.org/10.1201/9781003453567|
+|19| **Jagdeep Singh and Prem Singh** |	Application of Queuing Technique in an Educational Institute Canteen: A Case Study Pages 234 – 245 | 	2023 |	Integration of AI-Based Manufacturing and Industrial Engineering Systems with the Internet of Things Published December 22, 2023 by CRC Press Taylor & Francis ISBN 9781032466019|
+
 
 
 ## Conference attended
-- **Amrinder Singh Pannu** “Green Composites and their Manufacturing Techniques-A Review” International Conference on Materials for Emerging Technologies(ICMET-21), Department of Research Impact and Outcome, Division of Research and Development, Lovely Professional University, Punjab February 18-19, 2022
-- **Amrinder Singh Pannu** “Characterization of surface treated flax fiber using Fourier Transformation Infrared (FTIR) Analysis” International Conference on Advances in Material Science and Technology (ICAMST-2022), School of Mechanical Engineering at Lovely Professional University, Punjab 25-26, November 2022 
-- **Raman Kumar** “Security and Privacy Challenges in the Deployment of Cyber-Physical Systems in Smart City Applications: State-of-Art Work”  2nd International Conference on Innovative Technology for Sustainable Development- ICITSD-2022. Published in Materials Today: Proceedings
-- **Raman Kumar** “Piezoelectric materials in sensors: Bibliometric and visualization analysis”  International Conference on Materials Science and Sustainable Manufacturing Technology ICMSSMT 2022, 20-21 May 2022, Coimbatore, Tamil Nadu, India 
+| Sr. No. |  Name         |   Name of the Conference     |  Place     |  Duration    |
+|:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
+|1| **Dr. Harnam Singh Farwaha**	| 2nd International Conference on Sustainable Nanotechnology and Nanomaterials (ICONN-2023)	| Chandigarh University, Gharuan, Mohali.|	27/07/2023 to 28/07/2023|
+|2| **Dr. Harnam Singh Farwaha** |	1st International Conference on Advances in Mechanical and Sustainable Engineering (CAMSE-2024)	| Punjabi University, Patiala. |	11/03/2024 to 12/03/2024|
+|3| **Singh Satwant**, **Singh Harmeet**, **Kumar Raman** |	Impact of wiper inserts on Machining Performance: A comprehensive review” at 3rd International conference and exposition on mechanical, material and manufacturing technology |	CVR College of engineering, Hyderabad	| 24th -26th October 2024|
+|4| Rupinder Kaur, **Raman Kumar**, Himanshu Aggarwal |	Role of Machine Learning in Sustainable Manufacturing Practices: An Outline at Fifth International Conference Intelligent Manufacturing and Energy Sustainability (ICIMES-2023) Innovation Ecosystems for Industry 5.0 	| Malla Reddy College of Engineering and Technology (MRCET), Dhulapally, Near KompallySecunderabad – 500100, Telangana State, India	|June 23-24, 2023|
+|5| Harpreet Kaur, **Raman Kumar**, Pulkit Kumar, Swapandeep Kaur, Krishna Kant Dixit, Hemant Sharma | Efficient and Cost-Effective Renewable Energy Integration of Photovoltaic and Hydro in Rural India using HOMER Pro: A Case Study of Chupki, Punjab at  Fifth International ConferenceIntelligent Manufacturing and Energy Sustainability (ICIMES-2023) Innovation Ecosystems for Industry 5.0 |	Malla Reddy College of Engineering and Technology (MRCET), Dhulapally, Near KompallySecunderabad – 500100, Telangana State|	June 23-24, 2023|
+|6| **Ardamanbir Singh Sidhu, Raman Kumar, Sehijpal Singh**, Harpreet Kaur| Efficiency Enhancement and Energy Optimization in Alloy Steel Drilling: An Experimental and Statistical Analysis at Fifth International Conference Intelligent Manufacturing and Energy Sustainability (ICIMES-2023) Innovation Ecosystems for Industry 5.0| 	Malla Reddy College of Engineering and Technology (MRCET), Dhulapally, Near KompallySecunderabad – 500100, Telangana State, India.	|June 23-24, 2023| 
+|7| **Raman Kumar**, Rupinder Kaur, Gitanjali, Harpreet Kaur Channi, Karneet Kaur |	Integrating Sustainable Energy Systems and Artificial Intelligence: Transforming the Future of Energy at  Fifth International Conference Intelligent Manufacturing and Energy Sustainability (ICIMES-2023) Innovation Ecosystems for Industry 5.0	| Malla Reddy College of Engineering and Technology (MRCET), Dhulapally, Near KompallySecunderabad – 500100, Telangana State, India	|June 23-24, 2023,.|
+|8| Swapandeep Kaur, **Raman Kumar**, Kanwardeep Singh |	An Overview of Drivers and Barriers to Renewable Energy Systems at  International Conference on Green Energy 2023 | AISSMS College of Engineering, Pune	|16-17 May, 2023 |
+
+
+
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 | Sr. No. | Name of Faculty          | Name of Event                                                                       | Date(s)                | Organizing Institute                                                           |
 |:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
-| 1       | Amrinder Singh Pannu    | Outcome Based Assessment                                                   | 31-01-2022 to 04-02-2022   | National Institute of Technical Teachers Training and Research, Bhopal                                                                    |
-| 2       | Amrinder Singh Pannu  | Metal Additive Manufacturing (MAM)                                                   | December 12 - 17, 2022    | Dr. B.R. Ambedkar National Institute of Technology Jalandhar, Punjab
-                                                                    
-## Events Organized
+| 1 |Dr. Gulvir Singh	| Finite Element Analysis using ABAQUS, TOSCA, ISIGHT	| February 5, 2024 to February 9, 2024 |	NITTTR, Chandigarh.|
+| 2 |Dr. Gulvir Singh	| Outcome Based Education	| November 16, 2023	| IQAC, Guru Nanak Dev Engineering College, Ludhiana.|
+| 3 |Dr. Gulvir Singh	| BIS Awareness|	December, 12, 2023|	BIS, Chandigarh|
+| 4 |Dr. Gulvir Singh	| Communication Skills	|August 7, 2023|	Dept. of Applied Science & IQAC, Guru Nanak Dev Engineering College, Ludhiana.|
+| 5 | Dr. Chatwant Singh Pandher |	Finite Element Analysis using ABAQUS, TOSCA, ISIGHT |	05/02/2024 to 09/02/2024 (One Week)	| NITTTR, Chandigarh |
+| 6 | Dr. Chatwant Singh Pandher	| Role of Technical Institutions in Rural Infrastructure Development |	24/04/2023 to 28/04/2023 (One Week)	| Rural Development Department, HIET, Shahpur, H.P.|
+| 7 | Dr. Harnam Singh Farwaha |	Innovation, Research And IPR - Journey Towards Excellence |	01/03/2023 to 05/03/2023|	BVB's Sardar Patel College of Engineering, Mumbai & HSM's Shri. Sant Gadge Baba College of Engineering & Technology, Bhusawal|
+| 8 | Dr. Harnam Singh Farwaha |	Recent Advancement in Material, Micro-Manufacturing and Characterization (RAMMC-23) |	13/03/2023 to 17/03/2023	| Dr. D. Y. Patil Institute of Technology, Pimpri, Pune.|
+| 9 |Dr. Harnam Singh Farwaha	| IP Awareness/Training program	| 06/06/2023|	Intellectual Property Office, India.|
+| 10 | Dr. Harnam Singh Farwaha	| Recent Developments In Mechanical Engineering|	19/06/2023 to 23/06/2023|	Eswar College of Engineering, Kakinada, AP.|
+| 11 | Dr. Harnam Singh Farwaha |	Computer Aided Engineering Analysis Using Ansys	| 17/07/2023 to 21/07/2023 |	Vishwakarma Institute Of Information Technology, Pune.|
+| 12 | Dr. Harnam Singh Farwaha	| Recent Advances in Mechanical Engineering (RAME-23) |	24/07/2023 to 28/07/2023 |	Dr. D. Y. Patil Institute Of Technology, Pimpri, Pune.|
+| 12 |Dr. Harnam Singh Farwaha |	Recent Advances and Challenges in Electric Vehicles |	21/08/2023 to 25/08/2023 |	K J College Of Engineering And Management Research, Pune.|
+| 14 |Dr. Harnam Singh Farwaha	| Emerging Trends In Advance Manufacturing Technology |	20/02/2024 to 24/02/2024 |	School of Engineering & Technology, Sandip University, Nashik.|
+| 15 |Dr. Harnam Singh Farwaha |	Electric Vehicle Technology |	01/03/2024 to 02/03/2024 |	Matoshri Institute of Technology, Dhanore and EVRobotics Skill Coach (India) Pvt. Ltd. Mumbai|
+| 16 |Dr. Harnam Singh Farwaha	| Additive Manufacturing Technology|	04/03/2024 to 09/03/2024|	School of Engineering & Technology, Sandip University, Nashik.|
+| 17 |Dr. Harnam Singh Farwaha	|3D Printing & Additive Manufacturing Insights|	12/03/2024 to 16/03/2024|	National Institute of Technology, Mizoram.|
+| 18 | Dr. Harnam Singh Farwaha|	Fabrication & Characterization Of Novel Fiber Reinforced Polymer Composite For Structural Application	| 22/04/2024 to 26/04/2024|	Department Of Automation & Robotics, Sandip Institute Of Technology And Research Centre, Nashik.|
+| 19 |Dr. Harnam Singh Farwaha|	Revolutionizing Vibration Analysis through Artificial Intelligence and Machine Learning Integration" (RVAIML-24)” | from 11th to 15th June 2024	11/06/2024 to 15/06/2024 |	Department of Mechanical Engineering, Dr. D. Y. Patil Institute of Technology, Pimpri, Pune.|
+| 20 |Dr. Harnam Singh Farwaha	| NEP 2020 Orientation & Sensitization Programme|	18/06/2024 to 28/06/2024|	Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, Chennai.|
+| 21 | Dr. Raman Kumar|	"One Week Online Short Term Course on Machine Learning and its Applications in loT, Computer Vision and Cloud Computing (MICC-2023)"|	10th July to 14th July 2023	|Department of Computer Science & Engineering, National Institute of Technology Jamshedpur (NIT) Jamshedpur|
+| 22 |Dr. Raman Kumar|	Innovations in Water Treatment & Sustainable Infrastructure	|29th May 2023 to 2nd June 2023	|Chandigarh Engineering College, Jhanjeri, Mohaliv
+| 23 |Dr. Prem Singh|	Recent Advances and Challenges in Electric Vehicles	| 21/08/2023 to 25/08/2023|	KJ College of Engg. And Management Research|
+| 24 |Dr. Prem Singh	|Additive manufacturing Technology|	04/03/2024 to 09/03/2024	|Sandip University, Nashik|
+| 25 |Dr. Prem Singh	|Computational Fluid Dynamic: Bridging Theory and Practicev	|18/03/2024 to 29/03/2024	|Sinhgad College of Engineering, Pune|
+| 26 |Dr. Prem Singh	|Exploring Perspectives of AI and ML in Robotics and Automation	|24/06/2024 to 28/06/2024|	Dr. D.Y. Patil Institute of Technology, Pune|
 
-| Sr. No. | Name of Faculty      | Name of Event          | Date(s)                     | Organizing Institute     |
-|:--------|:---------------------|:-----------------------|:----------------------------|:-------------------------|
-| 1       | Dr. Raman Kumar | Hands on Training: Decision Making Methods and Research Writing Tools | August 8-12, 2022  | Centre for Multifacted Learning Department of Mechanical and Production Engineering, Guru Nanak Dev Engineering College, Ludhiana |
+                                                                    
+## Industry Institute Meet Organized
+This meet was organized by Department of Mech. & Prod. Engg. and Industrial Relation Cell, GNDEC. The objective of the meet was to share expertise and experience between the industry and Institute; Providing skill and expertise to the students to be successful in the current job market. The Prominent industrialists present in the meet were Mr. Jagbir Singh Sokhi, President Sewing Machine Development Cell; Mr. Narinder Bhamra, President Fasteners Manufacturers Assoc. of (India), Mr. Gurpreet Singh Kalhon, Senior Vice president Auto Parts Manufacturers (India); Mr. Harsimerjit Singh, President United Cycle Parts, Ludhiana; Mr. Satnam Singh Makkar, Vice President, United Cycle Parts, Ludhiana. Mr. Yashpal Gosian, President; Ludhiana Foundery Culsor; Mr. Kanwalpreet Singh, President Steel Shuttering, Ludhiana; Mr. Ashok Midha, MD Shubham Electrical; Mr. Amrik Singh, Director; NEXO Industries; Mr. Arshdeep Singh, Director, Pioneer Cranes; Mr. Sunil Bansal, MD Compac Technology India, Mr. Kulwinder Singh, MD, Barnala Engineers; Mr. Suman Singh, Arora Steels; 
+
+Prof. J.S. Grewal and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the participants. Dr. Jatinder Kapoor, Dean Industrial Relation Cell, highlighted the objectives of the meet. Dr. Harmeet Singh (HOD MPE) proposed the vote of Thanks.
+
+![PSB](Images/MEET.png) 
+
 
 ## Student Activities
 
- <p align=justify>
-- Students of SAE GNDEC organized a seminar entitled “Ride and Read the Bicycle” on 15th March 2022 and discussed various components of a bicycle, the parts of electric bicycle and other different types of bicycles
-</p>
-
-![P1](https://user-images.githubusercontent.com/58685328/230356476-0408f446-8db8-4f78-aabb-7913a3223cfc.jpg) ![P2](https://user-images.githubusercontent.com/58685328/230357259-3be9c225-d149-4cd4-bac3-60fa275adc95.jpg)
-
-  <p align=justify>
-- SAE GNDEC organized one-day workshop on ‘HOW TO OPERATE A 3D PRINTER’ on 20th May 2022 at CAD Lab of mechanical and production engineering department to enhance awareness among students about future of 3 D printing in industry. The speakers in the event first shared about the different types of 3D printers, materials used in it, software required for it, modern 3D printing trends and gave a brief about the engineering behind 3D printer.
-</p>
-
-![P3](https://user-images.githubusercontent.com/58685328/230357638-4599ac55-8d71-468d-a51f-e0faab322ad9.jpg) ![P4](https://user-images.githubusercontent.com/58685328/230357680-9793ba7f-836c-45af-be51-c754896c3c34.jpg)
-
+## 1. VEHICLE LAUNCH EVENT:
 <p align=justify>
-- AMPE GNDEC organized one-day Seminar on “DESIGN INNOVATION FOR SUCCESSFUL CAREER IN THE FIELD OF AERONAUTICS SPACE AND DEFENCE FOR MECHANICAL ENGINEERS” on 25thJuly 2022 to guide and aware the students about the opportunities in the design field of aeronautics space and  defense by guest speaker Mr. Danish Abdul Khader (STK Technologies, Bangalore). 
- </p>
+Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized “VEHICLE LAUNCH EVENT” on 6th February, 2023 to aware and encourages the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
+
+![PSB](Images/VL1.png)
+![PSB](Images/VL2.png)
+
+</p>
+
+ ## 2. BAJA SAEINDIA 2023: 
+<p align=justify>
+Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2023 off-road racing competition from 14th February, 2023 to 19th February, 2023 and bagged the 1st Position in Punjab, Secured AIR 5th in Go Green Event and became the 1st New Team to clear Technical Inspection at the event.
+
+![PSB](Images/BS1.png)
+![PSB](Images/BS2.png)
+
+</p>
+
+
+## 3. BAJA SAEINDIA 2024: 
+<p align=justify>
+Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2024 off-road racing competition from 9th Junary, 2024 to 14th January, 2024 and bagged the 2nd Position Overall in North India. At this event, Prof. Sukhjeet Singh, Asistant Professor of Mech. & Prod. Engg Dept. was awarded the Dronacharya Award.  
+
+Team GENSONIC secured the following North India Rankings :-
+1st in Cost Event.
+2nd in Endurance. 
+2nd in Acceleration Simulation.
+5th in Sales Event.
+6th in Design Event.
+
+![PSB](Images/BS3.png)
+![PSB](Images/BS4.png)
+![PSB](Images/BS5.png)
+</p>
+
+ ## 4. VICTORY CELEBRATION EVENT: 
+<p align=justify>
+Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized Victory Celebration Event on 8th February, 2024 to honour the Team’s Sponsors and encourage the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
+
+![PSB](Images/VCE1.png)
+![PSB](Images/VCE2.png)
+![PSB](Images/VCE3.png)
+</p>
+
+
  
-<p align=justify>      
-- AMPE GNDEC organized Webinar on “FULLY FUNDED MASTER’S  PPORTUNITIES IN ABROAD FOR ENGINEERING GRADUATES” on 9thSeptember 2022 to aware the students about the master’s opportunities in abroad and how to get the funds for the same. Speaker of the event  Er. Sidharth Popli, an Alumni of our college and an ‘Graduate Research Assistant’ in Windsor University, Canada. 
-</p>
-
-<p align=justify>
-- Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized VEHICLE LAUNCH EVENT on 6th Feb 2023 to aware and encourage the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level. 
-</p>
-
-![P5](https://user-images.githubusercontent.com/58685328/230357976-1f9c6cbc-1d9b-4281-ade5-b6cf0e9773d3.jpg) ![P6](https://user-images.githubusercontent.com/58685328/230357936-5dca1c66-1fd3-462c-8d95-8e5e4736c707.jpg)
-
-  <p align=justify>
-- NCC Air Wing, Guru Nanak Dev Engineering College, Ludhiana won Overall Championship Trophy in CATC 96 organized by 4PB AIR SQN dated  03/01/2023 – 10/01/2023 and Cdt PanchamJai Singh of Mechanical & Production Engineering Department  was declared as best cadet.
-</p>
-
-![NCC](https://user-images.githubusercontent.com/58685328/230359293-b294aeb5-c6c1-48cb-b261-0020581bedf6.jpeg)
-
- <p align=justify>
-</p>
+ 
 
 
