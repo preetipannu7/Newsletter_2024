@@ -19,6 +19,9 @@ We are also actively involved in research and development activities. Our facult
 - Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed at a highest package of 19.5 Lakh per Annum in PhonePe.
 - Ajit Kumar  URN: 2004884, student of 2020-2024 Batch got placed at a highest package of 9 Lakh per Annum in TCS PRIME.
 - Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, Aarchie Maggu students of CSE got 2nd prize at National Level Smart Hackathon 2023, organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
+- Jasnoor Kaur  URN: 2104128, student of CSE, got recognition of PTU BEST CYCLIST.
+- Pawan Singh Bisht, student of CSE, got recognition of 2nd  Best Athlete, 2024.
+
 
 ## Gate Cleared Students
 
@@ -32,7 +35,7 @@ We are also actively involved in research and development activities. Our facult
 | 5      | HARDEV  |CS23S18023041 | 2023  | 
 
    
-### Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
+## Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
 
 | Sr.No. | Name                    | U.R. No. | Course Name                                   | Year |
 |:--------|:-------------------------|:----------|:-----------------------------------------------|:------|
@@ -49,6 +52,36 @@ We are also actively involved in research and development activities. Our facult
 | 11      | Jaskamal Singh         | 1905006| Rural Water Resources Management                            | 2023 |
 | 12      | Jaskamal Singh         | 1905006| Introduction to Embedded System Design                            | 2023 |
 
+## Students of CSE bagged various positions in Sports  
+
+| S.No. | Name             | URN     | Achievements                                                                           | 
+|-------|------------------|---------|-----------------------------------------------------------------------------------------|
+| 1     | Arpit Singh   | 2004548 | Member college Swimming Team: 1st in PTU           | 
+| 2     | Keshav Hari Nanda   | 2104135 | Member college Basketball Team: 1st in PTU           |
+| 3     | Inderpreet Singh   | 2104118 | Member college Basketball Team: 1st in PTU           |
+| 4     | Saumya Dhingra   | 2302667 | Member college Basketball Team: 1st in PTU           |
+| 5     | Ridhamjeet Kaur   | 2203589 | Member college Handball Team: 1st in PTU           |
+| 6     | Simranjeet Kaur   | 2203596 | Member college Handball Team: 1st in PTU           |
+| 7     | Roshni   | 2203593 | Member college Handball Team: 1st in PTU           |
+| 8     | Saumya Dhingra   | 2302667 | Member college Handball Team: 2nd in PTU           |
+| 9     | Aditya Kumar   | 2104057 | Member college Handball Team: 2nd in PTU           |
+| 10     | Robin Rawat   | 2104170 | Member college Handball Team: 2nd in PTU           |
+| 11    | Jasnoor Kaur   | 2104128 | Member college Athletics Team: 2nd in PTU           |
+| 12    | Aditya Kumar   | 2104057 | Member college Athletics Team: 2nd in PTU           |
+| 13    | Simranjeet Kaur   | 2203596 | Member college Athletics Team: 2nd in PTU           |
+| 14    | Robin Rawat   | 2104170 | Member college Lawn Tennis Team: 3rd in PTU           |
+| 15    | Nikhil Rana   | 2302727 | Member college Badminton Team: 3rd in PTU           |
+| 16    | Abhay Madaan   | 2004398 | Member college Badminton Team: 3rd in PTU           |
+| 17     | Jasnoor Kaur   | 2104128 | Member college Cycling Team: 1st in PTU           |
+| 18     | Harsimran Singh   | 2215069 | Member college Hockey Team: 1st in PTU           |
+| 19    | Arundeep Singh   | 2215021 | Member college Hockey Team: 1st in PTU           |
+| 20    | Rohit Kakralia   | 2203543 | Member college Power Lifting Team: 2nd in PTU           |
+| 21     | Sahil Arora   | 2203546 | Member college Chess Team: 2nd in PTU           |
+| 22     | Bhumi   | 2302500 | Member college Chess Team: 2nd in PTU           |
+| 23     | Dasharandeep Singh   | 2302505 | Member college Chess Team: 2nd in PTU           |
+| 24     | Piyush Goyal   | 2104153 | Captain college Chess Team: 2nd in PTU           |
+| 25     | Abhishek Choudhary   | 2204529 | 2nd in Inter-yr Kabaddi League, 2024           |
+| 26     | Robin Rawat   | 2104170 | 2nd in Inter-yr Football League          |
 
 
 ## Students of CSE bagged various positions in Youth Festival  
@@ -104,7 +137,15 @@ We are also actively involved in research and development activities. Our facult
 - **Dr. Amit Jain**, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award 2023** by Indian Society of Technical Education [Nov,2023].
 - **Dr. Parminder Singh**, Professor(CSE), appointed as **Expert on the Faculty of Computer Sciences** for the term from 11.01.2023 to 10.01.2025 by Punjabi University, Patiala.
 - **Dr. Parminder Singh**, Professor(CSE),	appointed as **Member, Board of Studies (Computer Sc. & Engg.)**, Shaheed Bhagat Singh State University, Ferozepur [Jan,2022-Jan,2025]
+- **Dr. Sita Rani**, Assistant Professor (CSE), conferred with **Exceptional Women of Excellence** Award by Women’s Indian Chamber of Commerce and Industry [March, 2023].
 - **Dr. Kamaldeep Kaur, Dr. Priyanka Arora, and Dr. Manpreet Kaur Mand** completed **Ph.D (CSE)** [2023].
+- **Dr. Sita Rani**, Assistant Professor (CSE), awarded with **10 Design Patents** with a total of 15.
+- **Dr. Sita Rani**, Assistant Professor (CSE), **Edited/Co-Edited 6 Books** in various technical domains published by CRC Press.
+
+
+
+  
+
 
 ## Conference Chaired Sessions
 - Dr. Kiran Jyoti, H.O.D.(CSE), Chaired session in the **7th International Joint Conference on Computing Sciences (ICCS-2023) "KILBY100"**, School of Computer Science and Engineering, Lovely Professional University, Punjab [May, 2023].
