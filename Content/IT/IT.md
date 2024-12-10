@@ -75,9 +75,6 @@ The Information Technology Department is dedicated to empowering students from d
 | 25|Himani Sharma|Python for Data Science | One week   |  24 June to 28 June 2024|Infosys Springboard|
 
 
-
-
-
 ## Student's Corner  
 
 **ITIAN Club**
@@ -86,8 +83,6 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
  ![HSR](Images/itian.png)
  ![HSR](Images/itian1.png)
- ![HSR](Images/CyberSecurity.jpeg)
-
 
 
 
