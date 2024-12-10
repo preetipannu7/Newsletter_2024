@@ -75,7 +75,11 @@ The Information Technology Department is dedicated to empowering students from d
 | 25|Himani Sharma|Python for Data Science | One week   |  24 June to 28 June 2024|Infosys Springboard|
 
 
-## Student's Corner  
+## Student's Corner 
+### Sports & Extracuricular Achievements
+**Sports Archievements**
+
+
 
 **ITIAN Club**
 
