@@ -3,10 +3,10 @@
 ## Message from HoD's Desk  
 
 
-![SDT](Images/HSR2.JPG)
+![SDT](Images/JGS.jpg)
 
 <p align=justify>
-It is great to note that the 3rd edition of online “Newsletter” is being published, which will be a compilation of all achievements of various departments/sections. The efforts of the Editorial Team is highly appreciable.
+It is great to note that the 4th edition of online “Newsletter” is being published, which will be a compilation of all achievements of various departments/sections. The efforts of the Editorial Team is highly appreciable.
 </p>
 
 <p align=justify>
@@ -23,7 +23,7 @@ I ensure on behalf of my faculty colleagues and staff that we will continue to s
 Hope readers of this newsletter find the information therein valuable.
 </p>
 
-Dr. H S Rai  
+Dr. Jagbir Singh 
 HoD, Civil Engineering Department  
 
 
@@ -35,62 +35,77 @@ Department of Civil Engineering, GNDEC alongwith NIT, Jalandhar hosted 5th UKIER
 
 ![Conf](Images/UKIERI.jpeg) 
 
-
 ## Faculty Achievements  
 
 ### Publications  
 
-- **Yuvraj Singh, Harvinder Singh.** (2022) The effect of Steel Fibers on Ductility of Reinforced Concrete Beams. In: Indian Structural Steel Conference. Indian Institute of Technology, Hyderabad, India
+- Junaid Bashir Khan, **Jagbir Singh & Yuvraj Singh.** (2023) Experimental Assessment of Unprocessed Rice Husk Ash Effects on Concrete Characteristics in: International Research Journal of Engineering and Technology (IRJET), 
 
-- Gaurav Bhougal, **Prabhjot Singh, Dr. H. S. Rai** (2022) Study of Mechanical and Durability properties of Geopolymer concrete incorporated Waste Brick Powder as fine aggregate. In: International Research Journal of Engineering and Technology (IRJET), Volume:09 Issue:11 (p-ISSN:2395-0072)
+- **Dr. Jagbir Singh** Estimation of confined compressive strength of LRS-FRP concrete specimens with computational intelligence. In: 
 
-- Harmandeep Singh, **Mandeep Kaur, Manvinder Kingra.** Optimum Dosage of GGBFS, Broken Ceramic Tiles, and Copper Slag in the Production of Sustainable Concrete. In: International Research Journal of Engineering and Technology (IRJET) Volume: 09 Issue: 09 (p-ISSN:2395-0072)
+- Shubhendra Kumar, **Hardeep Singh Rai, Mandeep Kaur** Influence of Shredded Latex Gloves Addition on Concrete Properties. In: International Journal of Innovative Research in Technology (IJIRT) 
+ 
+- **Yuvraj Singh & Harvinder Singh.** Influence of Steel Fibres on the Sorptivity of Corroded Reinforced Concrete. In: International Journal of Design Engineering (IJDE) 
 
-- Pooja Rani, **Dr. Gurdeepak Singh, Charnjeet Singh.** Load Settlement Characteristics of Strip Footing placed on piled sandy slope in PLAXIS 3D. In: International Research Journal of Engineering and Technology(IRJET) Volume:09 Issue:08 (e- ISSN:2395-0056)
+- Anshul Sharma, **Harvinder Singh, Savleen Takkar, Yuvraj Singh** Comparison of Autogenous Shrinkage Behaviour of Concrete With and Without Steel Fibres. In: International Research Journal of Engineering and Technology (IRJET)
 
+- **Pushpinder Singh, Harvinder Singh, Manvinder Kingra.** The Effect of Openings in the Slab Stiffened with Shallow Beams. In: International Research Journal of Engineering and Technology (IRJET)
+
+- Manpreet Singh Bains, **Yuvraj Singh, Harvinder Singh** Flexural response of corroded RC member: A review. In: International Research Journal of Engineering and Technology
+
+- **Gurdeepak Singh**, Sujata Sharma Soil Stabilization using Corn Husk Fiber Stone Dust. In: International Research Journal of Engineering and Technology
+
+- Mohd Adnan, **Sukhwinderpal Singh, Balihar Singh**. Phytoremediation of Lead-Contaminated Shooting Range Soild using Indian Mustard and Sunflower. In: International Research Journal of Engineering and Technology (IRJET)
+
+- **Yuvraj Singh, Dr. Harvinder Singh**, Sushil Bhatia. The Effect of Steel Fibers on the Ductility of Reinforced Concrete Beams. In: Indian Structural Steel Conference 2020
 
 ## Conference Organized 
 
-| Name of Event                                                  | Organising Institute                                                                  | Duration | Date(s)               |                            |
-|:-------------------------------------------------------------- |:------------------------------------------------------------------------------------ |:-------- |:--------------------- |:-------------------------------------- |
-| UKIERI Concrete Congree - Sustainable Concrete Infrastructure |NIT, Jalandhar & GNDEC, Ludhiana | 4 days| March 14th-17th,2023 | 
+| Sr. No. | Name of Event                                                  | Organising Institute                                                                  | Duration | Date(s)               |                            |
+|:------- |:-------------------------------------------------------------- |:------------------------------------------------------------------------------------ |:-------- |:--------------------- |:-------------------------------------- |
+| 1       | Sustainable Concrete Infrastructure (UKIERI) |NIT, Jalandhar & GNDEC, Ludhiana | 4 days| March 14th-17th,2023 | 
 
 ## Events Organized by ACES
 
 | Sr. No. | Name of Event Organized             | Faculty Coordinator                            | Duration | Date(s)               |
 |:--------|:------------------------------------|:-----------------------------------------------|:---------|:----------------------|
-| 1.      | Rang De Basanti                     | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | June 2,2022	        |
+| 1.      | Rang De Basanti                     | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | June 2,2022          |
 | 2.      | Wordpress for Beginners             | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 2 days   | March 03-04, 2022     |
 | 3.      | Dumb Charades                       | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 16, 2022        |
 | 4.      | Basics of Designing a Flyer         | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | April 20,2022         |
 | 5.      | Let's have fun                      | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | June 09, 2022         |
 | 6.      | Design Frenzy                       | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 2 days   | December 1-2,2022     |
-| 7.      | Technoplot	                        | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 16, 2023        |
-| 8.      | Sanrachna						    | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 17, 2023        |
-
+| 7.      | Technoplot                          | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 16, 2023        |
+| 8.      | Sanrachna                           | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 17, 2023        |
 
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
-| Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                        |
+| Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                         |
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
-| 1       | Yuvraj Singh      | Indian Structural Steel Conference																  | 2 days	 | 6-8 January, 2022	 | IIT Hyderabad											   |
-| 2       | Prabhjot Singh    | Workshop on "Wordpress for Beginners"															  | 2 days	 | 3-4 March, 2022	     | GNDEC, Ludhiana											   |
-| 3       | Gurdeepak Singh   | Technology Enabled Teaching Learning                                                              | 5 days   | 16-20 January,2023    | NITTTR Chandigarh, GNDEC Ludhiana                           |
-| 4       | Sandeep Kaur      | Technology Enabled Teaching Learning			                                                  | 5 days   | 16-20 January,2023    | NITTTR Chandigarh, GNDEC Ludhiana                           |
-| 5       | Heena Malhotra    | Technology Enabled Teaching Learning                                                              | 5 days   | 16-20 January,2023    | NITTTR Chandigarh, GNDEC Ludhiana                           |
-| 6		  | Mandeep Kaur      | Technology Enabled Teaching Learning                                                              | 5 days   | 16-20 January,2023    | NITTTR Chandigarh, GNDEC Ludhiana                           |
-| 7       | Mandeep Kaur      | Free Software and Resources for Technical Education through ICT									  | 5 days   | 21-25 March, 2023	 | GNDEC, Ludhiana                                             |
-| 8       | Prashant Garg	  | Technology Enabled Teaching Learning		                                                      | 5 days   | 16-20 January, 2023   | NITTTR Chandigarh, GNDEC Ludhiana                           |
-| 9       | Amandeep Singh    | Technology Enabled Teaching Learning															  | 5 days   | 16-20 January, 2023   | NITTTR Chandigarh, GNDEC Ludhiana                           |
-| 10	  | Manvinder Kingra  | Technology Enabled Teaching Learning		                                                      | 5 days   | 16-20 January, 2023   | NITTTR Chandigarh, GNDEC Ludhiana                           |
-| 11	  | Manvinder Kingra  | Adoption of Green Construction Practices with Focus on Water Resource		                      | 2 days   | 11-12 February, 2022  | Indian Water Works Association Local Nagpur Centre, Nagpur  |
-| 12	  | Manvinder Kingra  | Emerging Trends in Science and Technology									                      | 4 days   | 14-18 February, 2022  | Regional College of Education Research & Technology, Jaipur |
-| 13	  | Manvinder Kingra  | Industry-Academia Perspective on Civil Engineering Problems									      | 5 days   | 19-23 March, 2022     | NIT Silchar												   |
-| 14	  | Manvinder Kingra  | Construction Management																		      | 1 day    | 4th January, 2023     | Oxford Online Study Course						           |
+| 1       | H.S.Rai       | Quantum Computing                                                                                     | 6 days   | 18-23 December, 2023  | GNDEC Ludhiana                                                 |
+| 2       | Gurdeepak Singh    | Integrated Urban Water Management                                                                | 6 days   | 18-23 December, 2023      | GNDEC, Ludhiana                                            |
+| 3       | Prashant Garg      | Integrated Urban Water Management                                                                | 6 days   | 18-23 December, 2023      | GNDEC, Ludhianana                                          |
+| 4       | Amandeep Singh      | Integrated Urban Water Management                                                               | 6 days   | 18-23 December, 2023    | GNDEC, Ludhianana                                            |
+| 5       | Charnjeet Singh     | Integrated Urban Water Management                                                               | 6 days   | 18-23 December, 2023    | GNDEC, Ludhianana                                            |
+| 6       | Sukhwinder Singh   | Sustainable and Durable Green Concrete, Future & Applications                                    | 5 days   | 18-22 December,2023    | Dr. B.R. Ambedkar NIT, Jalandhar                              |
+| 7       | Mandeep Kaur      |Structural Equation Modeling: Advances in Research Methodology and Research Publications           | 5 days   | 25-29 December, 2023  | Dr. B.R. Ambedkar NIT, Jalandhar                               |
+| 8       | Yuvraj Singh      | Recent Advances in Concrete Technology & Durability of Concrete Structures                        | 3 days   | 22-24 November, 2023   | CSIR/SERC Chennai                                             |
+| 9       | Prabhjot Singh     | Sustainable and Durable Green Concrete, Future & Applications                                    | 5 days   | 18-22 December, 2023   | Dr. B.R. Ambedkar NIT, Jalandhar                              |
+| 10      | Sandeep Kaur   | Integrated Urban Water Management                                                                    | 6 days   | 18-23 December, 2023   | GNDEC, Ludhiana                                               |
+| 11      | Sandeep Kaur  | Water Resources Management & Fluvial Hydraulics in Steep Mountain Streams                             | 5 days   | 27-31 March, 2024  |Dr. B.R. Ambedkar NIT, Jalandhar                                   |
+| 12      | Manvinder Kingra  | Road Safety & Road Safety Audit                                                                   | 15 days   | 23 November-7 December, 2023  | Transportation Research & Injury Prevention Centre, IIT Delhi |
+| 13      | Manvinder Kingra  | Advance AutoCAD                                                                                   | 5 days   | 15-19 Januray, 2024     | NITTTR Chandigarh                                             |
+| 14      | Sukhwinderpal Singh | Integrated Urban Water Management                                                               | 6 days    | 18-23 December, 2023     | GNDEC, Ludhiana                                             |
+| 14      | Balihar Singh       | Water Resources Management & Fluvial Hydraulics in Steep Mountain Streams                       | 6 days    | 18-23 December, 2023     | GNDEC, Ludhiana                                             |
+| 14      | Avneet Kaur         | Integrated Urban Water Management                                                               | 6 day    | 18-23 December, 2023     | GNDEC, Ludhiana                                              |
+| 14      | Savleen Takkar  | NBA Accreditation and Teaching/Learning in Engineering                                              | 6 days    | 1-6 January, 2024     | GNDEC, Ludhiana                                                |
+| 14      | Jashandeep Singh | Integrated Urban Water Management                                                                  | 6 day    | 18-23 December, 2023     | GNDEC, Ludhiana                                              |
+| 14      | Varinder Singh | NSQF Aligned Curriculum Design and Implementation                                                    | 5 days    | 18-22 September, 2023     | NITTTR, Chandigarh                                         |
 
 ### Students' Achievements
 
+</p align=justify>
 
 A group of 6 students went to CSIR-IIT Roorkee for their 6 months Industrial Training. The details are as given below:
 
@@ -103,9 +118,7 @@ A group of 6 students went to CSIR-IIT Roorkee for their 6 months Industrial Tra
 | 5|Rohan Singh |Enhancing Sustainability Of Corroded Rc Structures: Estimating Steel-To-Concrete Bond Strength With Ann And Svm Algorithms |
 | 6|Sarvanshdeeo Singh Sahota |Ml-Based Computational Model To Estimate The Compressive Strength Of Sustainable Concrete Intergrating Silica Fume And Steel Fiber |
 
-
 ![Conf](Images/CSIR.jpg)
-
 
 ## [Association of Civil Engineering Students - Click Here](ACES.md)
 

@@ -11,7 +11,7 @@ The Department of Computer Applications is dedicated for ensuring great careers 
 Sincerely, and with best wishes,
 
 Prof. Jasbir Singh Saini     
-Associate Professor and H.O.D.    
+Associate Professor and HoD    
 (Department of Computer Applications)
 
 ## Department at Glimpse
@@ -31,12 +31,16 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 -	Prof. Jasbir Singh Saini is Fellow of Institution of Engineers (I), Kolkata- F-1215525.
 -	Prof. Jasbir Singh Saini is Life Member of Computer Society of India, Navi Mumbai.
 -	Prof. Jasbir Singh Saini is Charted Engineer of Institution of Engineers (I), Kolkata- F-1215525.
--   Prof. Jasbir Singh Saini has served as Member of Organizing Committee in Workshop on 'Virtual Labs' conducted by IIT Roorkee and Organized by GNDEC.
+-	As Admissions Coordinator, JS Saini demonstrated exceptional performance by successfully achieving 100% enrollment targets for both undergraduate and postgraduate programs 
+within the department.
+  
 
 ## Publications
 
-- [ **Sohal, M.**, Bharany, S., Sharma, S., Maashi, M. S., & Aljebreen, M. (2022). A Hybrid Multi-Cloud Framework Using the IBBE Key Management System for Securing Data Storage. Sustainability, 14(20), 13561.](https://www.mdpi.com/2071-1050/14/20/13561)
-- **Saini, S.S. et al**, "Prediction of Smart Building and Smart City Resources using AI-techniques." Sustainability,2023 2nd International Conference for Innovation,Bengaluru,India,2023.  
+- Anand, D., kaur, A. & Singh, M. (2024),” Research on Internet of Medical Things: Systematic Review, Research Trends and Challenges”, Recent Advances in Computer Science and Communications (RACSC) Volume 17, Issue 6, 2024
+	DOI: 10.2174/0126662558248187231124052846 (Scopus)
+
+- Anand, D., kaur, A. & Singh, P. (2024),” Enhancing Healthcare Monitoring with efficient Computation Offloading in Fog Computing”,  International Journal of Computer Networks and Applications (IJCNA), Volume 11, Issue 4, July – August (2024)  PP: 506-518 DOI: 10.22247/ijcna/2024/32 (Scopus) 
 
 
 
@@ -45,14 +49,24 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 
 | Sr. No. | Name of Event                                                                                                                 | Faculty Coordinator                                           | Duration | Date(s)                | Sponsor(s)                                     |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|:-----------------------------------------------|
-| 1       |  A One-day seminar on Drug De-addiction            | Prof. Jasbir Singh Saini and Prof. Dinesh Anand | 1 day | 09 December, 2022   | GNDEC |
+| 1       |  A One-day seminar on Drug De-addiction  and Stress Management          | Prof. Jasbir Singh Saini and Prof. Dinesh Anand | 1 day | 23 November, 2023   | GNDEC |
 
 
-![HSR](Images/seminar1.jpg)	 
+![HSR](Images/Seminar1.jpg)	 
 
-![HSR](Images/Seminar2.jpg)  
+![HSR](Images/Seminar2.jpg) 
 
-Faculty and students attending the Seminar 
+![HSR](Images/Seminar3.jpg)
+
+
+Under the guidance of **HoD, Prof. Jasbir Singh Saini, the Department of Computer Applications** organized a seminar on the topic **“Drug De-Addiction” and “Stress Management”** on 23/11/23 as a part of BCA first semester curriculum of HVPE. All the faculty members along with HoD were present in the seminar.
+The guest of honor was **Ms. Shaffy Makkar.** The Program Coordinator **Prof. Dinesh Anand** addressed the students and welcomed the expert. The seminar took place in two sessions. The first session started at 9:30 am in which Ms Shaffy threw light on various aspects of drug abuse and impact of drugs on person’s health as well as on the society.
+After that, the second session was held from 10:30 am to 11:30 am. In this session, the expert discussed about stress management and how friends and family can support a person suffering from depression. Further, the expert advised the students to spend some time with nature away from the mobile phones.
+The expert gave various examples which could guide the students better. Overall, it was a very interactive session where the expert answered students’ questions regarding drug abuse.
+The seminar ended with a vote of thanks to the expert and best wishes to all the students.
+
+
+ 
 
 
 
@@ -60,79 +74,51 @@ Faculty and students attending the Seminar
 
 | Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                        |
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
-| 1       | Prof. Dinesh Anand |Free Software and Resources for Technical Education through ICT      | 1 week | 21-25 March,2022   | NITTTR, Chandigarh |
-|2|Prof. Jasbir Singh Saini|Virtual Labs| 3 days| 1-3 December, 2021| GNDEC & IIT ROORKEE|
+|1| Prof. Jasbir Singh Saini|Quantum Computing| 6 Days | 18-23 December, 2023| AICTE ATAL Yojna,GNDEC|
+|2| Prof. Jasbir Singh Saini|NBA Accrediation and Teaching-Learning in Engineering| 6 Days| 1-6 January, 2024| AICTE ATAL Yojna,GNDEC|
+|3|Prof. Dinesh Anand |NSQF Aligned Curriculum Design and Implementation   | 1 week | 18-22 September,2023 | NITTTR, Chandigarh |
+|4|Dr.Manreet Sohal|Building Advanced Data Analytics Applications With Cloud|5 Days|16-20 October,2023|	Edunet Foundation and AICTE|
+|5| Dr.Manreet Sohal|Designing Course Outcomes and Outcomes-focused Questions|1 Day|09 August,2023|	InPods Ed-tech|
+|6|Dr.Manreet Sohal|Workshop on Communication Skills|1 Day|07 August,2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
+|7|Prof.Preeti Aggarwal|Machine Learning & NLP using Python|5 Days|24-28 June, 2024|Infosys Springboard|
+|8|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07 August,2023|Dept. Of Applied Sciences& IQAC, GNDEC|
+|9|Prof.Harmandeep Kaur|Role of Techical Institutions in Rural Infrastructure Development| 1 Week|24-28 April,2023| Rural Development Department NITTTR, Chandigarh|
+|10|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07 August,2023|Dept. Of Applied Sciences& IQAC, GNDEC|
+|10|Er.Vandna |Innovative Teaching and Learning Pedagogy|5 Days|27-31 May,2023|Research Founadtion of India|
+|11|Er.Vandna|Artificial Intelligence and Punjabi Language:Recent Trends and Challenges|3 Days|6-8 June,2024|GNDEC|
 
 
-## Students' Corner
+### Faculty Conference Publications
 
-### Industrial Trip
-<p align=justify>
-Department of Computer Applications, GNDEC Ludhiana had organized an Industrial visit on 21 April,2022 to Nebero systems private limited located in Mohali, SAS nagar, Chandigarh. The visit was organized by HOD of Computer Applications, Prof. Jasbir Singh Saini and Programme coordinator Prof. Dinesh Anand.
-</p>
+| Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |Organized by|
+|---------|--------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|----------------|------|------|
+| 1       | Prediction of Smart Building and Smart City Resources using AI-techniques    | Prof.Jasbir Singh Saini | 2nd International Conference on  Innovation in Technology(INOCON-2023)  | International  | 2023 |IEEE|
 
-<p align=justify>
-Prof. Kamalpreet Kaur and Prof. Gurjiwan Singh were the coordinator faculty of Industrial visit. Students of BCA 1st year, 2nd year and MCA 1st year along with two coordinators faculty were in the Journey.
-</p>
-
-
-
-![HSR](Images/industrialtrip.jpeg)
-
-Industrial Trip to Nebero Systems
-
-
-
-### Rangoli Competition
-
-<p align=justify>
-A rangoli competition in lieu of Diwali celebration was organized by the department of Computer Applications on 21/10/2022 for the students of BCA and MCA. Prof. Birpal Kaur and Prof. Amanpreet Kaur were the coordinator faculty for the event.
-</p>
-
-<p align=justify>
-Following are the Winners of the Competition:
-</p>
-
-- 1st  Prize- Ritu and Pooja Rani (BCA 2nd year)
-- 2nd Prize- Jai Kaundal (BCA 3rd  year) and Mittali makkar(BCA 1st year)
-- 3rd Prize- Sukhpreet Kaur and Arshpreet Singh (MCA 1st year)
-
-
-![HSR](Images/Rangoli1.jpg) 
-![HSR](Images/Rangoli2.jpg)
-![HSR](Images/Rangoli3.jpg) 
-![HSR](Images/Rangoli4.jpg)
-
-**Dr. Parminder Singh (Head, CSE) along with the faculty of Computer Applications giving away the prizes to the winners**
 
 
 ### Students' achievements
-
-
-#### **Sports Day 2022- Held on 8-9 March,2022**
+#### **Sports Day 2024- Held on 22-23 Feb,2024**
 
 ***List of winners:***
 
-| Sr. No. | Name      | Roll No.   | Class | Event    | Prize    |
+
+
+|S.No.|	Name                      |	Roll No.	|Class	|Event 	|Prize|
 |:--------|:----------|:-----------|:------|:---------|:---------|
-| 1       | Satleen Singh  | 2191050 |BCA 1st  | Discuss throw  | 1st  |
-|2        | Satleen Singh |2191050|BCA 1st| Shot put throw| 2nd|
-|3|Arbaaz Khan|2004371|BCA 2nd|10 km race|2nd |
-|4|Ashutosh|2004374|BCA 2nd |Discuss throw|3rd |
-|5|Devinder Kumar|2191001|	BCA 1st	|1500 m race|	3rd| 
-|6|Girls	|	|	BCA & MCA |Tug of war	|1st|
+|1.	|Satleen Singh|	2191050	|BCA 3rd|	Shot put Throw | 1st|
+|2.	|Satleen Singh|	2191050|	BCA 3rd |	Discuss Throw|	1st|
+|3.	|Devinder Kumar|	2191001|	BCA 3rd|	10 km Race	|3rd|
+|4.	|Devinder Kumar|	2191001 |	BCA 3rd	|1500 m Race|	2nd|
+|5.	|Devinder Kumar|	2191001 |	BCA 3rd	|High Jump|	2nd|
 
 
-![HSR](Images/sports11.jpg) 
-![HSR](Images/sports12.jpg)
-![HSR](Images/sports15.jpg)
-![HSR](Images/sports14.jpg)
-![HSR](Images/sports16.jpg)
-![HSR](Images/Sports13.jpg)
+![HSR](Images/Sports241.jpg)
+![HSR](Images/Sports242.jpg)
+![HSR](Images/Sports243.JPG)
+![HSR](Images/Sports244.JPG)
 
- Winners from Sports meet 2022 
-
-
+ Winners from Sports meet 2024
+ 
 #### **Sports Day 2023- Held on 2-3 March,2023**
 
 ***List of winners:***
@@ -156,6 +142,20 @@ Following are the Winners of the Competition:
 ![HSR](Images/sports25.jpg)
  
  Winners from Sports meet 2023 
+
+ ### **Students of CA participated  in IKGPTU Inter College Tournament**
+
+***Positions held by students:***
+
+
+
+|S.No.|	Name                      |Class	|Event 	|Prize|
+|:--------|:----------      |:-----------|:------|:---------|
+|1| Nishant Kumar     |BCA 2nd	|Cricket|Winner|
+|2.|Sourav Kumar|	BCA 2nd	|Cricket|Winner|
+|3.|Minaz	|BCA 3rd	|Basketball|Winner|
+
+
  
 
 ### **Youth Festival**
@@ -166,13 +166,21 @@ Following are the Winners of the Competition:
 
 |S.No.|	Name                      |Class	|Event 	|Prize|
 |:--------|:----------      |:-----------|:------|:---------|
-|1| Amritpreet Kaur	      |MCA 2nd	|Punjabi Folk Dance Giddha (Inter Zonal)|	1st|
-|2.|Gurbhej Singh|	MCA 1st	|Punjabi Folk Dance Bhangra (Inter Zonal)|	1st|
-|3.|Jagjot Singh	|BCA 2nd	|Indian Group Song (Inter Zonal)|	2nd|
-|4.|Jagjot Singh|BCA 2nd|Non Percussion Solo (Inter Zonal)|	3rd|
-|5.|Minaz|	BCA 1st|	One Act Play (Inter Zonal)|	1st|
-|6.|Minaz	|BCA 1st	|Skit (Zonal) & Mimicry (Zonal)|	2nd|
-|7.|Vikas Pal|	BCA 1st|	Mime (Zonal)|	1st|
+|1| Gurbhej Singh      |MCA 2nd	|Punjabi Folk Dance Bhangra (Zonal)|	1st|
+|2| Gurbhej Singh  	      |MCA 2nd|Punjabi Folk Dance Bhangra (Inter-Zonal)|	3rd|
+|3| Gurbhej Singh       |MCA 2nd	|Punjabi Folk Dance Bhangra (Inter-University)|	3rd|
+|4| Gurbhej Singh        |MCA 2nd	|Punjabi Folk Dance Bhangra(North Intervarsity)|	5th|
+|5| Jaspreet Kaur	      |	MCA 2nd|Group Song (Zonal)|	1st|
+|6| Jaspreet Kaur	      |	MCA 2nd|Group Song(Inter-Zonal)|2nd|
+|7| Jaspreet Kaur	      |MCA 2nd	|Shabdh|3rd|
+|8| Jaspreet Kaur	      |	MCA 2nd|Indian Solo Vocal(Zonal)|	1st|
+|9|  Manjit Kaur	      |BCA 3rd	|Punjabi Folk Dance Giddha (Zonal)|	1st|
+|10.|Inderjeet singh|	BCA 3rd	|Punjabi Folk Dance Bhangra ( Zonal)|	1st|
+|11.|Jagjot Singh	|BCA 3rd	|Indian Group Song (Inter Zonal)|	1st|
+|12.|Jagjot Singh|BCA 3rd| Classical Percussion  (Inter Zonal)|1st Runner up|
+|13.|Minaz|	BCA 2nd|	One Act Play (Inter Zonal)|	1st|
+|14.|Minaz	|BCA 2nd	|Skit (Zonal) & Mimicry (Zonal)|	2nd|
+
 
 
 
@@ -182,13 +190,28 @@ Following are the Winners of the Competition:
 |---|----|---|-----|------|---|--|
 |1.|Surya Dev & Vishal|MCA 1st|Java Maestros(Coding using JAVA)|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
 |2.|Simranjeet Kaur & Rajan|MCA 1st|Photography|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
-|3.|Chetan Kashyap|BCA 1st| Bug Bounty Hunter| Iitian Club, GNDEC Ludhiana| 9-11-22|2nd|
+
+### Events conducted by Department of Computer Applications under Computonics Club
+|S.No.|Name of event|Event type |Date|
+|---|----|---|-----|
+|1.| Recruitments| Interview| 31-01-2024|
+|2.| Linkedin Link Up| Technical|22-01-2024|
+|3.| LINUX Unleashed|Technical |05-02-2024|
+|4.| Application Oasis|Technical |13-02-2024|
+|5.| Recapitulate|Technical|27-02-2024|
+|6.| Cyber Security|Technical|15-03-2024|
+|7.| Fresher’s Day Celebration|Cultural |02-09-2023|
+|8.| Recruitment|Interview |15-09-2023|
+|9.| Programming Contest| Technical|18-09-2023|
+|10.| Mock Interview|Interview |21-09-2023|
+|11.| Quiz|Technical |06-10-2023|
+|12.| Group Discussion|Technical |16-10-2023|
 
 
 ### Placements  
 
--	Khushi Singla student of MCA placed in Cognizant and TCS. (2022)
--	Prabhjot Kaur and Nidhi Jha students of MCA placed in Seasia Infotech. (2022)
+	
+
 -	Himanshi Rani student of MCA placed in Cognizant. (2023)
 -	Aprajita Kumari student of MCA placed in Education Pvt Ltd. (2023) 
 
