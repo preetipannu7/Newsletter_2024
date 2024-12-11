@@ -193,17 +193,17 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 ### Events conducted by Department of Computer Applications under Computonics Club
 |S.No.|Name of event|Event type |Date|
-|---|----|---|-----|
-|1.| Recruitments| Interview| 31-01-2024|
-|2.| Linkedin Link Up| Technical|22-01-2024|
-|3.| LINUX Unleashed|Technical |05-02-2024|
-|4.| Application Oasis|Technical |13-02-2024|
-|5.| Recapitulate|Technical|27-02-2024|
-|6.| Cyber Security|Technical|15-03-2024|
-|7.| Fresher’s Day Celebration|Cultural |02-09-2023|
-|8.| Recruitment|Interview |15-09-2023|
-|9.| Programming Contest| Technical|18-09-2023|
-|10.| Mock Interview|Interview |21-09-2023|
+|:----|:----|:---|:----|
+|1.|Recruitments|Interview|31-01-2024|
+|2.|Linkedin Link Up|Technical|22-01-2024|
+|3.|LINUX Unleashed|Technical|05-02-2024|
+|4.|Application Oasis|Technical|13-02-2024|
+|5.|Recapitulate|Technical|27-02-2024|
+|6.|Cyber Security|Technical|15-03-2024|
+|7.|Fresher’s Day Celebration|Cultural|02-09-2023|
+|8.|Recruitment|Interview|15-09-2023|
+|9.|Programming Contest|Technical|18-09-2023|
+|10.|Mock Interview|Interview|21-09-2023|
 |11.| Quiz|Technical |06-10-2023|
 |12.| Group Discussion|Technical |16-10-2023|
 
