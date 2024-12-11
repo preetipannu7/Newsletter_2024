@@ -29,7 +29,7 @@ The Information Technology Department is dedicated to empowering students from d
 
  | Sr. No. | Name of Faculty  | Title of the Talk          | Event Name |Date    | Organised by   |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------|:----------------------------------------------------------------------------------------|
-| 1 | Dr.Sandeep Singla | Expert Talk |  ATAL Academy Faculty Development Program    | 03January 2024  |GNDEC, Ludhaina| 
+| 1 | Dr.Sandeep Singla | Expert Talk |  ATAL Academy Faculty Development Program    | 03 January 2024  |GNDEC, Ludhaina| 
 | 2 | Dr.Jagdeep singh | Keynote Session   | Five Days Faculty Development Program on "Recent Advances in Computer Science and Allied Domains"     | 22 September 2023  |Sharda University, Noida| 
 | 1 | Dr.Jagdeep singh |Moodle Workshop   |Moodle Workshop   | 21 September 2023  |DAV Public School, Ludhiana| 
 
@@ -85,10 +85,17 @@ The Information Technology Department is dedicated to empowering students from d
 | 25|Himani Sharma|Python for Data Science | One week   |  24 June to 28 June 2024|Infosys Springboard|
 
 
+
+## Industry Institute Interaction
+
+![HSR](Images/.png)
+
+
 ## Student's Corner 
+
 ### Sports & Extracuricular Achievements
-**Sports Archievements**
-![HSR](Images/sport.png)
+
+![HSR](Images/Sport_achievement.png)
 
 
 **ITIAN Club**
@@ -148,7 +155,7 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 | 20|Raju Kumar Prasad|Tech Mahindra| 2.65|
 
 **Placement Summary**
- | Student Recors| 2020-2024 | 2019-2023  | 
+ | Item | 2020-2024 | 2019-2023  | 
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
 | Total Number of Final year students|131|135|
 | No. of students placed in Companies or Government sector|65|65|
