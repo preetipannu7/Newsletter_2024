@@ -78,7 +78,7 @@ The Information Technology Department is dedicated to empowering students from d
 ## Student's Corner 
 ### Sports & Extracuricular Achievements
 **Sports Archievements**
-
+![HSR](Images/sport.png)
 
 
 **ITIAN Club**
@@ -97,52 +97,7 @@ The Association for Computing Machinery (ACM) is a US-based international learne
  ![HSR](Images/ACM.jpg)
 
 ## Placements
+ ![HSR](Images/Placement.jpg)
 
-| Sr. No. | Name of Student     | Company      | Package |
-|:--------|:-----------------|:---------|:---------|
-| 1 | Tanuj Sharma | Infosys(SE)   | 3.6 lacs   |
-| 2 | Divya Juhi | Argusoft India Ltd.    | 7.12 lacs |
-| 3 | Lokesh Dhingra | Argusoft India Ltd.    | 7.12 lacs |
-| 4 | Subham Kumar | Argusoft India Ltd.    | 7.12 lacs |
-| 5 | Abhay Tiwari | TCS Digital   | 7.6 lacs |
-| 6 | TCS Digital | TCS Digital  | 7.6 lacs |
-| 7 | Deepak Kumar | Yatra  | 6 lacs |
-| 8 | Guriqbal Singh | Yatra  | 6 lacs |
-| 9 | Harkirat Kaur  | Brillio  | 6 lacs |
-| 10 | Sakshi Bhumbla | Brillio | 6 lacs |
-| 11| Shubham Savarn | Brillio  | 6 lacs |
-| 12 | Dalip Kumar| Cognizant  | 4 lacs |
-| 13 | Ankush Bansal | Cognizant  | 4 lacs |
-| 14 | Banipreet Singh | Cognizant  | 4 lacs |
-| 15 | Daksh Goyal | Cognizant  | 4 lacs |
-| 16 | Darshdeep Singh | Cognizant  | 4 lacs |
-| 17 | Dilpreet kaur | Cognizant  | 4 lacs |
-| 18 | Harkirat Kaur | Cognizant  | 4 lacs |
-| 19 | Harshit Garg | Cognizant  | 4 lacs |
-| 20 | Jasjot Singh Bagga | Cognizant  | 4 lacs |
-| 21 | Jasleen kaur | Cognizant  | 4 lacs |
-| 22 | Kanishka Sharma  | Cognizant  | 4 lacs |
-| 23 | Karneet Kaur | Cognizant  | 4 lacs |
-| 24 | Kushal Singla | Cognizant  | 4 lacs |
-| 25 | Mehak Gupta | Cognizant  | 4 lacs |
-| 26 | Muskan Kaur Channa | Cognizant  | 4 lacs |
-| 27 | Rajnish kumar | Cognizant  | 4 lacs |
-| 28 | Ridhim Chugh | Cognizant  | 4 lacs |
-| 29 | Rishabh Kumar | Cognizant  | 4 lacs |
-| 30 | Satinder Kumar | Cognizant  | 4 lacs |
-| 31 |Shivay Bhandari | Cognizant  | 4 lacs |
-| 32 | Simranpreet Kaur | Cognizant  | 4 lacs |
-| 33 | Tej Karan Singh | Cognizant  | 4 lacs |
-| 34 | Upneet Kaur | Cognizant  | 4 lacs |
-| 35 | Vanshika | Cognizant  | 4 lacs |
-| 36 | Vanshika chaudhary| Cognizant  | 4 lacs |
-| 37 | Mayank Mishra | Venture Pact  | 3.65 lacs|
-| 38 | Vinay Kumar | Venture Pact | 3.65 lacs |
-| 39 | Adarsh Kumar | Venture Pact  | 3.65 lacs |
-| 40 | Davinder Kumar | Venture Pact | 3.65 lacs |
-| 35 | Jasnoor Kaur Jassal | Venture Pact | 3.57 lacs |
-| 36 | Nikhil Sood | Venture Pact   | 3.57 lacs |
-| 37 | Rohit Kumar | Venture Pact   | 3.57 lacs |
-| 38 | Vivek Dhiman | Venture Pact | 3.57 lacs|
 
 
