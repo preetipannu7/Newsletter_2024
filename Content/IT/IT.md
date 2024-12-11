@@ -21,8 +21,10 @@ The Information Technology Department is dedicated to empowering students from d
 - Dr. Pankaj Bhambri, Assistant Professor(IT),received the “ISTE Section Best Teacher Award 2023” in the ISTE Section Faculty Convention hosted by Bhai Gurdas Institute of Engineering and Technology, Sangrur on 23rd November 2023.
 
 - Dr. Amit Kamra,Received the certificate of appreciation from AICTE on 17th July 2023 for translating the lectures of SWAYAM course Foundations of Wavelets and Multirate Digital Signal Processing in Punjabi language.
+  
 -   Dr. Amit Kamra,Received the certificate of appreciation from AICTE on 29th November 2023 for validation of lectures of the SWAYAM course Programming in Java in Punjabi language
 
+ 
 ## Expert Talk 
 
  | Sr. No. | Name of Faculty  | Title of the Talk          | Event Name |Date    | Organised by   |
@@ -33,14 +35,22 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Publications  
 
-- **R.Kaur**, “Exploring the Intricacies
+- **Rupinder.Kaur**, “Exploring the Intricacies
 -  of Machine Learning-Based Optimization of Electric Discharge Machining on Squeeze Cast TiB2/AA6061 Composites: Insights from Morphological, and Microstructural aspects in the Surface Structure Analysis of Recast Layer Formation and Worn-Out Analysis”, Journal of Materials Research and Technology, Sept, 2023
 
-- **A. Kamra**, “Enhancing diagnosis of breast cancer through mammographic image segmentation using Fuzzy C-Means”, INTERNATIONAL JOURNAL OF SUSTAINABLE Building Technology and Urban Development, December, 2023.
+- **Amit. Kamra**, “Enhancing diagnosis of breast cancer through mammographic image segmentation using Fuzzy C-Means”, INTERNATIONAL JOURNAL OF SUSTAINABLE Building Technology and Urban Development, December, 2023.
 
-- **G.Kaur**, “Emergence of Techno-Enterpreneurship during Covid-19”, PIMT Journal of Research, December, 2023.
+- **Gagneet.Kaur**, “Emergence of Techno-Enterpreneurship during Covid-19”, PIMT Journal of Research, December, 2023.
 
-- **R.Kaur**, “Exploring the role of computer vision in product design and development: a comprehensive review”, International Journal on Interactive Design and Manufacturing (IJIDeM), February, 2024.
+- **Rupinder.Kaur**, “Exploring the role of computer vision in product design and development: a comprehensive review”, International Journal on Interactive Design and Manufacturing (IJIDeM), February, 2024.
+
+- **Sachin Bagga**, “PortBlocker: Detection and Mitigation of Hardware Trojan through Re-routing and Bypassing”, 023 IEEE 16th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC),23rd December, 2023,SUTD, Singapore,IEEE.
+- **K.S. Mann**,"E-Business Innovation Trends and Implications for Private Sector",International Conference on Advancements in Engineering and Technology,23-24 November 2023,Bhai Gurdas Institute of Engienering and Technology, Sangrur, Punjab,IEEE.
+- **Amit Kamra**,"A Review on CLAHE Based Enhancement Techniques",International Conference on Contemporary Computing and Informatics,14-16 September 2023,Gautam Budhha Nagar, Uttar Pradesh,IEEE.
+- **Sandeep Singla and Rupinder Kaur**,"Forecasting Air Quality of Ludhiana: A Machine Learning Exploration with Dataset Insights",International Conference on Advancements in Engineering and Technology,23-24 November 2023,Bhai Gurdas Institute of Engienering and Technology, Sangrur, Punjab,IEEE.
+- **Rupinder Kaur**," Bridging the crop knowledge gap: Machine Learning in Agriculture",International Conference on Advancements in Engineering and Technology,23-24 November 2023,Bhai Gurdas Institute of Engienering and Technology, Sangrur, Punjab,IEEE.
+- **Pankaj Bhambri**,"Exploring the Application Domains of ML-based Facial Emotion Recognition Systems: Framework, Techniques and Challenges"Second International Conference on Computing and Communication Networks,25 March 2024,Manchester, United Kingdom,AIP Conference Proceedings.
+- **Pankaj Bhambri**,"Plants Recognition using Leaf Image Pattern Analysis with Focus on Advanced Smart Computing Technologies",International Conference on Applied Data Science and Smart Systems,5 December 2023,Chitkara University, Punjab,AIP Conference Proceedings.
 
 
 
@@ -138,6 +148,13 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 | 19|Muskan Sharma|MWIDM| 3.5|
 | 20|Raju Kumar Prasad|Tech Mahindra| 2.65|
 
+**Placement Summary**
+ | Student Recors| 2020-2024 | 2019-2023  | 
+|:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
+| Total Number of Final year students|131|135|
+| No. of students placed in Companies or Government sector|65|65|
+| No. of students admitted to higher studies with valid Qualifying scores|11|2|
+| No. of students turned entrepreneur in Engineering/ Technology|0|3|
 
 
  
