@@ -97,7 +97,7 @@ The Association for Computing Machinery (ACM) is a US-based international learne
  ![HSR](Images/ACM.jpg)
 
 ## Placements
- ![HSR](Images/Placement.jpg)
+ ![HSR](Images/Placement.png)
 
 
 
