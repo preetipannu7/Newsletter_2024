@@ -92,9 +92,30 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
 ## Placements
  **Batch : 2020-2024**
- | Sr. No. | Candidate Name | Comapny Name          | Package  | 
+ | Sr. No. | Candidate Name | Comapny Name          | Package (LPA) | 
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|
 | 1|Chandan Kumar| Argusoft|  7.12|
+| 2|Himanshu Mahajan| Stylumia Intelligence Technology Pvt. Ltd.|  7|
+| 3|Lovish Malhotra| JMAN Group|  5|
+| 4|Ananya Mahajan| KPMG|  5|
+| 6|Harleen Kaur| SafeAeon Inc.|  4.12|
+| 7|Gaganpreet Singh| SafeAeon Inc.|  4.12|
+| 8|Ravleen Kaur| Airnet Travels and Cargo Pvt. Ltd.|  3.6|
+| 9|Shubham Choudhary| Airnet Travels and Cargo Pvt. Ltd.| 3.6|
+| 10|Divyansh Bhateja| WITS INNOVATION LAB|  3.5|
+| 11|Prabhkirat Singh| WITS INNOVATION LAB| 3.5|
+| 12|Prabhjot Singh|MWIDM| 3.5|
+| 13|Preet Singh Sahota|MWIDM| 3.5|
+| 14|Amandeep Singh|MWIDM| 3.5|
+| 15|Neeraj Kumar|MWIDM| 3.5|
+| 16|Kumar Abhinav|Iotasol Technologies Pvt. Ltd.| 2.7|
+| 17|Hemant Sahdev|Airnet Travels and Cargo Pvt. Ltd.| 2.7|
+| 18|Sejal Madaan|PIRAMAL GROUP| 2.5|
+| 19|Harmanpreet Kaur|Ralson (India) Limited| 2.4|
+| 20|Aman Kumar|Deepak Fasteners| 2.16|
+
+
+
  
 
 
