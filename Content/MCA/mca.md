@@ -143,18 +143,16 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
  
  Winners from Sports meet 2023 
 
- ### **Students of CA participated  in IKGPTU Inter College Tournament**
+### **Students of CA participated in IKGPTU Inter College Tournament**
 
-***Positions held by students:***
+**_Positions held by students:_**
 
-
-
-|S.No.|	Name                      |Class	|Event 	|Prize|
-|:--------|:----------      |:-----------|:------|:---------|
-|1| Nishant Kumar     |BCA 2nd	|Cricket|Winner|
-|2.|Sourav Kumar|	BCA 2nd	|Cricket|Winner|
-|3.|Minaz	|BCA 3rd	|Basketball|Winner|
-
+| S.No. | Name          | Class   | Event      | Prize  |
+| :---- | :------------ | :------ | :--------- | :----- |
+| 1     | Nishant Kumar | BCA 2nd | Cricket    | Winner |
+| 2.    | Sourav Kumar  | BCA 2nd | Cricket    | Winner |
+| 3.    | Minaz         | BCA 3rd | Basketball | Winner |
+ 
 
  
 
@@ -191,21 +189,25 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |1.|Surya Dev & Vishal|MCA 1st|Java Maestros(Coding using JAVA)|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
 |2.|Simranjeet Kaur & Rajan|MCA 1st|Photography|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
 
+
 ### Events conducted by Department of Computer Applications under Computonics Club
-|S.No.|Name of event|Event type |Date|
-|:----|:----|:---|:----|
-|1.|Recruitments|Interview|31-01-2024|
-|2.|Linkedin Link Up|Technical|22-01-2024|
-|3.|LINUX Unleashed|Technical|05-02-2024|
-|4.|Application Oasis|Technical|13-02-2024|
-|5.|Recapitulate|Technical|27-02-2024|
-|6.|Cyber Security|Technical|15-03-2024|
-|7.|Fresher’s Day Celebration|Cultural|02-09-2023|
-|8.|Recruitment|Interview|15-09-2023|
-|9.|Programming Contest|Technical|18-09-2023|
-|10.|Mock Interview|Interview|21-09-2023|
-|11.| Quiz|Technical |06-10-2023|
-|12.| Group Discussion|Technical |16-10-2023|
+
+| S.No. | Name of event             | Event type | Date       |
+| :---- | :------------------------ | :--------- | :--------- |
+| 1.    | Recruitments              | Interview  | 31-01-2024 |
+| 2.    | Linkedin Link Up          | Technical  | 22-01-2024 |
+| 3.    | LINUX Unleashed           | Technical  | 05-02-2024 |
+| 4.    | Application Oasis         | Technical  | 13-02-2024 |
+| 5.    | Recapitulate              | Technical  | 27-02-2024 |
+| 6.    | Cyber Security            | Technical  | 15-03-2024 |
+| 7.    | Fresher’s Day Celebration | Cultural   | 02-09-2023 |
+| 8.    | Recruitment               | Interview  | 15-09-2023 |
+| 9.    | Programming Contest       | Technical  | 18-09-2023 |
+| 10.   | Mock Interview            | Interview  | 21-09-2023 |
+| 11.   | Quiz                      | Technical  | 06-10-2023 |
+| 12.   | Group Discussion          | Technical  | 16-10-2023 |
+
+
 
 
 ### Placements  
