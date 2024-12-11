@@ -35,8 +35,7 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Publications  
 
-- **Rupinder.Kaur**, “Exploring the Intricacies
--  of Machine Learning-Based Optimization of Electric Discharge Machining on Squeeze Cast TiB2/AA6061 Composites: Insights from Morphological, and Microstructural aspects in the Surface Structure Analysis of Recast Layer Formation and Worn-Out Analysis”, Journal of Materials Research and Technology, Sept, 2023
+- **Rupinder.Kaur**, “Exploring the Intricacies of Machine Learning-Based Optimization of Electric Discharge Machining on Squeeze Cast TiB2/AA6061 Composites: Insights from Morphological, and Microstructural aspects in the Surface Structure Analysis of Recast Layer Formation and Worn-Out Analysis”, Journal of Materials Research and Technology, Sept, 2023
 
 - **Amit. Kamra**, “Enhancing diagnosis of breast cancer through mammographic image segmentation using Fuzzy C-Means”, INTERNATIONAL JOURNAL OF SUSTAINABLE Building Technology and Urban Development, December, 2023.
 
