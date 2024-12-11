@@ -143,7 +143,7 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
  
  Winners from Sports meet 2023 
 
- ## **Students of CA participated  in IKGPTU Inter College Tournament**
+ **Students of CA participated  in IKGPTU Inter College Tournament**
 
 ***Positions held by students:***
 
