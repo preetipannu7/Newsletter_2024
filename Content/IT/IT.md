@@ -114,6 +114,29 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 | 19|Harmanpreet Kaur|Ralson (India) Limited| 2.4|
 | 20|Aman Kumar|Deepak Fasteners| 2.16|
 
+ **Batch : 2019-2023**
+ | Sr. No. | Candidate Name | Comapny Name          | Package (LPA) | 
+|:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|
+| 1|Shivay Bhandari| Zomato Limited|  20|
+| 2|Abhay Tiwari| TCS Digital|  7.6|
+| 3|Balram Yadav| XenonStack|  7.5|
+| 4|Shubham Chaudhary| XenonStack|  7.5|
+| 6|Divya Juhi| Argusoft India Ltd.|  7.12|
+| 7|Lokesh Dhingra| Argusoft India Ltd.|  7.12|
+| 8|Tanuj Sharma| Stylumia Intelligence Technology Pvt. Ltd.|  7|
+| 9|Prabhjot Kaur| Hackwith Infy (INFOSYS) (DSE)| 6.25|
+| 10|Sakshi Bhumbla|Brillio|  6|
+| 11|Ankush Bansal| Incture Technologies| 6|
+| 12|Deepak Kumar|Yatra| 6|
+| 13|Ashutosh Sharma|CHICMIC| 5.75|
+| 14|Abhay Tiwari|Bizmerlin HR| 5.28|
+| 15|Aastha|Alert Enterprises| 5|
+| 16|Manpreet Kaur|ShortHill Tech| 4.8|
+| 17|Jasnoor Kaur Jassal|Venture Pact| 4.5|
+| 18|Aman Kumar Gandhi|TCS Ninja| 4|
+| 19|Muskan Sharma|MWIDM| 3.5|
+| 20|Raju Kumar Prasad|Tech Mahindra| 2.65|
+
 
 
  
