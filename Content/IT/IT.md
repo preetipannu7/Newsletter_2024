@@ -90,14 +90,12 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
 
 
- **ACM**
-
-The Association for Computing Machinery (ACM) is a US-based international learned society for computing. It was founded in 1947 and is the world's largest scientific and educational computing society. The ACM is a non-profit professional membership group,claiming nearly 100,000 student and professional members as of 2019. Its headquarters are in New York City.
-
- ![HSR](Images/ACM.jpg)
-
 ## Placements
- ![HSR](Images/Placement.png)
+ **Batch : 2020-2024**
+ | Sr. No. | Candidate Name | Comapny Name          | Package  | 
+|:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|
+| 1|Chandan Kumar| Argusoft|  7.12|
+ 
 
 
 
