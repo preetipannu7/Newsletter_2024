@@ -24,6 +24,7 @@ The Information Technology Department is dedicated to empowering students from d
   
 -   Dr. Amit Kamra,Received the certificate of appreciation from AICTE on 29th November 2023 for validation of lectures of the SWAYAM course Programming in Java in Punjabi language
 
+ ![HSR](Images/Faculty_AC1.png)
  
 ## Expert Talk 
 
