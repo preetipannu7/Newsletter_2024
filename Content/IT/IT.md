@@ -27,13 +27,14 @@ The Information Technology Department is dedicated to empowering students from d
 
  | Sr. No. | Name of Faculty  | Title of the Talk          | Event Name |Date    | Organised by   |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------|:----------------------------------------------------------------------------------------|
-| 1 | Dr.Sandeep Singla | Moodle Workshop    | Moodle Workshop     | 03January 2024  |GNDEC, Ludhaina| 
+| 1 | Dr.Sandeep Singla | Expert Talk |  ATAL Academy Faculty Development Program    | 03January 2024  |GNDEC, Ludhaina| 
 | 2 | Dr.Jagdeep singh | Keynote Session   | Five Days Faculty Development Program on "Recent Advances in Computer Science and Allied Domains"     | 22 September 2023  |Sharda University, Noida| 
-| 1 | Dr.Jagdeep singh |Expert Talk    |ATAL Academy Faculty Development Program    | 21 September 2023  |DAV Public School, Ludhiana| 
+| 1 | Dr.Jagdeep singh |Moodle Workshop   |Moodle Workshop   | 21 September 2023  |DAV Public School, Ludhiana| 
 
 ## Publications  
 
-- **R.Kaur**, “Exploring the Intricacies of Machine Learning-Based Optimization of Electric Discharge Machining on Squeeze Cast TiB2/AA6061 Composites: Insights from Morphological, and Microstructural aspects in the Surface Structure Analysis of Recast Layer Formation and Worn-Out Analysis”, Journal of Materials Research and Technology, Sept, 2023
+- **R.Kaur**, “Exploring the Intricacies
+-  of Machine Learning-Based Optimization of Electric Discharge Machining on Squeeze Cast TiB2/AA6061 Composites: Insights from Morphological, and Microstructural aspects in the Surface Structure Analysis of Recast Layer Formation and Worn-Out Analysis”, Journal of Materials Research and Technology, Sept, 2023
 
 - **A. Kamra**, “Enhancing diagnosis of breast cancer through mammographic image segmentation using Fuzzy C-Means”, INTERNATIONAL JOURNAL OF SUSTAINABLE Building Technology and Urban Development, December, 2023.
 
