@@ -89,7 +89,7 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Industry Institute Interaction
 
-![HSR](Images/.png)
+![HSR](Images/Industrial_visit.png)
 
 
 ## Student's Corner 
