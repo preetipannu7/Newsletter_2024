@@ -12,6 +12,8 @@ We are also actively involved in research and development activities. Our facult
 ## Student Coordinators
 - Kajal Chugh (2303225)
 - Jaideep Randhava (2203463)
+- Ekushpreet Singh (2104160)
+- Tejas Joshi (2215203)
 
 ## Student Achievements
 
@@ -148,18 +150,27 @@ We are also actively involved in research and development activities. Our facult
 
 
 ## Conference Chaired Sessions
-- Dr. Kiran Jyoti, H.O.D.(CSE), Chaired session in the **7th International Joint Conference on Computing Sciences (ICCS-2023) "KILBY100"**, School of Computer Science and Engineering, Lovely Professional University, Punjab [May, 2023].
-- Dr. Parminder Singh, Professor(CSE), Chaired session during “**International Conference on Network, Intelligence and Computing (ICONIC-2023)**”, School of Computer Application, Lovely Professional University, Punjab [April, 2023].
+- **Dr. Kiran Jyoti**, H.O.D.(CSE), Chaired session in the **7th International Joint Conference on Computing Sciences (ICCS-2023) "KILBY100"**, School of Computer Science and Engineering, Lovely Professional University, Punjab [May, 2023].
+- **Dr. Parminder Singh**, Professor(CSE), Chaired session during “**International Conference on Network, Intelligence and Computing (ICONIC-2023)**”, School of Computer Application, Lovely Professional University, Punjab [April, 2023].
 
 ## Faculty Guided Ph.D Candidates
 
 | Name of Supervisor                      | Name of Candidate                      | Reg. Number                                           | Title | Completed on              | 
 |:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|
+| Dr. Kiran Jyoti      | Prince Verma  |1503017 | Implementation of an Improved Feature Learning Computational Model for Chatbot | 2024  |
 | Dr. Parminder Singh      | Ubeeka Jain  |1503034 | On Detection and Marking of Fine-Grained Emotions in Punjabi Text | 24.5.2024  | 
 | Dr. Parminder Singh      | Kamaldeep Kaur  |1503033 | Development of Speech Emotion Recognition System For Punjabi | 9.11.2023  | 
 | Dr. Parminder Singh      | Priyanka Arora  |1503035 | Investigations of Shadows in Intravascular Ultrasound Images | 2.11.2023  | 
-| Dr. Parminder Singh      | Navdeep Kaur  |1603022 | Statistical Parametric Approach Based Speech Synthesis For Punjabi | 29.8.2023  | 
-  
+| Dr. Parminder Singh      | Navdeep Kaur  |1603022 | Statistical Parametric Approach Based Speech Synthesis For Punjabi | 29.8.2023  |
+
+## Events organized by CSE Department
+
+| S.No. | Name of Event                      | Convenor                      | Coordinator                                           | Co-coordinator | Date              | 
+|:-------|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|
+| 1 | Three Days Capacity Enhancement Program for Faculty on Hands-on with GitHub and Docker on Linux| **Dr. Kiran Jyoti** |**Dr. Kiran Jyoti**| **Er. Manjot Kaur Gill** | 15th-17th July, 2024  |
+| 2 | Three Days Workshop on Artificial Intelligence and Punjabi Language: Recent Trends and Challenges Emerging Field: Advanced Computing      | **Dr. Kiran Jyoti**, Dr. Jasmaninder Singh Grewal |**Dr. Parminder Singh**| Er. Lakhveer Singh Khana | 6th - 8th June, 2024  |
+| 3 | ATAL Sponsored Six days FDP on Quantum Computing      | **Dr. Kiran Jyoti**  |**Dr. Parminder Singh**| **Er. Satinderpal Singh** | 18th - 23rd Dec, 2023  |
+ 
 ## Faculty Research Publications  
 - [**Goldendeep Kaur, Kiran Jyoti**, Samer Shorman, Anas Ratib Alsoud, Rohit Salgotra (2024, July). An Efficient Approach for Localizing Sensor Nodes in 2D Wireless Sensor Networks Using Whale Optimization-Based Naked Mole Rat Algorithm. MDPI Mathematics.]
 - [Sujay N. Hedge, D.B. Srinivas, M.A. Rajan, **Sita Rani**, Aman Kataria, Hong Min (2024, March). Multi-objective and multi constrained task scheduling framework for computational grids.  Scientific Reports.]
