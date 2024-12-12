@@ -55,10 +55,12 @@ Students of the previous batches have further assured the solid foundation of ou
 ---
 
 ## Invitation for Placements and Internships
+
+
 \
-![Invitation](Images/10.jpg)
+!(Images/11.jpg)
 \
-![Invitation](Images/11.jpg)
+!(Images/10.jpg)
 
 
 ## Training And Placement team
