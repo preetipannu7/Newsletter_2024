@@ -1,4 +1,4 @@
-## Events held in collaboration with AXIS BANK
+## Events held in collaboration with Infosys
 
 <br/>
 
