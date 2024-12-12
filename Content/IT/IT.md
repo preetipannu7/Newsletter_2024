@@ -107,6 +107,7 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
  
  ![HSR](Images/Itian_Events1.png)
 
+ ![HSR](Images/Itian_Event.png)
 
 
 ## Placements
