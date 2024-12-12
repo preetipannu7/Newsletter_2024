@@ -42,7 +42,13 @@ Students of the previous batches have further assured the solid foundation of ou
 ## Major Recruiters
 
 \
-![MajorRecruiters](Images/MajorRecruiters-2023.png)
+![MajorRecruiters](Images/major_recruiter_2024_1.jpg)
+\
+![MajorRecruiters](Images/major_recruiter_2024_2.jpg)
+\
+![MajorRecruiters](Images/major_recruiter_2024_3.jpg)
+\
+![MajorRecruiters](Images/major_recruiter_2024_4.jpg)
 
 <br />
 
