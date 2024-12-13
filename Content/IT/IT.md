@@ -83,7 +83,8 @@ The Information Technology Department is dedicated to empowering students from d
 | 22|Jaskiran Kaur|Recent Trends in Teaching and Learning Pedagogy (Multidisciplinary)  | One week   |  16 January to 20 January 2024|Yashoda Technical Campus, Satara|
 | 23|Rupinder Kaur|Recent Trends in Teaching and Learning Pedagogy (Multidisciplinary)  | One week   |  16 January to 20 January 2024|Yashoda Technical Campus, Satara|
 | 24|Sachin Bagga|Micropython Primer | One week   | 22 May to 26 May 2024|NIELIT, Calicut|
-| 25|Himani Sharma|Python for Data Science | One week   |  24 June to 28 June 2024|Infosys Springboard|
+| 25|Himani Sharma|Machine Learning and NLP using Python | One week   |  24 June to 28 June 2024|Infosys Springboard|
+| 26|Reema Verma|Machine Learning and NLP using Python | One week   |  24 June to 28 June 2024|Infosys Springboard|
 
 
 
