@@ -66,9 +66,10 @@ Students of the previous batches have further assured the solid foundation of ou
 ## Training And Placement team
 
 \
-![Team1](Images/team1.jpeg)
-![Team1](Images/team2.jpeg)
-![Team2](Images/team3.jpg)
+
+
+![Team1](Images/teams2.jpeg)
+
 ![Team2_Hierarchy](Images/team3_hierarchy.jpg)
 
 <p align=justify>
@@ -81,6 +82,7 @@ The Training & Placement Cell was applauded for its efforts and achievements by 
 
 <p align=justify>
 We have a training placement team which includes Student Coordinators, Deputy Coordinators, Co-coordinators, Student moderators, Student Advisor, Database head Administrator, Public relation officer, Media Head, Executive Team, Who perform their duties well and efficiently.
+  
 </p>
 
 ---
