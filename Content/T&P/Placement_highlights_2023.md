@@ -3,26 +3,7 @@
 <br />
 
 <p align="justify">
-The Training and Placement Cell of Guru Nanak Dev Engineering College has unveiled that nearly 300+ students of this batch have been hired by multinational companies for placements and internships in the first phase. The students have grabbed the opportunities to get placed in some big bulls like Cognizant, Amazon, Samsung, Inofsys, TCS, Larson & Toubro at a good and decent package ranging from 6.0 LPA to 8.0 LPA.
-</p>
-
-<p align="justify">
-
-Other major recruiters like Stylumia, Grappus, Propgrad, Alert Enterprises, Bizmerlin HR, Venture Pact, Safeaeon, Nucleus Software, Incture Technologies, Brilio, Chicmic and many others have put forward good satisfactory job offers.
-
-</p>
-
-<p align="justify">
-Many big core recruiting companies like Shapoorji Pallonji, RDC concrete, Denso Haryana, Kangaro Group, Vardhman Special Steels, Tata International were also pleased by the students’ knowledge and skills with respect to their courses.  
-This year’s batch has also managed to bag placement in many renowned companies like ICICI Bank, India Mart InterMESH, Vardhman, TCS via MBA. Prof. G.S. Sodhi, Training and Placement Officer congratulated the placed students and shared about one promising trend for the engineering students that the various MNC’s, MSME’s & leading industries have come forward to offer internships with handsome amount of stipend. “All the internships are virtually converted to the placement in the same company”. He added.
-
-</p >
-
-<p align = justify>
-Principal, Dr. Sehijpal Singh assured placements to other students who wish to get placed as more recruiting companies are yet to come in the second phase as well.
-
-</p>
-<p align="justify">
+Training and Placement Cell has consistently excelled in providing outstanding placement opportunities for its students, reflecting its commitment to academic excellence and industry alignment. With a diverse array of companies visiting the campus, the recent placement season showcased remarkable offers across various sectors, including IT, manufacturing, construction, and consulting. Prestigious organizations like TCS (Digital and Prime), Larsen & Toubro, Airtel, Mahindra & Mahindra, and Antier Solutions extended lucrative packages, with top offers reaching up to 9 LPA. Students were placed in leading roles, ranging from software development and engineering to managerial positions, with organizations offering competitive salaries such as 7 LPA by Stylumia Intelligence Technology Pvt. Ltd., 6 LPA by UltraTech Cement, and 5 LPA by JMAN Group. The college’s robust training and placement initiatives ensure that students are well-prepared for the dynamic demands of the professional world, maintaining its legacy as a premier institution for engineering education.
 
 </p>
 
