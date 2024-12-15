@@ -88,6 +88,79 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 ## Placement Insights
 
+## Placement Insights
+
+| Company Name                                     | Package(LPA)          |
+|------------------------------------------------|-----------------------|
+| Microsoft                                        | 51                    |
+| Brosis International                             | 22K to 25K           |
+| Samsung                                          | 14.5                 |
+| Microsoft                                        | 14                   |
+| Hashedin                                         | 8.1                  |
+| TCS Prime                                        | 9                    |
+| Argusoft                                         | 7.12                 |
+| Stylumia Intelligence Technology Pvt. Ltd.       | 7                    |
+| TCS (Digital)                                    | 7                    |
+| Ultra Tech Cement Ltd                            | 6.5                  |
+| 75way Technologies Pvt. Ltd.                     | 6                    |
+| Larsen & Toubro Limited                          | 6                    |
+| Nebero Systems Private Limited                   | 6                    |
+| Vodafone Idea                                    | 6                    |
+| Cargill                                          | 5.66                 |
+| Airtel                                           | 5.57                 |
+| SRVA Education                                   | 5.46                 |
+| R.J. Solar                                       | 5                    |
+| JMAN Group                                       | 5                    |
+| KPMG                                             | 5                    |
+| Kent RO                                          | 4.8                  |
+| ShortHill Tech                                   | 4.8                  |
+| BizMerlin HR.                                    | 4.82                 |
+| Shapoorji Palloni & Co, Ltd                      | 4.25                 |
+| Mahindra & Mahindra Ltd.                         | 4.2                  |
+| SafeAeon Inc.                                    | 4.2                  |
+| Capgemini                                        | 4                    |
+| Cognizant                                        | 4                    |
+| Kion Group-Dematic                               | 4                    |
+| Corizo                                           | 4                    |
+| IndiaMart IndiaMesh Ltd.                         | 3.6                  |
+| Amber Enterprises                                | 3.5                  |
+| WITS INNOVATION LAB                              | 3.5                  |
+| Vardhman Special Steels Ltd.                     | 3.38                 |
+| RDC Concrete (India) Pvt. Ltd.                   | 3.36                 |
+| TCS (Ninja)                                      | 3.36                 |
+| Consort Builders Pvt. Ltd.                       | 3.24                 |
+| Ralson (India) Limited                           | 3.24                 |
+| Zydex Industries Private Limited                 | 3.2                  |
+| Spectrum Automation & Controls                   | 3.18                 |
+| Continental Engineering Consultants              | 3                    |
+| Genius Masters                                   | 3                    |
+| Happy Forgings Limited                           | 3                    |
+| International Tractors Limited                   | 3                    |
+| NUHOME FURNISHINGS                               | 3                    |
+| Pearce Services Global, Mohali                   | 3                    |
+| Ultafine                                         | 3                    |
+| HMC E-Valley Pvt. Ltd.                           | 2.64                 |
+| NAHAR INDUSTRIAL ENTERPRISES LIMITED            | 2.64                 |
+| Relinns Technologies Pvt. Ltd.                   | 2.31                 |
+| New Era Machines                                 | 2.3                  |
+| Deepak Fasteners                                 | 2.16                 |
+| Rama Steel Forge Ludhiana                        | 2.16                 |
+| Volkswagen Lally Motors Ludhiana                 | 2.4                  |
+| AlphaNumeric Ideas Pvt. Ltd                      | 2.4                  |
+| Freeman Group                                    | 2.58                 |
+| Hero Ecotech                                     | 2.52                 |
+| DNK Chemicals & Coatings Pvt. Ltd.               | 2.5                  |
+| Spectrum Talent Management Limited               | 2.4                  |
+| Metro Tyres Limited                              | 1.8                  |
+| New Swan Group                                   | 1.8                  |
+| ALPHA POWER-SOLAR SYSTEM                         | 1.44                 |
+| Maa Chintpurni Construction Company              | 1.44                 |
+
+
+
+
+
+
 | Company Name                                     | Package(LPA) |
 | ------------------------------------------------ | ------------ |
 | Microsoft                                        | 51           |
