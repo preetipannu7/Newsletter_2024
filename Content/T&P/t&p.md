@@ -68,7 +68,7 @@ Students of the previous batches have further assured the solid foundation of ou
 \
 
 
-![Team1](Images/teams2.jpeg)
+![Teams2](Images/teams2.jpeg)
 
 ![Team2_Hierarchy](Images/team3_hierarchy.jpg)
 
