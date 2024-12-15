@@ -67,7 +67,7 @@ Students of the previous batches have further assured the solid foundation of ou
 
 \![Teams2](Images/teams2.jpg)
 
-![Team2_Hierarchy](Images/coreteam2024.jpg)
+\![Team2](Images/coreteam2024.jpg)
 
 <p align=justify>
 Guru Nanak Dev Engineering College also has an active training and placement cell in order to assist our students in identifying their ambitions and life goals in the trending competitive placement market. T&P provides the infrastructural facilities to conduct group discussions, tests and interviews besides catering to other logistics.
