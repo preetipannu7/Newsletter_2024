@@ -164,6 +164,6 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 - [Events held in collaboration with Mahindra & Mahindra](Events_MM.md)
 
 - [Events held in collaboration with Infosys](Events_Axis_Bank.md)
-
-- [Visit GNDEC TNP LinkedIn Posts](https://www.linkedin.com/company/tnpgndec/posts/?feedView=all)
+- [Current Placement Activities](https://www.tnpgndec.com/)
+- [Visit GNDEC TNP LinkedIn](https://www.linkedin.com/company/tnpgndec/posts/?feedView=all)
 
