@@ -12,18 +12,16 @@ The Training and Placement Cell of Guru Nanak Dev Engineering College (GNDEC), L
     <img src="Images/sodhi.jpg" alt="G.S.Sodhi">
 </div>
 
-<p align=justify>
-I gladly bring a warm welcome to you on the behalf of Training & Placement Cell of Guru Nanak Dev Engineering College, Ludhiana.
-</p>
 
 <p align=justify>
-Globally accepted as a source of academically and professionally excellent students, Guru Nanak Dev Engineering College, Ludhiana, is known for its professional approach, cultural activities and academic rigour. Our college showcases its rich heritage and knowledge through the hands of its highly-rated faculty all over Punjab and provides students with an opportunity to carve a new path in their life. It is a moment of great pride to state that Guru Nanak Dev Engineering College is being awarded as the “Best College for Placements” under PTU every year since 2013. Further achievement being, the accreditation of Autonomous College by UGC in the year 2012.
+At Guru Nanak Dev Engineering College, Ludhiana, we believe in empowering our students with the skills, knowledge, and confidence required to excel in the professional world. Our Training and Placement Cell works tirelessly to bridge the gap between academia and industry, ensuring that our students are well-prepared for the dynamic challenges of modern workplaces.
+
+The recent placement season has been a testament to the dedication and collaborative efforts of our students, faculty, and recruiters. Prestigious organizations across diverse sectors have recognized the talent nurtured at GNDEC, offering our students opportunities to embark on fulfilling careers. Our focus on holistic development through technical training, soft skills enhancement, and real-world exposure has proven instrumental in achieving remarkable placement outcomes.
+
+I extend my heartfelt gratitude to all our recruiting partners for their continued support and trust in GNDEC’s talent pool. To our students, I encourage you to aim high, keep learning, and make the best use of the opportunities that come your way. Together, let us continue to strive for excellence and uphold the legacy of this esteemed institution.
 </p>
 
-<p align=justify>
-The Training and Placement Cell, GNDEC along with giving an outstanding placement record, also serves as a platform for students to gain a market exposure and groom their personalities as well. The prime focus is not to just create engineers rather leaders which may lay the foundation for the future development of our nation. The Training & Placement Cell is an interface that looks after the students and the recruiting organizations, taking care of the interests of both.
-Students of the previous batches have further assured the solid foundation of our institution by taking placements in companies with top global reputation. The bonds developed with the industries ultimately lead to a great future ahead, providing an environment for research and education. Thus,  I invite the recruiting organizations and graduating students to find the best match between their needs and capabilities and look forward to have your active participation.
-</p>
+
 
 <br />
 
