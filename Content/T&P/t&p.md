@@ -149,34 +149,6 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 | ALPHA POWER-SOLAR SYSTEM                         | 1.44                 |
 | Maa Chintpurni Construction Company              | 1.44                 |
 
-
-## Internship Insights
-
-| Companies providing Internship             | Stipend Per month |
-| ------------------------------------------ | ----------------- |
-| Samsung                                    | 30000             |
-| Zscaler                                    | 30000             |
-| Stylumia Intelligence Technology Pvt. Ltd. | 25000             |
-| Argusoft                                   | 21000             |
-| Accolite Digital India Private Limited     | 20000             |
-| Pure Software Pvt. Ltd.                    | 20000             |
-| Venture Pact, LLC                          | 20000             |
-| Xenonstack                                 | 20000             |
-| Alert Enterprise                           | 20000             |
-| Clerisy Solutions Pvt Ltd.                 | 15000             |
-| BizMerlin Hr.                              | 15000             |
-| Orion eSolutions Pvt. Ltd.                 | 15000             |
-| Cloud Analogy Softech Pvt. Ltd.            | 15000             |
-| SafeAeon Inc.                              | 15000             |
-| Step2gen                                   | 15000             |
-| Oceana Tech..                              | 12000             |
-| Damsun Group                               | 10000             |
-| ChicMic                                    | 10000             |
-| Dr. D Project & Resource Management        | 10000             |
-| Seasia Infotech                            | 10000             |
-| TCIL-IT                                    | 10000             |
-| Kangaro Tools                              | 7500              |
-
 ---
 
 ## [Placement Highlights 2023](Placement_highlights_2023.md)
