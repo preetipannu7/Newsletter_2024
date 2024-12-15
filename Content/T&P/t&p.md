@@ -165,6 +165,5 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 - [Events held in collaboration with Infosys](Events_Axis_Bank.md)
 
-- [Events held by the Training and Placement Cell](Events_T&P.md)
+- [Visit GNDEC TNP LinkedIn Posts](https://www.linkedin.com/company/tnpgndec/posts/?feedView=all)
 
-- [Recent Placement Activities](https://www.tnpgndec.com)
