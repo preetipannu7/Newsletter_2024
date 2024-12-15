@@ -1,19 +1,7 @@
 # Training And Placement Cell
 
 <p align=justify>
-The Training and Placement cell aims to provide students with an environment where they can use their potential to extreme along with gaining valuable experience of working in the industry, it is a network of communication between various companies seeking talented young graduates and post graduates in various disciplines. The cell is complete in terms of infrastructure having Testing halls, Consultancy Hall, Conference room for Pre Placement Talk, Presentations etc.  The cell also has video conference facility available for the students.
-</p>
-
-### Training
-
-<p align=justify>
-The cell contrives to provide training in industries for 6 weeks at the end of 4th semester and for 6 months in 7th or 8th semester. Every Engineering Department student goes through a minimum of 12 weeks of industrial training and minimum 6 weeks of software training within the 6 months training. Many students of the cell got the chance of getting trained from reputed companies like TCS, Mahindra & Mahindra, Delhi Metro Rail Corporation, Maruti Udyog Ltd, Havells, DRDO, CISCO, Ericsson, Siemens, Reliance Group, HCL, Samsung, LG, EICHE, Volkswagen etc.
-</p>
-
-### Placements
-
-<p align=justify>
-Many National and Multinational companies visit the college for recruitments. The Cell is a link that provides students with all the information they require at the fastest rate possible. A common placement brochure gets published annually covering all aspects. The Training & Placement Cell works day and night in order to develop 'Industry-Institute Interaction'. Along with Developing relations with the industries, the cell organizes technical talks and national seminars to provide a platform for budding engineers to interact with professionals from various industries, it encourages college students to visit the industries. 
+The Training and Placement Cell of Guru Nanak Dev Engineering College (GNDEC), Ludhiana, serves as a vital link between academia and industry, fostering career opportunities for students while addressing the evolving needs of the professional world. Dedicated to enhancing employability and ensuring holistic development, the cell organizes pre-placement training programs, expert lectures, and industry interactions to equip students with the skills and confidence required for their professional journey. With a strong network of esteemed recruiters, GNDEC's Training and Placement Cell consistently facilitates internships and placements across diverse sectors, ensuring a bright future for its graduates.
 </p>
 
 ---
