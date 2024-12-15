@@ -18,7 +18,6 @@
 ![Glimpses](Images/glimpses/IMG-20241212-WA0044.jpg)
 \
 ![Glimpses](Images/glimpses/IMG-20241212-WA0048.jpg)
-\
-![Glimpses](Images/glimpses/IMG-20241212-WA0053.jpg)
+
 \
 ![Glimpses](Images/glimpses/IMG-20241212-WA0054.jpg)
