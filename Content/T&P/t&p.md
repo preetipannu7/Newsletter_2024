@@ -6,7 +6,7 @@ The Training and Placement Cell of Guru Nanak Dev Engineering College (GNDEC), L
 
 ---
 
-## Message from TPO's Desk
+## Message from TPO's Desk Prof. G.S.Sodhi
 
 <div align="center">
     <img src="Images/sodhi.jpg" alt="G.S.Sodhi">
