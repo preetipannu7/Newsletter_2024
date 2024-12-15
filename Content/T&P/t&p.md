@@ -51,6 +51,7 @@ Students of the previous batches have further assured the solid foundation of ou
 
 \
 ![Invitation](Images/11.jpg)
+---
 \
 ![Invitation](Images/10.jpg)
 
@@ -60,6 +61,7 @@ Students of the previous batches have further assured the solid foundation of ou
 \
 ![Team2](Images/teams2.jpg)
 
+---
 \
 ![Team2](Images/coreteam2024.jpg)
 
