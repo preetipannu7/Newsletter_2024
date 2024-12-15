@@ -6,7 +6,7 @@
 
 \
 ![Infosys](Images/Gagandeep_singh.png)
-
+---
 \
 ![Infosys](Images/Sachin_Bagga.png)
 
@@ -16,7 +16,7 @@
 ---
 \
 ![Infosys](Images/infy1.png)
-
+---
 \
 ![Infosys](Images/infy2.png)
 
