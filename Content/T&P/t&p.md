@@ -56,7 +56,7 @@ Students of the previous batches have further assured the solid foundation of ou
 ![Invitation](Images/10.jpg)
 
 
-## Training And Placement team
+## Training And Placement Student team
 
 \
 ![Team2](Images/teams2.jpg)
