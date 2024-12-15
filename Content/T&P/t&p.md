@@ -151,7 +151,7 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 ---
 
-## [Placement Highlights 2023](Placement_highlights_2023.md)
+## [Placement Highlights 2024](Placement_highlights_2023.md)
 
 ---
 
