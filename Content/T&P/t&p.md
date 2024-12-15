@@ -88,11 +88,8 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 ## Placement Insights
 
-## Placement Insights
-
 | Company Name                                     | Package(LPA)          |
 |------------------------------------------------|-----------------------|
-| Brosis International                             | 22K to 25K           |
 | TCS Prime                                        | 9                    |
 | Argusoft                                         | 7.12                 |
 | Stylumia Intelligence Technology Pvt. Ltd.       | 7                    |
@@ -135,21 +132,23 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 | Pearce Services Global, Mohali                   | 3                    |
 | Ultafine                                         | 3                    |
 | HMC E-Valley Pvt. Ltd.                           | 2.64                 |
-| NAHAR INDUSTRIAL ENTERPRISES LIMITED            | 2.64                 |
+| NAHAR INDUSTRIAL ENTERPRISES LIMITED             | 2.64                 |
+| Brosis International                             | 2.64                 |
+| Freeman Group                                    | 2.58                 |
+| Hero Ecotech                                     | 2.52                 |
+| DNK Chemicals & Coatings Pvt. Ltd.               | 2.5                  |
+| Volkswagen Lally Motors Ludhiana                 | 2.4                  |
+| AlphaNumeric Ideas Pvt. Ltd                      | 2.4                  |
+| Spectrum Talent Management Limited               | 2.4                   |
 | Relinns Technologies Pvt. Ltd.                   | 2.31                 |
 | New Era Machines                                 | 2.3                  |
 | Deepak Fasteners                                 | 2.16                 |
 | Rama Steel Forge Ludhiana                        | 2.16                 |
-| Volkswagen Lally Motors Ludhiana                 | 2.4                  |
-| AlphaNumeric Ideas Pvt. Ltd                      | 2.4                  |
-| Freeman Group                                    | 2.58                 |
-| Hero Ecotech                                     | 2.52                 |
-| DNK Chemicals & Coatings Pvt. Ltd.               | 2.5                  |
-| Spectrum Talent Management Limited               | 2.4                  |
 | Metro Tyres Limited                              | 1.8                  |
 | New Swan Group                                   | 1.8                  |
 | ALPHA POWER-SOLAR SYSTEM                         | 1.44                 |
 | Maa Chintpurni Construction Company              | 1.44                 |
+
 
 ## Internship Insights
 
