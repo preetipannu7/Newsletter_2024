@@ -85,6 +85,7 @@ Open air theatre is a central point of attraction for the students where various
     - College Won Overall Trophy in Zonal IKGPTU Youth Festival
       
     - College Bhangra Team Participated in National Level Youth Festival held at Shivaji University, Kolhapur and Bagged 1st Position
+      
     - College Bhangra Team Participated in North Inter University Youth Festival held at Chhatrapati Shahu Ji Maharaj University , Kanpur and bagged 2nd Position
 
 - 2015
