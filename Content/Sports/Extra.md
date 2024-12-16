@@ -25,11 +25,11 @@
 
 <p align=justify>
 
-**Shubhdeep Kaur of B.Tech 2nd  year(2135212) became IKG-PTU BEST CYCLIST  in PTU Inter-college Cycling Competition at PAU "Velodrome",Ludhiana   on 15th October 2022**  
+**Jasnoor Kaur of B.Tech 4th  year(2104128) became IKG-PTU BEST CYCLIST  in PTU Inter-college Cycling Competition at PAU "Velodrome",Ludhiana   on 1st October 2024**  
 <p align=justify>
 
 
-![Shubhdeep Kaur](Images/Star/1.jpg)  
+![Jasnoor Kaur Kaur](Images/Star/1.jpg)  
 
 **IKGPTU Inter-varsity Participation**
 
