@@ -1,70 +1,49 @@
 # Gallery - Athletic Meet 2024
 
-![1](Images/meetGallery/9A7A0227.JPG)
+![1](Images/meetGallery/9A7A0227.jpg)
 
+![2](Images/meetGallery/9A7A0295.jpg)
 
-![1](Images/meetGallery/9A7A0295.JPG)
+![3](Images/meetGallery/9A7A0392.jpg)
 
+![4](Images/meetGallery/9A7A0860.jpg)
 
-![1](Images/meetGallery/9A7A0392.JPG)
+![5](Images/meetGallery/9A7A0906.jpg)
 
+![6](Images/meetGallery/9A7A1009.jpg)
 
-![1](Images/meetGallery/9A7A0860..JPG)
+![7](Images/meetGallery/9A7A1041.jpg)
 
+![8](Images/meetGallery/9A7A1074.jpg)
 
-![1](Images/meetGallery/9A7A0906.JPG)
+![9](Images/meetGallery/9A7A1076.jpg)
 
+![10](Images/meetGallery/9A7A1095.jpg)
 
-![1](Images/meetGallery/9A7A1009.JPG)
+![11](Images/meetGallery/9A7A1098.jpg)
 
-![1](Images/meetGallery/9A7A1041.JPG)
+![12](Images/meetGallery/9A7A1129.jpg)
 
+![13](Images/meetGallery/9A7A9303.jpg)
 
-![1](Images/meetGallery/9A7A1074.JPG)
+![14](Images/meetGallery/9A7A9312.jpg)
 
+![15](Images/meetGallery/9A7A9324.jpg)
 
-![1](Images/meetGallery/9A7A1076.JPG)
+![16](Images/meetGallery/9A7A9366.jpg)
 
+![17](Images/meetGallery/9A7A9392.jpg)
 
-![1](Images/meetGallery/9A7A1095.JPG)
+![18](Images/meetGallery/9A7A9394.jpg)
 
+![19](Images/meetGallery/9A7A9409.jpg)
 
-![1](Images/meetGallery9A7A1098/.JPG)
+![20](Images/meetGallery/9A7A9413.jpg)
 
+![21](Images/meetGallery/9A7A9453.jpg)
 
-![1](Images/meetGallery/9A7A1129.JPG)
+![22](Images/meetGallery/9A7A9471.jpg)
 
-![1](Images/meetGallery/9A7A9303.JPG)
+![23](Images/meetGallery/9A7A9513.jpg)
 
-
-![1](Images/meetGallery/9A7A9312.JPG)
-
-
-![1](Images/meetGallery/9A7A9324.JPG)
-
-
-![1](Images/meetGallery/9A7A9366.JPG)
-
-
-![1](Images/meetGallery/9A7A9392.JPG)
-
-
-![1](Images/meetGallery/9A7A9394.JPG)
-
-![1](Images/meetGallery/9A7A9409.JPG)
-
-
-![1](Images/meetGallery/9A7A9413.JPG)
-
-
-![1](Images/meetGallery/9A7A9453.JPG)
-
-
-![1](Images/meetGallery/9A7A9471.JPG)
-
-
-![1](Images/meetGallery/9A7A9513.JPG)
-
-
-![1](Images/meetGallery/9A7A9550.JPG)
-
+![24](Images/meetGallery/9A7A9550.jpg)
