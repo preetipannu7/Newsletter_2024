@@ -1,6 +1,6 @@
 # Gallery - Athletic Meet 2023
 
-![1](Images/meetGallery/1.JPG)
+![1](Images/meetGallery/9A7A0227.JPG)
 
 
 ![1](Images/meetGallery/2.JPG)
