@@ -33,17 +33,17 @@ The Sports department works on promotion of personal and professional developmen
 
 ## Events Organized   
 
-| Sr. No. | Name of Event                                             | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
-|:--------|:---------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
+| **Sr. No.** | **Name of Event**                          | **Faculty Coordinator(s)**        | **Duration**  | **Date(s)**                      | **Sponsor(s)**   |
+|-------------|--------------------------------------------|------------------------------------|---------------|-----------------------------------|------------------|
+| 1           | PTU Inter-college Swimming Competition     | Dr. Gunjan Bhardwaj & S. Suminder Singh | One Day      | 9th September 2024               | IKGPTU fund      |
+| 2           | PTU Inter-college Cycling Competition      | Dr. Gunjan Bhardwaj & S. Suminder Singh | One Day      | 1st October 2024                 | IKGPTU fund      |
+| 3           | PTU Inter-college Basketball Competition   | Dr. Gunjan Bhardwaj & S. Suminder Singh | Two Days     | 16th to 17th October 2024        | IKGPTU fund      |
+| 4           | "GPK" GNE Premier Cricket League           | Dr. Gunjan Bhardwaj & S. Suminder Singh | Five Days    | 7th to 11th October 2024         | Sports fund      |
+| 5           | GNE Inter-year Football League Tournament  | Dr. Gunjan Bhardwaj & S. Suminder Singh | Three Days   | 10th to 12th September 2024      | Sports fund      |
+| 6           | 62nd Annual Athletic Meet                  | Dr. Gunjan Bhardwaj & S. Suminder Singh | Two Days     | 22nd to 23rd February 2024       | Sports fund      |
+| 7           | PTU Inter-college Zonal Cricket Tournament | Dr. Gunjan Bhardwaj & S. Suminder Singh | Four Days    | 15th to 18th February 2024       | IKGPTU fund      |
+| 8           | Inter-year Basketball League Tournament    | Dr. Gunjan Bhardwaj & S. Suminder Singh | Two Days     | 3rd to 4th September 2024        | Sports fund      |
+| 9           | GNE Open Cross Country                     | Dr. Gunjan Bhardwaj & S. Suminder Singh | One Day      | 23rd August 2024                 | Sports fund      |
+| 10          | Kabaddi                                    | Dr. Gunjan Bhardwaj & S. Suminder Singh | One Day      | 13th August 2024                 | Sports fund      |
+| 11          | Badminton                                  | Dr. Gunjan Bhardwaj & S. Suminder Singh | Two Days     | 20th to 21st October 2024        | Sports fund      |
 
-|1.|PTU Inter-college Swimming Competition | Dr Gunjan Bhardwaj & S.Sumindr Singh | One Day | 9 Sep. , 2024  |IKGPTU fund |
-|2.|PTU Inter-college Cycling Competition | Dr Gunjan Bhardwaj & S. Suminder Singh| One Day | 1st October, 2024  |IKGPTU fund |
-|3.|PTU Inter-college Basketball Competition | Dr Gunjan Bhardwaj S.Suminder Singh | Two Day | 16th to  17 October, 2024  |IKGPTU fund |
-|4.   |"GPK"GNE PREMIER CRICKET LEAGUE| Dr Gunjan Bhardwaj & S.Suminder Singh | Six Day |7th to 11th October, 2024  |Sports fund |
-|5.  |GNE Inter-year Football League Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |10th  to 12th September, 2024  |Sports fund |
-|6.   |62nd Annual Athletic Meet|  Dr. Gunjan Bhardwaj & S.Suminder Singh | Two Day |22th  to 23th February, 2024  |Sports fund |
-|7.   |PTU Inter-college Zonal Cricket Tournament | Dr Gunjan Bhardwaj & S. Suminder Singh| Eight Day |15th Feb.2024 to 18th  Feb, 2024  |IKGPTU fund |
-|8.   |Inter year Basketball LEAGUE Tournament| Dr Gunjan Bhardwaj & S.Suminder Singh | two Day |3rd to 4th September, 2024  |Sports fund |
-|9.  |GNE Open cross Country| Dr Gunjan Bhardwaj & S.Suminder Singh | one Day |23th August , 2024  |Sports fund |
-|10.  |Kabaddi| Dr Gunjan Bhardwaj & S.Suminder Singh | one Day |13th August , 2024  |Sports fund |
-|11.  |Badminton | Dr Gunjan Bhardwaj & S.Suminder Singh | one Day |20th to 21st October , 2024  |Sports fund |
