@@ -1,6 +1,6 @@
 # Association of Civil Engineering Students (ACES)
 
-| [Events Organied](ACES.md) | [Gallery](gallery.md) | [ACES Website](https://gndecaces.wordpress.com/) |
+| [Events Organied](ACES.md) | [Gallery](gallery.md) | [ACES Website](https://aces.gndec.ac.in/) |
 
 
 ![aces](Images/aq.jpg)
