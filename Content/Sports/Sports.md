@@ -23,13 +23,13 @@ The Sports department works on promotion of personal and professional developmen
 
 ## News
 
-![News](Images/News/1.jpg)
+![News](Images/News/11.jpg)
 
-![News](Images/News/2.jpg)
+![News](Images/News/12.jpg)
 
-![News](Images/News/3.jpg)
+![News](Images/News/13.jpg)
 
-![News](Images/News/4.jpg)
+
 
 ## Events Organized   
 
