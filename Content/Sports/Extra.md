@@ -29,7 +29,7 @@
 <p align=justify>
 
 
-![Jasnoor Kaur Kaur](Images/Star/jasnoor.jpg)  
+![Jasnoor](Images/Star/jasnoor.jpg)  
 
 **IKGPTU Inter-varsity Participation**
 
