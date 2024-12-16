@@ -36,34 +36,54 @@ Open air theatre is a central point of attraction for the students where various
 
 ## Achievements
 
-- 2023  
+- 2024
+    - College Won 3rd Prize in Ravaiti Pehrava, and also participated in Jhoomar, Giddha, and Folk Song in Punjab State Inter University Youth Festival held at Punjab Agriculture University, Ludhiana
+    
+    - College Won Overall Trophy in IKGPTU Zonal Youth Festival held at Gulzar Group of Institutes, Khanna
+     
+    - College Theatre Team participated in AIU North Inter-University held at Punjab University, Patiala
+      
+-  2023  
+    - College Won Overall Winners in Dance, Fine Arts, Literary, & Music and Overall Trophy in IKGPTU Zonal Youth Festival held at Guru Nanak Dev Engineering College, Ludhiana
+    
+    - College Won Overall Winner in Theatre and Overall Runners Up Trophy in IKGPTU Inter-Zonal Youth Festival held at IK Gujral Punjab Technical University, Kapurthala
+    
+    - College Bhangra Team bagged 3rd position in Punjab State Inter-University held at Guru Nanak Dev University, Amritsar
     
     - College Bhangra and Theatre Team participated in North Inter University Youth Festival held at Jammu University, Jammu
 
-    - College Bhangra participated in All India Open National Youth Festival held at Hubbali-Dharwad
+    - College Bhangra participated in All India Open National Youth Festival held at Hubbali-Dharwad, Karnataka
 
 - 2022  
+    - College Gidha Team participated in Punjab State Inter-University held at Punjabi University, Patiala
+  
     - College Won Overall Trophy in Zonal and Runners Up Trophy in InterZonal in IKGPTU Youth Festival
-    - College Bhangra Team Participated in Punjab State Inter University Youth Festival held at Punjabi University, Patiala and bagged 3rd Position
+      
+    - College Bhangra Team Participated in Punjab State Inter-University Youth Festival held at Punjabi University, Patiala and bagged 3rd Position
 
 - 2020  
     - College Bhangra Team participated in National Youth Festival held at Amity University, Noida
 
 - 2019  
     - College Won Overall Trophy in Zonal and InterZonal in IKGPTU Youth Festival
+      
     - College Bhangra Team Participated in North Inter University Youth Festival held at Guru Nanak Dev University, Amritsar and bagged 3rd Position
+      
     - College Theatre Team participated in North Inter University Youth Festival held at Guru Nanak Dev University, Amritsar
 
 - 2018  
     - College Won Overall Trophy in Zonal IKGPTU Youth Festival
+      
     - College Bhangra team participated in South Asian Universities Festival held at Ganpat University, Mehsana, Gujarat (International Level)
 
 - 2017  
     - College Won Overall Trophy in Zonal in IKGPTU Youth Festival
+      
     - College Bhangra Team Participated in North Inter Uninversity Festival held at MMU University, Ambala
 
 - 2016  
     - College Won Overall Trophy in Zonal IKGPTU Youth Festival
+      
     - College Bhangra Team Participated in National Level Youth Festival held at Shivaji University, Kolhapur and Bagged 1st Position
     - College Bhangra Team Participated in North Inter University Youth Festival held at Chhatrapati Shahu Ji Maharaj University , Kanpur and bagged 2nd Position
 
