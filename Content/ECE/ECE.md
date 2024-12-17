@@ -42,19 +42,19 @@ Dr. Narwant Singh Grewal
 
 ------------------------------------------
 
-###  <div align="jutify">Industrial Visit to BSNL Ludhiana in relation with Four week Training course on Digital Designing and Secured Wireless Communication from 10, July 2023 to 4, Aug 2023.</div>
+###  Industrial Visit to BSNL Ludhiana in relation with Four week Training course on Digital Designing and Secured Wireless Communication from 10, July 2023 to 4, Aug 2023
 
 ![Students](Images/GCNT.jpg)
 ![Students](Images/GCN.jpg)
 
 ------------------------------------------
 
-###  <div align="jutify"> Four week Training course on Project Design using Microcontroller Consultancy from 10, July 2023 to 4, Aug 2023.</div>
+###  Four week Training course on Project Design using Microcontroller Consultancy from 10, July 2023 to 4, Aug 2023
 
 ![Students](Images/SMMT.jpg)
 ![Students](Images/SMM.jpg)
 
-------------------------------------------
+---------------------------------------
 
 ### Teachers Day Celebration at ECE Department on 5, Sept 2023
 
@@ -69,7 +69,7 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-###  <div align="jutify"> Two weeks value added workshop on "Hands-on Training Program on Development in Communication Engineering and Electronics" under IETE Student Forum from 19, Feb 2024 to 1, Mar 2024.</div>
+### Two weeks value added workshop on "Hands-on Training Program on Development in Communication Engineering and Electronics" under IETE Student Forum from 19, Feb 2024 to 1, Mar 2024
 
 ![Students](Images/VAT.jpg)
 ![Students](Images/VA.jpg)
@@ -90,7 +90,7 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-###  <div align="jutify"> Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024 .</div>
+### Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024 
 
 ![Students](Images/SPGH.jpg)
 
@@ -285,12 +285,12 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 - The events were organized under the guidance of:</div>
 
-Dr. Munish Rattan (ISF Coordinator)
-Prof. Shivmanmeet Singh (ISF Secretary)
+-Dr. Munish Rattan (ISF Coordinator)
+-Prof. Shivmanmeet Singh (ISF Secretary)
 
-Savnoor Channi (Student Convenor)
-DhairyaSobti (Student Co-Convenor)
-Anmol Kumar Srivastav (Student Co-Convenor)
+-Savnoor Channi (Student Convenor)
+-DhairyaSobti (Student Co-Convenor)
+-Anmol Kumar Srivastav (Student Co-Convenor)
 
 
 -----------------------------------------

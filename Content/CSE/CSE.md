@@ -12,6 +12,8 @@ We are also actively involved in research and development activities. Our facult
 ## Student Coordinators
 - Kajal Chugh (2303225)
 - Jaideep Randhava (2203463)
+- Ekushpreet Singh (2104160)
+- Tejas Joshi (2215203)
 
 ## Student Achievements
 
@@ -19,17 +21,23 @@ We are also actively involved in research and development activities. Our facult
 - Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed at a highest package of 19.5 Lakh per Annum in PhonePe.
 - Ajit Kumar  URN: 2004884, student of 2020-2024 Batch got placed at a highest package of 9 Lakh per Annum in TCS PRIME.
 - Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, Aarchie Maggu students of CSE got 2nd prize at National Level Smart Hackathon 2023, organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
+- Jasnoor Kaur  URN: 2104128, student of CSE, got recognition of PTU BEST CYCLIST.
+- Pawan Singh Bisht, student of CSE, got recognition of 2nd  Best Athlete, 2024.
+
 
 ## Gate Cleared Students
-| S.No. | Name of Student            | Reg. No.     | Year |
-|-------|------------------|---------|-------|
-| 1 | MEHAK KALIA             | DA24S18204108     | 2024 |
-| 2 | NAVNIT KUMAR            | DA24S14001549     | 2024 |
-| 3 | ROHIT            | CS24S58204184     | 2024 |
-| 4 | RAGHAV SHARMA           | CS23S18023005     | 2023 |
-|5  | HARDEV           | CS23S18023041     | 2023 |
+
+
+| S.No.                      | Name of Student                      | Reg. No.                                           | Year | 
+|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|
+| 1      | MEHAK KALIA  |DA24S18204108 | 2024  | 
+| 2      | NAVNIT KUMAR    |DA24S14001549  | 2024  | 
+| 3      | ROHIT  |CS24S58204184 | 2024  | 
+| 4      | RAGHAV SHARMA  |CS23S18023005 | 2023  | 
+| 5      | HARDEV  |CS23S18023041 | 2023  | 
+
    
-### Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
+## Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
 
 | Sr.No. | Name                    | U.R. No. | Course Name                                   | Year |
 |:--------|:-------------------------|:----------|:-----------------------------------------------|:------|
@@ -46,6 +54,36 @@ We are also actively involved in research and development activities. Our facult
 | 11      | Jaskamal Singh         | 1905006| Rural Water Resources Management                            | 2023 |
 | 12      | Jaskamal Singh         | 1905006| Introduction to Embedded System Design                            | 2023 |
 
+## Students of CSE bagged various positions in Sports  
+
+| S.No. | Name             | URN     | Achievements                                                                           | 
+|-------|------------------|---------|-----------------------------------------------------------------------------------------|
+| 1     | Arpit Singh   | 2004548 | Member college Swimming Team: 1st in PTU           | 
+| 2     | Keshav Hari Nanda   | 2104135 | Member college Basketball Team: 1st in PTU           |
+| 3     | Inderpreet Singh   | 2104118 | Member college Basketball Team: 1st in PTU           |
+| 4     | Saumya Dhingra   | 2302667 | Member college Basketball Team: 1st in PTU           |
+| 5     | Ridhamjeet Kaur   | 2203589 | Member college Handball Team: 1st in PTU           |
+| 6     | Simranjeet Kaur   | 2203596 | Member college Handball Team: 1st in PTU           |
+| 7     | Roshni   | 2203593 | Member college Handball Team: 1st in PTU           |
+| 8     | Saumya Dhingra   | 2302667 | Member college Handball Team: 2nd in PTU           |
+| 9     | Aditya Kumar   | 2104057 | Member college Handball Team: 2nd in PTU           |
+| 10     | Robin Rawat   | 2104170 | Member college Handball Team: 2nd in PTU           |
+| 11    | Jasnoor Kaur   | 2104128 | Member college Athletics Team: 2nd in PTU           |
+| 12    | Aditya Kumar   | 2104057 | Member college Athletics Team: 2nd in PTU           |
+| 13    | Simranjeet Kaur   | 2203596 | Member college Athletics Team: 2nd in PTU           |
+| 14    | Robin Rawat   | 2104170 | Member college Lawn Tennis Team: 3rd in PTU           |
+| 15    | Nikhil Rana   | 2302727 | Member college Badminton Team: 3rd in PTU           |
+| 16    | Abhay Madaan   | 2004398 | Member college Badminton Team: 3rd in PTU           |
+| 17     | Jasnoor Kaur   | 2104128 | Member college Cycling Team: 1st in PTU           |
+| 18     | Harsimran Singh   | 2215069 | Member college Hockey Team: 1st in PTU           |
+| 19    | Arundeep Singh   | 2215021 | Member college Hockey Team: 1st in PTU           |
+| 20    | Rohit Kakralia   | 2203543 | Member college Power Lifting Team: 2nd in PTU           |
+| 21     | Sahil Arora   | 2203546 | Member college Chess Team: 2nd in PTU           |
+| 22     | Bhumi   | 2302500 | Member college Chess Team: 2nd in PTU           |
+| 23     | Dasharandeep Singh   | 2302505 | Member college Chess Team: 2nd in PTU           |
+| 24     | Piyush Goyal   | 2104153 | Captain college Chess Team: 2nd in PTU           |
+| 25     | Abhishek Choudhary   | 2204529 | 2nd in Inter-yr Kabaddi League, 2024           |
+| 26     | Robin Rawat   | 2104170 | 2nd in Inter-yr Football League          |
 
 
 ## Students of CSE bagged various positions in Youth Festival  
@@ -96,26 +134,43 @@ We are also actively involved in research and development activities. Our facult
 
 - **Dr. Parminder Singh**, Professor(CSE), appointed as **Member, Board of Studies**, Jagat Guru Nanak Dev Punjab State Open University, Patiala [Jan,2024]
 - **Er. Satinderpal Singh**, Assistant Professor(CSE), became **Master Trainer** at master trainer program through HPC (AICTE) National Superconducting Mission at CDAC Bangalore [June,2024]
+- **Dr. Amit Jain**, Assistant Professor(CSE), awarded with **two design patents** with a total of five patents [2024].
 - **Dr. Parminder Singh**, Professor(CSE), awarded as **“ISTE Section Best Teacher Award 2023”** at ISTE Section Convention hosted by Bhai Gurdas Institute of Engineering and Technology, Sangrur, Punjab [Nov,2023].
 - **Dr. Amit Jain**, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award 2023** by Indian Society of Technical Education [Nov,2023].
 - **Dr. Parminder Singh**, Professor(CSE), appointed as **Expert on the Faculty of Computer Sciences** for the term from 11.01.2023 to 10.01.2025 by Punjabi University, Patiala.
 - **Dr. Parminder Singh**, Professor(CSE),	appointed as **Member, Board of Studies (Computer Sc. & Engg.)**, Shaheed Bhagat Singh State University, Ferozepur [Jan,2022-Jan,2025]
-- **Dr. Amit Jain**, Assistant Professor(CSE), awarded with **two design patents** with a total of five patents.
+- **Dr. Sita Rani**, Assistant Professor (CSE), conferred with **Exceptional Women of Excellence** Award by Women’s Indian Chamber of Commerce and Industry [March, 2023].
 - **Dr. Kamaldeep Kaur, Dr. Priyanka Arora, and Dr. Manpreet Kaur Mand** completed **Ph.D (CSE)** [2023].
+- **Dr. Sita Rani**, Assistant Professor (CSE), awarded with **10 Design Patents** with a total of 15.
+- **Dr. Sita Rani**, Assistant Professor (CSE), **Edited/Co-Edited 6 Books** in various technical domains published by CRC Press.
+
+
+
+  
+
 
 ## Conference Chaired Sessions
-- Dr. Kiran Jyoti, H.O.D.(CSE), Chaired session in the **7th International Joint Conference on Computing Sciences (ICCS-2023) "KILBY100"**, School of Computer Science and Engineering, Lovely Professional University, Punjab [May, 2023].
-- Dr. Parminder Singh, Professor(CSE), Chaired session during “**International Conference on Network, Intelligence and Computing (ICONIC-2023)**”, School of Computer Application, Lovely Professional University, Punjab [April, 2023].
+- **Dr. Kiran Jyoti**, H.O.D.(CSE), Chaired session in the **7th International Joint Conference on Computing Sciences (ICCS-2023) "KILBY100"**, School of Computer Science and Engineering, Lovely Professional University, Punjab [May, 2023].
+- **Dr. Parminder Singh**, Professor(CSE), Chaired session during “**International Conference on Network, Intelligence and Computing (ICONIC-2023)**”, School of Computer Application, Lovely Professional University, Punjab [April, 2023].
 
 ## Faculty Guided Ph.D Candidates
 
 | Name of Supervisor                      | Name of Candidate                      | Reg. Number                                           | Title | Completed on              | 
 |:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|
+| Dr. Kiran Jyoti      | Prince Verma  |1503017 | Implementation of an Improved Feature Learning Computational Model for Chatbot | 2024  |
 | Dr. Parminder Singh      | Ubeeka Jain  |1503034 | On Detection and Marking of Fine-Grained Emotions in Punjabi Text | 24.5.2024  | 
 | Dr. Parminder Singh      | Kamaldeep Kaur  |1503033 | Development of Speech Emotion Recognition System For Punjabi | 9.11.2023  | 
 | Dr. Parminder Singh      | Priyanka Arora  |1503035 | Investigations of Shadows in Intravascular Ultrasound Images | 2.11.2023  | 
-| Dr. Parminder Singh      | Navdeep Kaur  |1603022 | Statistical Parametric Approach Based Speech Synthesis For Punjabi | 29.8.2023  | 
-  
+| Dr. Parminder Singh      | Navdeep Kaur  |1603022 | Statistical Parametric Approach Based Speech Synthesis For Punjabi | 29.8.2023  |
+
+## Events organized by CSE Department
+
+| S.No. | Name of Event                      | Convenor                      | Coordinator                                           | Co-coordinator | Date              | 
+|:-------|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|
+| 1 | Three Days Capacity Enhancement Program for Faculty on Hands-on with GitHub and Docker on Linux| **Dr. Kiran Jyoti** |**Dr. Kiran Jyoti**| **Er. Manjot Kaur Gill** | 15th-17th July, 2024  |
+| 2 | Three Days Workshop on Artificial Intelligence and Punjabi Language: Recent Trends and Challenges Emerging Field: Advanced Computing      | **Dr. Kiran Jyoti**, Dr. Jasmaninder Singh Grewal |**Dr. Parminder Singh**| Er. Lakhveer Singh Khana | 6th - 8th June, 2024  |
+| 3 | ATAL Sponsored Six days FDP on Quantum Computing      | **Dr. Kiran Jyoti**  |**Dr. Parminder Singh**| **Er. Satinderpal Singh** | 18th - 23rd Dec, 2023  |
+ 
 ## Faculty Research Publications  
 - [**Goldendeep Kaur, Kiran Jyoti**, Samer Shorman, Anas Ratib Alsoud, Rohit Salgotra (2024, July). An Efficient Approach for Localizing Sensor Nodes in 2D Wireless Sensor Networks Using Whale Optimization-Based Naked Mole Rat Algorithm. MDPI Mathematics.]
 - [Sujay N. Hedge, D.B. Srinivas, M.A. Rajan, **Sita Rani**, Aman Kataria, Hong Min (2024, March). Multi-objective and multi constrained task scheduling framework for computational grids.  Scientific Reports.]

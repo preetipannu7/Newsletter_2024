@@ -18,3 +18,4 @@
 | 13      | [Department of Physical Education / Sports](../Sports/Sports.md)         |
 | 14      | [Training & Placement Cell](../T&P/t&p.md)                               |
 | 15      | [STEP-GNDEC](../STEP/STEP.md)                                            |
+| 16      | [Cultural Committee](../Cultural/Cultural.md)                            |
