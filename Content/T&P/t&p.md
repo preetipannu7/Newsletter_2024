@@ -1,7 +1,7 @@
 # Training And Placement Cell
 
 <p align=justify>
-The Training and Placement Cell of Guru Nanak Dev Engineering College (GNDEC), Ludhiana, serves as a vital link between academia and industry, fostering career opportunities for students while addressing the evolving needs of the professional world. Dedicated to enhancing employability and ensuring holistic development, the cell organizes pre-placement training programs, expert lectures, and industry interactions to equip students with the skills and confidence required for their professional journey. With a strong network of esteemed recruiters, GNDEC's Training and Placement Cell consistently facilitates internships and placements across diverse sectors, ensuring a bright future for its graduates.
+The Training and Placement Cell of Guru Nanak Dev Engineering College (GNDEC), Ludhiana, serves as a vital link between academia and industry, fostering career opportunities for students while addressing the evolving needs of the professional world. Dedicated to enhancing employability and ensuring holistic development, the cell organizes pre-placement training programs, expert lectures, and industry interactions to equip students with the skills and confidence required for their professional journey. With a strong network of esteemed recruiters, GNDEC's Training and Placement Cell consistently facilitates internships and placements across diverse sectors, ensuring a bright future for its graduates.    
 </p>
 
 ---
