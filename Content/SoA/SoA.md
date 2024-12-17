@@ -27,13 +27,16 @@ Head, GNDEC School of Architecture
 ## Educational Site Visit’s    
   
 ### 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh  
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/Images/1..jpg)
-![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/3.%20florida.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/18.himachal%20tour.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/19.himachal%20tour.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/20.himachal%20tour.jpg)
 <p align=justify>  
 GNDEC School of Architecture organized a 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh. On the 1st Day, students visited proposed site for Resort (Studio Project in Architectural Design) with project Architect Rattanlal Sharma in Hamirpur. Students also visited his office in Ghumarwin and two of his built projects on contours. Ar Sharma enlightened the students with his practice and knowledge about Architectural projects on contour sites. On 2nd day, Heritage walk of the Pragpur/Garli (India’s 1st Heritage village) was conducted to study the Architectural vocabulary and locally available materials. Students also visited Kaleshwar Temple at the banks of Beas river and conducted the case study of Lalit Palace Hotel on the same day. Students visited NIT, Hamirpur campus on the 3rd and last day of the tour where they met students and faculty of Architecture department. Various resources like project models on contour sites and thesis reports were studied by the students. Prof. (Dr.) Puneet Sharma gave wonderful presentation on Planning principles and construction strategies to be followed at contour sites. 
    
  ### Educational Visit to Kapurthala
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9411ce32-585f-42d2-a556-ed9064157a80)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/4.%20RAILWAYS.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/5.%20RAIL%20COACH%20FACTORY.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/6.%20RAIL%20COACH%20FACTORY.jpg)
 
  <p align=justify>    
 GNDEC School of Architecture organized an educational visit to Kapurthala where students visited Rail Coach Factory, Science City and A2A Design Studio.Students learnt about Industrial buildings as they visited RCF where they observed Large Span Steel structures with light weight roofing materials. They also saw installation of different components like Partitions, Air conditioning, Flooring, Lighting, Electrical wires and cable fittings, etc.  
