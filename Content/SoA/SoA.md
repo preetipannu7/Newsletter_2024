@@ -33,7 +33,7 @@ Head, GNDEC School of Architecture
 <p align=justify>  
 GNDEC School of Architecture organized a 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh. On the 1st Day, students visited proposed site for Resort (Studio Project in Architectural Design) with project Architect Rattanlal Sharma in Hamirpur. Students also visited his office in Ghumarwin and two of his built projects on contours. Ar Sharma enlightened the students with his practice and knowledge about Architectural projects on contour sites. On 2nd day, Heritage walk of the Pragpur/Garli (India’s 1st Heritage village) was conducted to study the Architectural vocabulary and locally available materials. Students also visited Kaleshwar Temple at the banks of Beas river and conducted the case study of Lalit Palace Hotel on the same day. Students visited NIT, Hamirpur campus on the 3rd and last day of the tour where they met students and faculty of Architecture department. Various resources like project models on contour sites and thesis reports were studied by the students. Prof. (Dr.) Puneet Sharma gave wonderful presentation on Planning principles and construction strategies to be followed at contour sites. 
    
- ### Educational Visit to Kapurthala
+ ### Educational Visit to Kapurthala.
 ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/4.%20RAILWAYS.jpg)
 ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/5.%20RAIL%20COACH%20FACTORY.jpg)
 ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/6.%20RAIL%20COACH%20FACTORY.jpg)
@@ -115,14 +115,14 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 ### ARCHUMEN 22-23; India’s biggest Architecture quiz, held on 10th February, 2023 in SPA, New Delhi   
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dfe9aad4-137c-4f19-bb77-9f2b9e1db115)
   
-### Sunidhi, B.Architecture 2nd year student of GNDEC School of Architecture won BRONZE MEDAL in IKGPTU's Interzonal competition of Cartooning.
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/be8a7b0e-e824-4019-b916-269186783cd9)
+###  B.Architecture students  Awaljot Kaur, Shivangi Singh and Urja Kaushal have been awarded for their writing skills at'First Friday Forum' which was held in Chandigarh College of Architecture (CCA) on 22nd October, 2023
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/21.writing%20skills%20%20cca.jpg)
         
-### Mifzal won Gold medal in Inter year water polo tournament at GNDEC 
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/0bfe6463-8367-4ede-8d80-bd5f4b516684)  
+### Jaismeen Kaur; B.Architecture 5th year student  has played a key role in GNDEC winning overall Trophy in I.K.G. PTU Inter College Cycling competition on 28th September, 2023
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/23.ptu%20cycling%20competition.jpg)  
   
-### Int-Ext Expo & Lemniscate 2023 from 3-6 February at Ludhiana Exhibition Centre, Sahnewal.   
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/59f1dcb6-345a-4f05-af38-6eac3a651ddc)
+### Gursehaj Kaur;  B.Architecture 3rd year student has played a key role in GNDEC bagging 1st runner up trophy in I.K.G. PTU Inter College Chess tournament.   
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/22.ptu%20chess%20competition.jpg)
 
 ## Publications    
 
@@ -167,21 +167,21 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 
 | Sr. No. | Name of Event Organized             | Delegate                             | Date |
 |:--------|:------------------------------------|:-----------------------------------------------|:----------------------|
-| 1.      | Webinar on 'Site Planning'  | Er. Sukwant SinghAr. Jit Kumar Gupta | 9th may, 2023 |
-| 2.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.|
-| 3.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023 |
-| 4.      | Seminar on HVAC    | Er. Sukwant Singh | 28th Jan, 2023 |  
-| 5.      | A Critical thinking Workshop on Fire, Acoustics & Barrier Free Design in Buildings at Chitkara University, Rajpura.         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 25th Jan 2023 |
-| 6.      | Seminar on Water Proofing and Expansion Joints  |  Iceland India & Dr.Fixit | 23rd Feb 2023   |
-| 7.      | Expert lecture on 'Building Management System' | Dr. Arvind Dhingra, Executive Director - Science & Technology Entrepreneurs’ Park (STEP-GNDEC) | 1st May,2023  |
-| 8.      | Guest Lecture on Beyond Concrete & Glass: How Vernacular Architecture can contribute to a more Sustainable and just Built Environment   | Dr.(Ar.) Mainsh Chalana Professor – University of Washington, Seattle, USA | 20th March, 2023 |
-| 9.      | Expert lecture by SCHUCO Aluminum Windows,	| SCHUCO | 30th Sept, 2022 |
-| 10.      | '' Innovate Your World With Glass"	| Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at Park Plaza | 27th Aug,2022 |
-| 11.      | Expert lecture and site Visit of Substation and Solar Power Plant	| Dr. Arvind Dhingra, Professor - Electrical Engineering Department, GNDEC |  27th Aug,2022 |
-| 12.      | 'Electrical Services in Architecture', | Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC & Er. Ranjit Singh, Assistant professor (Electrical-Workshop),| 17th Aug, 2022 |
-| 13.      | Impact of Electromagnetic Radiations on Built Spaces	| Mr. Vikas Aggarwal & Dr. Deven Verma, both certified Geo professionals were the resource persons | 27th May, 2022 |
-| 14.      | Expert Lecture on Architecture ,| Ar. Kanav Khosla, Principal Architect - Avinash Khosla & Associates, Ludhiana | 30th Sept, 2022    |
-  
+
+| 1.      | Study Visit for latest lighting fixtures and accessories  |SVICHLITE LIGHTING STORE, Ludhiana | 14th August, 2024 |  
+| 2.      | Hands-on session with Brick Masonry at Chitkara University, Rajpura. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 26th July 2024 |
+| 3.      | World Environment Day  |  Ar. Dharini Middha | 1st June 2024  |
+| 4.      |  Capacity Building Training Workshop on Energy Conservation and Energy Efficiency | Organised by PEDA and supported by Monarch Design Studio | 9th February, 2024  |
+| 5.      | Expert Lecture for Students and Faculty   | Ar Sapna, Chief Architect - Department of Architecture, Punjab and past Vice President - Council of Architecture,| 15th January, 2024 |
+| 6.      | Seminar on 'Contemporary Elevators'	| r. Prabhjot Kaur, former director PIT Mohali | 17th Oct, 2023 |
+| 7.      | Seminar on "Preparing for Thesis and GATE: Roadmap to Achievement"	| Ar. Meet Fatewar, Assistant Professor - School of Architecture, Planning and Design, DIT University, Dehradun | 25th Sept,2023|
+| 8.      |  Seminar on Music & Architecture	| Ar. Amrita Kaur, a graduate of the University of Auckland, New Zealand |  24th Aug,2023 |
+| 9.      |  World Photography Day celebrated by organizing a Photography competition for the students | Ar. Dharini Middh, Assistant Professor- GNDEC School of Architecture | 24th Aug, 2023 |
+| 10.      |  Expert talk on 'Sustainability in Architecture '| Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at GENCO RAW 2023| 22nd August, 2023 |
+| 11.      | Expert Lecture on 'Electrical Services in Architecture'| Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC  & Dr. Arvind Dhingra, Professor - Electrical Engineering Department , GNDEC  | 18th Sept, 2023 |
+| 12.      | Webinar on 'Site Planning'  | Er. Sukwant SinghAr. Jit Kumar Gupta | 9th may, 2023 |
+| 13.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.|
+| 14.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023 |  
  
 
 
