@@ -27,7 +27,7 @@ Head, GNDEC School of Architecture
 ## Educational Site Visit’s    
   
 ### 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9962ab2d-4e3e-4bcc-8012-ce608b3ed577)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/Images/1..jpg)
 
 <p align=justify>  
 GNDEC School of Architecture organized a 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh. On the 1st Day, students visited proposed site for Resort (Studio Project in Architectural Design) with project Architect Rattanlal Sharma in Hamirpur. Students also visited his office in Ghumarwin and two of his built projects on contours. Ar Sharma enlightened the students with his practice and knowledge about Architectural projects on contour sites. On 2nd day, Heritage walk of the Pragpur/Garli (India’s 1st Heritage village) was conducted to study the Architectural vocabulary and locally available materials. Students also visited Kaleshwar Temple at the banks of Beas river and conducted the case study of Lalit Palace Hotel on the same day. Students visited NIT, Hamirpur campus on the 3rd and last day of the tour where they met students and faculty of Architecture department. Various resources like project models on contour sites and thesis reports were studied by the students. Prof. (Dr.) Puneet Sharma gave wonderful presentation on Planning principles and construction strategies to be followed at contour sites. 
