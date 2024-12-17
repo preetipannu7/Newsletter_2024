@@ -121,7 +121,8 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 
 ## Placements
  **Batch : 2020-2024**
- | Sr. No. | Candidate Name | Comapny Name          | Package (LPA) | 
+ 
+| Sr. No. | Candidate Name | Comapny Name          | Package (LPA) | 
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|
 | 1|Chandan Kumar| Argusoft|  7.12|
 | 2|Himanshu Mahajan| Stylumia Intelligence Technology Pvt. Ltd.|  7|
