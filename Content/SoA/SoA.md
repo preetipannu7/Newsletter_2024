@@ -40,21 +40,23 @@ GNDEC School of Architecture organized an educational visit to Kapurthala where 
 </p>    
   
 ### One day workshop on concrete organised by GNDEC SoA in collaboration with Ultratech Cement.
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dc17ac43-2f7d-4fa8-93fc-263812e57695)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/7.%20workshop%20ultra%20tech.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/8.%20workshop%20ultra%20tech.jpg)
   
 <p align=justify>    
 GNDEC School of Architecture, Ludhiana organized a One Day Hands-on Workshop on Concrete in collaboration with Ultratech Cement at their plant in Focal Point, Ludhiana. Students worked on different proportions of materials to prepare various grades of concrete. Concrete tests like slump tests, cone tests, setting time tests, etc were also conducted by the students. Mr. Gurpinderjit Singh-Plant Head,  Er.Charanjit Singh - Punjab Sales Head, Mr.Rajeev Ranjan-Quality charge, and Mr.Anuj Tayagi - Technical Executive at Ultratech Cement Plant enlightened the students with their practical knowledge about concrete and its constituents.  
 </p>   
  
 ### Seminar on Fundamentals of Refrigeration and Air Conditioning in collaboration with Mechanical engineering Department and supported by ISHRAE.  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a3f6d1f3-60ee-4960-8ee0-fbffe65b2675)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/10.%20mechanical%20work%20shop.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/9.%20mechanical%20work%20shop.jpg)
   
 <p align=justify>  
 GNDEC School of Architecture in collaboration with Mechanical Engineering Department organized a seminar on ‘Fundamentals of Refrigeration & Air Conditioning’ for the students which was supported by ISHRAE Ludhiana Sub-Chapter. We are grateful to Er Akshay Kumar, Associate Manager – Mitsubishi Electric India Private Limited that he visited GNDEC campus as a resource person. His presentation was not only informative but also very interesting and engaging. Dr Sehijpal Singh, Principal – GNDEC lauded the collaboration between two departments and highlighted the significance of inter-disciplinary approach in Technical Education. 
 </p>   
   
 ### Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana.  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/486b5599-f9f1-4711-9914-edf1f519a30b)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/11.%20case%20study%20to%20SPS%20Hospital.jpg)
   
 <p align=justify>    
 GNDEC School of Architecture organized a Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana. The main Objective for the case study was to make students understand the important functions like OPD, Emergency, IPD, Diagnostics, ICU/CCU's, OT's, CSSD, etc and their inter-connectivity. We are thankful to Er Charanpreet Singh Ji (Himself GNDEC Alumnus), Bhupinder Ji and complete hospital administration for allowing us to successfully conduct the case study. We congratulate Prof Ravinder Singh & Prof Vivek Sehgal for mentoring the students and creating such excellent opportunities for them to learn.
