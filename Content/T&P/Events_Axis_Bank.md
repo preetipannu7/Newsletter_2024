@@ -1,15 +1,36 @@
-## Events held in collaboration with AXIS BANK
+## Events held in collaboration with Infosys
 
 <br/>
 
-## ARISE 2.0
-
----
-
-<p align = justify>
-An interactive guiding session was conducted by the Training and Placement Cell with the officials of Axis bank regarding the ARISE 2.0 program on the 11th of March 2023. Miss Mandeep Kaur and Mr. Jaideep Singh mentored the students on the step by step procedure of clearing the tests. The session was initiated by Miss Mandeep covering up the perks and benefits of working as an employee in Axis bank along with the pathway to achieve those perks. In addition to this Mr. Jaideep continued the session and explained the various departments and roles the students can get into after the ARISE 2.0 program. The conclusion of the event was hit by some nostalgic moments of both the mentors and they cherished their days of college and their enrollment in the emergent program. A note of thanks from the college’s side was expressed for their presence and guidance to end the online session on a grateful note.
+## Recognition of Faculity
 
 \
-![axis](Images/arise_2.0.jpg)
+![Infosys](Images/Gagandeep_singh.png)
+---
+\
+![Infosys](Images/Sachin_Bagga.png)
 
+
+## Faculty Enablement Program(FEP)
+
+---
+\
+![Infosys](Images/infy1.png)
+---
+\
+![Infosys](Images/infy2.png)
+
+## Students Internships 
+
+<br/>
+
+## Summer Training with Infosys
+
+<p align=justify>
+Training and Placement Cell gave an opportunity for B.Tech. (CSE, IT, ECE) students completing their 2nd and 3rd years to participate in a 4-week *Summer Training Program* under Infosys’ Campus Connect Initiative. Scheduled for July–August 2023, these online, self-paced courses on the Infosys Springboard platform focus on cutting-edge technologies such as Artificial Intelligence, Data Science, Cybersecurity, and Python.  
+
+Participation is optional, with no financial burden on students. Successful completion involves proctored exams, weekly assessments, and internal evaluations, contributing to the TR-102 and TR-103 course credits. This program offers an excellent opportunity to upskill and earn industry-recognized certifications in emerging technologies.
+
+Approximately 1100 students participate in the same
 </p>
+
