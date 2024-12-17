@@ -62,15 +62,17 @@ GNDEC School of Architecture organized a Case study Visit for B. Architecture 4t
 </p>   
   
 ### 'Hands-on Clay Workshop' organised by GNDEC SoA FOR 1st year Students of B.arch  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/d837f665-ce02-40c3-802a-2aa30bb1b7e5)  
-  
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/12.%20clay%20workshop.jpg)  
+ ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/13.%20clay%20workshop.jpg) 
+ ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/14.%20clay%20workshop.jpg) 
+ ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/15.%20clay%20workshop.jpg) 
 <p align=justify>      
 GNDEC School of Architecture organized 'Hands-on Clay Workshop' for students of B. Arch 1st year. Workshop was a huge success as students thoroughly enjoyed the event, learnt various skills pertaining to clay modelling and crafted various beautiful models. We are thankful to the resource persons Mr. Tanveer, Ms. Manmeet and Ms. Jasmeet (All 3rd Year Students from BCA department, GNDEC) as they spared the time for students of B.Architecture.
 </p>    
   
 ###  WORLD ARCHITECTURE WEEK- Students create an Amazing Sitting Space in College Campus 
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/950d4730-0b09-4cb8-8040-8305ba4f3891)
-  
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/16.%20sitting%20space%20created.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/17.%20sitting%20space.jpg)
 <p align=justify>       
 GNDEC School of Architecture is celebrating WORLD ARCHITECTURE WEEK by organizing experiential activities for B.Architecture students.Day 5 (06th October) : Students of all the batches put their hands together and created a marvel sitting space in the college campus with waste material like tyres, empty bottles, sacks etc. and has completed the task within a very low budget.  
 </p>      
