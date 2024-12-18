@@ -16,7 +16,7 @@ The Sports department works on promotion of personal and professional developmen
 
 ## Sport's Department at Glimpse
 
-- [Athletic Meet 2023](Meet.md)
+- [Athletic Meet 2024](Meet.md)
 - [Infrastructure](Infra.md)
 - [Intra-murals](Intra.md)
 - [Extra-murals](Extra.md)
