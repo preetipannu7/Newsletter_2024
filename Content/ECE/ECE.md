@@ -276,14 +276,14 @@ Dr. Narwant Singh Grewal
 
 ![Students](Images/w.jpeg)
 
--  **Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited more than 2000 school children, ENVIS partners from all the states of India. Applications namely,
+- **Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited more than 2000 school children, ENVIS partners from all the states of India. Applications namely,
 i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Management Practice.
 
 -----------------------------------------
 
 ## IETE STUDENT FORUM
 
-- The events were organized under the guidance of:</div>
+- The events were organized under the guidance of:
 
 -Dr. Munish Rattan (ISF Coordinator)
 
