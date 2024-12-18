@@ -1,4 +1,4 @@
-0000# Department of Electrical Engineering  
+# Department of Electrical Engineering  
 
 ## Message from HoD's Desk
 
