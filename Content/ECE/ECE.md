@@ -286,10 +286,13 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 - The events were organized under the guidance of:</div>
 
 -Dr. Munish Rattan (ISF Coordinator)
+
 -Prof. Shivmanmeet Singh (ISF Secretary)
 
 -Savnoor Channi (Student Convenor)
+
 -DhairyaSobti (Student Co-Convenor)
+
 -Anmol Kumar Srivastav (Student Co-Convenor)
 
 
