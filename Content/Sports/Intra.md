@@ -11,6 +11,3 @@
 ![ GNE Inter-year Football Tournament Boys](Images/Student/9.JPG)
 
 ![](Images/Student/10.JPG)
-
-
-## STAFF ACTIVITIES
