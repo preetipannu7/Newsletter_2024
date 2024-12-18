@@ -138,6 +138,8 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 - Sehgal Vivek, Putta Vanitha (Propagating Smart from Beautiful.  IJRAR, Published Paper ID-IJRAR1BMP163 
 - Sehgal Vivek, Kaur Harsimran . Urban Heritage Conservation for Sustainable Development: A Case of Kapurthala. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
 - Rehal Prashant, Chani Prabhjot, Sehgal Vivek . Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
+- Presented research paper, “Evaluating Ease of Living Index” during an International Doctoral Consortium organized by Chitkara University, Rajpura, Punjab on 03rd November, 2023.
+- Presented research paper, “Investigating Quality of Life of Labour Community in Ludhiana” during an International Conference organized by LSAD, LPU, Phagwara, Punjab on 13th October, 2023.
     
    
 ### Ar.Gazal Soni    
@@ -168,7 +170,7 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 | Sr. No. | Name of Event Organized             | Delegate                             | Date |
 |:--------|:------------------------------------|:-----------------------------------------------|:----------------------|
 
-| 1.      | Study Visit for latest lighting fixtures and accessories       |SVICHLITE LIGHTING STORE, Ludhiana                              | 14th August, 2024 |
+| 1.      | Study Visit for latest lighting fixtures and accessories                |SVICHLITE LIGHTING STORE, Ludhiana               | 14th August, 2024 |
 | 2.      | Hands-on session with Brick Masonry at Chitkara University, Rajpura.    | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture    | 26th July 2024 |
 | 3.      | World Environment Day  |  Ar. Dharini Middha | 1st June 2024  |
 | 4.      |  Capacity Building Training Workshop on Energy Conservation and Energy Efficiency | Organised by PEDA and supported by Monarch Design Studio | 9th February, 2024  |
@@ -179,9 +181,10 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 | 9.      |  World Photography Day celebrated by organizing a Photography competition for the students | Ar. Dharini Middh, Assistant Professor- GNDEC School of Architecture | 24th Aug, 2023 |
 | 10.      |  Expert talk on 'Sustainability in Architecture '| Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at GENCO RAW 2023| 22nd August, 2023 |
 | 11.      | Expert Lecture on 'Electrical Services in Architecture'| Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC  & Dr. Arvind Dhingra, Professor - Electrical Engineering Department , GNDEC  | 18th Sept, 2023 |
-| 12.      | Webinar on 'Site Planning'  | Er. Sukwant SinghAr. Jit Kumar Gupta | 9th may, 2023 |
+| 12.      | Webinar on 'Site Planning'  | Er. Sukwant Singh Ar. Jit Kumar Gupta | 9th may, 2023 |
 | 13.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.|
 | 14.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023 |  
+
  
 
 
