@@ -338,7 +338,7 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 - <div align="jutify">This event was organized on 22nd September 2023.The expert lecture was given by Dr. MehtabSingh(Top 1% Researcher in Optical Communication). Sir educated about his detailed knowledge in the topic. He was very cooperative and answered many questions of the listeners. His detailed knowledge in the given topic was extremely helpful to the listeners.</div>
 
--------------‐---------------------------
+-------------‐-------------------------------
 ### Code Debugging
 
 ![Advisor Session (code)](Images/CDposter.jpg)
