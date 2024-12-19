@@ -276,20 +276,23 @@ Dr. Narwant Singh Grewal
 
 ![Students](Images/w.jpeg)
 
--  **Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited more than 2000 school children, ENVIS partners from all the states of India. Applications namely,
+- **Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited more than 2000 school children, ENVIS partners from all the states of India. Applications namely,
 i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Management Practice.
 
 -----------------------------------------
 
 ## IETE STUDENT FORUM
 
-- The events were organized under the guidance of:</div>
+- The events were organized under the guidance of:
 
 -Dr. Munish Rattan (ISF Coordinator)
+
 -Prof. Shivmanmeet Singh (ISF Secretary)
 
 -Savnoor Channi (Student Convenor)
+
 -DhairyaSobti (Student Co-Convenor)
+
 -Anmol Kumar Srivastav (Student Co-Convenor)
 
 
@@ -335,7 +338,7 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 - <div align="jutify">This event was organized on 22nd September 2023.The expert lecture was given by Dr. MehtabSingh(Top 1% Researcher in Optical Communication). Sir educated about his detailed knowledge in the topic. He was very cooperative and answered many questions of the listeners. His detailed knowledge in the given topic was extremely helpful to the listeners.</div>
 
--------------‐---------------------------
+-------------‐-------------------------------
 ### Code Debugging
 
 ![Advisor Session (code)](Images/CDposter.jpg)
