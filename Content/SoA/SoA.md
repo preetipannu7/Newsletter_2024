@@ -169,7 +169,6 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 
 | Sr. No. | Name of Event Organized             | Delegate                             | Date |
 |:--------|:------------------------------------|:-----------------------------------------------|:----------------------|
-
 | 1.      | Study Visit for latest lighting fixtures and accessories                |SVICHLITE LIGHTING STORE, Ludhiana               | 14th August, 2024 |
 | 2.      | Hands-on session with Brick Masonry at Chitkara University, Rajpura.    | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture    | 26th July 2024 |
 | 3.      | World Environment Day  |  Ar. Dharini Middha | 1st June 2024  |
