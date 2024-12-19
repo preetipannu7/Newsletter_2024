@@ -26,53 +26,60 @@ Head, GNDEC School of Architecture
 
 ## Educational Site Visit’s    
   
-### One day hands-on workshop of 1st Year students on concrete in collaboration with Ultra-tech Cement  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9962ab2d-4e3e-4bcc-8012-ce608b3ed577)
-
+### 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh  
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/18.himachal%20tour.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/19.himachal%20tour.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/20.himachal%20tour.jpg)
 <p align=justify>  
-GNDEC School of Architecture, Ludhiana conducted One Day Hands-on Workshop on Concrete in collaboration with Ultratech Cement at their plant in Focal Point, Ludhiana in March 2023. Students worked on different proportions of materials to prepare on various grades of concrete. Concrete tests like slump test, cone test, setting time test, etc were also conducted by the students. Er.Charanjit Singh-Plant Head,Mr.Rajeev Ranjan-Quality Incharge, Mr.GagandeepSharma-Technical Manager& Mr.Varinder Punj-Technical Executive at Ultratech Cement Plant enlightened the students with their practical knowledge about concrete and its constituents. Prof.Akanksha Sharma, Head-GNDEC School of Architecture stressed on the significance of material knowledge for the students. Dr. Sehijpal Singh, Principal GNDEC congratulated Team GNDEC-SOA and Ultra Tech Cement Limited for collaborating and creating awareness about concrete as a material. He encouraged the students and teachers for compiling such episodes of Knowledge and realization.  
- </p>  
+GNDEC School of Architecture organized a 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh. On the 1st Day, students visited proposed site for Resort (Studio Project in Architectural Design) with project Architect Rattanlal Sharma in Hamirpur. Students also visited his office in Ghumarwin and two of his built projects on contours. Ar Sharma enlightened the students with his practice and knowledge about Architectural projects on contour sites. On 2nd day, Heritage walk of the Pragpur/Garli (India’s 1st Heritage village) was conducted to study the Architectural vocabulary and locally available materials. Students also visited Kaleshwar Temple at the banks of Beas river and conducted the case study of Lalit Palace Hotel on the same day. Students visited NIT, Hamirpur campus on the 3rd and last day of the tour where they met students and faculty of Architecture department. Various resources like project models on contour sites and thesis reports were studied by the students. Prof. (Dr.) Puneet Sharma gave wonderful presentation on Planning principles and construction strategies to be followed at contour sites. 
    
- ### Village Dulay Documentation by B.ARCH 2rd Year Students
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9411ce32-585f-42d2-a556-ed9064157a80)
+ ### Educational Visit to Kapurthala.
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/4.%20RAILWAYS.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/5.%20RAIL%20COACH%20FACTORY.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/6.%20RAIL%20COACH%20FACTORY.jpg)
 
  <p align=justify>    
-Documentation of village Dulay, Ludhiana was done by students of 2nd year as their design curriculum. They documented the various determinants like topography, public realm, socio- cultural factors, demography, literacy rate, architectural features of buildings etc. Students also proposed architectural solutions to the problems identified in the village  
+GNDEC School of Architecture organized an educational visit to Kapurthala where students visited Rail Coach Factory, Science City and A2A Design Studio.Students learnt about Industrial buildings as they visited RCF where they observed Large Span Steel structures with light weight roofing materials. They also saw installation of different components like Partitions, Air conditioning, Flooring, Lighting, Electrical wires and cable fittings, etc.  
 </p>    
   
-### Dr B P Pal Auditorium, College of Agriculture, PAU, Case study by B.ARCH 3rd Year Students.
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dc17ac43-2f7d-4fa8-93fc-263812e57695)
+### One day workshop on concrete organised by GNDEC SoA in collaboration with Ultratech Cement.
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/7.%20workshop%20ultra%20tech.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/8.%20workshop%20ultra%20tech.jpg)
   
 <p align=justify>    
-3rd year B.Arch students of GNDEC School of Architecture visited Dr B P Pal Auditorium, College of Agriculture, PAU, Ludhiana.  for Case Study purpose. Students were made aware about details like proscenium, cyclorama, raking and staggering of seats, catwalk, acoustic materials, etc. Excellent Initiative by Prof. Gazal and her team.  
+GNDEC School of Architecture, Ludhiana organized a One Day Hands-on Workshop on Concrete in collaboration with Ultratech Cement at their plant in Focal Point, Ludhiana. Students worked on different proportions of materials to prepare various grades of concrete. Concrete tests like slump tests, cone tests, setting time tests, etc were also conducted by the students. Mr. Gurpinderjit Singh-Plant Head,  Er.Charanjit Singh - Punjab Sales Head, Mr.Rajeev Ranjan-Quality charge, and Mr.Anuj Tayagi - Technical Executive at Ultratech Cement Plant enlightened the students with their practical knowledge about concrete and its constituents.  
 </p>   
  
-### Punjab Institute of Medical Sciences (PIMS), Jalandhar case  study by B.ARCH 4rd Year Students.  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a3f6d1f3-60ee-4960-8ee0-fbffe65b2675)
+### Seminar on Fundamentals of Refrigeration and Air Conditioning in collaboration with Mechanical engineering Department and supported by ISHRAE.  
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/10.%20mechanical%20work%20shop.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/9.%20mechanical%20work%20shop.jpg)
   
 <p align=justify>  
-Students of B.Architecture 8th semester visited Punjab Institute of Medical Sciences (PIMS), Jalandhar for case study purpose. Prof. Simran Kaur & Prof. Vivek Sehgal accompanied the students for the same. Interaction with Ar.Rahul Ratra ji was organized there. Special thanks to Dr. Rajiv Arora, Director Principal-PIMS for his time and guidance  
+GNDEC School of Architecture in collaboration with Mechanical Engineering Department organized a seminar on ‘Fundamentals of Refrigeration & Air Conditioning’ for the students which was supported by ISHRAE Ludhiana Sub-Chapter. We are grateful to Er Akshay Kumar, Associate Manager – Mitsubishi Electric India Private Limited that he visited GNDEC campus as a resource person. His presentation was not only informative but also very interesting and engaging. Dr Sehijpal Singh, Principal – GNDEC lauded the collaboration between two departments and highlighted the significance of inter-disciplinary approach in Technical Education. 
 </p>   
   
-### One Day Hands-on Workshop conducted for  B.Voc on Timber Doors in collaboration with Kenya Furniture.  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/486b5599-f9f1-4711-9914-edf1f519a30b)
+### Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana.  
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/11.%20case%20study%20to%20SPS%20Hospital.jpg)
   
 <p align=justify>    
-GNDEC School of Architecture, Ludhiana conducted One Day Hands-on Workshop on Timber Doors in collaboration with Kenya Furniture at their workshop in Samrala Chowk, Ludhiana. We extend heartfelt gratitude to the owners who allowed our I year students in their workshop. Special thanks to Prof.Akanksha Sharma, Head-GNDEC School of Architecture and Dr.Sehijpal Singh, Principal-GNDEC for their support.  
+GNDEC School of Architecture organized a Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana. The main Objective for the case study was to make students understand the important functions like OPD, Emergency, IPD, Diagnostics, ICU/CCU's, OT's, CSSD, etc and their inter-connectivity. We are thankful to Er Charanpreet Singh Ji (Himself GNDEC Alumnus), Bhupinder Ji and complete hospital administration for allowing us to successfully conduct the case study. We congratulate Prof Ravinder Singh & Prof Vivek Sehgal for mentoring the students and creating such excellent opportunities for them to learn.
+  
 </p>   
   
-### Interactive session with Dr SS Bhatti, Founder Teacher and Former Principal - CCA, Chandigarh  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/d837f665-ce02-40c3-802a-2aa30bb1b7e5)  
-  
+### 'Hands-on Clay Workshop' organised by GNDEC SoA FOR 1st year Students of B.arch  
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/12.%20clay%20workshop.jpg)  
+ ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/13.%20clay%20workshop.jpg) 
+ ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/14.%20clay%20workshop.jpg) 
+ ![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/15.%20clay%20workshop.jpg) 
 <p align=justify>      
-GNDEC School of Architecture feel privileged to offer gratitude to the learned scholar of the profession as well as life.Dr SS Bhatti, Founder Teacher and Former Principal - CCA, Chandigarh for his enlightening talk for our students. His words were like pearls of knowledge that we all need to string together and keep life long with us.The other intellectual to whom we are obliged is Dr Sangeeta Bagga, Principal-CCA, Chandigarh who has extended her utmost support to conduct this enlightening session for our students and faculty at CCA campus itself.  
+GNDEC School of Architecture organized 'Hands-on Clay Workshop' for students of B. Arch 1st year. Workshop was a huge success as students thoroughly enjoyed the event, learnt various skills pertaining to clay modelling and crafted various beautiful models. We are thankful to the resource persons Mr. Tanveer, Ms. Manmeet and Ms. Jasmeet (All 3rd Year Students from BCA department, GNDEC) as they spared the time for students of B.Architecture.
 </p>    
   
-### Interactive session onTechniques for better Climate Responsive Designs at ECBC Cell - Punjab  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/950d4730-0b09-4cb8-8040-8305ba4f3891)
-  
+###  WORLD ARCHITECTURE WEEK- Students create an Amazing Sitting Space in College Campus 
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/16.%20sitting%20space%20created.jpg)
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/17.%20sitting%20space.jpg)
 <p align=justify>       
-PEDA Solar Passive Complex in Chandigarh to understand about Solar Passive Techniques for better Climate Responsive Designs. We are really grateful to ECBC Cell - Punjab, Er Abhishek Pratap Singh , Building Cell Coordinator, Building Cell, PEDA, Er Rohit Kumar, Project Engineer, BEE and Er Money Khanna , Project Engineer, BEE for their support.  
+GNDEC School of Architecture is celebrating WORLD ARCHITECTURE WEEK by organizing experiential activities for B.Architecture students.Day 5 (06th October) : Students of all the batches put their hands together and created a marvel sitting space in the college campus with waste material like tyres, empty bottles, sacks etc. and has completed the task within a very low budget.  
 </p>      
   
 ### Educational Tour to Jaipur and Jodhpur  
@@ -108,14 +115,14 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 ### ARCHUMEN 22-23; India’s biggest Architecture quiz, held on 10th February, 2023 in SPA, New Delhi   
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dfe9aad4-137c-4f19-bb77-9f2b9e1db115)
   
-### Sunidhi, B.Architecture 2nd year student of GNDEC School of Architecture won BRONZE MEDAL in IKGPTU's Interzonal competition of Cartooning.
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/be8a7b0e-e824-4019-b916-269186783cd9)
+###  B.Architecture students  Awaljot Kaur, Shivangi Singh and Urja Kaushal have been awarded for their writing skills at'First Friday Forum' which was held in Chandigarh College of Architecture (CCA) on 22nd October, 2023
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/21.writing%20skills%20%20cca.jpg)
         
-### Mifzal won Gold medal in Inter year water polo tournament at GNDEC 
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/0bfe6463-8367-4ede-8d80-bd5f4b516684)  
+### Jaismeen Kaur; B.Architecture 5th year student  has played a key role in GNDEC winning overall Trophy in I.K.G. PTU Inter College Cycling competition on 28th September, 2023
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/23.ptu%20cycling%20competition.jpg)  
   
-### Int-Ext Expo & Lemniscate 2023 from 3-6 February at Ludhiana Exhibition Centre, Sahnewal.   
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/59f1dcb6-345a-4f05-af38-6eac3a651ddc)
+### Gursehaj Kaur;  B.Architecture 3rd year student has played a key role in GNDEC bagging 1st runner up trophy in I.K.G. PTU Inter College Chess tournament.   
+![image](https://github.com/Ar-Neha/Newsletter_2024/blob/main/Content/SoA/22.ptu%20chess%20competition.jpg)
 
 ## Publications    
 
@@ -131,9 +138,9 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 - Sehgal Vivek, Putta Vanitha (Propagating Smart from Beautiful.  IJRAR, Published Paper ID-IJRAR1BMP163 
 - Sehgal Vivek, Kaur Harsimran . Urban Heritage Conservation for Sustainable Development: A Case of Kapurthala. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
 - Rehal Prashant, Chani Prabhjot, Sehgal Vivek . Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
-
-### Ar.Simran Kaur    
-- Planning for informal commercial sector in Jalandhar city.International journal for research in engineering application & management (IJREAM). ISSN: 2454-9150    
+- Presented research paper, “Evaluating Ease of Living Index” during an International Doctoral Consortium organized by Chitkara University, Rajpura, Punjab on 03rd November, 2023.
+- Presented research paper, “Investigating Quality of Life of Labour Community in Ludhiana” during an International Conference organized by LSAD, LPU, Phagwara, Punjab on 13th October, 2023.
+    
    
 ### Ar.Gazal Soni    
 - Analysis of Housing Structure and Urban Form of Rajsamand Town, Rajasthan Gazal Soni (ISSN-2349-5162) Volume 5, Issue 12 
@@ -141,9 +148,7 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 - Study and analysis of Physical and Social Infrastructure of Katra Dulo, Amritsar Gazal Soni (E-ISSN 2348-1269, P- ISSN 2349-5138) Volume 5, Issue 4  
 - An Assessment of Road Markings, Signs and Signals around Schools in Amritsar City GazalSoni (ISSN:0971-1260 Vol-22-Issue-34)      
 
-### Ar.Parul Kaur   
-- Theory of Biomimcry in Urbanscape. Journal of Civil Engineering and Environmental Technology (JCEET), Volume 4 Issue 3. 
- 
+
 ## Student Internships amongst India's Top 30 Architectural Consultancy Firms    
 
 | Sr. No. | Student Name                        | Architectural Firm                             |
@@ -164,21 +169,21 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 
 | Sr. No. | Name of Event Organized             | Delegate                             | Date |
 |:--------|:------------------------------------|:-----------------------------------------------|:----------------------|
-| 1.      | Webinar on 'Site Planning'  | Er. Sukwant SinghAr. Jit Kumar Gupta | 9th may, 2023 |
-| 2.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.|
-| 3.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023 |
-| 4.      | Seminar on HVAC    | Er. Sukwant Singh | 28th Jan, 2023 |  
-| 5.      | A Critical thinking Workshop on Fire, Acoustics & Barrier Free Design in Buildings at Chitkara University, Rajpura.         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 25th Jan 2023 |
-| 6.      | Seminar on Water Proofing and Expansion Joints  |  Iceland India & Dr.Fixit | 23rd Feb 2023   |
-| 7.      | Expert lecture on 'Building Management System' | Dr. Arvind Dhingra, Executive Director - Science & Technology Entrepreneurs’ Park (STEP-GNDEC) | 1st May,2023  |
-| 8.      | Guest Lecture on Beyond Concrete & Glass: How Vernacular Architecture can contribute to a more Sustainable and just Built Environment   | Dr.(Ar.) Mainsh Chalana Professor – University of Washington, Seattle, USA | 20th March, 2023 |
-| 9.      | Expert lecture by SCHUCO Aluminum Windows,	| SCHUCO | 30th Sept, 2022 |
-| 10.      | '' Innovate Your World With Glass"	| Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at Park Plaza | 27th Aug,2022 |
-| 11.      | Expert lecture and site Visit of Substation and Solar Power Plant	| Dr. Arvind Dhingra, Professor - Electrical Engineering Department, GNDEC |  27th Aug,2022 |
-| 12.      | 'Electrical Services in Architecture', | Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC & Er. Ranjit Singh, Assistant professor (Electrical-Workshop),| 17th Aug, 2022 |
-| 13.      | Impact of Electromagnetic Radiations on Built Spaces	| Mr. Vikas Aggarwal & Dr. Deven Verma, both certified Geo professionals were the resource persons | 27th May, 2022 |
-| 14.      | Expert Lecture on Architecture ,| Ar. Kanav Khosla, Principal Architect - Avinash Khosla & Associates, Ludhiana | 30th Sept, 2022    |
-  
+| 1.      | Study Visit for latest lighting fixtures and accessories                |SVICHLITE LIGHTING STORE, Ludhiana               | 14th August, 2024 |
+| 2.      | Hands-on session with Brick Masonry at Chitkara University, Rajpura.    | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture    | 26th July 2024 |
+| 3.      | World Environment Day  |  Ar. Dharini Middha | 1st June 2024  |
+| 4.      |  Capacity Building Training Workshop on Energy Conservation and Energy Efficiency | Organised by PEDA and supported by Monarch Design Studio | 9th February, 2024  |
+| 5.      | Expert Lecture for Students and Faculty   | Ar Sapna, Chief Architect - Department of Architecture, Punjab and past Vice President - Council of Architecture,| 15th January, 2024 |
+| 6.      | Seminar on 'Contemporary Elevators'	| r. Prabhjot Kaur, former director PIT Mohali | 17th Oct, 2023 |
+| 7.      | Seminar on "Preparing for Thesis and GATE: Roadmap to Achievement"	| Ar. Meet Fatewar, Assistant Professor - School of Architecture, Planning and Design, DIT University, Dehradun | 25th Sept,2023|
+| 8.      |  Seminar on Music & Architecture	| Ar. Amrita Kaur, a graduate of the University of Auckland, New Zealand |  24th Aug,2023 |
+| 9.      |  World Photography Day celebrated by organizing a Photography competition for the students | Ar. Dharini Middh, Assistant Professor- GNDEC School of Architecture | 24th Aug, 2023 |
+| 10.      |  Expert talk on 'Sustainability in Architecture '| Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at GENCO RAW 2023| 22nd August, 2023 |
+| 11.      | Expert Lecture on 'Electrical Services in Architecture'| Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC  & Dr. Arvind Dhingra, Professor - Electrical Engineering Department , GNDEC  | 18th Sept, 2023 |
+| 12.      | Webinar on 'Site Planning'  | Er. Sukwant Singh Ar. Jit Kumar Gupta | 9th may, 2023 |
+| 13.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.|
+| 14.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023 |  
+
  
 
 
